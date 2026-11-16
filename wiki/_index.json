@@ -1,0 +1,725 @@
+{
+  "schema_version": "1.0",
+  "total_entities": 17,
+  "counts_by_type": {
+    "character": 6,
+    "concept": 2,
+    "cultivation": 2,
+    "faction": 1,
+    "idiom": 3,
+    "location": 3
+  },
+  "entities": {
+    "char.chen-pingan": {
+      "id": "char.chen-pingan",
+      "type": "character",
+      "zh": "陈平安",
+      "zh_aliases": [
+        "平安"
+      ],
+      "pinyin": "Chen Ping'an",
+      "palladius": "Чэнь Пинъань",
+      "ru": "Чэнь Пинъань",
+      "ru_aliases": [
+        "Пинъань"
+      ],
+      "first_chapter": 0,
+      "needs_endnote": null,
+      "tags": [
+        "главный-герой",
+        "нипинсян",
+        "гончар",
+        "мечник"
+      ],
+      "path": "wiki/characters/chen-pingan.md",
+      "links_to": [
+        "char.liu-xianyang",
+        "char.master-ruan",
+        "char.old-man-yao",
+        "char.song-jixin",
+        "char.zhigui",
+        "concept.imperial-kilns",
+        "cult.sword-cultivator",
+        "idiom.jingzhe-dragon-raises-head",
+        "loc.lizhu-grotto-heaven",
+        "loc.niping-alley",
+        "loc.qilong-alley"
+      ],
+      "referenced_by": [
+        "char.liu-xianyang",
+        "char.master-ruan",
+        "char.old-man-yao",
+        "char.song-jixin",
+        "char.zhigui",
+        "concept.imperial-kilns",
+        "cult.realms-overview",
+        "cult.sword-cultivator",
+        "idiom.good-things-fragile",
+        "idiom.jingzhe-dragon-raises-head",
+        "loc.lizhu-grotto-heaven",
+        "loc.niping-alley",
+        "loc.qilong-alley"
+      ]
+    },
+    "char.liu-xianyang": {
+      "id": "char.liu-xianyang",
+      "type": "character",
+      "zh": "刘羡阳",
+      "zh_aliases": [],
+      "pinyin": "Liu Xianyang",
+      "palladius": "Лю Сяньян",
+      "ru": "Лю Сяньян",
+      "ru_aliases": [
+        "Сяньян"
+      ],
+      "first_chapter": 1,
+      "needs_endnote": null,
+      "tags": [
+        "гончар",
+        "друг"
+      ],
+      "path": "wiki/characters/liu-xianyang.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.old-man-yao",
+        "concept.imperial-kilns",
+        "loc.lizhu-grotto-heaven"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.old-man-yao",
+        "concept.imperial-kilns"
+      ]
+    },
+    "char.master-ruan": {
+      "id": "char.master-ruan",
+      "type": "character",
+      "zh": "阮师傅",
+      "zh_aliases": [
+        "姓阮的外乡老铁匠"
+      ],
+      "pinyin": "Ruan Shifu",
+      "palladius": "Жуань шифу",
+      "ru": "Кузнец Жуань",
+      "ru_aliases": [
+        "мастер Жуань",
+        "старый кузнец по фамилии Жуань"
+      ],
+      "first_chapter": 1,
+      "needs_endnote": null,
+      "tags": [
+        "кузнец",
+        "цилунсян"
+      ],
+      "path": "wiki/characters/master-ruan.md",
+      "links_to": [
+        "char.chen-pingan",
+        "loc.lizhu-grotto-heaven",
+        "loc.qilong-alley"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "loc.lizhu-grotto-heaven",
+        "loc.qilong-alley"
+      ]
+    },
+    "char.old-man-yao": {
+      "id": "char.old-man-yao",
+      "type": "character",
+      "zh": "姚老头",
+      "zh_aliases": [
+        "老姚",
+        "姓姚的老人"
+      ],
+      "pinyin": "Yao Laotou",
+      "palladius": "Яо лаотоу",
+      "ru": "Старик Яо",
+      "ru_aliases": [
+        "старый Яо",
+        "мастер Яо"
+      ],
+      "first_chapter": 1,
+      "needs_endnote": null,
+      "tags": [
+        "гончар",
+        "наставник"
+      ],
+      "path": "wiki/characters/old-man-yao.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.liu-xianyang",
+        "concept.imperial-kilns",
+        "loc.lizhu-grotto-heaven"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.liu-xianyang",
+        "concept.imperial-kilns"
+      ]
+    },
+    "char.song-jixin": {
+      "id": "char.song-jixin",
+      "type": "character",
+      "zh": "宋集薪",
+      "zh_aliases": [],
+      "pinyin": "Song Jixin",
+      "palladius": "Сун Цзисинь",
+      "ru": "Сун Цзисинь",
+      "ru_aliases": [
+        "Цзисинь"
+      ],
+      "first_chapter": 1,
+      "needs_endnote": null,
+      "tags": [
+        "нипинсян",
+        "сосед",
+        "внебрачный-сын-чиновника"
+      ],
+      "path": "wiki/characters/song-jixin.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.zhigui",
+        "concept.imperial-kilns",
+        "faction.imperial-court",
+        "idiom.clay-bodhisattva-crossing-river",
+        "loc.lizhu-grotto-heaven",
+        "loc.niping-alley"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.zhigui",
+        "concept.imperial-kilns",
+        "faction.imperial-court",
+        "idiom.clay-bodhisattva-crossing-river",
+        "loc.lizhu-grotto-heaven",
+        "loc.niping-alley"
+      ]
+    },
+    "char.zhigui": {
+      "id": "char.zhigui",
+      "type": "character",
+      "zh": "稚圭",
+      "zh_aliases": [],
+      "pinyin": "Zhigui",
+      "palladius": "Чжигуй",
+      "ru": "Чжигуй",
+      "ru_aliases": [],
+      "first_chapter": 1,
+      "needs_endnote": null,
+      "tags": [
+        "нипинсян",
+        "служанка"
+      ],
+      "path": "wiki/characters/zhigui.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.song-jixin",
+        "loc.lizhu-grotto-heaven",
+        "loc.niping-alley"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.song-jixin",
+        "loc.lizhu-grotto-heaven",
+        "loc.niping-alley"
+      ]
+    },
+    "concept.imperial-kilns": {
+      "id": "concept.imperial-kilns",
+      "type": "concept",
+      "zh": "官窑",
+      "zh_aliases": [
+        "奉诏监烧献陵祭器",
+        "督造大人",
+        "监造大人"
+      ],
+      "pinyin": "Guanyao",
+      "palladius": "Гуанъяо",
+      "ru": "Казённые гончарные печи",
+      "ru_aliases": [
+        "казённые печи",
+        "императорские печи"
+      ],
+      "first_chapter": 1,
+      "needs_endnote": null,
+      "tags": [
+        "ремесло",
+        "фарфор",
+        "быт"
+      ],
+      "path": "wiki/concepts/imperial-kilns.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.liu-xianyang",
+        "char.old-man-yao",
+        "char.song-jixin",
+        "faction.imperial-court",
+        "loc.lizhu-grotto-heaven"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.liu-xianyang",
+        "char.old-man-yao",
+        "char.song-jixin",
+        "faction.imperial-court",
+        "idiom.clay-bodhisattva-crossing-river",
+        "loc.lizhu-grotto-heaven"
+      ]
+    },
+    "concept.qiyun": {
+      "id": "concept.qiyun",
+      "type": "concept",
+      "zh": "气运",
+      "zh_aliases": [
+        "香火"
+      ],
+      "pinyin": "Qiyun",
+      "palladius": "Циюнь",
+      "ru": "Судьбоносная удача",
+      "ru_aliases": [
+        "удача мира",
+        "благодать судьбы",
+        "ци удачи",
+        "благовонные подношения"
+      ],
+      "first_chapter": 0,
+      "needs_endnote": null,
+      "tags": [
+        "философия",
+        "мироустройство"
+      ],
+      "path": "wiki/concepts/qiyun.md",
+      "links_to": [
+        "cult.realms-overview",
+        "faction.imperial-court",
+        "loc.lizhu-grotto-heaven"
+      ],
+      "referenced_by": [
+        "cult.realms-overview"
+      ]
+    },
+    "cult.realms-overview": {
+      "id": "cult.realms-overview",
+      "type": "cultivation",
+      "zh": "修行境界",
+      "zh_aliases": [
+        "练气士",
+        "中五境",
+        "上五境",
+        "纯粹武夫",
+        "仙风道骨"
+      ],
+      "pinyin": "Xiuxing Jingjie",
+      "palladius": "Сюсин цзинцзе",
+      "ru": "Иерархия ступеней совершенствования",
+      "ru_aliases": [
+        "культиваторы ци",
+        "чистые мастера боевых искусств"
+      ],
+      "first_chapter": 0,
+      "needs_endnote": null,
+      "tags": [
+        "система-мира",
+        "ранги",
+        "справочник"
+      ],
+      "path": "wiki/cultivation/realms-overview.md",
+      "links_to": [
+        "char.chen-pingan",
+        "concept.qiyun",
+        "cult.sword-cultivator"
+      ],
+      "referenced_by": [
+        "concept.qiyun",
+        "cult.sword-cultivator"
+      ]
+    },
+    "cult.sword-cultivator": {
+      "id": "cult.sword-cultivator",
+      "type": "cultivation",
+      "zh": "剑客",
+      "zh_aliases": [
+        "剑修",
+        "剑仙",
+        "飞剑"
+      ],
+      "pinyin": "Jianke / Jianxiu",
+      "palladius": "Цзянькэ / Цзяньсю",
+      "ru": "Мечник / Культиватор меча",
+      "ru_aliases": [
+        "мечник",
+        "культиватор меча",
+        "бессмертный меча",
+        "летающий меч"
+      ],
+      "first_chapter": 0,
+      "needs_endnote": null,
+      "tags": [
+        "путь-меча",
+        "ранги"
+      ],
+      "path": "wiki/cultivation/sword-cultivator.md",
+      "links_to": [
+        "char.chen-pingan",
+        "cult.realms-overview"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "cult.realms-overview"
+      ]
+    },
+    "faction.imperial-court": {
+      "id": "faction.imperial-court",
+      "type": "faction",
+      "zh": "朝廷",
+      "zh_aliases": [
+        "本朝",
+        "言官",
+        "清流"
+      ],
+      "pinyin": "Chaoting",
+      "palladius": "Чаотин",
+      "ru": "Императорский двор (Нынешняя династия)",
+      "ru_aliases": [
+        "двор",
+        "нынешняя династия"
+      ],
+      "first_chapter": 1,
+      "needs_endnote": null,
+      "tags": [
+        "государство",
+        "политика"
+      ],
+      "path": "wiki/factions/imperial-court.md",
+      "links_to": [
+        "char.song-jixin",
+        "concept.imperial-kilns",
+        "loc.lizhu-grotto-heaven"
+      ],
+      "referenced_by": [
+        "char.song-jixin",
+        "concept.imperial-kilns",
+        "concept.qiyun",
+        "loc.lizhu-grotto-heaven"
+      ]
+    },
+    "idiom.clay-bodhisattva-crossing-river": {
+      "id": "idiom.clay-bodhisattva-crossing-river",
+      "type": "idiom",
+      "zh": "泥菩萨过江",
+      "zh_aliases": [
+        "泥菩萨过江自身难保"
+      ],
+      "pinyin": "Ni pusa guo jiang — zishen nan bao",
+      "palladius": "",
+      "ru": "Глиняный бодхисаттва на переправе — тут бы самому уцелеть",
+      "ru_aliases": [],
+      "first_chapter": 1,
+      "needs_endnote": false,
+      "tags": [
+        "сехоуюй",
+        "недоговорка",
+        "глава-1"
+      ],
+      "path": "wiki/idioms/clay-bodhisattva-crossing-river.md",
+      "links_to": [
+        "char.song-jixin",
+        "concept.imperial-kilns",
+        "loc.lizhu-grotto-heaven"
+      ],
+      "referenced_by": [
+        "char.song-jixin"
+      ]
+    },
+    "idiom.good-things-fragile": {
+      "id": "idiom.good-things-fragile",
+      "type": "idiom",
+      "zh": "世间好物不坚牢，彩云易散琉璃脆",
+      "zh_aliases": [
+        "彩云易散琉璃脆"
+      ],
+      "pinyin": "Shijian haowu bu jianlao, caiyun yi san liuli cui",
+      "palladius": "",
+      "ru": "Непрочно всё прекрасное на свете: тают радужные облака, бьётся хрупкая глазурь",
+      "ru_aliases": [],
+      "first_chapter": 0,
+      "needs_endnote": true,
+      "tags": [
+        "поэзия",
+        "бо-цзюйи",
+        "сквозной-мотив"
+      ],
+      "path": "wiki/idioms/good-things-fragile.md",
+      "links_to": [
+        "char.chen-pingan",
+        "loc.lizhu-grotto-heaven"
+      ],
+      "referenced_by": []
+    },
+    "idiom.jingzhe-dragon-raises-head": {
+      "id": "idiom.jingzhe-dragon-raises-head",
+      "type": "idiom",
+      "zh": "二月二，龙抬头",
+      "zh_aliases": [
+        "惊蛰",
+        "二月二，烛照梁，桃打墙，人间蛇虫无处藏"
+      ],
+      "pinyin": "Eryue er, long taitou / Jingzhe",
+      "palladius": "",
+      "ru": "Пробуждение насекомых / Второй день второй луны — Дракон поднимает голову",
+      "ru_aliases": [],
+      "first_chapter": 1,
+      "needs_endnote": true,
+      "tags": [
+        "календарь",
+        "обряд",
+        "приговорка",
+        "глава-1"
+      ],
+      "path": "wiki/idioms/jingzhe-dragon-raises-head.md",
+      "links_to": [
+        "char.chen-pingan",
+        "loc.lizhu-grotto-heaven",
+        "loc.niping-alley"
+      ],
+      "referenced_by": [
+        "char.chen-pingan"
+      ]
+    },
+    "loc.lizhu-grotto-heaven": {
+      "id": "loc.lizhu-grotto-heaven",
+      "type": "location",
+      "zh": "骊珠洞天",
+      "zh_aliases": [
+        "小镇"
+      ],
+      "pinyin": "Lizhu Dongtian",
+      "palladius": "Личжу дунтянь",
+      "ru": "Грот-небеса Личжу",
+      "ru_aliases": [
+        "городок",
+        "городок гончарных печей"
+      ],
+      "first_chapter": 1,
+      "needs_endnote": null,
+      "tags": [
+        "грот-небеса",
+        "родина-героя",
+        "стартовая-локация"
+      ],
+      "path": "wiki/locations/lizhu-grotto-heaven.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.master-ruan",
+        "char.song-jixin",
+        "char.zhigui",
+        "concept.imperial-kilns",
+        "faction.imperial-court",
+        "loc.niping-alley",
+        "loc.qilong-alley"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.liu-xianyang",
+        "char.master-ruan",
+        "char.old-man-yao",
+        "char.song-jixin",
+        "char.zhigui",
+        "concept.imperial-kilns",
+        "concept.qiyun",
+        "faction.imperial-court",
+        "idiom.clay-bodhisattva-crossing-river",
+        "idiom.good-things-fragile",
+        "idiom.jingzhe-dragon-raises-head",
+        "loc.niping-alley",
+        "loc.qilong-alley"
+      ]
+    },
+    "loc.niping-alley": {
+      "id": "loc.niping-alley",
+      "type": "location",
+      "zh": "泥瓶巷",
+      "zh_aliases": [],
+      "pinyin": "Niping Xiang",
+      "palladius": "Нипинсян",
+      "ru": "Переулок Глиняных Кувшинов",
+      "ru_aliases": [],
+      "first_chapter": 1,
+      "needs_endnote": null,
+      "tags": [
+        "переулок",
+        "дом-героя"
+      ],
+      "path": "wiki/locations/niping-alley.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.song-jixin",
+        "char.zhigui",
+        "loc.lizhu-grotto-heaven",
+        "loc.qilong-alley"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.song-jixin",
+        "char.zhigui",
+        "idiom.jingzhe-dragon-raises-head",
+        "loc.lizhu-grotto-heaven",
+        "loc.qilong-alley"
+      ]
+    },
+    "loc.qilong-alley": {
+      "id": "loc.qilong-alley",
+      "type": "location",
+      "zh": "骑龙巷",
+      "zh_aliases": [],
+      "pinyin": "Qilong Xiang",
+      "palladius": "Цилунсян",
+      "ru": "Переулок Оседлавшего Дракона",
+      "ru_aliases": [],
+      "first_chapter": 1,
+      "needs_endnote": null,
+      "tags": [
+        "переулок",
+        "кузница"
+      ],
+      "path": "wiki/locations/qilong-alley.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.master-ruan",
+        "loc.lizhu-grotto-heaven",
+        "loc.niping-alley"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.master-ruan",
+        "loc.lizhu-grotto-heaven",
+        "loc.niping-alley"
+      ]
+    }
+  },
+  "zh_lookup": {
+    "二月二，烛照梁，桃打墙，人间蛇虫无处藏": [
+      "idiom.jingzhe-dragon-raises-head"
+    ],
+    "世间好物不坚牢，彩云易散琉璃脆": [
+      "idiom.good-things-fragile"
+    ],
+    "泥菩萨过江自身难保": [
+      "idiom.clay-bodhisattva-crossing-river"
+    ],
+    "奉诏监烧献陵祭器": [
+      "concept.imperial-kilns"
+    ],
+    "姓阮的外乡老铁匠": [
+      "char.master-ruan"
+    ],
+    "二月二，龙抬头": [
+      "idiom.jingzhe-dragon-raises-head"
+    ],
+    "彩云易散琉璃脆": [
+      "idiom.good-things-fragile"
+    ],
+    "姓姚的老人": [
+      "char.old-man-yao"
+    ],
+    "泥菩萨过江": [
+      "idiom.clay-bodhisattva-crossing-river"
+    ],
+    "仙风道骨": [
+      "cult.realms-overview"
+    ],
+    "修行境界": [
+      "cult.realms-overview"
+    ],
+    "监造大人": [
+      "concept.imperial-kilns"
+    ],
+    "督造大人": [
+      "concept.imperial-kilns"
+    ],
+    "纯粹武夫": [
+      "cult.realms-overview"
+    ],
+    "骊珠洞天": [
+      "loc.lizhu-grotto-heaven"
+    ],
+    "上五境": [
+      "cult.realms-overview"
+    ],
+    "中五境": [
+      "cult.realms-overview"
+    ],
+    "刘羡阳": [
+      "char.liu-xianyang"
+    ],
+    "姚老头": [
+      "char.old-man-yao"
+    ],
+    "宋集薪": [
+      "char.song-jixin"
+    ],
+    "泥瓶巷": [
+      "loc.niping-alley"
+    ],
+    "练气士": [
+      "cult.realms-overview"
+    ],
+    "阮师傅": [
+      "char.master-ruan"
+    ],
+    "陈平安": [
+      "char.chen-pingan"
+    ],
+    "骑龙巷": [
+      "loc.qilong-alley"
+    ],
+    "剑仙": [
+      "cult.sword-cultivator"
+    ],
+    "剑修": [
+      "cult.sword-cultivator"
+    ],
+    "剑客": [
+      "cult.sword-cultivator"
+    ],
+    "官窑": [
+      "concept.imperial-kilns"
+    ],
+    "小镇": [
+      "loc.lizhu-grotto-heaven"
+    ],
+    "平安": [
+      "char.chen-pingan"
+    ],
+    "惊蛰": [
+      "idiom.jingzhe-dragon-raises-head"
+    ],
+    "朝廷": [
+      "faction.imperial-court"
+    ],
+    "本朝": [
+      "faction.imperial-court"
+    ],
+    "气运": [
+      "concept.qiyun"
+    ],
+    "清流": [
+      "faction.imperial-court"
+    ],
+    "稚圭": [
+      "char.zhigui"
+    ],
+    "老姚": [
+      "char.old-man-yao"
+    ],
+    "言官": [
+      "faction.imperial-court"
+    ],
+    "飞剑": [
+      "cult.sword-cultivator"
+    ],
+    "香火": [
+      "concept.qiyun"
+    ]
+  }
+}
