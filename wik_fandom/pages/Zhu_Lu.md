@@ -36,11 +36,11 @@ She is also highly intelligent and ambitious. She longs to escape her hereditary
 
 ## Background
 
-Zhu Lu was born into a family that has served the Li Clan for generations. The Li Clan treats its servants generously, and the elders of the manor joked that Zhu Lu was a maidservant living the life of a young mistress. She trained in martial arts under her father from childhood. The Li patriarch believed she had the aptitude to reach the seventh tier, and some expected her to surpass her father. *(Chapter 92 (1))*
+Zhu Lu was born into a family that has served the Li Clan for generations. The Li Clan treats its servants generously, and the elders of the manor joked that Zhu Lu was a maidservant living the life of a young mistress. She trained in martial arts under her father from childhood. The Li patriarch believed she had the aptitude to reach the seventh tier, and some expected her to surpass her father.<sup>[[1]](#ref-1)</sup>
 
-She was very close to the young Li Baoping, who followed her around, watched her practise walking on tall wooden poles, and absorbed her stories about martial arts. However, Zhu Lu stumbled at the bottleneck of the second tier. Twice her training went badly wrong, leaving her bedridden. The first time, she was frail for nearly half a year. The second time, Li Baoping saw her rolling on her bed in agony. *(Chapter 87 (2))* She was also infatuated with Li Baozhen, Li Baoping's second brother, a fact the story later confirms.
+She was very close to the young Li Baoping, who followed her around, watched her practise walking on tall wooden poles, and absorbed her stories about martial arts. However, Zhu Lu stumbled at the bottleneck of the second tier. Twice her training went badly wrong, leaving her bedridden. The first time, she was frail for nearly half a year. The second time, Li Baoping saw her rolling on her bed in agony.<sup>[[2]](#ref-2)</sup> She was also infatuated with Li Baozhen, Li Baoping's second brother, a fact the story later confirms.
 
-She is also the maidservant whom Chen Ping'an struck with roof tiles and a punch when he infiltrated the Li Clan manor, as Chen Ping'an himself later suspects. *(Chapter 48)* *(Chapter 87 (1))*
+She is also the maidservant whom Chen Ping'an struck with roof tiles and a punch when he infiltrated the Li Clan manor, as Chen Ping'an himself later suspects.<sup>[[3]](#ref-3)</sup><sup>[[4]](#ref-4)</sup>
 
 ## Plot
 
@@ -48,31 +48,31 @@ She is also the maidservant whom Chen Ping'an struck with roof tiles and a punch
 
 Zhu He and Zhu Lu join Chen Ping'an and Li Baoping on the road south. Zhu Lu is eager for her first real fight and openly scornful of A'Liang's boasting. She refuses A'Liang's offers to teach her swordsmanship and spits at him in disgust, and she is homesick and moody the further they travel.
 
-She objects furiously when A'Liang suggests staying in [Red Candle Town](Red_Candle_Town.md), calling Chen Ping'an a disgrace who would shame all scholars if he were one. On the muddy slopes of [Go Table Mountain](Mountains_near_the_Small_Town.md#go-table-mountain), she reluctantly accepts the straw sandals she had scorned, then splatters Li Huai with mud. When he breaks down in tears, she sneers that he is learning to extort others just like his parents. *(Chapter 97)*
+She objects furiously when A'Liang suggests staying in [Red Candle Town](Red_Candle_Town.md), calling Chen Ping'an a disgrace who would shame all scholars if he were one. On the muddy slopes of [Go Table Mountain](Mountains_near_the_Small_Town.md#go-table-mountain), she reluctantly accepts the straw sandals she had scorned, then splatters Li Huai with mud. When he breaks down in tears, she sneers that he is learning to extort others just like his parents.<sup>[[5]](#ref-5)</sup>
 
 ### Go Table Mountain
 
-When the black and white pythons attack, Zhu Lu, despite being at the peak of the second tier, is paralysed with fear. The white python fixes its gaze on her and lunges to swallow her, and she is saved only because Chen Ping'an leaps from the black python's back and severs the white python's wing. *(Chapter 98)* Even then she stays rooted to the spot until Li Huai screams at her to run.
+When the black and white pythons attack, Zhu Lu, despite being at the peak of the second tier, is paralysed with fear. The white python fixes its gaze on her and lunges to swallow her, and she is saved only because Chen Ping'an leaps from the black python's back and severs the white python's wing.<sup>[[6]](#ref-6)</sup> Even then she stays rooted to the spot until Li Huai screams at her to run.
 
-The trapped mountain lord, Wei Bo, then begs a child to stamp out the 岳 talisman Zhu He had used to summon him. Chen Ping'an shouts at Zhu Lu not to do it, warning that the mountain lord is likely in league with the pythons. Sobbing that no one else cares about her father, she stamps it out anyway, freeing Wei Bo, who promptly reveals his treachery. *(Chapter 99)* After A'Liang arrives and resolves the crisis, she screams at him to kill the mountain lord and the pythons. When her father gently suggests she was wrong, she asks whether she would still be his daughter if she had done nothing. Zhu He cannot bring himself to criticise her. *(Chapter 100 (1))*
+The trapped mountain lord, Wei Bo, then begs a child to stamp out the 岳 talisman Zhu He had used to summon him. Chen Ping'an shouts at Zhu Lu not to do it, warning that the mountain lord is likely in league with the pythons. Sobbing that no one else cares about her father, she stamps it out anyway, freeing Wei Bo, who promptly reveals his treachery.<sup>[[7]](#ref-7)</sup> After A'Liang arrives and resolves the crisis, she screams at him to kill the mountain lord and the pythons. When her father gently suggests she was wrong, she asks whether she would still be his daughter if she had done nothing. Zhu He cannot bring himself to criticise her.<sup>[[8]](#ref-8)</sup>
 
-When Wei Bo's treasures are shared out, Zhu Lu initially refuses the "contemptuous handout" until her father drags her over. Zhu He then chooses the Purple Qi Guide for her, a martial manual that could carry her to the fifth tier, and a Hero's Gall Pill from [True Martial Mountain](Sects.md#true-martial-mountain) that could push her to the sixth. *(Chapter 104)*
+When Wei Bo's treasures are shared out, Zhu Lu initially refuses the "contemptuous handout" until her father drags her over. Zhu He then chooses the Purple Qi Guide for her, a martial manual that could carry her to the fifth tier, and a Hero's Gall Pill from [True Martial Mountain](Sects.md#true-martial-mountain) that could push her to the sixth.<sup>[[9]](#ref-9)</sup>
 
 ### Pillow Relay Station
 
-In Red Candle Town, a letter from Li Baozhen to Li Baoping mentions Zhu Lu, and she happily asks to take it away to read. In private, she grumbles to her father that Lin Shouyi and Li Huai have no right to treat Li Baoping as an equal, and tells him that the Second Young Master has promised a way for them to escape their servant status once they reach the capital. *(Chapter 107)*
+In Red Candle Town, a letter from Li Baozhen to Li Baoping mentions Zhu Lu, and she happily asks to take it away to read. In private, she grumbles to her father that Lin Shouyi and Li Huai have no right to treat Li Baoping as an equal, and tells him that the Second Young Master has promised a way for them to escape their servant status once they reach the capital.<sup>[[10]](#ref-10)</sup>
 
-Zhu Lu then buys three skewers of tanghulu, asks her father to fetch Chen Ping'an, and greets him in a corridor with a shy smile. She feints a punch and tries to drive the bamboo skewers into his heart, but Chen Ping'an seizes her throat and beats her down. Bleeding and pinned under his foot, she proudly explains that she found a hidden message in Li Baozhen's letter: the eldest grandson of the Chen Clan had won an honorary title, hinting that she could do the same by killing Chen Ping'an. Chen Ping'an realises she is deliberately baiting him into attacking her, to force Zhu He to choose between killing him and watching his daughter die. *(Chapter 109)*
+Zhu Lu then buys three skewers of tanghulu, asks her father to fetch Chen Ping'an, and greets him in a corridor with a shy smile. She feints a punch and tries to drive the bamboo skewers into his heart, but Chen Ping'an seizes her throat and beats her down. Bleeding and pinned under his foot, she proudly explains that she found a hidden message in Li Baozhen's letter: the eldest grandson of the Chen Clan had won an honorary title, hinting that she could do the same by killing Chen Ping'an. Chen Ping'an realises she is deliberately baiting him into attacking her, to force Zhu He to choose between killing him and watching his daughter die.<sup>[[11]](#ref-11)</sup>
 
-Zhu He apologises to Chen Ping'an, but Chen Ping'an prepares to use one of the hidden wisps of sword qi in his body against him. A'Liang intervenes. He forces father and daughter to return the Hero's Gall Pill, the Purple Qi Guide and the Li Clan's talismans, then asks Zhu Lu which of the two she wants to live. Chen Ping'an insists that she must die, but when he strikes, his fist opens into a slap across her face. A'Liang deals with the pair, and they leave the relay station. *(Chapter 110)*
+Zhu He apologises to Chen Ping'an, but Chen Ping'an prepares to use one of the hidden wisps of sword qi in his body against him. A'Liang intervenes. He forces father and daughter to return the Hero's Gall Pill, the Purple Qi Guide and the Li Clan's talismans, then asks Zhu Lu which of the two she wants to live. Chen Ping'an insists that she must die, but when he strikes, his fist opens into a slap across her face. A'Liang deals with the pair, and they leave the relay station.<sup>[[12]](#ref-12)</sup>
 
 Chen Ping'an tells Li Baoping the truth, believing she needs to know what her clan's people have done. He explains that he forgave Zhu Lu's actions on Go Table Mountain as panic for her father, but not this. Li Baoping is deeply hurt, and Li Huai guesses that Zhu Lu acted for love of Li Baozhen.
 
 ### Aftermath
 
-Back in the small town, Li Baozhen suggests to his father, Li Hong, that Zhu He and Zhu Lu be removed from the Li Clan's hereditary servant registry and made commoners. This was the very reward he had dangled before them, and Li Hong complains that his second son acted first and asked later. *(Chapter 127)* Li Xisheng, Li Baozhen's elder brother, later apologises to Chen Ping'an on his brother's behalf.
+Back in the small town, Li Baozhen suggests to his father, Li Hong, that Zhu He and Zhu Lu be removed from the Li Clan's hereditary servant registry and made commoners. This was the very reward he had dangled before them, and Li Hong complains that his second son acted first and asked later.<sup>[[13]](#ref-13)</sup> Li Xisheng, Li Baozhen's elder brother, later apologises to Chen Ping'an on his brother's behalf.
 
-Years later, Li Baozhen reveals that Zhu Lu found him in the Great Li capital, weeping uncontrollably. He was so angry that she had failed such a "simple task", which cost him a scolding from the empress and his chance to rise in the imperial court, that he nearly killed her with a single slap. *(Chapter 397 (2))* It is also revealed that she only barely advanced to the next martial tier by relying on medicinal ointments from the Yang Family Medicine Shop. *(Chapter 468 (2))*
+Years later, Li Baozhen reveals that Zhu Lu found him in the Great Li capital, weeping uncontrollably. He was so angry that she had failed such a "simple task", which cost him a scolding from the empress and his chance to rise in the imperial court, that he nearly killed her with a single slap.<sup>[[14]](#ref-14)</sup> It is also revealed that she only barely advanced to the next martial tier by relying on medicinal ointments from the Yang Family Medicine Shop.<sup>[[15]](#ref-15)</sup>
 
 Chen Ping'an often recalls her as he matures. She comes to mind when he meets arrogant daughters of reasonable fathers, and when he warns a young woman named Liu Qingqing that a lover's affection may hide ulterior motives.
 
@@ -91,7 +91,23 @@ Chen Ping'an often recalls her as he matures. She comes to mind when he meets ar
 
 ## References
 
+1. <a id="ref-1"></a>Chapter 92 (1)
+2. <a id="ref-2"></a>Chapter 87 (2)
+3. <a id="ref-3"></a>Chapter 48
+4. <a id="ref-4"></a>Chapter 87 (1)
+5. <a id="ref-5"></a>Chapter 97
+6. <a id="ref-6"></a>Chapter 98
+7. <a id="ref-7"></a>Chapter 99
+8. <a id="ref-8"></a>Chapter 100 (1)
+9. <a id="ref-9"></a>Chapter 104
+10. <a id="ref-10"></a>Chapter 107
+11. <a id="ref-11"></a>Chapter 109
+12. <a id="ref-12"></a>Chapter 110
+13. <a id="ref-13"></a>Chapter 127
+14. <a id="ref-14"></a>Chapter 397 (2)
+15. <a id="ref-15"></a>Chapter 468 (2)
+
 ---
 
 **Categories:** [Alive](../categories/Alive.md) · [Characters](../categories/Characters.md) · [Female](../categories/Female.md) · [Human](../categories/Human.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `539` · Last revision: `2026-10-12T19:24:07Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `539` · Last revision: `2026-10-12T19:24:07Z`*

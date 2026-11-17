@@ -31,7 +31,7 @@ He is, however, scrupulously fair in his dealings, and much of what he does take
 
 ## Background
 
-The text gives only glimpses of Old Man Yang's true nature. He describes himself as having sat "in this cage for ten thousand years", and he once spent nine thousand years trying to work out a problem that Cui Chan's philosophies finally helped him understand. *(Chapter 428 (3))* The making of bonded porcelain, the porcelain linked to the lives of the town's children, was his "supreme ability", and the rise of the Great Li Empire can be traced back to transactions made in Jewel Small World. *(Chapter 530 (2))*
+The text gives only glimpses of Old Man Yang's true nature. He describes himself as having sat "in this cage for ten thousand years", and he once spent nine thousand years trying to work out a problem that Cui Chan's philosophies finally helped him understand.<sup>[[1]](#ref-1)</sup> The making of bonded porcelain, the porcelain linked to the lives of the town's children, was his "supreme ability", and the rise of the Great Li Empire can be traced back to transactions made in Jewel Small World.<sup>[[2]](#ref-2)</sup>
 
 He has guided many reincarnated beings "step by step to that ancient path", unlocking their memories. He has instructed "prisoners and sinister remnants" to wrap themselves in a human heart, the reverse of gilding a statue with gold. Many sages of the Three Teachings have visited his shop over the years. When Zheng Dafeng prays to him, he gestures as if plucking three sticks of incense out of the air, as though offering incense to a god.
 
@@ -39,17 +39,17 @@ He has guided many reincarnated beings "step by step to that ancient path", unlo
 
 ### The Small Town
 
-When Chen Ping'an carries the injured Ning Yao to the shop, Old Man Yang asks her how many characters are written on the wall of the small temple, and asks if she "ate" the last one. With a little guidance he helps her advance a tier on the spot, then charges them a pouch of Offering Coins for the medicine. *(Chapter 60)* Watching the rain with Zheng Dafeng, he notes the stark contrast between his two disciples, Li Er and Zheng Dafeng. *(Chapter 61)* He scolds Li Er for catching the golden carp and trying to sell it to Chen Ping'an, orders Zheng Dafeng to escort Fu Nanhua to Old Dragon City, and remarks that no one ever said the three of them were his only disciples. *(Chapter 63 (2))*
+When Chen Ping'an carries the injured Ning Yao to the shop, Old Man Yang asks her how many characters are written on the wall of the small temple, and asks if she "ate" the last one. With a little guidance he helps her advance a tier on the spot, then charges them a pouch of Offering Coins for the medicine.<sup>[[3]](#ref-3)</sup> Watching the rain with Zheng Dafeng, he notes the stark contrast between his two disciples, Li Er and Zheng Dafeng.<sup>[[4]](#ref-4)</sup> He scolds Li Er for catching the golden carp and trying to sell it to Chen Ping'an, orders Zheng Dafeng to escort Fu Nanhua to Old Dragon City, and remarks that no one ever said the three of them were his only disciples.<sup>[[5]](#ref-5)</sup>
 
-At Azure Cow Ridge, he offers the drowned old woman in the creek, the reborn [Ma Lanhua](Ma_Lanhua.md), a choice between remaining a pitiful catfish or becoming a flood dragon, and sends her swimming down the river. *(Chapter 71 (1))* He then confronts a Confucian scholar from an academy, asking whether it was he who forced Qi Jingchun step by step into sacrificing himself, and tells him he should never have come. *(Chapter 71 (2))* On the mountain of porcelain, he faces down a powerful youthful-looking cultivator of the Upper Five Tiers with only a puff of pipe smoke, while even the newly eleventh-tier Ruan Qiong is uneasy. *(Chapter 77)* Before the small world settles, he takes away the little temple whose walls bear the names of the town's children, telling Ruan Qiong a secret in return. *(Chapter 85 (2))*
+At Azure Cow Ridge, he offers the drowned old woman in the creek, the reborn [Ma Lanhua](Ma_Lanhua.md), a choice between remaining a pitiful catfish or becoming a flood dragon, and sends her swimming down the river.<sup>[[6]](#ref-6)</sup> He then confronts a Confucian scholar from an academy, asking whether it was he who forced Qi Jingchun step by step into sacrificing himself, and tells him he should never have come.<sup>[[7]](#ref-7)</sup> On the mountain of porcelain, he faces down a powerful youthful-looking cultivator of the Upper Five Tiers with only a puff of pipe smoke, while even the newly eleventh-tier Ruan Qiong is uneasy.<sup>[[8]](#ref-8)</sup> Before the small world settles, he takes away the little temple whose walls bear the names of the town's children, telling Ruan Qiong a secret in return.<sup>[[9]](#ref-9)</sup>
 
 ### Guiding Pieces from Afar
 
-Old Man Yang assigns a [Yin god](Yin_god.md) to secretly protect Li Huai on the journey to Great Sui. *(Chapter 130)* He later suppresses Li Huai's aptitude, saying Li Liu is talented while Li Huai is blessed with fortune.
+Old Man Yang assigns a [Yin god](Yin_god.md) to secretly protect Li Huai on the journey to Great Sui.<sup>[[10]](#ref-10)</sup> He later suppresses Li Huai's aptitude, saying Li Liu is talented while Li Huai is blessed with fortune.
 
-He orders the river goddess of the Dragon Whisker River to disperse half her godly body into the river to help Ruan Qiong forge his sword. In exchange, he offers to help conceal [Ruan Xiu](Ruan_Xiu.md)'s true identity for thirty years. *(Chapter 185 (1))* He obtains the golden incense girl that lived in Chen Ping'an's locust wood sword, something Qi Jingchun had secretly possessed and Old Man Yang had long coveted. In return, he agrees to guard Chen Ping'an once. He reveals that the Sword Suppressing Pagoda was originally an ascension platform, and that the children who wrote their names in the small temple and survived have all become extremely powerful. *(Chapter 195 (2))*
+He orders the river goddess of the Dragon Whisker River to disperse half her godly body into the river to help Ruan Qiong forge his sword. In exchange, he offers to help conceal [Ruan Xiu](Ruan_Xiu.md)'s true identity for thirty years.<sup>[[11]](#ref-11)</sup> He obtains the golden incense girl that lived in Chen Ping'an's locust wood sword, something Qi Jingchun had secretly possessed and Old Man Yang had long coveted. In return, he agrees to guard Chen Ping'an once. He reveals that the Sword Suppressing Pagoda was originally an ascension platform, and that the children who wrote their names in the small temple and survived have all become extremely powerful.<sup>[[12]](#ref-12)</sup>
 
-He tells the sword immortal Cao Xi that the souls of Cao Xi's parents are held by Li Liu, and arranges for Cao Xi to give her a flying sword, teach her his technique, and serve as her Dao guardian. *(Chapter 235 (2))* He arranges for Zheng Dafeng to act as Chen Ping'an's Dao mentor in Old Dragon City, and later accepts the cost of Zheng Dafeng's martial cultivation in exchange for Fan Junmao becoming the Great Li Empire's second great mountain god.
+He tells the sword immortal Cao Xi that the souls of Cao Xi's parents are held by Li Liu, and arranges for Cao Xi to give her a flying sword, teach her his technique, and serve as her Dao guardian.<sup>[[13]](#ref-13)</sup> He arranges for Zheng Dafeng to act as Chen Ping'an's Dao mentor in Old Dragon City, and later accepts the cost of Zheng Dafeng's martial cultivation in exchange for Fan Junmao becoming the Great Li Empire's second great mountain god.
 
 ### Chen Ping'an's Trial
 
@@ -61,7 +61,7 @@ When eager parents swarm the shop believing he is an immortal, he charges a snow
 
 Old Man Yang takes on two new disciples: Shi Lingshan, a bleary-eyed young shop attendant, and his senior sister, a former kiln worker on [Dragon Riding Alley](Small_Town.md#dragon-riding-alley) who becomes a martial arts prodigy. He tells the young woman to inform Chen Ping'an that he will chat with him, but will do no more business with him. When Li Huai visits with tobacco and lectures him, Old Man Yang smiles and tells him there are a few items set aside for him.
 
-He meets Li Liu, whose rebirth he arranged, and urges her to set aside her ancient grudge with Ruan Xiu, asking what point there is in battles between Great Daos when no Dao remains. He tells her that Chen Ping'an has begun quietly investigating the matter of bonded porcelain, and that the hairpin the old scholar gave Chen Ping'an is a critical item of "that stinky Daoist temple master". *(Chapter 530 (1))* He also told Li Liu that if she kept cultivating in her old way, changing bodies each life, she would be stuck at the Immortal Tier forever as someone who "couldn't even act like a human".
+He meets Li Liu, whose rebirth he arranged, and urges her to set aside her ancient grudge with Ruan Xiu, asking what point there is in battles between Great Daos when no Dao remains. He tells her that Chen Ping'an has begun quietly investigating the matter of bonded porcelain, and that the hairpin the old scholar gave Chen Ping'an is a critical item of "that stinky Daoist temple master".<sup>[[14]](#ref-14)</sup> He also told Li Liu that if she kept cultivating in her old way, changing bodies each life, she would be stuck at the Immortal Tier forever as someone who "couldn't even act like a human".
 
 ## Abilities
 
@@ -85,7 +85,22 @@ His full power is never shown, but hints include:
 
 ## References
 
+1. <a id="ref-1"></a>Chapter 428 (3)
+2. <a id="ref-2"></a>Chapter 530 (2)
+3. <a id="ref-3"></a>Chapter 60
+4. <a id="ref-4"></a>Chapter 61
+5. <a id="ref-5"></a>Chapter 63 (2)
+6. <a id="ref-6"></a>Chapter 71 (1)
+7. <a id="ref-7"></a>Chapter 71 (2)
+8. <a id="ref-8"></a>Chapter 77
+9. <a id="ref-9"></a>Chapter 85 (2)
+10. <a id="ref-10"></a>Chapter 130
+11. <a id="ref-11"></a>Chapter 185 (1)
+12. <a id="ref-12"></a>Chapter 195 (2)
+13. <a id="ref-13"></a>Chapter 235 (2)
+14. <a id="ref-14"></a>Chapter 530 (1)
+
 ---
 
 **Categories:** [Alive](../categories/Alive.md) · [Characters](../categories/Characters.md) · [Male](../categories/Male.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `551` · Last revision: `2026-10-12T18:38:06Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `551` · Last revision: `2026-10-12T18:38:06Z`*

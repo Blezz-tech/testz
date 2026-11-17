@@ -8,46 +8,46 @@ The sources discuss various forms of currency, including both mortal and immorta
 **Mortal Currency**
 
 - **Copper coins** are a common form of currency, with some being made of gold.
-** A pouch of copper coins should contain at least 20 coins.
+  - A pouch of copper coins should contain at least 20 coins.
 - **Silver** is also used as a form of currency.
-** A gold essence copper coin can be exchanged for a "mountain of silver".
+  - A gold essence copper coin can be exchanged for a "mountain of silver".
 - **Gold** is another form of currency, often used for larger transactions.
-** Gold can be in the form of ingots.
+  - Gold can be in the form of ingots.
 - Both silver and copper coins are used by mortals, but they can also be used in the cultivation world.
 
 **Immortal Currency**
 
 - **Gold essence copper coins** are a more valuable form of currency.
-** They are made from fragments of shattered godly bodies of mountain and river gods, making them particularly expensive.
-** They come in three types: Good Fortune Coins, Greeting Spring Coins, and Offering Coins.
-** Offering Coins have the message "Sincerity is the Key" on the front and "Gods Above" on the back.
-** Greeting Spring Coins are valuable enough to purchase a mountain, though the mountain is actually just a small hill.
+  - They are made from fragments of shattered godly bodies of mountain and river gods, making them particularly expensive.
+  - They come in three types: Good Fortune Coins, Greeting Spring Coins, and Offering Coins.
+  - Offering Coins have the message "Sincerity is the Key" on the front and "Gods Above" on the back.
+  - Greeting Spring Coins are valuable enough to purchase a mountain, though the mountain is actually just a small hill.
 - **Snowflake coins** are a universal currency used by immortals on the nine continents, made from snowflake jade.
-** They can be exchanged for gold and silver, but the reverse is not always guaranteed.
-** They are a common currency for low-tier cultivators when traveling.
-** A short sword was purchased for 900 snowflake coins, which was about half of a villa's wealth.
+  - They can be exchanged for gold and silver, but the reverse is not always guaranteed.
+  - They are a common currency for low-tier cultivators when traveling.
+  - A short sword was purchased for 900 snowflake coins, which was about half of a villa's wealth.
 - **Lesser heat coins** are another form of immortal currency.
-** They are typically worth 100 snowflake coins in shops, but can be worth 104-105 in private transactions.
+  - They are typically worth 100 snowflake coins in shops, but can be worth 104-105 in private transactions.
 - **Grain rain coins** are another form of immortal currency.
-** A jade pendant was offered for the price of thirty grain rain coins.
-** A character mentioned that they had a few grain rain coins
+  - A jade pendant was offered for the price of thirty grain rain coins.
+  - A character mentioned that they had a few grain rain coins
 
 **Other forms of value**
 
 - **Jade** is considered a valuable material that can be used in place of currency.
-** Jade can be carved into the shape of coins and used as currency.
+  - Jade can be carved into the shape of coins and used as currency.
 - **Spiritual energy** is a valuable commodity that is used by cultivators.
-** The spiritual energy of heaven and earth is what gives value to immortal currencies.
+  - The spiritual energy of heaven and earth is what gives value to immortal currencies.
 - **Treasures** can be traded and sold, and their value is determined by their rarity and usefulness.
-** These can include natural treasures.
-** Immortal treasures can be worth insane amounts of gold or silver if they were to be converted.
+  - These can include natural treasures.
+  - Immortal treasures can be worth insane amounts of gold or silver if they were to be converted.
 - **Favors** and **relationships** can be valuable, sometimes more so than money.
-** One character states they will be willing to risk their life for another character.
+  - One character states they will be willing to risk their life for another character.
 - **Mountains** and **land** are also considered a form of wealth and can be bought and sold.
-** The smallest mountain has a cost of one gold essence copper coin.
+  - The smallest mountain has a cost of one gold essence copper coin.
 - **Acupoints** and **meridians** are valued for cultivation.
 - **Snake gall pebbles** are important to flood dragons.
-** Top-grade pebbles are said to help them advance a major tier.
+  - Top-grade pebbles are said to help them advance a major tier.
 
 **Currency Use and Exchange**
 
@@ -68,4 +68,4 @@ This information should give a solid overview of the various currency systems at
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `418` · Last revision: `2025-01-23T23:49:06Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `418` · Last revision: `2025-01-23T23:49:06Z`*

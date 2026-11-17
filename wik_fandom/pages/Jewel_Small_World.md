@@ -8,4 +8,4 @@
 ---
 
 **Categories:** [Small Worlds](../categories/Small_Worlds.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `589` · Last revision: `2026-10-11T12:48:02Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `589` · Last revision: `2026-10-11T12:48:02Z`*

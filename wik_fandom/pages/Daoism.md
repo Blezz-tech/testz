@@ -46,4 +46,4 @@ The story reveals a rich and multifaceted Daoist tradition, playing a central ro
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `413` · Last revision: `2025-01-25T18:20:39Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `413` · Last revision: `2025-01-25T18:20:39Z`*

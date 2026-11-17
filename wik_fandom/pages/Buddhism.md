@@ -32,4 +32,4 @@ The sources introduce several characters and practices that shed light on the pr
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `412` · Last revision: `2025-01-25T18:19:52Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `412` · Last revision: `2025-01-25T18:19:52Z`*

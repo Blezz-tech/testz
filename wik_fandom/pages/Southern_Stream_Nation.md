@@ -49,4 +49,4 @@ Southern Stream Nation is a powerful and influential nation within the Eastern T
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `455` · Last revision: `2025-01-25T23:04:55Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `455` · Last revision: `2025-01-25T23:04:55Z`*

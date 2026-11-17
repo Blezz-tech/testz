@@ -7,4 +7,4 @@
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `574` · Last revision: `2026-10-04T13:54:41Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `574` · Last revision: `2026-10-04T13:54:41Z`*

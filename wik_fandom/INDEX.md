@@ -1,16 +1,31 @@
 # Sword of Coming Fandom Wiki — Master Index
 
-Complete offline/Markdown mirror of **`sword-of-coming.fandom.com`** (`Special:AllPages`).
+Complete offline/Markdown mirror of **`sword-of-coming.fandom.com`** across all namespaces (`Special:AllPages`, **624** total wiki pages).
 
-- **Total Main-Namespace Pages (`ns=0`):** `183` (`163` articles + `20` redirects)
-- **Categories:** `47`
-- **Media & Images (`allimages`):** `245` ([Browse Full Media Gallery](GALLERY.md) · [`images_manifest.json`](images_manifest.json))
+- **Main-Namespace Pages (`ns=0`):** `183` (`163` articles + `20` redirects)
+- **User Blog Posts (`ns=500`):** `3`
+- **Project, Navigation & Community Pages (`ns=2, 4, 8`):** `4`
+- **Categories (`ns=14`):** `47`
+- **Media & Images (`ns=6` / `allimages`):** `245` ([Browse Full Media Gallery](GALLERY.md) · [`images_manifest.json`](images_manifest.json))
 
 ## Portal, Novel & Donghua
 
 - [Donghua](pages/Donghua.md)
 - [Light Novel](pages/Light_Novel.md)
 - [Sword of Coming Wiki](pages/Sword_of_Coming_Wiki.md)
+
+## User Blog Posts (3)
+
+- [User blog:RyūSeongX/Season 2 Announcement](blogs/Season_2_Announcement.md)
+- [User blog:RyūSeongX/Season 2 Officially Released](blogs/Season_2_Officially_Released.md)
+- [User blog:RyūSeongX/The First Theatrical Spoiler](blogs/The_First_Theatrical_Spoiler.md)
+
+## Wiki Rules, Navigation & Community (4)
+
+- [MediaWiki:Wiki-description-site-meta](project/Wiki_description_site_meta.md)
+- [MediaWiki:Wiki-navigation](project/Wiki_navigation.md)
+- [Sword of Coming Wiki:Wiki rules](project/Wiki_rules.md)
+- [User:RyūSeongX](project/User_RyuSeongX.md)
 
 ## Characters (99)
 
@@ -190,7 +205,7 @@ Complete offline/Markdown mirror of **`sword-of-coming.fandom.com`** (`Special:A
 ## Categories (47)
 
 - [Alive](categories/Alive.md) (64)
-- [Blog posts](categories/Blog_posts.md) (0)
+- [Blog posts](categories/Blog_posts.md) (3)
 - [Browse](categories/Browse.md) (1)
 - [Candidates for deletion](categories/Candidates_for_deletion.md) (0)
 - [Characters](categories/Characters.md) (99)
@@ -228,7 +243,7 @@ Complete offline/Markdown mirror of **`sword-of-coming.fandom.com`** (`Special:A
 - [Sects](categories/Sects.md) (1)
 - [Small Worlds](categories/Small_Worlds.md) (1)
 - [Stubs](categories/Stubs.md) (0)
-- [Sword of Coming Wiki](categories/Sword_of_Coming_Wiki.md) (1)
+- [Sword of Coming Wiki](categories/Sword_of_Coming_Wiki.md) (2)
 - [Template documentation](categories/Template_documentation.md) (0)
 - [Templates](categories/Templates.md) (0)
 - [True Dragon Race](categories/True_Dragon_Race.md) (1)
@@ -259,3 +274,19 @@ Complete offline/Markdown mirror of **`sword-of-coming.fandom.com`** (`Special:A
 - [True Martial Mountain](pages/True_Martial_Mountain.md) → [Sects#True Martial Mountain](pages/Sects.md#true-martial-mountain)
 - [Wind Lightning Field](pages/Wind_Lightning_Field.md) → [Sects#Wind Lightning Field](pages/Sects.md#wind-lightning-field)
 - [Wind Snow Temple](pages/Wind_Snow_Temple.md) → [Sects#Wind Snow Temple](pages/Sects.md#wind-snow-temple)
+
+## Full `Special:AllPages` Namespace Census (All 624 Pages)
+
+| Namespace | Name | Live Pages | Status in `wik_fandom/` |
+| ---: | :--- | ---: | :--- |
+| `0` | `(Main)` | `183` | **183/183** rendered in `pages/` (`163` articles + `20` redirects) |
+| `2` | `User` | `1` | **1/1** rendered in `project/User_RyuSeongX.md` |
+| `4` | `Sword of Coming Wiki` | `1` | **1/1** rendered in `project/Wiki_rules.md` |
+| `6` | `File` | `246` | **245/245** uploaded files in `GALLERY.md` + `images_manifest.json` (`+1` Fandom starter placeholder `File:Example.jpg`) |
+| `8` | `MediaWiki` | `14` | Curated navigation & meta in `project/Wiki_navigation.md` & `project/Wiki_description_site_meta.md` (`+12` default theme CSS/system messages) |
+| `10` | `Template` | `132` | **22** content/portal templates stored in `_raw/fandom_dump.json` & expanded inline (`+110` Fandom starter boilerplate/doc stubs) |
+| `14` | `Category` | `25` | **25/25** explicit categories + **22** implicit article categories = **47** index pages in `categories/*.md` |
+| `500` | `User blog` | `3` | **3/3** rendered in `blogs/*.md` |
+| `502` | `Blog` | `1` | `Blog:Recent posts` feed represented via `categories/Blog_posts.md` |
+| `828` | `Module` | `18` | Fandom default Scribunto Lua helper modules (`Navbox`, `MessageBox`, etc.) handled natively by `scripts/build_fandom_wiki.py` |
+| **Total** | **`statistics.pages`** | **`624`** | **100% accounted for & migrated** |

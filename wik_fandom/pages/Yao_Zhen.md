@@ -33,7 +33,9 @@ He is also described as being very familiar with the rules and schemes of offici
 
 ## References
 
+*No citations listed yet on the source wiki.*
+
 ---
 
 **Categories:** [Characters](../categories/Characters.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `474` · Last revision: `2025-01-26T19:20:52Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `474` · Last revision: `2025-01-26T19:20:52Z`*

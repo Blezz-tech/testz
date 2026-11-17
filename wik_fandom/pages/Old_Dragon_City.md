@@ -72,4 +72,4 @@ Old Dragon City is a complex and dynamic location characterized by its immense p
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `463` · Last revision: `2025-01-25T23:16:02Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `463` · Last revision: `2025-01-25T23:16:02Z`*

@@ -51,4 +51,4 @@ Chen Ping’an, the boy of peace, takes his first step southward, determined to 
 ---
 
 **Categories:** [Browse](../categories/Browse.md) · [Donghua](../categories/Donghua.md) · [Media](../categories/Media.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `271` · Last revision: `2026-06-16T06:40:25Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `271` · Last revision: `2026-06-16T06:40:25Z`*

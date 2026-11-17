@@ -64,4 +64,4 @@ Mirage City is a complex and multifaceted location with significant political, c
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `462` · Last revision: `2025-01-25T23:14:42Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `462` · Last revision: `2025-01-25T23:14:42Z`*

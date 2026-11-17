@@ -67,4 +67,4 @@ The Northern Jin Nation is a complex entity with a rich history, powerful milita
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `457` · Last revision: `2025-01-25T23:08:47Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `457` · Last revision: `2025-01-25T23:08:47Z`*

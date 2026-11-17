@@ -13,7 +13,7 @@
 [![logo2.png](https://static.wikia.nocookie.net/sword-of-coming/images/8/89/Logo2.png/revision/latest?cb=20241220012936)](Donghua.md)  
 Sword of Coming (Unsheathed/剑来) ) is a chinese web novel written by Beacon Drama Prince/Feng Huo Xi Zhu Hou/烽火戏诸侯. It was first published in 2017 according to [novelupdates](https://www.novelupdates.com/series/unsheathed/) and consists of 1252 (Ongoing) chapters.  
 
-[Administrators](https://sword-of-coming.fandom.com/wiki/Special:ListUsers/sysop) • [Recent Changes](https://sword-of-coming.fandom.com/wiki/Special:RecentChanges) • [New Files](https://sword-of-coming.fandom.com/wiki/Special:NewFiles) • [New Pages](https://sword-of-coming.fandom.com/wiki/Special:NewPages) • [Help](https://community.fandom.com/wiki/c:Help)
+[Administrators](https://sword-of-coming.fandom.com/wiki/Special:ListUsers/sysop) • [Recent Changes](https://sword-of-coming.fandom.com/wiki/Special:RecentChanges) • [New Files](https://sword-of-coming.fandom.com/wiki/Special:NewFiles) • [New Pages](https://sword-of-coming.fandom.com/wiki/Special:NewPages) • [Help](https://community.fandom.com/wiki/Help)
 
 ## About the Series
 
@@ -21,11 +21,16 @@ A world of endless wonder, where myths and legends breathe.
 This is my journey—as a swordsman, as a dreamer.
 
 ![Poster 剑来动画 Jian Lai Chinese Donghua Animation Bilal My Art Collection.jpg](https://static.wikia.nocookie.net/sword-of-coming/images/5/5c/Poster_%E5%89%91%E6%9D%A5%E5%8A%A8%E7%94%BB_Jian_Lai_Chinese_Donghua_Animation_Bilal_My_Art_Collection.jpg/revision/latest?cb=20241220011925)
-**Welcome to the Sword of Coming Wiki**, an open and collaborative platform dedicated to becoming a comprehensive English-language encyclopedia on everything related to **[Sword of Coming](Donghua.md)**!Epic Tale
-Chen Ping’an had grown up his entire life in a mundane little town, leading an impoverished yet peaceful existence. However, the arrival of a group of outsiders quickly turned his mundane life on its head. Before long, all types of strange occurrences were taking place in the town, and Chen Ping’an was made to realize that things are not what they seem. As it turned out, the stories of immortal cultivators, mighty dragons, and unfathomably powerful beings that had always been told in the town as folklore were all true, and Chen Ping’an was inadvertently swept up into this world that he had no business being a part of. Having been forced onto a path that Chen Ping’an had never thought he would walk, he commences his journey to the top…
-*Please note that viewer discretion is advised when navigating this wiki, as it may contain **unmarked spoilers** that could reveal crucial plot details.**[Read More →](Donghua.md)*
+**Welcome to the Sword of Coming Wiki**, an open and collaborative platform dedicated to becoming a comprehensive English-language encyclopedia on everything related to **[Sword of Coming](Donghua.md)**!
 
-Characters
+## Epic Tale
+
+Chen Ping’an had grown up his entire life in a mundane little town, leading an impoverished yet peaceful existence. However, the arrival of a group of outsiders quickly turned his mundane life on its head. Before long, all types of strange occurrences were taking place in the town, and Chen Ping’an was made to realize that things are not what they seem. As it turned out, the stories of immortal cultivators, mighty dragons, and unfathomably powerful beings that had always been told in the town as folklore were all true, and Chen Ping’an was inadvertently swept up into this world that he had no business being a part of. Having been forced onto a path that Chen Ping’an had never thought he would walk, he commences his journey to the top…
+*Please note that viewer discretion is advised when navigating this wiki, as it may contain **unmarked spoilers** that could reveal crucial plot details.*
+
+*[Read More →](Donghua.md)*
+
+## Characters
 
 | ![Chen Ping An](https://static.wikia.nocookie.net/sword-of-coming/images/9/9a/Pingan2.png/revision/latest?cb=20241222150714)<br>**[Chen Ping An](Chen_Ping_An.md)** | ![Ning Yao](https://static.wikia.nocookie.net/sword-of-coming/images/e/ed/Ning_yao_Poster_2.jpg/revision/latest?cb=20241222203014)<br>**[Ning Yao](Ning_Yao.md)** | ![Zhi Gui](https://static.wikia.nocookie.net/sword-of-coming/images/5/55/Zhi_Gui.jpg/revision/latest?cb=20241222203034)<br>**[Zhi Gui](Zhi_Gui.md)** | ![Qi Jingchun](https://static.wikia.nocookie.net/sword-of-coming/images/a/a3/Qi_Mcharacter.png/revision/latest?cb=20241222202508)<br>**[Qi Jingchun](Qi_Jingchun.md)** |
 | --- | --- | --- | --- |
@@ -129,8 +134,6 @@ Anonymous editing has been disabled for this wiki. To contribute, you must login
 - [Slay the Gods Wiki](https://slay-the-gods.fandom.com)
 - [Zhu Xian Wiki](https://zhu-xian.fandom.com)
 
----
-
 ## More
 
 ### Chinese Novel Wikis
@@ -138,4 +141,4 @@ Anonymous editing has been disabled for this wiki. To contribute, you must login
 ---
 
 **Categories:** [Sword of Coming Wiki](../categories/Sword_of_Coming_Wiki.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `1` · Last revision: `2024-12-22T20:54:56Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `1` · Last revision: `2024-12-22T20:54:56Z`*

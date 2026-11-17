@@ -51,4 +51,4 @@ Fenghuo Xi Zhuhou's writing is characterized by intricate world-building, comple
 ---
 
 **Categories:** [Male](../../categories/Male.md) · [Novel](../../categories/Novel.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `275` · Last revision: `2024-12-21T17:18:13Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `275` · Last revision: `2024-12-21T17:18:13Z`*

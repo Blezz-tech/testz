@@ -4,7 +4,7 @@
   "total_media": 245,
   "raster_images": 222,
   "youtube_embeds": 23,
-  "referenced_in_articles": 163,
+  "referenced_in_articles": 174,
   "items": [
     {
       "name": "-New_Donghua-_Sword_Of_Coming_-_Jian_Lai【Official_Trailer_1_】15_August_2024_-Action-Romance_Donghua",
@@ -502,7 +502,9 @@
       "height": 1308,
       "sha1": "6d83db97c1e6ba9bcb2973e0595a7e143991419f",
       "url": "https://static.wikia.nocookie.net/sword-of-coming/images/d/d5/Download_%285%29.jpg/revision/latest?cb=20241220013335",
-      "used_on_pages": []
+      "used_on_pages": [
+        "Chen Ping An"
+      ]
     },
     {
       "name": "Fav.png",
@@ -876,7 +878,9 @@
       "height": 668,
       "sha1": "acecc0b69a2e7793aedea27ad3a42d05de7a55e9",
       "url": "https://static.wikia.nocookie.net/sword-of-coming/images/2/23/Movie_Spoiler.webp/revision/latest?cb=20241222170545",
-      "used_on_pages": []
+      "used_on_pages": [
+        "User blog:RyūSeongX/The First Theatrical Spoiler"
+      ]
     },
     {
       "name": "Ning_Poster3.jpg",
@@ -975,6 +979,7 @@
       "sha1": "b8a0ce51ec76fb4df3d089b6b2a49497d53980e6",
       "url": "https://static.wikia.nocookie.net/sword-of-coming/images/e/ed/Ning_yao_Poster_2.jpg/revision/latest?cb=20241222203014",
       "used_on_pages": [
+        "Ning Yao",
         "Sword of Coming Wiki"
       ]
     },
@@ -1137,6 +1142,7 @@
       "sha1": "0f2633dda25e50859cc724b6e0d24154e2772821",
       "url": "https://static.wikia.nocookie.net/sword-of-coming/images/a/ae/Poster_10.jpg/revision/latest?cb=20241222001239",
       "used_on_pages": [
+        "Chen Ping An",
         "Sword of Coming Wiki"
       ]
     },
@@ -1149,7 +1155,9 @@
       "height": 2004,
       "sha1": "6788adefa75145e2610d4aeffe3899a0a04f4195",
       "url": "https://static.wikia.nocookie.net/sword-of-coming/images/0/08/Poster_Qi_Jingchun.png/revision/latest?cb=20250806210158",
-      "used_on_pages": []
+      "used_on_pages": [
+        "Qi Jingchun"
+      ]
     },
     {
       "name": "Poster_Qi_Jingchun2.png",
@@ -1160,7 +1168,9 @@
       "height": 1886,
       "sha1": "9bf8f30e13b5e3b5f857b98ac0b66cfeb15841e3",
       "url": "https://static.wikia.nocookie.net/sword-of-coming/images/5/5f/Poster_Qi_Jingchun2.png/revision/latest?cb=20250806211602",
-      "used_on_pages": []
+      "used_on_pages": [
+        "Qi Jingchun"
+      ]
     },
     {
       "name": "Poster_Qi_Jingchun3.png",
@@ -1171,7 +1181,9 @@
       "height": 1959,
       "sha1": "0160cb8c8b4f7bd5f50ef1176acd911e2f718572",
       "url": "https://static.wikia.nocookie.net/sword-of-coming/images/1/16/Poster_Qi_Jingchun3.png/revision/latest?cb=20250806212038",
-      "used_on_pages": []
+      "used_on_pages": [
+        "Qi Jingchun"
+      ]
     },
     {
       "name": "Poster_剑来动画_Jian_Lai_Chinese_Donghua_Animation_Bilal_My_Art_Collection.jpg",
@@ -1502,6 +1514,7 @@
       "sha1": "89fa5451f1f10514799b71de7604a4ffd2c1570f",
       "url": "https://static.wikia.nocookie.net/sword-of-coming/images/a/aa/Poster_%E5%89%91%E6%9D%A5%E5%8A%A8%E7%94%BB_Jian_Lai_Chinese_Donghua_Animation_Bilal_My_Art_Collection_%284%29.jpg/revision/latest?cb=20241220012139",
       "used_on_pages": [
+        "Chen Ping An",
         "Sword of Coming Wiki"
       ]
     },
@@ -1678,7 +1691,9 @@
       "height": 802,
       "sha1": "f5cb1b22bb616ea4e36f396f5d179f679902cb7d",
       "url": "https://static.wikia.nocookie.net/sword-of-coming/images/8/87/Profile_adult.png/revision/latest?cb=20241222143336",
-      "used_on_pages": []
+      "used_on_pages": [
+        "Chen Ping An"
+      ]
     },
     {
       "name": "Qi_Jingchun0.png",
@@ -1702,7 +1717,9 @@
       "height": 166,
       "sha1": "edb2852581b21611f32ce96ac1d67691cc994704",
       "url": "https://static.wikia.nocookie.net/sword-of-coming/images/f/fb/Qi_Jingchun1.png/revision/latest?cb=20250806205201",
-      "used_on_pages": []
+      "used_on_pages": [
+        "Qi Jingchun"
+      ]
     },
     {
       "name": "Qi_Jingchun2.png",
@@ -1713,7 +1730,9 @@
       "height": 512,
       "sha1": "464b475c12591808c1d3a03c454da975b4525a55",
       "url": "https://static.wikia.nocookie.net/sword-of-coming/images/4/43/Qi_Jingchun2.png/revision/latest?cb=20250806205416",
-      "used_on_pages": []
+      "used_on_pages": [
+        "Qi Jingchun"
+      ]
     },
     {
       "name": "Qi_Jingchun3.png",
@@ -1724,7 +1743,9 @@
       "height": 1920,
       "sha1": "d06f2a121b3e3ceafa2e1c6a6b20fb540b3f1021",
       "url": "https://static.wikia.nocookie.net/sword-of-coming/images/a/af/Qi_Jingchun3.png/revision/latest?cb=20250806211408",
-      "used_on_pages": []
+      "used_on_pages": [
+        "Qi Jingchun"
+      ]
     },
     {
       "name": "Qi_JingchunM.jpg",
@@ -2375,7 +2396,9 @@
       "height": 1632,
       "sha1": "85a60c80995e2c9d22c25afabaf5c55969b1c84c",
       "url": "https://static.wikia.nocookie.net/sword-of-coming/images/5/59/Season_2_Anouncement.webp/revision/latest?cb=20241222155011",
-      "used_on_pages": []
+      "used_on_pages": [
+        "User blog:RyūSeongX/Season 2 Announcement"
+      ]
     },
     {
       "name": "Season_2_preview.jpg",
@@ -2386,7 +2409,9 @@
       "height": 804,
       "sha1": "42d07faa5d8f0820065969c991c4bf3662a624f9",
       "url": "https://static.wikia.nocookie.net/sword-of-coming/images/9/9b/Season_2_preview.jpg/revision/latest?cb=20251225083442",
-      "used_on_pages": []
+      "used_on_pages": [
+        "User blog:RyūSeongX/Season 2 Officially Released"
+      ]
     },
     {
       "name": "Site-community-image",

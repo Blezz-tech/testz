@@ -14,7 +14,7 @@
 | **Age** | 7 (Chapter 134) |
 | **Master(s)** | [Qi Jingchun](Qi_Jingchun.md) (teacher) |
 | **Relatives** | [Li Er](Li_Er.md) (father)<br>Aunt Liu (mother)<br>[Li Liu](Li_Liu.md) (sister) |
-| **Friend(s)** | [Chen Ping'an](Chen_Ping_An.md)<br>[Lin Shouyi](Lin_Shouyi.md)<br>[Pei Qian](Pei_Qian.md)<br>Liu Guan<br>Ma Lian[A'Liang](A'Liang.md) |
+| **Friend(s)** | [Chen Ping'an](Chen_Ping_An.md)<br>[Lin Shouyi](Lin_Shouyi.md)<br>[Pei Qian](Pei_Qian.md)<br>Liu Guan<br>Ma Lian<br>[A'Liang](A'Liang.md) |
 | **Allies** | [Li Baoping](Li_Baoping.md)<br>[Yu Lu](Yu_Lu.md)<br>[Xie Xie](Xie_Xie.md) |
 | **Occupation** | Student |
 | **Current affiliation(s)** | [Mountain Cliff Academy](Mountain_Cliff_Academy.md) |
@@ -22,11 +22,8 @@
 | **Continent** | [Eastern Treasured Vial Continent](Eastern_Treasured_Vial_Continent.md) |
 | **Novel** | Chapter 67 |
 
-'''
-
 > **Spoiler Warning:** This article contains spoilers from the *Sword of Coming* (*Jian Lai* / *Unsheathed*) novel and donghua.
 
-'''
 **Li Huai** is one of the last five students of [Qi Jingchun](Qi_Jingchun.md)'s private school in the small town, and the youngest member of the group that [Chen Ping'an](Chen_Ping_An.md) escorts to [Mountain Cliff Academy](Mountain_Cliff_Academy.md) in [Great Sui Nation](Great_Sui_Nation.md), alongside [Li Baoping](Li_Baoping.md) and [Lin Shouyi](Lin_Shouyi.md). He is the son of [Li Er](Li_Er.md), a man the whole town dismisses as a useless drunkard, but who is secretly one of the three End Tier (tenth tier) martial artists on [Eastern Treasured Vial Continent](Eastern_Treasured_Vial_Continent.md).
 
 Loud, lazy and sharp-tongued, Li Huai is often treated as comic relief and consistently ranks last in his classes. Yet he is surrounded by an almost absurd amount of good fortune: treasures, spirits and even a white deer seem to fall into his lap without effort. [Cui Dongshan](Cui_Dongshan.md) calls him the luckiest person alive, and Old Man Yang considers his fortune greater than that of the most famously fortunate cultivators of the age.
@@ -53,53 +50,53 @@ When he was small, Li Er worked at the Yang Family Medicine Shop, and Li Huai of
 
 Li Huai remembers a night when a neighbour scratched his mother's face and his father seemed to do nothing. Li Er calmly said he was "going out of the mountains", left, and came back weeks later with presents. In truth, Li Er had left Jewel Small World and fought his way up a powerful sect's mountain to destroy its ancestral hall.
 
-Shortly before the story begins, his parents and sister left the town, and Li Huai was left with an uncle and aunt who treated him harshly. *(Chapter 67 (2))*
+Shortly before the story begins, his parents and sister left the town, and Li Huai was left with an uncle and aunt who treated him harshly.<sup>[[1]](#ref-1)</sup>
 
 ## Plot
 
 ### Leaving the Small Town
 
-After Qi Jingchun's death, Li Huai sets off with the other four remaining students and [Ma Zhan](Ma_Zhan.md) on an excursion to Mountain Cliff Academy. When [Cui Minghuang](Cui_Minghuang.md) kills Ma Zhan, it is Li Huai who finds him dying. Back in town, the children trick a suspicious coach driver: Li Huai claims to know Chen Ping'an and leads the driver on a long detour while Li Baoping warns Chen Ping'an. *(Chapter 84 (1))* Li Huai refuses to go to the capital to join his family and instead follows Chen Ping'an's group.
+After Qi Jingchun's death, Li Huai sets off with the other four remaining students and [Ma Zhan](Ma_Zhan.md) on an excursion to Mountain Cliff Academy. When [Cui Minghuang](Cui_Minghuang.md) kills Ma Zhan, it is Li Huai who finds him dying. Back in town, the children trick a suspicious coach driver: Li Huai claims to know Chen Ping'an and leads the driver on a long detour while Li Baoping warns Chen Ping'an.<sup>[[2]](#ref-2)</sup> Li Huai refuses to go to the capital to join his family and instead follows Chen Ping'an's group.
 
 ### Journey to Great Sui
 
-Li Huai bickers constantly with A'Liang, offering him his sister for his wine gourd. While inspecting him, A'Liang discovers that his true condition is hidden by an advanced concealment technique, with purple qi rising in him like a mountain range. *(Chapter 96)*
+Li Huai bickers constantly with A'Liang, offering him his sister for his wine gourd. While inspecting him, A'Liang discovers that his true condition is hidden by an advanced concealment technique, with purple qi rising in him like a mountain range.<sup>[[3]](#ref-3)</sup>
 
-At Go Table Mountain, Li Huai throws a tantrum in the mud and only stops when Chen Ping'an promises him a bamboo bookcase. During the white snake attack, he turns back to yell at the frozen [Zhu Lu](Zhu_Lu.md) to run. When the mountain's treasures are shared out, he takes a painted puppet and the yellow ebony box they came in. *(Chapter 104)*
+At Go Table Mountain, Li Huai throws a tantrum in the mud and only stops when Chen Ping'an promises him a bamboo bookcase. During the white snake attack, he turns back to yell at the frozen [Zhu Lu](Zhu_Lu.md) to run. When the mountain's treasures are shared out, he takes a painted puppet and the yellow ebony box they came in.<sup>[[4]](#ref-4)</sup>
 
 In [Red Candle Town](Red_Candle_Town.md), Chen Ping'an buys him the book *Severed Water Cliff*, which turns out to be an old book inhabited by silverfish; A'Liang also seals a green darkness fish into it. Li Huai weeps when A'Liang leaves for battle and is left caring for his white donkey. On the Embroidered Flower River, Chen Ping'an makes him apologise for the donkey frightening a child, then defends him when the child's family threatens them anyway.
 
-After the encounter with the ghost [Lady Chu](Lady_Chu.md), [Wei Jin](Wei_Jin.md) sees through the barrier on Li Huai's aptitude, judges it better than Lin Shouyi's, and gives him five small clay statues that may come to life if nurtured. *(Chapter 128)* The [Yin god](Yin_god.md) escorting them privately reveals that Old Man Yang sent him specifically to protect Li Huai. *(Chapter 130)*
+After the encounter with the ghost [Lady Chu](Lady_Chu.md), [Wei Jin](Wei_Jin.md) sees through the barrier on Li Huai's aptitude, judges it better than Lin Shouyi's, and gives him five small clay statues that may come to life if nurtured.<sup>[[5]](#ref-5)</sup> The [Yin god](Yin_god.md) escorting them privately reveals that Old Man Yang sent him specifically to protect Li Huai.<sup>[[6]](#ref-6)</sup>
 
-Once [Cui Chan](Cui_Chan.md) joins the group, Li Huai receives a "bug silver" from him and later wins a dancing glass figure. At the Autumn Reed Inn, Chen Ping'an carves him the "Huaiyin" hairpin, and Li Huai shows him the sheet bearing the character "Qi" that Mr. Qi gave each student as final homework. When he tucks it into *Severed Water Cliff*, the book's silverfish and fish swim into the paper as if returning to water. *(Chapter 141)* Qi Jingchun later reveals that giving his students the character "Qi" was how he passed part of his remaining fortune to them.
+Once [Cui Chan](Cui_Chan.md) joins the group, Li Huai receives a "bug silver" from him and later wins a dancing glass figure. At the Autumn Reed Inn, Chen Ping'an carves him the "Huaiyin" hairpin, and Li Huai shows him the sheet bearing the character "Qi" that Mr. Qi gave each student as final homework. When he tucks it into *Severed Water Cliff*, the book's silverfish and fish swim into the paper as if returning to water.<sup>[[7]](#ref-7)</sup> Qi Jingchun later reveals that giving his students the character "Qi" was how he passed part of his remaining fortune to them.
 
 ### Early Academy Years
 
-Chen Ping'an leaves without saying goodbye, and Li Huai cries alone in his dormitory. His dorm mates mock his poverty, steal his puppet and clay statues, and beat him. Li Baoping confronts them with her saber, Lin Shouyi is badly hurt in the escalating conflict, and Yu Lu eventually takes matters into his own hands. *(Chapter 162 (2))* Li Huai moves into Lin Shouyi's dormitory, gets his belongings back, and spends an afternoon quietly writing his family members' names in the dirt.
+Chen Ping'an leaves without saying goodbye, and Li Huai cries alone in his dormitory. His dorm mates mock his poverty, steal his puppet and clay statues, and beat him. Li Baoping confronts them with her saber, Lin Shouyi is badly hurt in the escalating conflict, and Yu Lu eventually takes matters into his own hands.<sup>[[8]](#ref-8)</sup> Li Huai moves into Lin Shouyi's dormitory, gets his belongings back, and spends an afternoon quietly writing his family members' names in the dirt.
 
-His family then visits. Li Huai praises Chen Ping'an at length, no longer feels ashamed of his father, and apologises to him for how he treated him. *(Chapter 168 (2))* Without Li Huai's knowledge, Li Er breaks through to the tenth tier, forces Great Sui's powerful clans to answer for the bullying, and realises that Old Man Yang had been deliberately suppressing Li Huai's aptitude. *(Chapter 170 (1))* Before leaving, Li Er gets Li Huai drunk and grips his wrist as if about to do something important; what he did is not revealed directly.
+His family then visits. Li Huai praises Chen Ping'an at length, no longer feels ashamed of his father, and apologises to him for how he treated him.<sup>[[9]](#ref-9)</sup> Without Li Huai's knowledge, Li Er breaks through to the tenth tier, forces Great Sui's powerful clans to answer for the bullying, and realises that Old Man Yang had been deliberately suppressing Li Huai's aptitude.<sup>[[10]](#ref-10)</sup> Before leaving, Li Er gets Li Huai drunk and grips his wrist as if about to do something important; what he did is not revealed directly.
 
 Over the following years, Li Huai's family moves to the town at the foot of Lion Peak on [Northern Complete Reed Continent](Northern_Complete_Reed_Continent.md), where his sister begins cultivating. At the academy, Li Huai makes two close friends, the bold, poor and talented Liu Guan and the timid rich boy Ma Lian. The three become sworn brothers in a ceremony using sparrows in place of chickens and pages torn from library books in place of yellow paper, and are beaten by their teacher for it. Li Baoping makes him "division leader" of his dormitory in her imaginary martial-arts alliance, a title he takes very seriously.
 
 ### Chen Ping'an's Visit
 
-Almost three years after arriving, Li Huai climbs the academy's mountain alone and tries to write Chen Ping'an's name in the dirt, believing that writing his parents' names is what brought them to visit. Li Baoping keeps wiping it away until he cries, then makes him write it neatly. Chen Ping'an arrives at the academy that very day. *(Chapter 400 (3))* By then, the academy's leadership regards Li Huai as the least talented of the group academically but the most dangerous to provoke.
+Almost three years after arriving, Li Huai climbs the academy's mountain alone and tries to write Chen Ping'an's name in the dirt, believing that writing his parents' names is what brought them to visit. Li Baoping keeps wiping it away until he cries, then makes him write it neatly. Chen Ping'an arrives at the academy that very day.<sup>[[11]](#ref-11)</sup> By then, the academy's leadership regards Li Huai as the least talented of the group academically but the most dangerous to provoke.
 
 Li Huai is overjoyed, greets him with "Grandmaster Li's Invincible Fist Technique", and immediately tries to make him his brother-in-law. He also becomes fast friends with Chen Ping'an's disciple [Pei Qian](Pei_Qian.md), who convinces him she is a lost princess. The two hold a "showdown for the ages" comparing their treasure collections on the mountain summit, which Li Huai loses, and play pranks such as staging a mock assassination of Cui Dongshan. They promise to travel the cultivation world together hunting treasure and to split the spoils evenly.
 
-During an assassination attempt on the academy, Li Huai, Li Baoping and Pei Qian are locked in a study for safety. Afterwards, the white deer of the scholar Zhao Shi chooses Li Huai of its own accord, and Zhao Shi gives it to him. Cui Dongshan calls it a slice of immense fortune falling into his lap. *(Chapter 411)*
+During an assassination attempt on the academy, Li Huai, Li Baoping and Pei Qian are locked in a study for safety. Afterwards, the white deer of the scholar Zhao Shi chooses Li Huai of its own accord, and Zhao Shi gives it to him. Cui Dongshan calls it a slice of immense fortune falling into his lap.<sup>[[12]](#ref-12)</sup>
 
 Before Chen Ping'an leaves, Li Huai stars in a farewell performance as "Paramount Fists and Feet Hero Li", wearing a bamboo hat and riding the white deer in imitation of A'Liang. Chen Ping'an also teaches him that while Chen Ping'an can bend certain rules, Li Huai should not assume he can until he understands them.
 
 ### Visit to Dragon Spring Prefecture
 
-Li Huai returns home on an academy excursion led by Mao Xiaodong to watch the Night Travel Banquet. He brings Liu Guan and Ma Lian to his empty family house, then bursts into the Yang Family Medicine Shop with a gift of tobacco for Old Man Yang. He scolds Zheng Dafeng, smacks Old Man Yang on the head, and lectures him about his health, astonishing the shop's new apprentices. Old Man Yang, unusually, smiles and tells him there are indeed a few items set aside for him, to be discussed later. *(Chapter 471 (4))*
+Li Huai returns home on an academy excursion led by Mao Xiaodong to watch the Night Travel Banquet. He brings Liu Guan and Ma Lian to his empty family house, then bursts into the Yang Family Medicine Shop with a gift of tobacco for Old Man Yang. He scolds Zheng Dafeng, smacks Old Man Yang on the head, and lectures him about his health, astonishing the shop's new apprentices. Old Man Yang, unusually, smiles and tells him there are indeed a few items set aside for him, to be discussed later.<sup>[[13]](#ref-13)</sup>
 
 ### Later Years
 
-Chen Ping'an later stays with Li Huai's family at Lion Peak and sleeps in the room prepared for Li Huai. He sends Li Huai a wooden deity statue through Li Liu, and earlier passed him a veiled clay statuette, likely part of the same set as Wei Jin's gift. Old Man Yang reflects that Li Huai attracts fortune more naturally than even Huang Ting and [He Xiaoliang](He_Xiaoliang.md), and that he truly likes the boy. *(Chapter 530 (1))*
+Chen Ping'an later stays with Li Huai's family at Lion Peak and sleeps in the room prepared for Li Huai. He sends Li Huai a wooden deity statue through Li Liu, and earlier passed him a veiled clay statuette, likely part of the same set as Wei Jin's gift. Old Man Yang reflects that Li Huai attracts fortune more naturally than even Huang Ting and [He Xiaoliang](He_Xiaoliang.md), and that he truly likes the boy.<sup>[[14]](#ref-14)</sup>
 
-As a teenager, Li Huai still struggles with his studies, but loves the long journeys the academy organises with its teachers. When Li Liu visits with a bag of treasures disguised by restrictions, he tells her to stop giving things to her family once she marries, so she will not be looked down on by her husband. He admits he only thought of this after talking to Chen Ping'an. *(Chapter 569 (2))*
+As a teenager, Li Huai still struggles with his studies, but loves the long journeys the academy organises with its teachers. When Li Liu visits with a bag of treasures disguised by restrictions, he tells her to stop giving things to her family once she marries, so she will not be looked down on by her husband. He admits he only thought of this after talking to Chen Ping'an.<sup>[[15]](#ref-15)</sup>
 
 When Chen Ping'an and Pei Qian visit again, Li Huai is outraged that Chen Ping'an kept his new mountain, [Downtrodden Mountain](Downtrodden_Mountain.md), a secret from his "sworn brother", and demands to become its chief guest elder. He is equally outraged when Li Baoping hands her title of alliance leader to Pei Qian.
 
@@ -138,7 +135,23 @@ He imitates Chen Ping'an's walking meditation and fist stances only half-hearted
 
 ## References
 
+1. <a id="ref-1"></a>Chapter 67 (2)
+2. <a id="ref-2"></a>Chapter 84 (1)
+3. <a id="ref-3"></a>Chapter 96
+4. <a id="ref-4"></a>Chapter 104
+5. <a id="ref-5"></a>Chapter 128
+6. <a id="ref-6"></a>Chapter 130
+7. <a id="ref-7"></a>Chapter 141
+8. <a id="ref-8"></a>Chapter 162 (2)
+9. <a id="ref-9"></a>Chapter 168 (2)
+10. <a id="ref-10"></a>Chapter 170 (1)
+11. <a id="ref-11"></a>Chapter 400 (3)
+12. <a id="ref-12"></a>Chapter 411
+13. <a id="ref-13"></a>Chapter 471 (4)
+14. <a id="ref-14"></a>Chapter 530 (1)
+15. <a id="ref-15"></a>Chapter 569 (2)
+
 ---
 
 **Categories:** [Alive](../categories/Alive.md) · [Characters](../categories/Characters.md) · [Human](../categories/Human.md) · [Male](../categories/Male.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `532` · Last revision: `2026-10-11T17:49:41Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `532` · Last revision: `2026-10-11T17:49:41Z`*

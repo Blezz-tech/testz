@@ -55,4 +55,4 @@ The large worlds are **the most powerful and significant realms in the story**. 
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `437` · Last revision: `2025-01-24T23:42:25Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `437` · Last revision: `2025-01-24T23:42:25Z`*

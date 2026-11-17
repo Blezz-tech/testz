@@ -41,4 +41,4 @@ The Savage World is a realm of **intense conflict and brutal power dynamics**. I
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `440` · Last revision: `2025-01-24T23:36:56Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `440` · Last revision: `2025-01-24T23:36:56Z`*

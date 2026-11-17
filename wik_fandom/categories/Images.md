@@ -4,4 +4,4 @@
 
 Total pages in category: **0**
 
-*No main-namespace articles currently assigned to this category.*
+*Empty maintenance/media category on the source Fandom wiki (0 article members).*

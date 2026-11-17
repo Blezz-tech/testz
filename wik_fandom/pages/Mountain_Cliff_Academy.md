@@ -58,4 +58,4 @@ Mountain Cliff Academy is more than just a school; it is a symbol of knowledge, 
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `451` · Last revision: `2026-10-05T11:37:52Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `451` · Last revision: `2026-10-05T11:37:52Z`*

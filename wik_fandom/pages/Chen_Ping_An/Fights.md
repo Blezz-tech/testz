@@ -19,4 +19,4 @@
 ---
 
 **Categories:** [Fights](../../categories/Fights.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `265` · Last revision: `2026-10-11T23:04:21Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `265` · Last revision: `2026-10-11T23:04:21Z`*

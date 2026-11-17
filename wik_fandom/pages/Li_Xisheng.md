@@ -36,7 +36,7 @@ He has a strong sense of fairness and balance. He believes that whenever someone
 
 ## Background
 
-Li Xisheng grew up in the Li Clan manor on Fortune Street. His father, clan leader Li Hong, often reads with him, while drinking with Li Baozhen. Their grandfather, who advanced greatly once the small world's restrictions were lifted, won two protected official appointments in the Great Li Empire for the clan. Li Xisheng turned his down, while Li Baozhen accepted. *(Chapter 206 (3))*
+Li Xisheng grew up in the Li Clan manor on Fortune Street. His father, clan leader Li Hong, often reads with him, while drinking with Li Baozhen. Their grandfather, who advanced greatly once the small world's restrictions were lifted, won two protected official appointments in the Great Li Empire for the clan. Li Xisheng turned his down, while Li Baozhen accepted.<sup>[[1]](#ref-1)</sup>
 
 As a boy, Li Xisheng once saw his normally kind mother turn cold at the idiom "a peach for a plum", and furious at "the peach tree withers in place of the plum tree". The memory stayed with him as a faint unease.
 
@@ -44,23 +44,23 @@ As a boy, Li Xisheng once saw his normally kind mother turn cold at the idiom "a
 
 ### The Small Town
 
-Li Xisheng is first named in passing as a scholar in azure of the Li Clan. *(Chapter 127)* When Chen Ping'an returns from Great Sui, Li Xisheng greets him at the manor gate as Li Baoping's brother. He takes in the mountain crossing carp Chen Ping'an has brought for her, gives him several annotated books, and invites him to visit freely. *(Chapter 181)*
+Li Xisheng is first named in passing as a scholar in azure of the Li Clan.<sup>[[2]](#ref-2)</sup> When Chen Ping'an returns from Great Sui, Li Xisheng greets him at the manor gate as Li Baoping's brother. He takes in the mountain crossing carp Chen Ping'an has brought for her, gives him several annotated books, and invites him to visit freely.<sup>[[3]](#ref-3)</sup>
 
-When the swordsman Cao Jun, a descendant of the sword immortal Cao Xi, confronts Chen Ping'an and the two children in [Clay Vase Alley](Small_Town.md#clay-vase-alley), Li Xisheng steps in front of them, declaring that reasonable discussion should come before drawn swords. *(Chapter 182)* Although he is only a sixth-tier Qi refiner facing a ninth-tier swordsman, he defends himself with a host of spring leaves, summer thunder, autumn wind and winter snow trinkets, and Cao Jun cannot break through. Li Xisheng calls it his first fight and admits he was flustered. *(Chapter 184)*
+When the swordsman Cao Jun, a descendant of the sword immortal Cao Xi, confronts Chen Ping'an and the two children in [Clay Vase Alley](Small_Town.md#clay-vase-alley), Li Xisheng steps in front of them, declaring that reasonable discussion should come before drawn swords.<sup>[[4]](#ref-4)</sup> Although he is only a sixth-tier Qi refiner facing a ninth-tier swordsman, he defends himself with a host of spring leaves, summer thunder, autumn wind and winter snow trinkets, and Cao Jun cannot break through. Li Xisheng calls it his first fight and admits he was flustered.<sup>[[5]](#ref-5)</sup>
 
-Visiting Downtrodden Mountain, Li Xisheng answers Chen Ping'an's questions about the Bai Ze Suppressing Pagoda. Speaking the name "Bai Ze" aloud draws the attention of Master Bai himself from the far side of the continent, and Li Xisheng apologises in his direction. *(Chapter 189 (2))* He later climbs the mountain with his young scholarly attendant, Cui Ci. He tells Chen Ping'an that he will soon leave the small town, and offers his peach wood talisman as an apology for his brother Li Baozhen's role in [Zhu Lu](Zhu_Lu.md)'s assassination attempt. Chen Ping'an refuses it. *(Chapter 191 (1))*
+Visiting Downtrodden Mountain, Li Xisheng answers Chen Ping'an's questions about the Bai Ze Suppressing Pagoda. Speaking the name "Bai Ze" aloud draws the attention of Master Bai himself from the far side of the continent, and Li Xisheng apologises in his direction.<sup>[[6]](#ref-6)</sup> He later climbs the mountain with his young scholarly attendant, Cui Ci. He tells Chen Ping'an that he will soon leave the small town, and offers his peach wood talisman as an apology for his brother Li Baozhen's role in [Zhu Lu](Zhu_Lu.md)'s assassination attempt. Chen Ping'an refuses it.<sup>[[7]](#ref-7)</sup>
 
-He explains that Fortune Street (福禄) is a homonym of "talisman" and that [Peach Leaf Alley](Small_Town.md#fortune-street-and-peach-leaf-alley) refers to peach wood talismans. He describes a strange dream in which he played Go with someone and learned the secrets of the peach wood talisman. Since Chen Ping'an still refuses the talisman, Li Xisheng spends the night inscribing talismans and poetic phrases on the walls of the bamboo building with his brush. His characters are so powerful that the whole mountain slowly sinks. *(Chapter 192)* These inscriptions later help keep Cui Cheng lucid, and greatly strengthen the building. He also gives Chen Ping'an the brush itself, the Wind and Snow Awl, engraved "Writing as if Assisted by the Gods", along with gold and yellow talisman paper and the *Authentic Death-Avoiding Book*. Rather than teaching specific talismans, he teaches Chen Ping'an the principles of drawing them, saying it is better to teach a man to fish. *(Chapter 216)*
+He explains that Fortune Street (福禄) is a homonym of "talisman" and that [Peach Leaf Alley](Small_Town.md#fortune-street-and-peach-leaf-alley) refers to peach wood talismans. He describes a strange dream in which he played Go with someone and learned the secrets of the peach wood talisman. Since Chen Ping'an still refuses the talisman, Li Xisheng spends the night inscribing talismans and poetic phrases on the walls of the bamboo building with his brush. His characters are so powerful that the whole mountain slowly sinks.<sup>[[8]](#ref-8)</sup> These inscriptions later help keep Cui Cheng lucid, and greatly strengthen the building. He also gives Chen Ping'an the brush itself, the Wind and Snow Awl, engraved "Writing as if Assisted by the Gods", along with gold and yellow talisman paper and the *Authentic Death-Avoiding Book*. Rather than teaching specific talismans, he teaches Chen Ping'an the principles of drawing them, saying it is better to teach a man to fish.<sup>[[9]](#ref-9)</sup>
 
-Meanwhile, the Daoist envoy Xie Shi demands three people from the Great Li Empire: He Xiaoliang, Ma Kuxuan and Li Xisheng. *(Chapter 199)* Lu Chen later orders Xie Shi to protect Li Xisheng, swearing to return from the White Jade Capital and break the rules of both worlds if anything happens to him. *(Chapter 235 (1))* Cui Dongshan later speculates that Lu Chen may have shaved a layer off the river of time in Jewel Small World for the sake of Li Xisheng, whom he calls one of Lu Chen's "so-called senior brothers". *(Chapter 385 (2))*
+Meanwhile, the Daoist envoy Xie Shi demands three people from the Great Li Empire: He Xiaoliang, Ma Kuxuan and Li Xisheng.<sup>[[10]](#ref-10)</sup> Lu Chen later orders Xie Shi to protect Li Xisheng, swearing to return from the White Jade Capital and break the rules of both worlds if anything happens to him.<sup>[[11]](#ref-11)</sup> Cui Dongshan later speculates that Lu Chen may have shaved a layer off the river of time in Jewel Small World for the sake of Li Xisheng, whom he calls one of Lu Chen's "so-called senior brothers".<sup>[[12]](#ref-12)</sup>
 
 ### Promise Concerning Li Baozhen
 
-Chen Ping'an promises Li Xisheng that he will spare Li Baozhen once. Li Xisheng gives Li Baozhen a farewell gift, the Day and Night Wandering Deity True Body Talisman. When Li Baozhen later confronts Chen Ping'an, Chen Ping'an keeps his word by sparing him, and confiscates the talisman. From then on he regards Li Baozhen as separate from the Li Clan of Li Baoping and Li Xisheng. *(Chapter 408)* He hopes to ask Li Xisheng to repair the damaged talisman.
+Chen Ping'an promises Li Xisheng that he will spare Li Baozhen once. Li Xisheng gives Li Baozhen a farewell gift, the Day and Night Wandering Deity True Body Talisman. When Li Baozhen later confronts Chen Ping'an, Chen Ping'an keeps his word by sparing him, and confiscates the talisman. From then on he regards Li Baozhen as separate from the Li Clan of Li Baoping and Li Xisheng.<sup>[[13]](#ref-13)</sup> He hopes to ask Li Xisheng to repair the damaged talisman.
 
 ### Northern Complete Reed Continent
 
-Li Xisheng travels north to [Northern Complete Reed Continent](Northern_Complete_Reed_Continent.md) with Cui Ci. He buys a small house on Cave Immortal Street in a provincial city of the remote Sweet Wormwood Nation. He briefly secures a post in the provincial education office by quietly leaving behind some "knowledge" for the commissioner, then loses it without concern. He plans to stay there for thirty to forty years, and spends his time listening, through an enchanted picture scroll, to the lectures of an obscure old virtuous scholar, to whom he pays a grain rain coin in thanks. *(Chapter 559 (2))*
+Li Xisheng travels north to [Northern Complete Reed Continent](Northern_Complete_Reed_Continent.md) with Cui Ci. He buys a small house on Cave Immortal Street in a provincial city of the remote Sweet Wormwood Nation. He briefly secures a post in the provincial education office by quietly leaving behind some "knowledge" for the commissioner, then loses it without concern. He plans to stay there for thirty to forty years, and spends his time listening, through an enchanted picture scroll, to the lectures of an obscure old virtuous scholar, to whom he pays a grain rain coin in thanks.<sup>[[14]](#ref-14)</sup>
 
 Through Li Er of Lion Peak, he sends Chen Ping'an a message: the peach wood talisman had been meant to settle a great karmic debt between them, so Chen Ping'an should not come to him out of gratitude.
 
@@ -68,7 +68,7 @@ Through Li Er of Lion Peak, he sends Chen Ping'an a message: the peach wood tali
 
 When Chen Ping'an visits, Li Xisheng explains everything. Qi refiners struggled to cultivate in Jewel Small World, yet he had progressed faster than even Ma Kuxuan. Over time he traced the reason: the Great Dao fortune that should have belonged to Chen Ping'an had fallen upon him instead. The peach wood talisman was the foundation of his own Great Dao, which is why he tried to give it to Chen Ping'an in return. The talisman papers and the *Authentic Death-Avoiding Book*, he adds, were simply thanks for escorting Li Baoping to Great Sui.
 
-He then reveals a deeper secret. Across the street from him lives a Confucian scholar named Chen Baozhou, a few years older than Li Baozhen. Chen Ping'an understands at once: Li Xisheng should have been Chen Xisheng of Cave Immortal Street, and Chen Baozhou should have been Li Baozhou of Jewel Small World. This also explains why a model tree, a symbol of wisdom and virtue, had grown from the Chen Clan's ancestral grave in the mountains. Chen Ping'an tells him that his sorrow is understandable but should not run so deep, and Li Xisheng says he feels truly consoled. The two then play Go. *(Chapter 563 (1))*
+He then reveals a deeper secret. Across the street from him lives a Confucian scholar named Chen Baozhou, a few years older than Li Baozhen. Chen Ping'an understands at once: Li Xisheng should have been Chen Xisheng of Cave Immortal Street, and Chen Baozhou should have been Li Baozhou of Jewel Small World. This also explains why a model tree, a symbol of wisdom and virtue, had grown from the Chen Clan's ancestral grave in the mountains. Chen Ping'an tells him that his sorrow is understandable but should not run so deep, and Li Xisheng says he feels truly consoled. The two then play Go.<sup>[[15]](#ref-15)</sup>
 
 ## Abilities
 
@@ -87,7 +87,23 @@ He then reveals a deeper secret. Across the street from him lives a Confucian sc
 
 ## References
 
+1. <a id="ref-1"></a>Chapter 206 (3)
+2. <a id="ref-2"></a>Chapter 127
+3. <a id="ref-3"></a>Chapter 181
+4. <a id="ref-4"></a>Chapter 182
+5. <a id="ref-5"></a>Chapter 184
+6. <a id="ref-6"></a>Chapter 189 (2)
+7. <a id="ref-7"></a>Chapter 191 (1)
+8. <a id="ref-8"></a>Chapter 192
+9. <a id="ref-9"></a>Chapter 216
+10. <a id="ref-10"></a>Chapter 199
+11. <a id="ref-11"></a>Chapter 235 (1)
+12. <a id="ref-12"></a>Chapter 385 (2)
+13. <a id="ref-13"></a>Chapter 408
+14. <a id="ref-14"></a>Chapter 559 (2)
+15. <a id="ref-15"></a>Chapter 563 (1)
+
 ---
 
 **Categories:** [Alive](../categories/Alive.md) · [Characters](../categories/Characters.md) · [Human](../categories/Human.md) · [Male](../categories/Male.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `546` · Last revision: `2026-10-12T19:10:43Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `546` · Last revision: `2026-10-12T19:10:43Z`*

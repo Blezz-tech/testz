@@ -63,4 +63,4 @@ The Lotus Flower Blessed Land is a dynamic and multifaceted setting with its own
 ---
 
 **Categories:** [Locations](../categories/Locations.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `459` · Last revision: `2026-10-12T12:48:17Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `459` · Last revision: `2026-10-12T12:48:17Z`*

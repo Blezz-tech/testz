@@ -8,4 +8,4 @@
 ---
 
 **Categories:** [Characters](../categories/Characters.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `626` · Last revision: `2026-10-12T12:04:47Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `626` · Last revision: `2026-10-12T12:04:47Z`*
