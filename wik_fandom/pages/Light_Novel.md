@@ -10,7 +10,7 @@
 | Attribute | Details |
 | :--- | :--- |
 | **Title** | Unsheathed |
-| **Author** | [Beacon Drama Prince (烽火戏诸侯)](http://home.zongheng.com/show/user<br>Info/166130.html) |
+| **Author** | [Beacon Drama Prince (烽火戏诸侯)](http://home.zongheng.com/show/userInfo/166130.html) |
 | **Chinese** | 剑来 |
 | **Pinyin** | Jian Lai |
 | **Original Publisher** | [Zongheng](http://www.zongheng.com/) |
@@ -66,7 +66,9 @@ Chen Ping’an had grown up his entire life in a mundane little town, leading an
 
 ## References
 
+*No citations listed yet on the source wiki.*
+
 ---
 
 **Categories:** [Novel](../categories/Novel.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `272` · Last revision: `2026-07-01T01:09:49Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `272` · Last revision: `2026-07-01T01:09:49Z`*

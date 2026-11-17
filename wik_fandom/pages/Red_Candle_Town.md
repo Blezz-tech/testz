@@ -73,4 +73,4 @@ Red Candle Town is a vibrant and crucial location, serving as a nexus for trade,
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `453` · Last revision: `2025-01-25T22:59:25Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `453` · Last revision: `2025-01-25T22:59:25Z`*

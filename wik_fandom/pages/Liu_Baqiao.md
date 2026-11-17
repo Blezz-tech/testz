@@ -23,7 +23,9 @@
 
 ## References
 
+*No citations listed yet on the source wiki.*
+
 ---
 
 **Categories:** [Characters](../categories/Characters.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `467` · Last revision: `2025-01-26T19:14:36Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `467` · Last revision: `2025-01-26T19:14:36Z`*

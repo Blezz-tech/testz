@@ -39,4 +39,4 @@ A relatively new faction, **otherworldly immortals** are individuals who have so
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `424` · Last revision: `2025-01-24T00:14:22Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `424` · Last revision: `2025-01-24T00:14:22Z`*

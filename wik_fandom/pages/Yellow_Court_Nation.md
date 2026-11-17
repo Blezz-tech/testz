@@ -66,4 +66,4 @@ Yellow Court Nation is a nation that is trying to maintain stability and navigat
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `452` · Last revision: `2025-01-25T22:57:31Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `452` · Last revision: `2025-01-25T22:57:31Z`*

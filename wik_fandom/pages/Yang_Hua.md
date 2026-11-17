@@ -14,7 +14,7 @@
 | **Allies** | Empress dowager |
 | **Enemie(s)** | [Liu Baqiao](Liu_Baqiao.md) (rival for Talisman) |
 | **Occupation** | Formal river goddess of the Iron Talisman River<br>Former maidservant of the imperial concubine |
-| **Current affiliation(s)** | Great Li Empire |
+| **Current affiliation(s)** | [Great Li Empire](Great_Li_Empire.md) |
 | **Former affiliation(s)** | Imperial concubine's household |
 | **Continent** | [Eastern Treasured Vial Continent](Eastern_Treasured_Vial_Continent.md) |
 | **Cultivation rank** | Formerly near the Upper Five Tiers |
@@ -38,29 +38,29 @@ Her one unwavering loyalty is to her former mistress, who saved her life and bec
 
 Yang Hua was born in the countryside with a unique physique that gave her a strong affinity for water. A travelling Daoist priest once warned that she attracted dark and dirty things in the water and should never approach sourceless water alone. A geomantic official of the [Great Li Empire](Great_Li_Empire.md) noticed her and brought her before the imperial concubine. Under her, Yang Hua cultivated a top-notch water-element technique, making as much progress in three years as others made in thirty.
 
-She then won the recognition of "Talisman", the capital's famous talismanic sword that no one else could unsheathe, before the [Wind Lightning Field](Sects.md#wind-lightning-field) swordsman [Liu Baqiao](Liu_Baqiao.md) could claim it. *(Chapter 118 (1))* Liu Baqiao later complains bitterly that Song Changjing, rather than giving him the sword, told him to take it from Yang Hua by force. *(Chapter 133 (1))*
+She then won the recognition of "Talisman", the capital's famous talismanic sword that no one else could unsheathe, before the [Wind Lightning Field](Sects.md#wind-lightning-field) swordsman [Liu Baqiao](Liu_Baqiao.md) could claim it.<sup>[[1]](#ref-1)</sup> Liu Baqiao later complains bitterly that Song Changjing, rather than giving him the sword, told him to take it from Yang Hua by force.<sup>[[2]](#ref-2)</sup>
 
 ## Plot
 
 ### Maidservant of the Imperial Concubine
 
-Yang Hua first appears in the small town as one of the attendants of the imperial concubine, alongside Xu Hunran and Wang Yifu. When her mistress asks her the price of a children's book in the capital, Yang Hua answers with flattery about the prince's upbringing. She obeys every strange order, such as walking 63 steps matching the stride of the seven-year-old Song Jixin. She knows that serving a powerful mistress is like serving a tigress. *(Chapter 89)* She also reports on the empire's intelligence efforts, while carefully avoiding the power struggles at the top of the imperial court. *(Chapter 93 (1))*
+Yang Hua first appears in the small town as one of the attendants of the imperial concubine, alongside Xu Hunran and Wang Yifu. When her mistress asks her the price of a children's book in the capital, Yang Hua answers with flattery about the prince's upbringing. She obeys every strange order, such as walking 63 steps matching the stride of the seven-year-old Song Jixin. She knows that serving a powerful mistress is like serving a tigress.<sup>[[3]](#ref-3)</sup> She also reports on the empire's intelligence efforts, while carefully avoiding the power struggles at the top of the imperial court.<sup>[[4]](#ref-4)</sup>
 
 ### Forced Deification
 
-On the advice of "Mr. Lu", the empire planned to use Talisman as the thirteenth flying sword of the replica White Jade Capital. It was instead used to split the Dragon Slaying Platform in Jewel Small World, and it cracked beyond repair after two strikes. The emperor then gave the broken sword back to Yang Hua, and at the same time appointed her river god of the Iron Talisman River. Cui Chan observes that this was a warning to her mistress, depriving the concubine of one of her most loyal and capable assistants. *(Chapter 117 (1))* Cui Chan reflects that the concubine had crossed the emperor's bottom line by "collecting" the head of Song Yuzhang, and that Yang Hua's hasty appointment was her punishment. *(Chapter 117 (2))*
+On the advice of "Mr. Lu", the empire planned to use Talisman as the thirteenth flying sword of the replica White Jade Capital. It was instead used to split the Dragon Slaying Platform in Jewel Small World, and it cracked beyond repair after two strikes. The emperor then gave the broken sword back to Yang Hua, and at the same time appointed her river god of the Iron Talisman River. Cui Chan observes that this was a warning to her mistress, depriving the concubine of one of her most loyal and capable assistants.<sup>[[5]](#ref-5)</sup> Cui Chan reflects that the concubine had crossed the emperor's bottom line by "collecting" the head of Song Yuzhang, and that Yang Hua's hasty appointment was her punishment.<sup>[[6]](#ref-6)</sup>
 
 Becoming a river deity was regarded by orthodox Qi refiners as "taking a severed path" with no way to immortality. Yang Hua, who had been close to the Upper Five Tiers, understood that she was being punished for her achievements. Gazing at the damaged sword, she murmurs that in the end only it never abandoned her, and slashes a deep gash into her own cheek with its edge.
 
 ### River Goddess
 
-Wei Bo, now Northern Mountain God, sends her a precious ball of cloud root aura as a goodwill gift. Suspicious of his motives, she smiles coldly and crushes it, absorbing its energy. *(Chapter 190)* Considered perhaps the youngest high-ranking river god on Eastern Treasured Vial Continent, she patrols her subordinate Dragon Whisker River for the first time and leaves without acknowledging Ma Lanhua's timid greeting. *(Chapter 201 (2))*
+Wei Bo, now Northern Mountain God, sends her a precious ball of cloud root aura as a goodwill gift. Suspicious of his motives, she smiles coldly and crushes it, absorbing its energy.<sup>[[7]](#ref-7)</sup> Considered perhaps the youngest high-ranking river god on Eastern Treasured Vial Continent, she patrols her subordinate Dragon Whisker River for the first time and leaves without acknowledging Ma Lanhua's timid greeting.<sup>[[8]](#ref-8)</sup>
 
-It is later noted that she abandoned her human body and died in order to become a deity. *(Chapter 463 (2))* When Mao Xiaodong leads Mountain Cliff Academy's students past her temple, Yang Hua appears before them and pays her respects, though the academy has lost its official status. She admired the academy while still a maidservant, and once visited it with her mistress. *(Chapter 471 (1))*
+It is later noted that she abandoned her human body and died in order to become a deity.<sup>[[9]](#ref-9)</sup> When Mao Xiaodong leads Mountain Cliff Academy's students past her temple, Yang Hua appears before them and pays her respects, though the academy has lost its official status. She admired the academy while still a maidservant, and once visited it with her mistress.<sup>[[10]](#ref-10)</sup>
 
 ### Confrontation with Chen Ping'an
 
-When Chen Ping'an walks along the Iron Talisman River, Yang Hua appears in her godly body and sizes him up. She is suspicious of what she cannot see through in him, and hostile because of her devotion to her mistress, whose history with Chen Ping'an runs deep. She grows furious when he touches on that devotion. Her sword, she reflects, was formidable enough to have almost been placed in the replica White Jade Capital. Wei Bo arrives and quells her aura. She sneers that Chen Ping'an should hide under the protection of the martial artist in the bamboo building, and the river rumbles with her anger. *(Chapter 477 (1))* Afterwards, Wei Bo takes her on a walk along the river, lectures her on respect, and strips her temple of incense essence and river fortune to drive the point home.
+When Chen Ping'an walks along the Iron Talisman River, Yang Hua appears in her godly body and sizes him up. She is suspicious of what she cannot see through in him, and hostile because of her devotion to her mistress, whose history with Chen Ping'an runs deep. She grows furious when he touches on that devotion. Her sword, she reflects, was formidable enough to have almost been placed in the replica White Jade Capital. Wei Bo arrives and quells her aura. She sneers that Chen Ping'an should hide under the protection of the martial artist in the bamboo building, and the river rumbles with her anger.<sup>[[11]](#ref-11)</sup> Afterwards, Wei Bo takes her on a walk along the river, lectures her on respect, and strips her temple of incense essence and river fortune to drive the point home.
 
 ## Abilities
 
@@ -80,7 +80,19 @@ When Chen Ping'an walks along the Iron Talisman River, Yang Hua appears in her g
 
 ## References
 
+1. <a id="ref-1"></a>Chapter 118 (1)
+2. <a id="ref-2"></a>Chapter 133 (1)
+3. <a id="ref-3"></a>Chapter 89
+4. <a id="ref-4"></a>Chapter 93 (1)
+5. <a id="ref-5"></a>Chapter 117 (1)
+6. <a id="ref-6"></a>Chapter 117 (2)
+7. <a id="ref-7"></a>Chapter 190
+8. <a id="ref-8"></a>Chapter 201 (2)
+9. <a id="ref-9"></a>Chapter 463 (2)
+10. <a id="ref-10"></a>Chapter 471 (1)
+11. <a id="ref-11"></a>Chapter 477 (1)
+
 ---
 
 **Categories:** [Characters](../categories/Characters.md) · [Female](../categories/Female.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `564` · Last revision: `2026-10-12T19:18:18Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `564` · Last revision: `2026-10-12T19:18:18Z`*

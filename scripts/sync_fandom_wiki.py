@@ -111,14 +111,74 @@ def fetch_categories() -> list[dict]:
     return sorted(cats, key=lambda c: c["title"])
 
 
+def fetch_extra_pages() -> list[dict]:
+    """Fetch non-main content pages: User (2), Project (4), User blog (500), and curated MediaWiki (8)."""
+    extra: list[dict] = []
+    for ns_id in ("2", "4", "500"):
+        cont: dict = {}
+        while True:
+            data = api_get({
+                "action": "query",
+                "generator": "allpages",
+                "gapnamespace": ns_id,
+                "gaplimit": "50",
+                "prop": "revisions|categories",
+                "rvprop": "ids|timestamp|content",
+                "rvslots": "main",
+                "cllimit": "500",
+                **cont,
+            })
+            for p in data.get("query", {}).get("pages", []):
+                rev = (p.get("revisions") or [{}])[0]
+                cats = [
+                    c["title"].split(":", 1)[1] if ":" in c["title"] else c["title"]
+                    for c in p.get("categories", [])
+                ]
+                extra.append({
+                    "pageid": p["pageid"],
+                    "ns": p.get("ns", int(ns_id)),
+                    "title": p["title"],
+                    "revid": rev.get("revid"),
+                    "timestamp": rev.get("timestamp", ""),
+                    "categories": sorted(cats),
+                    "content": rev.get("slots", {}).get("main", {}).get("content", ""),
+                })
+            if "continue" not in data:
+                break
+            cont = data["continue"]
+
+    mw_data = api_get({
+        "action": "query",
+        "titles": "MediaWiki:Wiki-navigation|MediaWiki:Wiki-description-site-meta",
+        "prop": "revisions",
+        "rvprop": "ids|timestamp|content",
+        "rvslots": "main",
+    })
+    for p in mw_data.get("query", {}).get("pages", []):
+        if p.get("missing"):
+            continue
+        rev = (p.get("revisions") or [{}])[0]
+        extra.append({
+            "pageid": p["pageid"],
+            "ns": p.get("ns", 8),
+            "title": p["title"],
+            "revid": rev.get("revid"),
+            "timestamp": rev.get("timestamp", ""),
+            "categories": [],
+            "content": rev.get("slots", {}).get("main", {}).get("content", ""),
+        })
+
+    return sorted(extra, key=lambda x: (x["ns"], x["title"]))
+
+
 def fetch_transcluded_templates(pages: list[dict]) -> list[dict]:
-    skip = {"character", "tabs", "spoilers", "contains spoilers", "main", "-", "sitename"}
+    skip = {"character", "location", "tabs", "spoilers", "contains spoilers", "main", "-", "align", "sitename"}
     tmpl_re = re.compile(r"\{\{\s*([^{}|#\n]+)")
-    wanted: set[str] = set()
+    wanted: set[str] = {"Template:Navbox/Donghua", "Template:Music"}
     for p in pages:
         for m in tmpl_re.finditer(p["content"]):
             name = m.group(1).strip()
-            if name and name.lower() not in skip and not name.lower().startswith(("raw:", "navbox")):
+            if name and name.lower() not in skip and not name.lower().startswith("raw:"):
                 wanted.add(f"Template:{name[0].upper() + name[1:]}")
 
     fetched: dict[str, dict] = {}
@@ -201,8 +261,9 @@ def main() -> int:
     args = ap.parse_args()
 
     pages = fetch_all_ns0_pages()
+    extra_pages = fetch_extra_pages()
     categories = fetch_categories()
-    templates = fetch_transcluded_templates(pages)
+    templates = fetch_transcluded_templates(pages + extra_pages)
     media = fetch_all_media()
 
     dump = {
@@ -215,6 +276,7 @@ def main() -> int:
                 1 for p in pages if not p["content"].lstrip().upper().startswith("#REDIRECT")
             ),
             "redirects": sum(1 for p in pages if p["content"].lstrip().upper().startswith("#REDIRECT")),
+            "extra_pages_non_ns0": len(extra_pages),
             "categories_ns14": len(categories),
             "templates_ns10_content": len(templates),
             "media_allimages": len(media),
@@ -222,6 +284,7 @@ def main() -> int:
             "media_youtube_embeds": sum(1 for m in media if m["mime"] == "video/youtube"),
         },
         "pages": pages,
+        "extra_pages": extra_pages,
         "categories": categories,
         "templates": templates,
         "media": media,

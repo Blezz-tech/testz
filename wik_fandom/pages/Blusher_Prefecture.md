@@ -87,4 +87,4 @@ Blusher Prefecture is a prefecture within Colorful Garment Nation, which is a pl
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `454` · Last revision: `2025-01-25T23:02:17Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `454` · Last revision: `2025-01-25T23:02:17Z`*

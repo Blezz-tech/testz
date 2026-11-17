@@ -13,4 +13,4 @@
 ---
 
 **Categories:** [Characters](../categories/Characters.md) · [Human](../categories/Human.md) · [Male](../categories/Male.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `406` · Last revision: `2025-01-08T00:36:54Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `406` · Last revision: `2025-01-08T00:36:54Z`*

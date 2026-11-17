@@ -21,10 +21,10 @@ Martial arts, as presented in the sources, is a distinct path of cultivation foc
 **Tiers of Martial Arts**
 
 - Martial arts is divided into nine tiers, with some claiming a **tenth tier** exists.
-** Above the nine tiers, there is a legendary 10th tier where one becomes the peak of the mountain.
+  - Above the nine tiers, there is a legendary 10th tier where one becomes the peak of the mountain.
 - The nine tiers are further grouped into three major tiers: **Physique Refining, Qi Refining, and Spirit Refining**.
 - **Physique Refining Tier**
-** Focuses on physical development and is further divided into three tiers:
+  - Focuses on physical development and is further divided into three tiers:
   - **Clay Embryo Tier**: This initial tier is about laying the foundation, where the body is rough and unrefined. Reaching the peak of this tier results in a strong foundation where one's Qi will descend to the Dantian, and the practitioner becomes immovable.
   - **Wooden Fetus Tier**: This tier focuses on refining the physique, expanding meridians, and improving the pathways for Qi flow. This tier is also called the Mountain Carving Tier because of the hard work that must be invested to open the meridians.
   - **Mercury Tier**: At the peak of the third tier, a martial artist must undergo a tribulation, sometimes referred to as the "clay Bodhisattva crossing the river". The blood in one's body will become like mercury.
@@ -121,4 +121,4 @@ Martial arts is a demanding path of self-improvement, emphasizing physical prowe
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `442` · Last revision: `2025-01-24T23:54:35Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `442` · Last revision: `2025-01-24T23:54:35Z`*

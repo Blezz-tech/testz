@@ -68,4 +68,4 @@ The demon tribe is a diverse and complex group with a range of motivations, from
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `444` · Last revision: `2025-01-25T00:31:01Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `444` · Last revision: `2025-01-25T00:31:01Z`*

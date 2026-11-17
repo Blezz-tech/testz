@@ -49,4 +49,4 @@ The Emerald Lake is a significant mystical realm with unique origins, notable fe
 ---
 
 **Categories:** [Location](../categories/Location.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `460` · Last revision: `2026-10-04T10:29:35Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `460` · Last revision: `2026-10-04T10:29:35Z`*

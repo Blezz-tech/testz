@@ -46,4 +46,4 @@ Li Er’s background begins in the mysterious Lizhu Cave Heaven, the same small 
 ---
 
 **Categories:** [Alive](../categories/Alive.md) · [Characters](../categories/Characters.md) · [Human](../categories/Human.md) · [Male](../categories/Male.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `523` · Last revision: `2026-10-03T10:15:59Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `523` · Last revision: `2026-10-03T10:15:59Z`*

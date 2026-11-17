@@ -31,7 +31,9 @@ Fan Junmao is shown to be deeply knowledgeable about the workings of the cultiva
 
 ## References
 
+*No citations listed yet on the source wiki.*
+
 ---
 
 **Categories:** [Characters](../categories/Characters.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `472` · Last revision: `2025-01-26T19:26:03Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `472` · Last revision: `2025-01-26T19:26:03Z`*

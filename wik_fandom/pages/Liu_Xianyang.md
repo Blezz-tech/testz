@@ -32,13 +32,13 @@
 
 ## Appearance
 
-Liu Xianyang is tall and broad, about half a head taller than Chen Ping'an in their youth. He is strong enough to snap a plank bed simply by sitting on it the wrong way. Years later, Chen Ping'an still describes him as a sturdy young man, though he carries himself in a more mature and reserved way than he did in the small town. *(Chapter 536 (2))* 
+Liu Xianyang is tall and broad, about half a head taller than Chen Ping'an in their youth. He is strong enough to snap a plank bed simply by sitting on it the wrong way. Years later, Chen Ping'an still describes him as a sturdy young man, though he carries himself in a more mature and reserved way than he did in the small town.<sup>[[1]](#ref-1)</sup> 
 
 ## Personality
 
-Liu Xianyang is bold, talkative and almost impossible to rattle. As a boy he never seemed bothered by living alone or by anyone's opinion of him, and Chen Ping'an envied this fearlessness more than his talent or strength. *(Chapter 4)* He makes friends easily, fits into new places without trouble, and likes to brag and show off, especially when a girl is watching. He was openly infatuated with [Zhi Gui](Zhi_Gui.md) for years, though she never returned his feelings.
+Liu Xianyang is bold, talkative and almost impossible to rattle. As a boy he never seemed bothered by living alone or by anyone's opinion of him, and Chen Ping'an envied this fearlessness more than his talent or strength.<sup>[[2]](#ref-2)</sup> He makes friends easily, fits into new places without trouble, and likes to brag and show off, especially when a girl is watching. He was openly infatuated with [Zhi Gui](Zhi_Gui.md) for years, though she never returned his feelings.
 
-He can be careless and thoughtless. He took three of four buns for himself and left Chen Ping'an one, and he often joked about [Gu Can](Gu_Can.md)'s mother until Gu Can chased him in tears. These fights usually ended with Liu Xianyang apologising with a grin. *(Chapter 534 (3))* He rarely holds a grudge, does not bully people with his strength, and does not care much about winning an argument.
+He can be careless and thoughtless. He took three of four buns for himself and left Chen Ping'an one, and he often joked about [Gu Can](Gu_Can.md)'s mother until Gu Can chased him in tears. These fights usually ended with Liu Xianyang apologising with a grin.<sup>[[3]](#ref-3)</sup> He rarely holds a grudge, does not bully people with his strength, and does not care much about winning an argument.
 
 Under the jokes he is loyal and stubborn about things that matter. He refused to give up his family's sword scripture even when it nearly cost him his life. As an adult he is relaxed about right and wrong in a way Chen Ping'an is not, and he openly tells his friend to worry less and enjoy life more. He dislikes wine and prefers a plain bowl of noodles.
 
@@ -50,23 +50,23 @@ Liu Xianyang was raised by his grandfather. After the old man died he ran wild a
 
 As a boy he was trapped in an alley by Lu Zhengchun and his friends and beaten almost to death. A small orphan's cries for help saved him. That child was Chen Ping'an. Liu Xianyang repaid him badly at first and bullied him. Then one winter he saw the orphan would not survive, felt guilty, and got him work at the dragon kilns. From then on he looked out for Chen Ping'an and taught him to fish, set traps and make bows.
 
-He was Old Man Yao's favourite apprentice and learned in half a year what took Chen Ping'an three years. *(Chapter 1)* After the kilns closed he went to work for [Ruan Qiong](Ruan_Qiong.md) at his blacksmith shop. Ruan Qiong's remark that he had come only to forge swords won Liu Xianyang's complete admiration. *(Chapter 7)*
+He was Old Man Yao's favourite apprentice and learned in half a year what took Chen Ping'an three years.<sup>[[4]](#ref-4)</sup> After the kilns closed he went to work for [Ruan Qiong](Ruan_Qiong.md) at his blacksmith shop. Ruan Qiong's remark that he had come only to forge swords won Liu Xianyang's complete admiration.<sup>[[5]](#ref-5)</sup>
 
 ### The armour and the sword scripture
 
-Outsiders soon came after his heirlooms. Lu Zhengchun, now working for the Xu Clan of Light Breeze City, begged him to sell the armour and ended up kneeling and kowtowing in Clay Vase Alley. *(Chapter 34)* Liu Xianyang agreed to sell the armour but would not part with the sword scripture. *(Chapter 42)* Soon after, he was struck down at the covered bridge by the [Mountain-Moving Ape](Mountain-Moving_Ape.md) of Sun Scorch Mountain and left close to death. *(Chapter 43)* Chen Ping'an used his locust leaf to keep him alive, and [Qi Jingchun](Qi_Jingchun.md) later confirmed that someone had stepped in to save him. *(Chapter 58)*
+Outsiders soon came after his heirlooms. Lu Zhengchun, now working for the Xu Clan of Light Breeze City, begged him to sell the armour and ended up kneeling and kowtowing in Clay Vase Alley.<sup>[[6]](#ref-6)</sup> Liu Xianyang agreed to sell the armour but would not part with the sword scripture.<sup>[[7]](#ref-7)</sup> Soon after, he was struck down at the covered bridge by the [Mountain-Moving Ape](Mountain-Moving_Ape.md) of Sun Scorch Mountain and left close to death.<sup>[[8]](#ref-8)</sup> Chen Ping'an used his locust leaf to keep him alive, and [Qi Jingchun](Qi_Jingchun.md) later confirmed that someone had stepped in to save him.<sup>[[9]](#ref-9)</sup>
 
-His rescuer was Chen Dui of the Chen Clan, which Liu Xianyang's ancestors had once served as graveyard attendants. While he recovered, he told Chen Ping'an he would leave town with her. *(Chapter 64)* The Pure Confucian Chen Clan agreed to take him to the Southern Whirl Continent on the condition that he return to Ruan Qiong after twenty years. *(Chapter 571 (2))* The armour he sold later helped the head of the Xu Clan become a Nascent Tier cultivator.
+His rescuer was Chen Dui of the Chen Clan, which Liu Xianyang's ancestors had once served as graveyard attendants. While he recovered, he told Chen Ping'an he would leave town with her.<sup>[[10]](#ref-10)</sup> The Pure Confucian Chen Clan agreed to take him to the Southern Whirl Continent on the condition that he return to Ruan Qiong after twenty years.<sup>[[11]](#ref-11)</sup> The armour he sold later helped the head of the Xu Clan become a Nascent Tier cultivator.
 
 ### Southern Whirl Continent
 
-At the Chen Clan he was given a folding fan of divine cloud bamboo, and he often spent evenings on a cliff above the river talking with an old scholar who called himself a teacher. *(Chapter 206 (6))* He lived frugally, made friends among the clan and the academy's scholars, and became a proper student. He also kept training in secret. In his dreams he faced a swordsman whose strikes jolted him awake. This practice with the sword in his sleep made him an expert in swords. When [Zhang Shanfeng](Zhang_Shanfeng.md) brought him an old sword from Chen Ping'an, he could read its secrets just by watching its blade. He sent gifts to [Downtrodden Mountain](Downtrodden_Mountain.md), and he scolded Chen Ping'an by letter for breaking a promise to give him Golden Sweet Wine.
+At the Chen Clan he was given a folding fan of divine cloud bamboo, and he often spent evenings on a cliff above the river talking with an old scholar who called himself a teacher.<sup>[[12]](#ref-12)</sup> He lived frugally, made friends among the clan and the academy's scholars, and became a proper student. He also kept training in secret. In his dreams he faced a swordsman whose strikes jolted him awake. This practice with the sword in his sleep made him an expert in swords. When [Zhang Shanfeng](Zhang_Shanfeng.md) brought him an old sword from Chen Ping'an, he could read its secrets just by watching its blade. He sent gifts to [Downtrodden Mountain](Downtrodden_Mountain.md), and he scolded Chen Ping'an by letter for breaking a promise to give him Golden Sweet Wine.
 
 ### Sword Qi Great Wall
 
-Liu Xianyang later came to the [Sword Qi Great Wall](Sword_Qi_Great_Wall.md) and turned up unannounced at Chen Ping'an's table, where they drank and argued as they had at home. He told his friend bluntly to stop carrying so much guilt over Gu Can and won [Ning Yao](Ning_Yao.md)'s approval in the process. *(Chapter 619)* When Chen Ping'an asked about his cultivation, he refused to answer and teased that the truth would make him cry. *(Chapter 620 (1))*
+Liu Xianyang later came to the [Sword Qi Great Wall](Sword_Qi_Great_Wall.md) and turned up unannounced at Chen Ping'an's table, where they drank and argued as they had at home. He told his friend bluntly to stop carrying so much guilt over Gu Can and won [Ning Yao](Ning_Yao.md)'s approval in the process.<sup>[[13]](#ref-13)</sup> When Chen Ping'an asked about his cultivation, he refused to answer and teased that the truth would make him cry.<sup>[[14]](#ref-14)</sup>
 
-On the city wall he showed he was a sword cultivator. His swords were never seen, yet demons kept dying along his stretch of the wall. While fighting, he taught Chen Ping'an his family's sword scripture in full. *(Chapter 622)* Even his friend Chen Shi had not known he could use a sword. Before returning to help defend the Southern Whirl Continent, he said he meant to challenge Sun Scorch Mountain, and he brushed off Chen Ping'an's warning to wait for him. *(Chapter 632)* Chen Ping'an gave him a seal inscribed "From Great Sword Immortal Chen Ping'an, to Brother Liu Xianyang," which amused him on the voyage home.
+On the city wall he showed he was a sword cultivator. His swords were never seen, yet demons kept dying along his stretch of the wall. While fighting, he taught Chen Ping'an his family's sword scripture in full.<sup>[[15]](#ref-15)</sup> Even his friend Chen Shi had not known he could use a sword. Before returning to help defend the Southern Whirl Continent, he said he meant to challenge Sun Scorch Mountain, and he brushed off Chen Ping'an's warning to wait for him.<sup>[[16]](#ref-16)</sup> Chen Ping'an gave him a seal inscribed "From Great Sword Immortal Chen Ping'an, to Brother Liu Xianyang," which amused him on the voyage home.
 
 ## Trivia
 
@@ -81,7 +81,24 @@ On the city wall he showed he was a sword cultivator. His swords were never seen
 
 ## References
 
+1. <a id="ref-1"></a>Chapter 536 (2)
+2. <a id="ref-2"></a>Chapter 4
+3. <a id="ref-3"></a>Chapter 534 (3)
+4. <a id="ref-4"></a>Chapter 1
+5. <a id="ref-5"></a>Chapter 7
+6. <a id="ref-6"></a>Chapter 34
+7. <a id="ref-7"></a>Chapter 42
+8. <a id="ref-8"></a>Chapter 43
+9. <a id="ref-9"></a>Chapter 58
+10. <a id="ref-10"></a>Chapter 64
+11. <a id="ref-11"></a>Chapter 571 (2)
+12. <a id="ref-12"></a>Chapter 206 (6)
+13. <a id="ref-13"></a>Chapter 619
+14. <a id="ref-14"></a>Chapter 620 (1)
+15. <a id="ref-15"></a>Chapter 622
+16. <a id="ref-16"></a>Chapter 632
+
 ---
 
 **Categories:** [Alive](../categories/Alive.md) · [Characters](../categories/Characters.md) · [Human](../categories/Human.md) · [Male](../categories/Male.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `257` · Last revision: `2026-10-11T10:08:16Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `257` · Last revision: `2026-10-11T10:08:16Z`*

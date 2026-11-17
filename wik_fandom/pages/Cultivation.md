@@ -16,49 +16,49 @@
 **2. Paths of Cultivation**
 
 - **Qi Refiners**
-** Rely on the bestowal of the heavens, making fortune and fate essential.
-** They refine *qi* and combine both nurturing and refining together.
-** They can nurture a myriad of different *sword qi*, some profound and some shallow.
-** Their goal is to absorb as much spiritual energy as possible, though it is limited by the number of acupoints developed.
-** The lower five tiers of Qi refinement focus on cultivating one's flesh and include the Copper Skin Tier, the Grass Root Tier, the Willow Tendon Tier, the Bone Qi Tier, and the Furnace Molding Tier.
-** The first four of these tiers are focused on developing a tough physique.
-** The final tier, the Furnace Molding Tier, is a stage where one integrates everything together, and their body becomes a great tool for refining Qi.
-** The Middle Five Tiers for Qi refiners include the Cave Abode Tier, the Sea Observation Tier, the Dragon Gate Tier, the Golden Core Tier, and the Nascent Tier.
-** Upon reaching the Golden Core Tier, one can transform their entire sea of Qi into a golden core.
-** The Cave Abode Tier is a difficult hurdle.
-** Some Qi refiners can observe the world through their palms.
-** Some Qi refiners may be "handicapped" in certain small worlds.
+  - Rely on the bestowal of the heavens, making fortune and fate essential.
+  - They refine *qi* and combine both nurturing and refining together.
+  - They can nurture a myriad of different *sword qi*, some profound and some shallow.
+  - Their goal is to absorb as much spiritual energy as possible, though it is limited by the number of acupoints developed.
+  - The lower five tiers of Qi refinement focus on cultivating one's flesh and include the Copper Skin Tier, the Grass Root Tier, the Willow Tendon Tier, the Bone Qi Tier, and the Furnace Molding Tier.
+  - The first four of these tiers are focused on developing a tough physique.
+  - The final tier, the Furnace Molding Tier, is a stage where one integrates everything together, and their body becomes a great tool for refining Qi.
+  - The Middle Five Tiers for Qi refiners include the Cave Abode Tier, the Sea Observation Tier, the Dragon Gate Tier, the Golden Core Tier, and the Nascent Tier.
+  - Upon reaching the Golden Core Tier, one can transform their entire sea of Qi into a golden core.
+  - The Cave Abode Tier is a difficult hurdle.
+  - Some Qi refiners can observe the world through their palms.
+  - Some Qi refiners may be "handicapped" in certain small worlds.
 - **Martial Artists**
-** Must take things step by step with no shortcuts.
-** Focus on the refinement of the body, with the first three tiers being relatively concrete and the following three being more ambiguous and involving the development of souls, senses, and courage.
-** The first three tiers are the Physique Refining Tier, which includes the Clay Embryo Tier, a foundational stage where one is still rough and unrefined.
-** The Wooden Fetus Tier depends solely on one's ability to endure hardship.
-** The seventh tier is the Vajra Body Tier, where one attains an indestructible body.
-** The eighth tier is the Wing Formation Tier, where martial artists can suspend themselves in the air and fly.
-** The ninth tier is the Mountain Summit Tier.
-** The tenth tier is know as the End Tier as there is no know path to he Upper Five Tiers as a Martial Artist.
-** They have a different approach to *qi* refinement, taking the opposite route compared with cultivators.
-** They do not rely on external treasures.
-** They focus on the circulation of True Qi, and must learn which acupoints the True Qi has to travel through and at what speed.
+  - Must take things step by step with no shortcuts.
+  - Focus on the refinement of the body, with the first three tiers being relatively concrete and the following three being more ambiguous and involving the development of souls, senses, and courage.
+  - The first three tiers are the Physique Refining Tier, which includes the Clay Embryo Tier, a foundational stage where one is still rough and unrefined.
+  - The Wooden Fetus Tier depends solely on one's ability to endure hardship.
+  - The seventh tier is the Vajra Body Tier, where one attains an indestructible body.
+  - The eighth tier is the Wing Formation Tier, where martial artists can suspend themselves in the air and fly.
+  - The ninth tier is the Mountain Summit Tier.
+  - The tenth tier is know as the End Tier as there is no know path to he Upper Five Tiers as a Martial Artist.
+  - They have a different approach to *qi* refinement, taking the opposite route compared with cultivators.
+  - They do not rely on external treasures.
+  - They focus on the circulation of True Qi, and must learn which acupoints the True Qi has to travel through and at what speed.
 - **Swordsmen**
-** Focus on two matters: practicing the sword and refining the sword.
-** Practicing the sword involves learning sword techniques, while refining the sword involves tempering one's sword and bonded flying sword.
-** Refining a physical flying sword or nurturing a bonded flying sword requires precious resources.
+  - Focus on two matters: practicing the sword and refining the sword.
+  - Practicing the sword involves learning sword techniques, while refining the sword involves tempering one's sword and bonded flying sword.
+  - Refining a physical flying sword or nurturing a bonded flying sword requires precious resources.
 - **Militarians**
-** Strive for an "unmatched aura".
-** They can be cultivators, Qi refiners, martial artists, and swordsmen.
-** They are known for being unkillable and for killing others with ease.
-** They are completely uncaring and without qualms, daring to kill anyone that they please.
+  - Strive for an "unmatched aura".
+  - They can be cultivators, Qi refiners, martial artists, and swordsmen.
+  - They are known for being unkillable and for killing others with ease.
+  - They are completely uncaring and without qualms, daring to kill anyone that they please.
 
 **3. Tiers of Cultivation**
 
 - **General Tiers**
-** All martial arts are divided into nine tiers, though some say there is a 10th tier.
-** Cultivators also have tiers, though they have different names and requirements than martial arts tiers.
-** The Lower Five Tiers are generally concerned with the refinement of the body.
-** The Middle Five Tiers involve the development of the soul and the ability to manifest heart strings.
-** The Upper Five Tiers are a lofty goal for most cultivators.
-** Reaching the 10th tier is a significant achievement.
+  - All martial arts are divided into nine tiers, though some say there is a 10th tier.
+  - Cultivators also have tiers, though they have different names and requirements than martial arts tiers.
+  - The Lower Five Tiers are generally concerned with the refinement of the body.
+  - The Middle Five Tiers involve the development of the soul and the ability to manifest heart strings.
+  - The Upper Five Tiers are a lofty goal for most cultivators.
+  - Reaching the 10th tier is a significant achievement.
 - **Martial Arts Tiers**
 - The first three tiers involve refinement of the body.
 - The Clay Embryo Tier is the first tier of the Physique Refining Tier, where one is still rough and unrefined.
@@ -67,11 +67,11 @@
 - The eighth tier is the Wing Formation Tier.
 - The ninth and final tier is the Mountain Summit Tier.
 - **Qi Refinement Tiers**
-** The Lower Five Tiers include the Copper Skin Tier, the Grass Root Tier, the Willow Tendon Tier, the Bone Qi Tier, and the Furnace Molding Tier.
-** The final tier of the Lower Five Tiers is the Furnace Molding Tier.
-** The Middle Five Tiers include the Cave Abode Tier, the Sea Observation Tier, the Dragon Gate Tier, the Golden Core Tier, and the Nascent Tier.
-** The Dragon Gate Tier is a highly sought-after achievement.
-** The Unpolished Jade Tier is a high level of achievement.
+  - The Lower Five Tiers include the Copper Skin Tier, the Grass Root Tier, the Willow Tendon Tier, the Bone Qi Tier, and the Furnace Molding Tier.
+  - The final tier of the Lower Five Tiers is the Furnace Molding Tier.
+  - The Middle Five Tiers include the Cave Abode Tier, the Sea Observation Tier, the Dragon Gate Tier, the Golden Core Tier, and the Nascent Tier.
+  - The Dragon Gate Tier is a highly sought-after achievement.
+  - The Unpolished Jade Tier is a high level of achievement.
 
 **4. Methods and Techniques**
 
@@ -118,4 +118,4 @@
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `465` · Last revision: `2025-07-22T16:34:27Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `465` · Last revision: `2025-07-22T16:34:27Z`*

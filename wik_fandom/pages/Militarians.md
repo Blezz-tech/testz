@@ -42,4 +42,4 @@ The Militarians are a distinct group of cultivators in Eastern Treasured Vial Co
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `411` · Last revision: `2025-01-23T23:34:30Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `411` · Last revision: `2025-01-23T23:34:30Z`*

@@ -46,7 +46,9 @@ Zhong Kui's family background is not mentioned in the sources. He is described a
 
 ## References
 
+*No citations listed yet on the source wiki.*
+
 ---
 
 **Categories:** [Characters](../categories/Characters.md)
-*Source: `sword-of-coming.fandom.com` · Page ID: `473` · Last revision: `2025-01-26T19:23:31Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `473` · Last revision: `2025-01-26T19:23:31Z`*

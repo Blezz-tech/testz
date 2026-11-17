@@ -38,4 +38,4 @@ Confucianism, while facing internal debates and challenges from other schools of
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `414` · Last revision: `2025-01-23T23:38:41Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `414` · Last revision: `2025-01-23T23:38:41Z`*

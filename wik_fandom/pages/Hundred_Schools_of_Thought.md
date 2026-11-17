@@ -32,4 +32,4 @@ Through these encounters, Chen Ping’an gains a nuanced perspective on the Hund
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `419` · Last revision: `2025-01-23T23:51:23Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `419` · Last revision: `2025-01-23T23:51:23Z`*

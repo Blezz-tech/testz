@@ -58,4 +58,4 @@ Fox Town is a complex location that is much more than what it appears to be on t
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `461` · Last revision: `2025-01-25T23:13:43Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `461` · Last revision: `2025-01-25T23:13:43Z`*

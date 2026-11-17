@@ -61,4 +61,4 @@ This overview provides a glimpse into the multifaceted nature of the Majestic Wo
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `420` · Last revision: `2025-01-24T20:35:50Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `420` · Last revision: `2025-01-24T20:35:50Z`*

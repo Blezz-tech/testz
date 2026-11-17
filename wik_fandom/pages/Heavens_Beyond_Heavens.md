@@ -50,4 +50,4 @@ The heavens beyond heavens are depicted as a **complex and multi-faceted concept
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `445` · Last revision: `2025-01-25T18:24:39Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `445` · Last revision: `2025-01-25T18:24:39Z`*

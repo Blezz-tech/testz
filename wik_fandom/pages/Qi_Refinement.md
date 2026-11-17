@@ -18,16 +18,16 @@ Qi refinement is a fundamental practice in the sources, involving the manipulati
 
 - The sources describe a tiered system of Qi refinement, generally divided into **Lower, Middle, and Upper Five Tiers**.
 - **Lower Five Tiers**: Also known as the **Mountain Ascending Five Tiers**, these tiers focus on refining the body. They are the Copper Skin Tier, Grass Root Tier, Willow Tendon Tier, Bone Qi Tier, and Furnace Molding Tier.
-** The first four tiers focus on cultivating the flesh and nurturing a tough physique.
-** At the peak stage of the Mud Molding Tier, one's Qi descends to their Dantian.
-** The final tier of the Physique Refining Tier is the Mercury Tier, where one's blood becomes like mercury.
+  - The first four tiers focus on cultivating the flesh and nurturing a tough physique.
+  - At the peak stage of the Mud Molding Tier, one's Qi descends to their Dantian.
+  - The final tier of the Physique Refining Tier is the Mercury Tier, where one's blood becomes like mercury.
 - **Middle Five Tiers**: These tiers are the Cave Abode Tier, the Sea Observation Tier, the Dragon Gate Tier, the Golden Core Tier, and the Nascent Tier.
   - The **Golden Core Tier** marks a significant step, where a cultivator's sea of Qi condenses into a golden core. This allows them to store more energy, and even borrow spiritual energy from heaven and earth.
-** After reaching the Golden Core Tier, one is regarded as a genuine immortal.
+  - After reaching the Golden Core Tier, one is regarded as a genuine immortal.
 - **Upper Five Tiers**: The sources mention the **Unpolished Jade Tier** as a level of great accomplishment, where cultivators return to a state of natural simplicity.
-** At the Unpolished Jade Tier, one's body is like gold and jade, resistant to natural elements, and one can enjoy a lifespan of 500 to 1000 years.
-** Female Qi refiners at this tier are said to have the ability to beautify themselves without detrimentally affecting their fate.
-** Those at the Upper Five Tiers are much more flexible and free than those at the Nascent Tier.
+  - At the Unpolished Jade Tier, one's body is like gold and jade, resistant to natural elements, and one can enjoy a lifespan of 500 to 1000 years.
+  - Female Qi refiners at this tier are said to have the ability to beautify themselves without detrimentally affecting their fate.
+  - Those at the Upper Five Tiers are much more flexible and free than those at the Nascent Tier.
 - There is also mention of an **11th tier**, but this is not discussed in detail in the sources.
 
 **Methods and Practices**:
@@ -79,4 +79,4 @@ Qi refinement is a complex and multifaceted practice that involves the manipulat
 
 ---
 
-*Source: `sword-of-coming.fandom.com` · Page ID: `443` · Last revision: `2025-01-24T23:51:45Z`*
+*Source: `sword-of-coming.fandom.com` · Namespace: `0` · Page ID: `443` · Last revision: `2025-01-24T23:51:45Z`*
