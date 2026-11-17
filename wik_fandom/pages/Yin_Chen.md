@@ -1,0 +1,11 @@
+# Yin Chen
+
+[← Wiki Index](../INDEX.md) · [Original Fandom Page](https://sword-of-coming.fandom.com/wiki/Yin_Chen)
+
+---
+*This article is currently a stub on the Sword of Coming Fandom Wiki.*
+
+---
+
+**Categories:** [Characters](../categories/Characters.md)
+*Source: `sword-of-coming.fandom.com` · Page ID: `631` · Last revision: `2026-10-12T12:08:17Z`*
