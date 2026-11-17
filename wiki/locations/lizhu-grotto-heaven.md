@@ -2,7 +2,7 @@
 id: loc.lizhu-grotto-heaven
 type: location
 zh: 骊珠洞天
-zh_aliases: []
+zh_aliases: ["小镇"]
 pinyin: Lizhu Dongtian
 palladius: Личжу дунтянь
 ru: Грот-небеса Личжу
