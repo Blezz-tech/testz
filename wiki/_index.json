@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "total_entities": 254,
+  "total_entities": 256,
   "counts_by_type": {
     "artifact": 6,
     "character": 141,
@@ -8,7 +8,7 @@
     "cultivation": 11,
     "faction": 34,
     "idiom": 8,
-    "location": 46,
+    "location": 48,
     "media": 2
   },
   "entities": {
@@ -2998,7 +2998,10 @@
         "char.zhigui",
         "concept.imperial-kilns",
         "cult.sword-cultivator",
+        "loc.baoxi-stream",
         "loc.northern-juilu-continent",
+        "loc.old-locust-tree",
+        "loc.qilong-alley",
         "loc.sword-qi-great-wall"
       ],
       "referenced_by": [
@@ -3012,7 +3015,9 @@
         "char.tao-zi",
         "char.wei-jin",
         "concept.imperial-kilns",
-        "fac.zhengyang-mountain"
+        "fac.zhengyang-mountain",
+        "loc.baoxi-stream",
+        "loc.old-locust-tree"
       ]
     },
     "char.liu-zhimao": {
@@ -5780,7 +5785,9 @@
       "pinyin": "Zhigui",
       "palladius": "Чжигуй",
       "ru": "Чжигуй",
-      "ru_aliases": [],
+      "ru_aliases": [
+        "Ван Чжу"
+      ],
       "first_chapter": 1,
       "gender": "female",
       "subtype": null,
@@ -6299,7 +6306,9 @@
         "督造大人",
         "监造大人",
         "龙窑",
-        "拉坯"
+        "拉坯",
+        "跳刀",
+        "跳-刀"
       ],
       "pinyin": "Guanyao / Longyao",
       "palladius": "Гуанъяо / Лунъяо",
@@ -6308,7 +6317,8 @@
         "казённые печи",
         "императорские печи",
         "драконьи горны",
-        "драконья печь"
+        "драконья печь",
+        "прыгающий нож"
       ],
       "first_chapter": 1,
       "gender": null,
@@ -6350,6 +6360,7 @@
         "concept.natal-porcelain",
         "faction.imperial-court",
         "idiom.clay-bodhisattva-crossing-river",
+        "loc.baoxi-stream",
         "loc.lizhu-grotto-heaven",
         "loc.small-town"
       ]
@@ -9063,6 +9074,38 @@
         "media.novel"
       ]
     },
+    "loc.baoxi-stream": {
+      "id": "loc.baoxi-stream",
+      "type": "location",
+      "zh": "宝溪",
+      "zh_aliases": [],
+      "pinyin": "Baoxi",
+      "palladius": "Баоси",
+      "ru": "Ручей Сокровищ",
+      "ru_aliases": [],
+      "first_chapter": 4,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "ручей",
+        "гончарные-печи",
+        "окрестности"
+      ],
+      "path": "wiki/locations/baoxi-stream.md",
+      "links_to": [
+        "char.liu-xianyang",
+        "concept.imperial-kilns",
+        "loc.small-town"
+      ],
+      "referenced_by": [
+        "char.liu-xianyang",
+        "loc.small-town"
+      ]
+    },
     "loc.blusher-prefecture": {
       "id": "loc.blusher-prefecture",
       "type": "location",
@@ -9355,7 +9398,9 @@
       "id": "loc.fortune-street",
       "type": "location",
       "zh": "福禄街",
-      "zh_aliases": [],
+      "zh_aliases": [
+        "福鹿街"
+      ],
       "pinyin": "Fulu Jie",
       "palladius": "Фулу цзе",
       "ru": "Проспект Фортуны",
@@ -10155,6 +10200,7 @@
         "loc.apricot-blossom-alley",
         "loc.fortune-street",
         "loc.lizhu-grotto-heaven",
+        "loc.old-locust-tree",
         "loc.peach-leaf-alley",
         "loc.qilong-alley",
         "loc.small-town"
@@ -10255,6 +10301,40 @@
         "fac.clans-compendium",
         "loc.eastern-treasured-vial-continent",
         "media.novel"
+      ]
+    },
+    "loc.old-locust-tree": {
+      "id": "loc.old-locust-tree",
+      "type": "location",
+      "zh": "老槐树",
+      "zh_aliases": [
+        "槐树"
+      ],
+      "pinyin": "Laohuai Shu",
+      "palladius": "Лао хуай шу",
+      "ru": "Старая софора",
+      "ru_aliases": [],
+      "first_chapter": 2,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "ориентир",
+        "место-сборов",
+        "дерево"
+      ],
+      "path": "wiki/locations/old-locust-tree.md",
+      "links_to": [
+        "char.liu-xianyang",
+        "loc.niping-alley",
+        "loc.small-town"
+      ],
+      "referenced_by": [
+        "char.liu-xianyang",
+        "loc.small-town"
       ]
     },
     "loc.parasol-leaf-continent": {
@@ -10374,6 +10454,7 @@
       "referenced_by": [
         "char.chen-lingjun",
         "char.chen-pingan",
+        "char.liu-xianyang",
         "char.master-ruan",
         "char.ruan-xiu",
         "loc.lizhu-grotto-heaven",
@@ -10601,10 +10682,12 @@
         "concept.qiyun",
         "fac.great-li-empire",
         "loc.apricot-blossom-alley",
+        "loc.baoxi-stream",
         "loc.fortune-street",
         "loc.lizhu-grotto-heaven",
         "loc.mountains-near-town",
         "loc.niping-alley",
+        "loc.old-locust-tree",
         "loc.peach-leaf-alley",
         "loc.qilong-alley"
       ],
@@ -10649,12 +10732,14 @@
         "fac.mountain-cliff-academy",
         "idiom.good-things-fragile",
         "loc.apricot-blossom-alley",
+        "loc.baoxi-stream",
         "loc.blusher-prefecture",
         "loc.dragon-spring-prefecture",
         "loc.eastern-treasured-vial-continent",
         "loc.fortune-street",
         "loc.mountains-near-town",
         "loc.old-dragon-city",
+        "loc.old-locust-tree",
         "loc.peach-leaf-alley",
         "loc.qingfeng-city",
         "loc.red-candle-town",
@@ -11795,6 +11880,9 @@
     "福禄街": [
       "loc.fortune-street"
     ],
+    "福鹿街": [
+      "loc.fortune-street"
+    ],
     "竹枝派": [
       "fac.bamboo-branch-school"
     ],
@@ -11818,6 +11906,9 @@
     ],
     "老厨子": [
       "char.zhu-lian"
+    ],
+    "老槐树": [
+      "loc.old-locust-tree"
     ],
     "老畜生": [
       "char.mountain-moving-ape"
@@ -11902,6 +11993,9 @@
     ],
     "贺小凉": [
       "char.he-xiaoliang"
+    ],
+    "跳-刀": [
+      "concept.imperial-kilns"
     ],
     "迎春钱": [
       "concept.currency"
@@ -12221,6 +12315,9 @@
     "官窑": [
       "concept.imperial-kilns"
     ],
+    "宝溪": [
+      "loc.baoxi-stream"
+    ],
     "宝瓶": [
       "char.li-baoping"
     ],
@@ -12367,6 +12464,9 @@
     ],
     "槐儿": [
       "char.li-huai"
+    ],
+    "槐树": [
+      "loc.old-locust-tree"
     ],
     "武夫": [
       "cult.martial-arts"
@@ -12523,6 +12623,9 @@
     ],
     "赵鸾": [
       "char.zhao-luan"
+    ],
+    "跳刀": [
+      "concept.imperial-kilns"
     ],
     "道家": [
       "cult.daoism"

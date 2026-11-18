@@ -1,6 +1,6 @@
 # Локации и топонимы (`wiki/locations/`)
 
-Все места романа — **46 карточек**: от четырёх великих миров до отдельного колодца.
+Все места романа — **48 карточек**: от четырёх великих миров до отдельного колодца.
 
 [← Портал Вики](../README.md) · [Полный указатель](../INDEX.md)
 
@@ -27,7 +27,7 @@
 
 ## Дом героя
 
-[Грот-небеса Личжу](lizhu-grotto-heaven.md) · [Городок](small-town.md) · [Переулок Глиняных Кувшинов](niping-alley.md) · [Переулок Оседлавшего Дракона](qilong-alley.md) · [Переулок Абрикосовых Цветов](apricot-blossom-alley.md) · [Переулок Персиковых Листьев](peach-leaf-alley.md) · [Проспект Фортуны](fortune-street.md) · [Горы близ городка](mountains-near-town.md) · [Префектура Драконьего Родника](dragon-spring-prefecture.md) · [Гора Лопо](luopo-mountain.md)
+[Грот-небеса Личжу](lizhu-grotto-heaven.md) · [Городок](small-town.md) · [Старая софора](old-locust-tree.md) · [Ручей Сокровищ](baoxi-stream.md) · [Переулок Глиняных Кувшинов](niping-alley.md) · [Переулок Оседлавшего Дракона](qilong-alley.md) · [Переулок Абрикосовых Цветов](apricot-blossom-alley.md) · [Переулок Персиковых Листьев](peach-leaf-alley.md) · [Проспект Фортуны](fortune-street.md) · [Горы близ городка](mountains-near-town.md) · [Префектура Драконьего Родника](dragon-spring-prefecture.md) · [Гора Лопо](luopo-mountain.md)
 
 ## Дальние земли
 

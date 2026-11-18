@@ -158,7 +158,7 @@ python3 scripts/wiki_tool.py index
 python3 scripts/wiki_tool.py check
 
 # 4. Перед переводом главы — собрать досье сущностей (с анти-спойлерным фильтром)
-python3 scripts/wiki_tool.py scan chapters/0512.md --max-chapter 512
+python3 scripts/wiki_tool.py scan chapters/zh/0512.md --max-chapter 512
 
 # 5. Быстрый поиск сущности по китайскому или русскому имени
 python3 scripts/wiki_tool.py lookup 落魄山
@@ -186,7 +186,7 @@ python3 scripts/wiki_tool.py lookup "Гора Лопо"
 
 ### При переводе главы
 
-1. `python3 scripts/wiki_tool.py scan chapters/NNNN.md --max-chapter NNNN`
+1. `python3 scripts/wiki_tool.py scan chapters/zh/NNNN.md --max-chapter NNNN`
 2. Открыть карточки всех найденных сущностей, **прочитать `## Правила перевода`**.
 3. Проверить `needs_endnote: true` — этим сущностям нужна сноска при первом появлении.
 4. Перевести главу, используя **только** канонические имена из карточек.
@@ -250,5 +250,5 @@ python3 scripts/wiki_tool.py lookup "Гора Лопо"
 
 - [Методика перевода](../docs/TRANSLATION_BEST_PRACTICES.md) — стиль, сноски, имена, регистр.
 - [Рабочий процесс агента](../docs/TRANSLATION_WORKFLOW.md) — пошаговый пайплайн перевода главы.
-- [Оглавление глав](../chapters/README.md) — структура корпуса.
+- [Оглавление глав](../chapters/zh/README.md) — структура корпуса.
 - [Указатель вики](INDEX.md) — все статьи.
