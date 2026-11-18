@@ -9,7 +9,7 @@
 ## Схема
 
 ```text
-chapters/NNNN.md + chapters/index.json
+chapters/zh/NNNN.md + chapters/zh/index.json
         │
         ▼
 [0] Проверка записи в реестре          ── duplicate / missing_stub → стоп
@@ -33,14 +33,14 @@ chapters/NNNN.md + chapters/index.json
 [6] Обновление вики + build + check
         │
         ▼
-translations/ru/NNNN.md
+chapters/ru/NNNN.md
 ```
 
 ---
 
 ## Шаг 0. Реестр глав
 
-Открыть запись `NNNN` в [`chapters/index.json`](../chapters/index.json) и проверить `status`:
+Открыть запись `NNNN` в [`chapters/zh/index.json`](../chapters/zh/index.json) и проверить `status`:
 
 | `status` | Действие |
 | :--- | :--- |
@@ -50,7 +50,7 @@ translations/ru/NNNN.md
 
 Поле `entry_type` задаёт тон: `chapter` — художественное повествование, `foreword` / `author_note` / `author_notice` — прямая речь автора к читателю, без стилизации под роман.
 
-**Особые файлы** (см. [оглавление корпуса](../chapters/README.md)):
+**Особые файлы** (см. [оглавление корпуса](../chapters/zh/README.md)):
 
 - `0000_synopsis.md` — аннотация, не глава;
 - `0000.md` — авторское предисловие;
@@ -62,7 +62,7 @@ translations/ru/NNNN.md
 ## Шаг 1. Досье сущностей
 
 ```bash
-python3 scripts/wiki_tool.py scan chapters/NNNN.md --max-chapter NNNN
+python3 scripts/wiki_tool.py scan chapters/zh/NNNN.md --max-chapter NNNN
 ```
 
 Что делает команда:
@@ -181,7 +181,7 @@ python3 scripts/wiki_tool.py index   # перегенерировать wiki/IND
 
 ### 6.4. Файл перевода
 
-Перевод сохраняется как `translations/ru/NNNN.md`:
+Перевод сохраняется как `chapters/ru/NNNN.md`:
 
 ```markdown
 ---
@@ -208,7 +208,7 @@ endnotes: 3
 
 ```bash
 # досье главы
-python3 scripts/wiki_tool.py scan chapters/0512.md --max-chapter 512
+python3 scripts/wiki_tool.py scan chapters/zh/0512.md --max-chapter 512
 
 # найти сущность
 python3 scripts/wiki_tool.py lookup 落魄山

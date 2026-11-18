@@ -4,7 +4,7 @@
 
 Внутри три вещи, которые работают вместе:
 
-- **`chapters/`** — полный китайский оригинал: 1199 файлов, 12,1 млн знаков, разбитый по главам и очищенный от мусора парсеров.
+- **`chapters/zh/`** — полный китайский оригинал: 1199 файлов, 12,1 млн знаков, разбитый по главам и очищенный от мусора парсеров. Перевод на русский ведётся в **`chapters/ru/`**.
 - **`wiki/`** — Лор-Вики на **254 карточки**: персонажи, локации, фракции, культивация, концепции, артефакты, идиомы и медиа. С китайским оригиналом, пиньинем, Палладием, первой главой появления и явными «Правилами перевода». Переводческие справочники лежат в `wiki/dictionaries/`.
 - **`docs/`** — методика и рабочий процесс: как переводить, какие сноски ставить, как не потерять канон на 1198 главах.
 
@@ -17,7 +17,7 @@
 python3 scripts/wiki_tool.py check
 
 # досье сущностей главы перед переводом
-python3 scripts/wiki_tool.py scan chapters/0001.md --max-chapter 1
+python3 scripts/wiki_tool.py scan chapters/zh/0001.md --max-chapter 1
 
 # найти сущность по китайскому или русскому имени
 python3 scripts/wiki_tool.py lookup 落魄山
@@ -31,12 +31,13 @@ python3 scripts/wiki_tool.py lookup 落魄山
 
 | Путь | Что внутри |
 | :--- | :--- |
-| [`chapters/`](chapters/README.md) | Оригинал по главам + реестр [`chapters/index.json`](chapters/index.json) |
+| [`chapters/zh/`](chapters/zh/README.md) | Китайский оригинал по главам + реестр [`index.json`](chapters/zh/index.json) |
+| [`chapters/ru/`](chapters/ru/README.md) | Русские переводы, сведения о формате и текущем прогрессе |
 | [`wiki/`](wiki/README.md) | Лор-Вики: 254 карточки, [`INDEX.md`](wiki/INDEX.md), [`_index.json`](wiki/_index.json), переводческие [`словари`](wiki/dictionaries/README.md) |
 | [`docs/TRANSLATION_BEST_PRACTICES.md`](docs/TRANSLATION_BEST_PRACTICES.md) | Методика: имена, обращения, регистр, сноски, синтаксис, запреты |
 | [`docs/TRANSLATION_WORKFLOW.md`](docs/TRANSLATION_WORKFLOW.md) | Пайплайн перевода главы: от реестра до обновления вики |
 | [`scripts/wiki_tool.py`](scripts/wiki_tool.py) | CLI: `build`, `index`, `check`, `scan`, `lookup` |
-| [`scripts/split_chapters.py`](scripts/split_chapters.py) | Воспроизводимая разбивка монолитного исходника на главы |
+| [`scripts/split_chapters.py`](scripts/split_chapters.py) | Устаревшая утилита разбивки монолита; не используется для переводов в `chapters/ru/` |
 
 ### Что в вики
 

@@ -1,8 +1,8 @@
-# Корпус глав 《剑来》 (`chapters/`)
+# Корпус глав 《剑来》 (`chapters/zh/`)
 
-Полный китайский оригинал романа, разбитый по главам скриптом [`scripts/split_chapters.py`](../scripts/split_chapters.py). **1199 файлов**, 12,1 млн знаков.
+Полный китайский оригинал романа: **1199 файлов**, 12,1 млн знаков. Источник хранится отдельно от русского перевода в [`chapters/ru/`](../ru/README.md).
 
-[← Корень репозитория](../README.md) · [Лор-Вики](../wiki/README.md) · [Реестр `index.json`](index.json)
+[← Корень репозитория](../../README.md) · [Лор-Вики](../../wiki/README.md) · [Реестр `index.json`](index.json)
 
 ---
 
@@ -50,7 +50,7 @@
 ## Известные особенности текста
 
 - **Главы 1006–1177** содержат «хвосты» агрегаторов: обрывки анонсов других произведений в конце файла. При переводе отбрасывать, на канон не влияют.
-- **Водяные знаки** (`[www.…]`), разрывавшие слова посреди предложения, вычищены скриптом: 21 вхождение. Монолитный исходник `剑来_全集_1198章.txt` (~38 МБ) лежит в корне рабочей копии, но **не хранится в git** (см. `.gitignore`) — он нужен только для пересборки корпуса.
+- **Водяные знаки** (`[www.…]`), разрывавшие слова посреди предложения, вычищены скриптом: 21 вхождение. Монолитный исходник `剑来_全集_1198章.txt` (~38 МБ) не хранится в Git; утилита `scripts/split_chapters.py` рассчитана на прежнюю плоскую структуру и не используется для перевода в `chapters/ru/`.
 - **Дубликаты** имеют идентичный `sha256_16` с оригиналом — это проверяется скриптом разбивки.
 - Записи `author_note` / `author_notice` — не художественный текст: переводить в тоне авторского обращения к читателю.
 
@@ -60,14 +60,14 @@
 
 ```bash
 # досье сущностей главы перед переводом
-python3 scripts/wiki_tool.py scan chapters/0512.md --max-chapter 512
+python3 scripts/wiki_tool.py scan chapters/zh/0512.md --max-chapter 512
 
 # посмотреть запись в реестре
-python3 -c "import json;d=json.load(open('chapters/index.json'));\
+python3 -c "import json;d=json.load(open('chapters/zh/index.json'));\
 print([e for e in d['entries'] if e['id']=='0512'][0])"
 
-# пересобрать корпус из монолитного исходника
-python3 scripts/split_chapters.py
 ```
 
-Регламент перевода — [docs/TRANSLATION_WORKFLOW.md](../docs/TRANSLATION_WORKFLOW.md). Методика — [docs/TRANSLATION_BEST_PRACTICES.md](../docs/TRANSLATION_BEST_PRACTICES.md).
+Переводы хранятся отдельно в [`chapters/ru/`](../ru/README.md); текущий прогресс и правила отбора перечислены там же.
+
+Регламент перевода — [docs/TRANSLATION_WORKFLOW.md](../../docs/TRANSLATION_WORKFLOW.md). Методика — [docs/TRANSLATION_BEST_PRACTICES.md](../../docs/TRANSLATION_BEST_PRACTICES.md).

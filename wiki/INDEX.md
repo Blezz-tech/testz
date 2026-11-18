@@ -5,7 +5,7 @@
 > Файл генерируется автоматически командой `python3 scripts/wiki_tool.py index`.
 > Не редактируйте его вручную: после правки карточек просто перегенерируйте указатель.
 
-**Всего статей: 254.**
+**Всего статей: 256.**
 
 ## Персонажи (141)
 
@@ -208,7 +208,7 @@
 | [Школа Озёрных Гор](factions/lake-mountain-school.md) | `湖山派` | 308 |
 | [Школа Хуанлян](factions/yellow-millet-school.md) | `黄粱派` | 926 |
 
-## Миры, континенты и локации (46)
+## Миры, континенты и локации (48)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -247,10 +247,12 @@
 | [Поднебесная Необъятного Света](locations/majestic-world.md) | `浩然天下 / 浩然` | 15 |
 | [Префектура Драконьего Родника](locations/dragon-spring-prefecture.md) | `龙泉郡 / 龙泉县` | 179 |
 | [Префектура Румян](locations/blusher-prefecture.md) | `胭脂郡` | 220 |
-| [Проспект Фортуны](locations/fortune-street.md) | `福禄街` | 5 |
+| [Проспект Фортуны](locations/fortune-street.md) | `福禄街 / 福鹿街` | 5 |
 | [Пятицветная Поднебесная](locations/five-colored-world.md) | `五彩天下` | 787 |
+| [Ручей Сокровищ](locations/baoxi-stream.md) | `宝溪` | 4 |
 | [Северный Цзюйлу](locations/northern-juilu-continent.md) | `北俱芦洲` | 189 |
 | [Срединный Божественный материк](locations/middle-earth-continent.md) | `中土神洲 / 中土` | 127 |
+| [Старая софора](locations/old-locust-tree.md) | `老槐树 / 槐树` | 2 |
 | [Старый Драконий Город](locations/old-dragon-city.md) | `老龙城` | 9 |
 | [Столица Белого Нефрита](locations/white-jade-capital.md) | `白玉京` | 208 |
 | [Столица Великой Ли](locations/great-li-capital.md) | `大骊京城` | 41 |

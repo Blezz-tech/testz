@@ -6,7 +6,7 @@ zh_aliases: ["王朱", "朱珠"]
 pinyin: Zhigui
 palladius: Чжигуй
 ru: Чжигуй
-ru_aliases: []
+ru_aliases: ["Ван Чжу"]
 gender: female
 first_chapter: 1
 tags: ["нипинсян", "истинный-дракон", "служанка", "личжу"]

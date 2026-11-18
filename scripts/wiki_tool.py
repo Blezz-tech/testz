@@ -18,7 +18,7 @@
       Перегенерирует `wiki/INDEX.md` — полный алфавитный указатель всех статей
       по категориям (его не нужно править вручную).
 
-  python3 scripts/wiki_tool.py scan chapters/0001.md [--max-chapter N]
+  python3 scripts/wiki_tool.py scan chapters/zh/0001.md [--max-chapter N]
       Сканирует китайский текст главы и выводит досье перевода: найденные
       персонажи, топонимы, термины, ранги и идиомы с защитой от спойлеров.
       Если `--max-chapter` не указан, номер главы берётся из имени файла.
@@ -623,7 +623,7 @@ def main() -> None:
     sub.add_parser("check", help="Проверить карточки, ссылки и свежесть INDEX.md")
 
     scan_p = sub.add_parser("scan", help="Просканировать главу по базе Лор-Вики")
-    scan_p.add_argument("chapter_file", type=Path, help="Путь к файлу главы (chapters/NNNN.md)")
+    scan_p.add_argument("chapter_file", type=Path, help="Путь к файлу оригинала (chapters/zh/NNNN.md)")
     scan_p.add_argument(
         "--max-chapter",
         type=int,
