@@ -1,0 +1,2609 @@
+{
+  "schema_version": "1.0",
+  "language": "ru",
+  "description": "Справочник китайских чэнъюев, поговорок, каламбуров, цитат и культурных формул, замеченных в романе или важных для его перевода.",
+  "entries": [
+    {
+      "zh": "神采奕奕",
+      "zh_aliases": [],
+      "pinyin": "shén cǎi yì yì",
+      "category": "чэнъюй",
+      "meaning_ru": "бодрый и оживлённый; лицо сияет",
+      "literal_ru": "дух и облик полны блеска",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 157,
+        "primary_form_chapter_files": 150,
+        "first_primary_form_file": "chapters/0026.md",
+        "matched_forms": {
+          "神采奕奕": {
+            "exact_occurrences": 157,
+            "chapter_files": 150,
+            "first_file": "chapters/0026.md"
+          }
+        },
+        "first_match_file": "chapters/0026.md",
+        "first_match_form": "神采奕奕",
+        "first_match_excerpt_zh": "道：“眼光不错！” 然后她弯曲大拇指，指向了自己，神采奕奕道：“但是我可不会答应，我宁姚喜欢的男人，一定要是全天下",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "锦上添花",
+      "zh_aliases": [],
+      "pinyin": "jǐn shàng tiān huā",
+      "category": "чэнъюй",
+      "meaning_ru": "добавить прекрасное к уже прекрасному",
+      "literal_ru": "добавить цветы на парчу",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 132,
+        "primary_form_chapter_files": 125,
+        "first_primary_form_file": "chapters/0064.md",
+        "matched_forms": {
+          "锦上添花": {
+            "exact_occurrences": 132,
+            "chapter_files": 125,
+            "first_file": "chapters/0064.md"
+          }
+        },
+        "first_match_file": "chapters/0064.md",
+        "first_match_form": "锦上添花",
+        "first_match_excerpt_zh": "别人主动跟他求什么，他板上钉钉不会乐意。心情好，愿意对谁锦上添花，但是不管心情好与不好，宋集薪都不会雪中送炭。 或",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "画蛇添足",
+      "zh_aliases": [],
+      "pinyin": "huà shé tiān zú",
+      "category": "чэнъюй",
+      "meaning_ru": "сделать лишнее и испортить результат",
+      "literal_ru": "дорисовать змее ноги",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 123,
+        "primary_form_chapter_files": 115,
+        "first_primary_form_file": "chapters/0040.md",
+        "matched_forms": {
+          "画蛇添足": {
+            "exact_occurrences": 123,
+            "chapter_files": 115,
+            "first_file": "chapters/0040.md"
+          }
+        },
+        "first_match_file": "chapters/0040.md",
+        "first_match_form": "画蛇添足",
+        "first_match_excerpt_zh": "道：“是有点不近人情，但是上头的旨意难违，师姐你还是不要画蛇添足了。” 那位兵家之人讥笑道：“我不是来跟谁套近乎的",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "意气风发",
+      "zh_aliases": [],
+      "pinyin": "yì qì fēng fā",
+      "category": "чэнъюй",
+      "meaning_ru": "быть воодушевлённым, полным задора",
+      "literal_ru": "дух и порыв подобны ветру",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 101,
+        "primary_form_chapter_files": 98,
+        "first_primary_form_file": "chapters/0013.md",
+        "matched_forms": {
+          "意气风发": {
+            "exact_occurrences": 101,
+            "chapter_files": 98,
+            "first_file": "chapters/0013.md"
+          }
+        },
+        "first_match_file": "chapters/0013.md",
+        "first_match_form": "意气风发",
+        "first_match_excerpt_zh": "下的威胁就是越大。” 老人感慨道：“少年少女，正值意气风发，若是热血杀人，或是慷慨赴死，其实咱家都不奇怪，但是缓缓",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "守株待兔",
+      "zh_aliases": [],
+      "pinyin": "shǒu zhū dài tù",
+      "category": "чэнъюй",
+      "meaning_ru": "пассивно ждать удачи вместо того, чтобы действовать",
+      "literal_ru": "ждать зайца у пня",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 84,
+        "primary_form_chapter_files": 78,
+        "first_primary_form_file": "chapters/0003.md",
+        "matched_forms": {
+          "守株待兔": {
+            "exact_occurrences": 84,
+            "chapter_files": 78,
+            "first_file": "chapters/0003.md"
+          }
+        },
+        "first_match_file": "chapters/0003.md",
+        "first_match_form": "守株待兔",
+        "first_match_excerpt_zh": "签藏入宽松的袖口。 年轻道人咳嗽一声，板起脸，继续守株待兔，等待下一位客人。 他有些感慨，果然还是赚女子的钱",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "胸有成竹",
+      "zh_aliases": [],
+      "pinyin": "xiōng yǒu chéng zhú",
+      "category": "чэнъюй",
+      "meaning_ru": "иметь в голове готовый план",
+      "literal_ru": "иметь в груди уже сложившийся бамбук",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 61,
+        "primary_form_chapter_files": 61,
+        "first_primary_form_file": "chapters/0033.md",
+        "matched_forms": {
+          "胸有成竹": {
+            "exact_occurrences": 61,
+            "chapter_files": 61,
+            "first_file": "chapters/0033.md"
+          }
+        },
+        "first_match_file": "chapters/0033.md",
+        "first_match_form": "胸有成竹",
+        "first_match_excerpt_zh": "的缘故，并无半点好感。 他在婢女稚圭那边流露出来的胸有成竹，对于接下来离开家乡的从容不迫，不过是少年的自尊使然。",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "山清水秀",
+      "zh_aliases": [],
+      "pinyin": "shān qīng shuǐ xiù",
+      "category": "чэнъюй",
+      "meaning_ru": "живописный край",
+      "literal_ru": "чистые горы и прекрасные воды",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 60,
+        "primary_form_chapter_files": 57,
+        "first_primary_form_file": "chapters/0013.md",
+        "matched_forms": {
+          "山清水秀": {
+            "exact_occurrences": 60,
+            "chapter_files": 57,
+            "first_file": "chapters/0013.md"
+          }
+        },
+        "first_match_file": "chapters/0013.md",
+        "first_match_form": "山清水秀",
+        "first_match_excerpt_zh": "姑娘，你发发慈悲心，放过贫道好不好，回头贫道就帮你找一处山清水秀的地方，风水极好，肯定能够福泽子嗣……哦不对，姑娘还是黄",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "雪中送炭",
+      "zh_aliases": [],
+      "pinyin": "xuě zhōng sòng tàn",
+      "category": "чэнъюй",
+      "meaning_ru": "помочь именно тогда, когда помощь нужнее всего",
+      "literal_ru": "принести уголь в снегопад",
+      "translation_note": "В раннем контексте Сун Цзисиню противопоставлено «добавить цветы к парче»: он может при случае украсить хорошее, но не приходит на помощь в беде.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 54,
+        "primary_form_chapter_files": 54,
+        "first_primary_form_file": "chapters/0064.md",
+        "matched_forms": {
+          "雪中送炭": {
+            "exact_occurrences": 54,
+            "chapter_files": 54,
+            "first_file": "chapters/0064.md"
+          }
+        },
+        "first_match_file": "chapters/0064.md",
+        "first_match_form": "雪中送炭",
+        "first_match_excerpt_zh": "好，愿意对谁锦上添花，但是不管心情好与不好，宋集薪都不会雪中送炭。 或者是稚圭故意丢到他家的钥匙？ 陈平安觉",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "井底之蛙",
+      "zh_aliases": [],
+      "pinyin": "jǐng dǐ zhī wā",
+      "category": "чэнъюй",
+      "meaning_ru": "человек с узким кругозором",
+      "literal_ru": "лягушка на дне колодца",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 57,
+        "primary_form_chapter_files": 51,
+        "first_primary_form_file": "chapters/0007.md",
+        "matched_forms": {
+          "井底之蛙": {
+            "exact_occurrences": 57,
+            "chapter_files": 51,
+            "first_file": "chapters/0007.md"
+          }
+        },
+        "first_match_file": "chapters/0007.md",
+        "first_match_form": "井底之蛙",
+        "first_match_excerpt_zh": "比雀跃，说是以后一定要飞黄腾达，光耀门楣，兄弟二人再不做井底之蛙了，要联手在外边闯出一片天地。 直到走出卢家大宅后",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "亡羊补牢",
+      "zh_aliases": [],
+      "pinyin": "wáng yáng bǔ láo",
+      "category": "чэнъюй",
+      "meaning_ru": "исправить ущерб, пока не стало хуже",
+      "literal_ru": "залатать загон после пропажи овцы",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 51,
+        "primary_form_chapter_files": 50,
+        "first_primary_form_file": "chapters/0013.md",
+        "matched_forms": {
+          "亡羊补牢": {
+            "exact_occurrences": 51,
+            "chapter_files": 50,
+            "first_file": "chapters/0013.md"
+          }
+        },
+        "first_match_file": "chapters/0013.md",
+        "first_match_form": "亡羊补牢",
+        "first_match_excerpt_zh": "驱逐，外人之间的争斗，就存在一个明显的“漏洞”，让人可以亡羊补牢，高稹在内三拨人，之所以都携带一位“扈从”，也正是因此做",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "青出于蓝",
+      "zh_aliases": [],
+      "pinyin": "qīng chū yú lán",
+      "category": "чэнъюй",
+      "meaning_ru": "ученик превзошёл наставника",
+      "literal_ru": "синяя краска добыта из растения и ярче его",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 52,
+        "primary_form_chapter_files": 48,
+        "first_primary_form_file": "chapters/0067.md",
+        "matched_forms": {
+          "青出于蓝": {
+            "exact_occurrences": 52,
+            "chapter_files": 48,
+            "first_file": "chapters/0067.md"
+          }
+        },
+        "first_match_file": "chapters/0067.md",
+        "first_match_form": "青出于蓝",
+        "first_match_excerpt_zh": "” 老人突然激动万分，“先生对你，何等器重，希望你青出于蓝！你为何偏偏要在此地，不撞南墙不回头？为何要为一座小小城",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "悲欢离合",
+      "zh_aliases": [],
+      "pinyin": "bēi huān lí hé",
+      "category": "чэнъюй",
+      "meaning_ru": "радости и горести, встречи и разлуки",
+      "literal_ru": "печаль и радость, расставания и соединения",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 48,
+        "primary_form_chapter_files": 47,
+        "first_primary_form_file": "chapters/0043.md",
+        "matched_forms": {
+          "悲欢离合": {
+            "exact_occurrences": 48,
+            "chapter_files": 47,
+            "first_file": "chapters/0043.md"
+          }
+        },
+        "first_match_file": "chapters/0043.md",
+        "first_match_form": "悲欢离合",
+        "first_match_excerpt_zh": "权贵子弟的锦衣怒马，御风凌空的神仙风采，见过了许许多多的悲欢离合。 宁姚 有那佛家的行者，在凄厉风雨夜，赤足",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "脚踏实地",
+      "zh_aliases": [],
+      "pinyin": "jiǎo tà shí dì",
+      "category": "чэнъюй",
+      "meaning_ru": "действовать основательно и без пустых мечтаний",
+      "literal_ru": "ступать ногами по твёрдой земле",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 42,
+        "primary_form_chapter_files": 41,
+        "first_primary_form_file": "chapters/0076.md",
+        "matched_forms": {
+          "脚踏实地": {
+            "exact_occurrences": 42,
+            "chapter_files": 41,
+            "first_file": "chapters/0076.md"
+          }
+        },
+        "first_match_file": "chapters/0076.md",
+        "first_match_form": "脚踏实地",
+        "first_match_excerpt_zh": "习，越是登堂入室之辈，越是造诣高深的宗师，越看每一步的重脚踏实地，每一层武道台阶的夯实程度，不过像陈平安这么慢的，如何丢",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "如鱼得水",
+      "zh_aliases": [],
+      "pinyin": "rú yú dé shuǐ",
+      "category": "чэнъюй",
+      "meaning_ru": "оказаться в своей стихии",
+      "literal_ru": "словно рыба в воде",
+      "translation_note": "В первом контексте образ описывает золотистую ци, свободно движущуюся по узору драконьей мантии; не обязательно переводить это как характеристику человека.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 41,
+        "primary_form_chapter_files": 40,
+        "first_primary_form_file": "chapters/0113.md",
+        "matched_forms": {
+          "如鱼得水": {
+            "exact_occurrences": 41,
+            "chapter_files": 40,
+            "first_file": "chapters/0113.md"
+          }
+        },
+        "first_match_file": "chapters/0113.md",
+        "first_match_form": "如鱼得水",
+        "first_match_excerpt_zh": "条金黄小蛇的缥缈气息，迅速依附在衮服男子的团龙图案之中，如鱼得水，在华美龙袍的丝线之中欢快游走，那件龙袍随之微微颤抖，泛",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "打草惊蛇",
+      "zh_aliases": [],
+      "pinyin": "dǎ cǎo jīng shé",
+      "category": "чэнъюй",
+      "meaning_ru": "спугнуть цель или выдать замысел преждевременно",
+      "literal_ru": "ударить по траве и вспугнуть змею",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 37,
+        "primary_form_chapter_files": 36,
+        "first_primary_form_file": "chapters/0049.md",
+        "matched_forms": {
+          "打草惊蛇": {
+            "exact_occurrences": 37,
+            "chapter_files": 36,
+            "first_file": "chapters/0049.md"
+          }
+        },
+        "first_match_file": "chapters/0049.md",
+        "first_match_form": "打草惊蛇",
+        "first_match_excerpt_zh": "猿也知道自己失算了，方才丢掷瓦片出手，动静过大，估计已经打草惊蛇，让那个泥瓶巷的小泥腿子意识到不妙，彻底没有了依靠弓箭那",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "拔苗助长",
+      "zh_aliases": [],
+      "pinyin": "bá miáo zhù zhǎng",
+      "category": "чэнъюй",
+      "meaning_ru": "поторопиться — и навредить делу",
+      "literal_ru": "тянуть ростки, чтобы они росли быстрее",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 36,
+        "primary_form_chapter_files": 35,
+        "first_primary_form_file": "chapters/0010.md",
+        "matched_forms": {
+          "拔苗助长": {
+            "exact_occurrences": 36,
+            "chapter_files": 35,
+            "first_file": "chapters/0010.md"
+          }
+        },
+        "first_match_file": "chapters/0010.md",
+        "first_match_form": "拔苗助长",
+        "first_match_excerpt_zh": "，连心猿意马到底为何物，也捉摸不透，家族长辈对此也从不愿拔苗助长，只是让我自行摸索，不曾想今日在你们泥瓶巷，踩中了一坨狗",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "一丝不苟",
+      "zh_aliases": [],
+      "pinyin": "yī sī bù gǒu",
+      "category": "чэнъюй",
+      "meaning_ru": "действовать с безупречной тщательностью",
+      "literal_ru": "не проявить небрежности даже в одной нити",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 33,
+        "primary_form_chapter_files": 33,
+        "first_primary_form_file": "chapters/0019.md",
+        "matched_forms": {
+          "一丝不苟": {
+            "exact_occurrences": 33,
+            "chapter_files": 33,
+            "first_file": "chapters/0019.md"
+          }
+        },
+        "first_match_file": "chapters/0019.md",
+        "first_match_form": "一丝不苟",
+        "first_match_excerpt_zh": "常认真。后来刘羡阳教他制作木弓、鱼竿等，陈平安也同样学得一丝不苟。隔壁宋集薪说话向来刻薄，说陈平安的这种习性，按照书上说",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "画龙点睛",
+      "zh_aliases": [],
+      "pinyin": "huà lóng diǎn jīng",
+      "category": "чэнъюй",
+      "meaning_ru": "поставить решающий штрих",
+      "literal_ru": "нарисовать дракону глаза",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 31,
+        "primary_form_chapter_files": 31,
+        "first_primary_form_file": "chapters/0026.md",
+        "matched_forms": {
+          "画龙点睛": {
+            "exact_occurrences": 31,
+            "chapter_files": 31,
+            "first_file": "chapters/0026.md"
+          }
+        },
+        "first_match_file": "chapters/0026.md",
+        "first_match_form": "画龙点睛",
+        "first_match_excerpt_zh": "只到达中五境里的龙门境，丹室之内，我有六幅图案，尚未成功画龙点睛，也未让天女飞天……” 这下子陈平安是真的听迷糊了",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "积少成多",
+      "zh_aliases": [],
+      "pinyin": "jī shǎo chéng duō",
+      "category": "чэнъюй",
+      "meaning_ru": "собрать большое по крупицам",
+      "literal_ru": "малое накапливается и становится большим",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 29,
+        "primary_form_chapter_files": 29,
+        "first_primary_form_file": "chapters/0058.md",
+        "matched_forms": {
+          "积少成多": {
+            "exact_occurrences": 29,
+            "chapter_files": 29,
+            "first_file": "chapters/0058.md"
+          }
+        },
+        "first_match_file": "chapters/0058.md",
+        "first_match_form": "积少成多",
+        "first_match_excerpt_zh": "、用到、念到此字，便能够为那位儒家圣人增加一丝道行修为，积少成多，滴水穿石。 齐静春是例外。 不是一字没有，",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "相得益彰",
+      "zh_aliases": [],
+      "pinyin": "xiāng dé yì zhāng",
+      "category": "чэнъюй",
+      "meaning_ru": "взаимно усиливать достоинства друг друга",
+      "literal_ru": "каждый рядом с другим сияет ярче",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 28,
+        "primary_form_chapter_files": 28,
+        "first_primary_form_file": "chapters/0147.md",
+        "matched_forms": {
+          "相得益彰": {
+            "exact_occurrences": 28,
+            "chapter_files": 28,
+            "first_file": "chapters/0147.md"
+          }
+        },
+        "first_match_file": "chapters/0147.md",
+        "first_match_form": "相得益彰",
+        "first_match_excerpt_zh": "可以视为是一把荷花伞，不过荷叶荷柄皆是雪白色，与白衣白鞋相得益彰，纤尘不染。 老秀才看到荷叶之后，皱了皱眉头，迅速",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "半途而废",
+      "zh_aliases": [],
+      "pinyin": "bàn tú ér fèi",
+      "category": "чэнъюй",
+      "meaning_ru": "бросить дело на полпути",
+      "literal_ru": "остановиться на половине пути",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 29,
+        "primary_form_chapter_files": 27,
+        "first_primary_form_file": "chapters/0197.md",
+        "matched_forms": {
+          "半途而废": {
+            "exact_occurrences": 29,
+            "chapter_files": 27,
+            "first_file": "chapters/0197.md"
+          }
+        },
+        "first_match_file": "chapters/0197.md",
+        "first_match_form": "半途而废",
+        "first_match_excerpt_zh": "了眼昏厥不醒的陈平安，“如果能够坚持到最后，就没事，如果半途而废，不单单是功亏一篑，恐怕会留下诸多后遗症，比如一辈子滞留",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "落井下石",
+      "zh_aliases": [],
+      "pinyin": "luò jǐng xià shí",
+      "category": "чэнъюй",
+      "meaning_ru": "добить того, кто уже оказался в беде",
+      "literal_ru": "бросать камни в упавшего в колодец",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 28,
+        "primary_form_chapter_files": 27,
+        "first_primary_form_file": "chapters/0045.md",
+        "matched_forms": {
+          "落井下石": {
+            "exact_occurrences": 28,
+            "chapter_files": 27,
+            "first_file": "chapters/0045.md"
+          }
+        },
+        "first_match_file": "chapters/0045.md",
+        "first_match_form": "落井下石",
+        "first_match_excerpt_zh": "去取回那块四方镇圭了，哪怕会被齐先生误认为是我们观湖书院落井下石，也没办法。” 崔明皇站起身，“我去趟学塾，去去就",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "鹤立鸡群",
+      "zh_aliases": [],
+      "pinyin": "hè lì jī qún",
+      "category": "чэнъюй",
+      "meaning_ru": "резко выделяться среди остальных",
+      "literal_ru": "журавль стоит среди кур",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 26,
+        "primary_form_chapter_files": 26,
+        "first_primary_form_file": "chapters/0204.md",
+        "matched_forms": {
+          "鹤立鸡群": {
+            "exact_occurrences": 26,
+            "chapter_files": 26,
+            "first_file": "chapters/0204.md"
+          }
+        },
+        "first_match_file": "chapters/0204.md",
+        "first_match_form": "鹤立鸡群",
+        "first_match_excerpt_zh": "了这么顶不伦不类的道冠戴着，说不定还沾沾自喜呢，觉得自己鹤立鸡群，不与俗同。老道人算了一下摊子距离县衙的路程，觉得自己稳",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "妙笔生花",
+      "zh_aliases": [],
+      "pinyin": "miào bǐ shēng huā",
+      "category": "чэнъюй",
+      "meaning_ru": "писать блестяще и выразительно",
+      "literal_ru": "из-под искусного пера расцветают цветы",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 24,
+        "primary_form_chapter_files": 24,
+        "first_primary_form_file": "chapters/0248.md",
+        "matched_forms": {
+          "妙笔生花": {
+            "exact_occurrences": 24,
+            "chapter_files": 24,
+            "first_file": "chapters/0248.md"
+          }
+        },
+        "first_match_file": "chapters/0248.md",
+        "first_match_form": "妙笔生花",
+        "first_match_excerpt_zh": "顿饱揍过的那位贤人，满嘴仁义道德，在书院向来以作风严谨、妙笔生花著称于世，但是周矩却看得到那位贤人的书页之间，满是彩蝶、",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "对牛弹琴",
+      "zh_aliases": [],
+      "pinyin": "duì niú tán qín",
+      "category": "чэнъюй",
+      "meaning_ru": "говорить с тем, кто не способен или не желает понять",
+      "literal_ru": "играть на лютне перед коровой",
+      "translation_note": "В главе 4 выражение обыгрывает бессмысленные разговоры между мальчиками; по возможности сохранить и иронию, и узнаваемый образ.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 23,
+        "primary_form_chapter_files": 22,
+        "first_primary_form_file": "chapters/0004.md",
+        "matched_forms": {
+          "对牛弹琴": {
+            "exact_occurrences": 23,
+            "chapter_files": 22,
+            "first_file": "chapters/0004.md"
+          }
+        },
+        "first_match_file": "chapters/0004.md",
+        "first_match_form": "对牛弹琴",
+        "first_match_excerpt_zh": "宋集薪学猫叫，还是稚圭？” 刘羡阳翻了个白眼，不再对牛弹琴，双手撑在床板上，缓缓弯曲手肘，然后伸直手臂，屁股离开床",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "相辅相成",
+      "zh_aliases": [],
+      "pinyin": "xiāng fǔ xiāng chéng",
+      "category": "чэнъюй",
+      "meaning_ru": "взаимно дополнять и поддерживать друг друга",
+      "literal_ru": "помогать друг другу и вместе завершать целое",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 21,
+        "primary_form_chapter_files": 21,
+        "first_primary_form_file": "chapters/0063.md",
+        "matched_forms": {
+          "相辅相成": {
+            "exact_occurrences": 21,
+            "chapter_files": 21,
+            "first_file": "chapters/0063.md"
+          }
+        },
+        "first_match_file": "chapters/0063.md",
+        "first_match_form": "相辅相成",
+        "first_match_excerpt_zh": "一人气运能够与王朝国祚挂钩，显而易见，两人算是强强联手，相辅相成。 但是话说回来，修行一事，大道漫长，气运，天赋，",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "鸦雀无声",
+      "zh_aliases": [],
+      "pinyin": "yā què wú shēng",
+      "category": "чэнъюй",
+      "meaning_ru": "гробовая тишина",
+      "literal_ru": "не слышно ни ворон, ни воробьёв",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 20,
+        "primary_form_chapter_files": 20,
+        "first_primary_form_file": "chapters/0142.md",
+        "matched_forms": {
+          "鸦雀无声": {
+            "exact_occurrences": 20,
+            "chapter_files": 20,
+            "first_file": "chapters/0142.md"
+          }
+        },
+        "first_match_file": "chapters/0142.md",
+        "first_match_form": "鸦雀无声",
+        "first_match_excerpt_zh": "有人，“实不相瞒，在我眼中，在座各位都是蝼蚁。” 鸦雀无声。 少年问道：“不信吗？” 片刻之后，青袍男",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "任重道远",
+      "zh_aliases": [],
+      "pinyin": "rèn zhòng dào yuǎn",
+      "category": "чэнъюй",
+      "meaning_ru": "бремя велико, а путь долог",
+      "literal_ru": "нести тяжёлую ношу по дальней дороге",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 19,
+        "primary_form_chapter_files": 19,
+        "first_primary_form_file": "chapters/0116.md",
+        "matched_forms": {
+          "任重道远": {
+            "exact_occurrences": 19,
+            "chapter_files": 19,
+            "first_file": "chapters/0116.md"
+          }
+        },
+        "first_match_file": "chapters/0116.md",
+        "first_match_form": "任重道远",
+        "first_match_excerpt_zh": "男人唏嘘道：“所以说我们大骊选择的这条路，还很长，任重道远嘛。你别气馁。” 男人最后伸手指向宫城某个地方，笑",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "喜出望外",
+      "zh_aliases": [],
+      "pinyin": "xǐ chū wàng wài",
+      "category": "чэнъюй",
+      "meaning_ru": "обрадоваться сверх всякого ожидания",
+      "literal_ru": "радость пришла из-за пределов ожиданий",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 19,
+        "primary_form_chapter_files": 19,
+        "first_primary_form_file": "chapters/0158.md",
+        "matched_forms": {
+          "喜出望外": {
+            "exact_occurrences": 19,
+            "chapter_files": 19,
+            "first_file": "chapters/0158.md"
+          }
+        },
+        "first_match_file": "chapters/0158.md",
+        "first_match_form": "喜出望外",
+        "first_match_excerpt_zh": "崔瀺挥手赶人，“滚吧。” 青袍男子如获大赦，还有些喜出望外，整个人化身一团淡青色水雾，呼啸离去。 崔瀺双手负",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "一鸣惊人",
+      "zh_aliases": [],
+      "pinyin": "yī míng jīng rén",
+      "category": "чэнъюй",
+      "meaning_ru": "неожиданно поразить всех первым успехом",
+      "literal_ru": "один крик заставляет людей изумиться",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 18,
+        "primary_form_chapter_files": 18,
+        "first_primary_form_file": "chapters/0165.md",
+        "matched_forms": {
+          "一鸣惊人": {
+            "exact_occurrences": 18,
+            "chapter_files": 18,
+            "first_file": "chapters/0165.md"
+          }
+        },
+        "first_match_file": "chapters/0165.md",
+        "first_match_form": "一鸣惊人",
+        "first_match_excerpt_zh": "有上品法器的楚氏俊彦，虽然稍显下风，可依然打得颇有章法，一鸣惊人。 据说这场意气之争的斗法，甚至惊动了大儒董静和一",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "狐假虎威",
+      "zh_aliases": [],
+      "pinyin": "hú jiǎ hǔ wēi",
+      "category": "чэнъюй",
+      "meaning_ru": "прикрываться чужой силой и властью",
+      "literal_ru": "лиса прикрывается могуществом тигра",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 18,
+        "primary_form_chapter_files": 17,
+        "first_primary_form_file": "chapters/0201.md",
+        "matched_forms": {
+          "狐假虎威": {
+            "exact_occurrences": 18,
+            "chapter_files": 17,
+            "first_file": "chapters/0201.md"
+          }
+        },
+        "first_match_file": "chapters/0201.md",
+        "first_match_form": "狐假虎威",
+        "first_match_excerpt_zh": "行？ 她之前还每天开开心心巡视龙须河，想着自己靠着狐假虎威狗仗人势，以及不要脸皮的吓唬人，好不容易攒下那么多值钱的",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "老当益壮",
+      "zh_aliases": [],
+      "pinyin": "lǎo dāng yì zhuàng",
+      "category": "чэнъюй",
+      "meaning_ru": "с годами не слабеть, а крепнуть",
+      "literal_ru": "в старости становиться ещё крепче",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 17,
+        "primary_form_chapter_files": 17,
+        "first_primary_form_file": "chapters/0165.md",
+        "matched_forms": {
+          "老当益壮": {
+            "exact_occurrences": 17,
+            "chapter_files": 17,
+            "first_file": "chapters/0165.md"
+          }
+        },
+        "first_match_file": "chapters/0165.md",
+        "first_match_form": "老当益壮",
+        "first_match_excerpt_zh": "在等着看寡人的笑话？” 韩老柱国虽然古稀高龄，不过老当益壮，依旧精神矍铄，端坐椅子上，不怒自威，但是此时也有些难堪",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "自相矛盾",
+      "zh_aliases": [],
+      "pinyin": "zì xiāng máo dùn",
+      "category": "чэнъюй",
+      "meaning_ru": "противоречить самому себе",
+      "literal_ru": "собственное копьё противоречит собственному щиту",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 16,
+        "primary_form_chapter_files": 16,
+        "first_primary_form_file": "chapters/0162.md",
+        "matched_forms": {
+          "自相矛盾": {
+            "exact_occurrences": 16,
+            "chapter_files": 16,
+            "first_file": "chapters/0162.md"
+          }
+        },
+        "first_match_file": "chapters/0162.md",
+        "first_match_form": "自相矛盾",
+        "first_match_excerpt_zh": "高，可错误的地方，绝对不多，而且许多拳法剑经里，许多看似自相矛盾的地方，其实学问最大，格外让人痴迷。” 谢谢坐在地",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "千钧一发",
+      "zh_aliases": [],
+      "pinyin": "qiān jūn yī fà",
+      "category": "чэнъюй",
+      "meaning_ru": "висеть на волоске; быть в опаснейшем положении",
+      "literal_ru": "тысяча цзюней держится на одном волоске",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 15,
+        "primary_form_chapter_files": 15,
+        "first_primary_form_file": "chapters/0021.md",
+        "matched_forms": {
+          "千钧一发": {
+            "exact_occurrences": 15,
+            "chapter_files": 15,
+            "first_file": "chapters/0021.md"
+          }
+        },
+        "first_match_file": "chapters/0021.md",
+        "first_match_form": "千钧一发",
+        "first_match_excerpt_zh": "华一直正前方且偏低的视线中，竟然没了少年的踪迹！ 千钧一发之际。 原来。 在做出那种眼神和脸色后，刹那",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "眉飞色舞",
+      "zh_aliases": [],
+      "pinyin": "méi fēi sè wǔ",
+      "category": "чэнъюй",
+      "meaning_ru": "сиять от восторга, оживлённо жестикулировать",
+      "literal_ru": "брови будто летят, лицо оживает",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 14,
+        "primary_form_chapter_files": 14,
+        "first_primary_form_file": "chapters/0080.md",
+        "matched_forms": {
+          "眉飞色舞": {
+            "exact_occurrences": 14,
+            "chapter_files": 14,
+            "first_file": "chapters/0080.md"
+          }
+        },
+        "first_match_file": "chapters/0080.md",
+        "first_match_form": "眉飞色舞",
+        "first_match_excerpt_zh": "的文武两庙选址，肯定要黄了。” 陈平安认真听完少年眉飞色舞的讲解，问道：“你到底是谁？怎么知道这么多？” 少",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "风和日丽",
+      "zh_aliases": [],
+      "pinyin": "fēng hé rì lì",
+      "category": "чэнъюй",
+      "meaning_ru": "тихий ветер и ясный солнечный день",
+      "literal_ru": "ветер мягок, солнце светло",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 14,
+        "primary_form_chapter_files": 14,
+        "first_primary_form_file": "chapters/0240.md",
+        "matched_forms": {
+          "风和日丽": {
+            "exact_occurrences": 14,
+            "chapter_files": 14,
+            "first_file": "chapters/0240.md"
+          }
+        },
+        "first_match_file": "chapters/0240.md",
+        "first_match_form": "风和日丽",
+        "first_match_excerpt_zh": "。 山庄离此七百余里，多是雄山峻岭，好在入夏之后，风和日丽，三人放开手脚赶路，很快就到了剑水山庄辖境，庄子建在一座",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "花好月圆",
+      "zh_aliases": [],
+      "pinyin": "huā hǎo yuè yuán",
+      "category": "чэнъюй",
+      "meaning_ru": "счастливое и благополучное соединение",
+      "literal_ru": "цветы прекрасны, луна полна",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 13,
+        "primary_form_chapter_files": 13,
+        "first_primary_form_file": "chapters/0393.md",
+        "matched_forms": {
+          "花好月圆": {
+            "exact_occurrences": 13,
+            "chapter_files": 13,
+            "first_file": "chapters/0393.md"
+          }
+        },
+        "first_match_file": "chapters/0393.md",
+        "first_match_form": "花好月圆",
+        "first_match_excerpt_zh": "近狮子园有没有动静？” 朱敛摇头笑道：“云淡风轻，花好月圆。只是注定要错过近在咫尺的京城佛道之辩，老奴有些替少爷感",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "纸上谈兵",
+      "zh_aliases": [],
+      "pinyin": "zhǐ shàng tán bīng",
+      "category": "чэнъюй",
+      "meaning_ru": "рассуждать о деле только в теории",
+      "literal_ru": "обсуждать войну на бумаге",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 14,
+        "primary_form_chapter_files": 12,
+        "first_primary_form_file": "chapters/0188.md",
+        "matched_forms": {
+          "纸上谈兵": {
+            "exact_occurrences": 14,
+            "chapter_files": 12,
+            "first_file": "chapters/0188.md"
+          }
+        },
+        "first_match_file": "chapters/0188.md",
+        "first_match_form": "纸上谈兵",
+        "first_match_excerpt_zh": "要施展抱负，经国济民，你得在庙堂上有一把椅子。否则就全是纸上谈兵。当然，挤不进官场，退一步，穷则独善其身，做好学问也不差",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "一帆风顺",
+      "zh_aliases": [],
+      "pinyin": "yī fān fēng shùn",
+      "category": "чэнъюй",
+      "meaning_ru": "идти гладко, без помех",
+      "literal_ru": "один парус плывёт при попутном ветре",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 12,
+        "primary_form_chapter_files": 12,
+        "first_primary_form_file": "chapters/0020.md",
+        "matched_forms": {
+          "一帆风顺": {
+            "exact_occurrences": 12,
+            "chapter_files": 12,
+            "first_file": "chapters/0020.md"
+          }
+        },
+        "first_match_file": "chapters/0020.md",
+        "first_match_form": "一帆风顺",
+        "first_match_excerpt_zh": "绝对不会，她可是云霞山的修行天赋第一人蔡金简！修行路上，一帆风顺，境界提升，势如破竹，蔡金简不相信自己会在这条臭水沟翻船",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "掩人耳目",
+      "zh_aliases": [],
+      "pinyin": "yǎn rén ěr mù",
+      "category": "чэнъюй",
+      "meaning_ru": "скрыть правду от окружающих",
+      "literal_ru": "закрыть людям глаза и уши",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 12,
+        "primary_form_chapter_files": 12,
+        "first_primary_form_file": "chapters/0044.md",
+        "matched_forms": {
+          "掩人耳目": {
+            "exact_occurrences": 12,
+            "chapter_files": 12,
+            "first_file": "chapters/0044.md"
+          }
+        },
+        "first_match_file": "chapters/0044.md",
+        "first_match_form": "掩人耳目",
+        "first_match_excerpt_zh": "，转头说道：“娘亲，咱们来小镇寻觅瘊子甲，是不是就是一个掩人耳目的由头，是咱们清风城许氏借此机会掌控卢氏的障眼法？ 毕竟",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "源远流长",
+      "zh_aliases": [],
+      "pinyin": "yuán yuǎn liú cháng",
+      "category": "чэнъюй",
+      "meaning_ru": "иметь глубокие корни и долгую историю",
+      "literal_ru": "далёк исток, долог поток",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 11,
+        "primary_form_chapter_files": 11,
+        "first_primary_form_file": "chapters/0256.md",
+        "matched_forms": {
+          "源远流长": {
+            "exact_occurrences": 11,
+            "chapter_files": 11,
+            "first_file": "chapters/0256.md"
+          }
+        },
+        "first_match_file": "chapters/0256.md",
+        "first_match_form": "源远流长",
+        "first_match_excerpt_zh": "直坚信堂堂正正，是毋庸置疑的商家大道，最为契合正大光明、源远流长八字祖训，但是却被才认识不到一个月的陈平安，验证为偏门小",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "举一反三",
+      "zh_aliases": [],
+      "pinyin": "jǔ yī fǎn sān",
+      "category": "чэнъюй",
+      "meaning_ru": "по одному примеру понять многое",
+      "literal_ru": "взять одно и вывести из него три",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 10,
+        "primary_form_chapter_files": 10,
+        "first_primary_form_file": "chapters/0165.md",
+        "matched_forms": {
+          "举一反三": {
+            "exact_occurrences": 10,
+            "chapter_files": 10,
+            "first_file": "chapters/0165.md"
+          }
+        },
+        "first_match_file": "chapters/0165.md",
+        "first_match_form": "举一反三",
+        "first_match_excerpt_zh": "李长英喜欢读书，也擅长读书，不但过目不忘，而且能够举一反三，是真正的读书种子。 所以山崖书院的崭新藏书楼，是",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "井井有条",
+      "zh_aliases": [],
+      "pinyin": "jǐng jǐng yǒu tiáo",
+      "category": "чэнъюй",
+      "meaning_ru": "быть устроенным и упорядоченным",
+      "literal_ru": "всё выстроено в ясном, упорядоченном ряду",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 10,
+        "primary_form_chapter_files": 10,
+        "first_primary_form_file": "chapters/0791.md",
+        "matched_forms": {
+          "井井有条": {
+            "exact_occurrences": 10,
+            "chapter_files": 10,
+            "first_file": "chapters/0791.md"
+          }
+        },
+        "first_match_file": "chapters/0791.md",
+        "first_match_form": "井井有条",
+        "first_match_excerpt_zh": "极高，悬鱼范氏的半数产业，其实都是这个年轻人在幕后打理，井井有条，而且挣钱挣得很不铜臭，这就很厉害了。 不然林君璧",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "持之以恒",
+      "zh_aliases": [],
+      "pinyin": "chí zhī yǐ héng",
+      "category": "чэнъюй",
+      "meaning_ru": "упорно продолжать, не теряя настойчивости",
+      "literal_ru": "держаться за дело постоянно",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 10,
+        "primary_form_chapter_files": 10,
+        "first_primary_form_file": "chapters/0369.md",
+        "matched_forms": {
+          "持之以恒": {
+            "exact_occurrences": 10,
+            "chapter_files": 10,
+            "first_file": "chapters/0369.md"
+          }
+        },
+        "first_match_file": "chapters/0369.md",
+        "first_match_form": "持之以恒",
+        "first_match_excerpt_zh": "不知何时已经回到那边檐下长凳坐着的陈平安，微笑道：“要持之以恒。” 裴钱蹦跶着去陈平安身边坐下，充满期待问道：“",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "杞人忧天",
+      "zh_aliases": [],
+      "pinyin": "qǐ rén yōu tiān",
+      "category": "чэнъюй",
+      "meaning_ru": "напрасно тревожиться о беде, которой нет",
+      "literal_ru": "человек из Ци боится, что небо упадёт",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 10,
+        "primary_form_chapter_files": 9,
+        "first_primary_form_file": "chapters/0275.md",
+        "matched_forms": {
+          "杞人忧天": {
+            "exact_occurrences": 10,
+            "chapter_files": 9,
+            "first_file": "chapters/0275.md"
+          }
+        },
+        "first_match_file": "chapters/0275.md",
+        "first_match_form": "杞人忧天",
+        "first_match_excerpt_zh": "，将瞒天过海的妖族阻挡在陆地之外。” 老妪被少爷的杞人忧天给逗乐，忍俊不禁道：“对啊，咱们皑皑洲跟这座倒悬山，不但",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "鞠躬尽瘁",
+      "zh_aliases": [],
+      "pinyin": "jū gōng jìn cuì",
+      "category": "чэнъюй",
+      "meaning_ru": "отдать делу все силы до полного изнеможения",
+      "literal_ru": "согнуться в поклоне и исчерпать себя",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 9,
+        "primary_form_chapter_files": 9,
+        "first_primary_form_file": "chapters/0301.md",
+        "matched_forms": {
+          "鞠躬尽瘁": {
+            "exact_occurrences": 9,
+            "chapter_files": 9,
+            "first_file": "chapters/0301.md"
+          }
+        },
+        "first_match_file": "chapters/0301.md",
+        "first_match_form": "鞠躬尽瘁",
+        "first_match_excerpt_zh": "主，就算我何崖求你了……” 说到最后，这位为飞鹰堡鞠躬尽瘁的老管事，为一拨拨稚童传道解惑的老夫子，竟是泣不成声。",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "阴晴圆缺",
+      "zh_aliases": [],
+      "pinyin": "yīn qíng yuán quē",
+      "category": "чэнъюй",
+      "meaning_ru": "перемены и непостоянство, как смена фаз луны",
+      "literal_ru": "облачность и ясность, полная луна и ущербная",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 8,
+        "primary_form_chapter_files": 8,
+        "first_primary_form_file": "chapters/0138.md",
+        "matched_forms": {
+          "阴晴圆缺": {
+            "exact_occurrences": 8,
+            "chapter_files": 8,
+            "first_file": "chapters/0138.md"
+          }
+        },
+        "first_match_file": "chapters/0138.md",
+        "first_match_form": "阴晴圆缺",
+        "first_match_excerpt_zh": "影壁中栖息有来历不明的精魄，形态不定，大体上与月相相符，阴晴圆缺，全部在影壁上显露出来。不过真正值钱的影壁，还得是日月合",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "刻舟求剑",
+      "zh_aliases": [],
+      "pinyin": "kè zhōu qiú jiàn",
+      "category": "чэнъюй",
+      "meaning_ru": "цепляться за старый способ, не замечая перемен",
+      "literal_ru": "пометить лодку, чтобы искать упавший меч",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 8,
+        "primary_form_chapter_files": 7,
+        "first_primary_form_file": "chapters/0662.md",
+        "matched_forms": {
+          "刻舟求剑": {
+            "exact_occurrences": 8,
+            "chapter_files": 7,
+            "first_file": "chapters/0662.md"
+          }
+        },
+        "first_match_file": "chapters/0662.md",
+        "first_match_form": "刻舟求剑",
+        "first_match_excerpt_zh": "说了句摸不着头脑的怪话：“遗簪故剑，终有返期。” 刻舟求剑非痴儿，杞人忧不可笑。 崔东山开始闭目养神。",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "众志成城",
+      "zh_aliases": [],
+      "pinyin": "zhòng zhì chéng chéng",
+      "category": "чэнъюй",
+      "meaning_ru": "общими усилиями создать непреодолимую защиту",
+      "literal_ru": "множество воль становится крепостной стеной",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 7,
+        "primary_form_chapter_files": 7,
+        "first_primary_form_file": "chapters/0265.md",
+        "matched_forms": {
+          "众志成城": {
+            "exact_occurrences": 7,
+            "chapter_files": 7,
+            "first_file": "chapters/0265.md"
+          }
+        },
+        "first_match_file": "chapters/0265.md",
+        "first_match_form": "众志成城",
+        "first_match_excerpt_zh": "待在岛上的马致应该已经跟客人交涉，就是不知道能否众志成城，一起合力渡过难关。 在陈平安竭力书写那张斩锁符的",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "废寝忘食",
+      "zh_aliases": [],
+      "pinyin": "fèi qǐn wàng shí",
+      "category": "чэнъюй",
+      "meaning_ru": "забыть о сне и еде, увлёкшись делом",
+      "literal_ru": "оставить сон и забыть пищу",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 7,
+        "primary_form_chapter_files": 7,
+        "first_primary_form_file": "chapters/0381.md",
+        "matched_forms": {
+          "废寝忘食": {
+            "exact_occurrences": 7,
+            "chapter_files": 7,
+            "first_file": "chapters/0381.md"
+          }
+        },
+        "first_match_file": "chapters/0381.md",
+        "first_match_form": "废寝忘食",
+        "first_match_excerpt_zh": "下手还算吃苦耐劳，就送了一本江湖游侠小说给裴钱，看得裴钱废寝忘食，又跟隋右边讨教了许多行走江湖的黑话，例如“要想从此过，",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "笑里藏刀",
+      "zh_aliases": [],
+      "pinyin": "xiào lǐ cáng dāo",
+      "category": "чэнъюй",
+      "meaning_ru": "улыбаться, скрывая враждебный умысел",
+      "literal_ru": "прятать нож в улыбке",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 7,
+        "primary_form_chapter_files": 7,
+        "first_primary_form_file": "chapters/0028.md",
+        "matched_forms": {
+          "笑里藏刀": {
+            "exact_occurrences": 7,
+            "chapter_files": 7,
+            "first_file": "chapters/0028.md"
+          }
+        },
+        "first_match_file": "chapters/0028.md",
+        "first_match_form": "笑里藏刀",
+        "first_match_excerpt_zh": "来才是打伤我的那个大隋宦官，之后是带走顾粲的刘志茂，那个笑里藏刀的妇人也别小觑。所以你们只要遇上正阳山那个老家伙后，尽量",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "马不停蹄",
+      "zh_aliases": [],
+      "pinyin": "mǎ bù tíng tí",
+      "category": "чэнъюй",
+      "meaning_ru": "не останавливаться ни на миг",
+      "literal_ru": "конь не прекращает движения копыт",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 6,
+        "primary_form_chapter_files": 6,
+        "first_primary_form_file": "chapters/0249.md",
+        "matched_forms": {
+          "马不停蹄": {
+            "exact_occurrences": 6,
+            "chapter_files": 6,
+            "first_file": "chapters/0249.md"
+          }
+        },
+        "first_match_file": "chapters/0249.md",
+        "first_match_form": "马不停蹄",
+        "first_match_excerpt_zh": "有那么一天，中间横亘着那么多王朝属国，一个个打过去，大骊马不停蹄一路南下，又需要耗费多少年？” 既然老人说破了，徐",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "温故知新",
+      "zh_aliases": [],
+      "pinyin": "wēn gù zhī xīn",
+      "category": "классический афоризм",
+      "meaning_ru": "узнать новое, возвращаясь к старому",
+      "literal_ru": "согреть старое и узнать новое",
+      "translation_note": "В первом контексте это надпись на пожалованной табличке; сохранять как цитату/название надписи, а не как обычное описание повторного обучения.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 6,
+        "primary_form_chapter_files": 5,
+        "first_primary_form_file": "chapters/0079.md",
+        "matched_forms": {
+          "温故知新": {
+            "exact_occurrences": 6,
+            "chapter_files": 5,
+            "first_file": "chapters/0079.md"
+          }
+        },
+        "first_match_file": "chapters/0079.md",
+        "first_match_form": "温故知新",
+        "first_match_excerpt_zh": "，竟然没有出现一次大的地牛翻身，故而龙颜大悦，御赐一块‘温故知新’匾额给了文昌阁……” 吴鸢说到这里的时候，一位风",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "出口成章",
+      "zh_aliases": [],
+      "pinyin": "chū kǒu chéng zhāng",
+      "category": "чэнъюй",
+      "meaning_ru": "говорить складно, будто готовыми литературными фразами",
+      "literal_ru": "слова выходят — и складываются в главы",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 5,
+        "primary_form_chapter_files": 5,
+        "first_primary_form_file": "chapters/0308.md",
+        "matched_forms": {
+          "出口成章": {
+            "exact_occurrences": 5,
+            "chapter_files": 5,
+            "first_file": "chapters/0308.md"
+          }
+        },
+        "first_match_file": "chapters/0308.md",
+        "first_match_form": "出口成章",
+        "first_match_excerpt_zh": "声笑语。 有高冠博带的士子文人曲水流觞，盛世作赋，出口成章。 当时有一袭白衣就默默坐在树枝上喝着酒。",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "天涯海角",
+      "zh_aliases": [],
+      "pinyin": "tiān yá hǎi jiǎo",
+      "category": "чэнъюй",
+      "meaning_ru": "на краю света, в самой дальней дали",
+      "literal_ru": "край неба и угол моря",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 5,
+        "primary_form_chapter_files": 5,
+        "first_primary_form_file": "chapters/0025.md",
+        "matched_forms": {
+          "天涯海角": {
+            "exact_occurrences": 5,
+            "chapter_files": 5,
+            "first_file": "chapters/0025.md"
+          }
+        },
+        "first_match_file": "chapters/0025.md",
+        "first_match_form": "天涯海角",
+        "first_match_excerpt_zh": "也都不是什么好鸟，若不是齐先生出来捣糨糊，你以后就算逃到天涯海角，也逃不出三方势力的围剿捕杀，说句难听的，杀你真的很容易",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "鹤发童颜",
+      "zh_aliases": [],
+      "pinyin": "hè fà tóng yán",
+      "category": "чэнъюй",
+      "meaning_ru": "седой, но с молодым лицом",
+      "literal_ru": "волосы белые, лицо детское",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 5,
+        "primary_form_chapter_files": 5,
+        "first_primary_form_file": "chapters/0262.md",
+        "matched_forms": {
+          "鹤发童颜": {
+            "exact_occurrences": 5,
+            "chapter_files": 5,
+            "first_file": "chapters/0262.md"
+          }
+        },
+        "first_match_file": "chapters/0262.md",
+        "first_match_form": "鹤发童颜",
+        "first_match_excerpt_zh": "，一位身材极其高瘦的老人，比起老龙城男子要高出大半个头，鹤发童颜，最为瞩目，一袭浓黑如墨的长袍，纤尘不染，必然是一件上乘",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "实事求是",
+      "zh_aliases": [],
+      "pinyin": "shí shì qiú shì",
+      "category": "чэнъюй",
+      "meaning_ru": "исходить из фактов и искать правду",
+      "literal_ru": "в реальных делах искать истину",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 4,
+        "primary_form_chapter_files": 4,
+        "first_primary_form_file": "chapters/0875.md",
+        "matched_forms": {
+          "实事求是": {
+            "exact_occurrences": 4,
+            "chapter_files": 4,
+            "first_file": "chapters/0875.md"
+          }
+        },
+        "first_match_file": "chapters/0875.md",
+        "first_match_form": "实事求是",
+        "first_match_excerpt_zh": "次精诚合作，获得‘瑶光福地’一事，功劳的主次之分，还是要实事求是，写上一写的。” 那位君子立即心领神会，妙笔生花，",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "草木皆兵",
+      "zh_aliases": [],
+      "pinyin": "cǎo mù jiē bīng",
+      "category": "чэнъюй",
+      "meaning_ru": "видеть опасность повсюду, даже в каждом кусте",
+      "literal_ru": "каждое дерево и каждая трава кажутся солдатом",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 4,
+        "primary_form_chapter_files": 4,
+        "first_primary_form_file": "chapters/0222.md",
+        "matched_forms": {
+          "草木皆兵": {
+            "exact_occurrences": 4,
+            "chapter_files": 4,
+            "first_file": "chapters/0222.md"
+          }
+        },
+        "first_match_file": "chapters/0222.md",
+        "first_match_form": "草木皆兵",
+        "first_match_excerpt_zh": "过青衣小童在这狗屁龙泉郡，一朝被蛇咬十年怕井绳，混得有些草木皆兵了，便再次仔细打量了一番道人，确定没有半点练气士的气象后",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "鸟语花香",
+      "zh_aliases": [],
+      "pinyin": "niǎo yǔ huā xiāng",
+      "category": "чэнъюй",
+      "meaning_ru": "птичьи голоса и аромат цветов; весенняя идиллия",
+      "literal_ru": "птицы говорят, цветы благоухают",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 4,
+        "primary_form_chapter_files": 4,
+        "first_primary_form_file": "chapters/0250.md",
+        "matched_forms": {
+          "鸟语花香": {
+            "exact_occurrences": 4,
+            "chapter_files": 4,
+            "first_file": "chapters/0250.md"
+          }
+        },
+        "first_match_file": "chapters/0250.md",
+        "first_match_form": "鸟语花香",
+        "first_match_excerpt_zh": "时节正值山花烂漫，只要走出渡口，走向最近的山头，沿途都是鸟语花香，运气好的话，还能抓到一只名为“香草娘”花魅精怪，它们天",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "入木三分",
+      "zh_aliases": [],
+      "pinyin": "rù mù sān fēn",
+      "category": "чэнъюй",
+      "meaning_ru": "проникнуть в самую суть; быть поразительно метким",
+      "literal_ru": "войти в дерево на три фэня",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 3,
+        "primary_form_chapter_files": 3,
+        "first_primary_form_file": "chapters/0260.md",
+        "matched_forms": {
+          "入木三分": {
+            "exact_occurrences": 3,
+            "chapter_files": 3,
+            "first_file": "chapters/0260.md"
+          }
+        },
+        "first_match_file": "chapters/0260.md",
+        "first_match_form": "入木三分",
+        "first_match_excerpt_zh": "画案之上。画师没有急于在纸上落笔，而是开始酝酿情绪，写字入木三分，作人物画，也当画出一份精气神。 画师一手负后，一",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "学富五车",
+      "zh_aliases": [],
+      "pinyin": "xué fù wǔ chē",
+      "category": "чэнъюй",
+      "meaning_ru": "обладать обширными знаниями",
+      "literal_ru": "учёности хватило бы на пять повозок",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 3,
+        "primary_form_chapter_files": 3,
+        "first_primary_form_file": "chapters/0254.md",
+        "matched_forms": {
+          "学富五车": {
+            "exact_occurrences": 3,
+            "chapter_files": 3,
+            "first_file": "chapters/0254.md"
+          }
+        },
+        "first_match_file": "chapters/0254.md",
+        "first_match_form": "学富五车",
+        "first_match_excerpt_zh": "双颊，愁能雪满头呀。小丫头，以后要找男人，一定要找我这般学富五车能够吟诗作赋的……当然，我是说找像我的，而不是我。”",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "破釜沉舟",
+      "zh_aliases": [],
+      "pinyin": "pò fǔ chén zhōu",
+      "category": "чэнъюй",
+      "meaning_ru": "решиться без пути отступления; сжечь мосты",
+      "literal_ru": "разбить котлы и затопить лодки",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 3,
+        "primary_form_chapter_files": 3,
+        "first_primary_form_file": "chapters/0164.md",
+        "matched_forms": {
+          "破釜沉舟": {
+            "exact_occurrences": 3,
+            "chapter_files": 3,
+            "first_file": "chapters/0164.md"
+          }
+        },
+        "first_match_file": "chapters/0164.md",
+        "first_match_form": "破釜沉舟",
+        "first_match_excerpt_zh": "我赌命赌了一场，便输给我这把飞剑，不过说到底，他亦是想要破釜沉舟，不愿与这飞剑有任何的藕断丝连。” 陈平安好奇问道",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "居安思危",
+      "zh_aliases": [],
+      "pinyin": "jū ān sī wēi",
+      "category": "чэнъюй",
+      "meaning_ru": "даже в безопасности помнить о возможной опасности",
+      "literal_ru": "в покое думать об угрозе",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 2,
+        "primary_form_chapter_files": 2,
+        "first_primary_form_file": "chapters/0254.md",
+        "matched_forms": {
+          "居安思危": {
+            "exact_occurrences": 2,
+            "chapter_files": 2,
+            "first_file": "chapters/0254.md"
+          }
+        },
+        "first_match_file": "chapters/0254.md",
+        "first_match_form": "居安思危",
+        "first_match_excerpt_zh": "大家族，但是不同于外边大家族，需要苦口婆心地对子孙说什么居安思危，在这里，根本没有必要，因为再大的家族，哪怕是嫡子，甚至",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "掩耳盗铃",
+      "zh_aliases": [],
+      "pinyin": "yǎn ěr dào líng",
+      "category": "чэнъюй",
+      "meaning_ru": "обманывать самого себя, думая, что никто не заметит",
+      "literal_ru": "закрыть уши, крадя колокол",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 2,
+        "primary_form_chapter_files": 2,
+        "first_primary_form_file": "chapters/0222.md",
+        "matched_forms": {
+          "掩耳盗铃": {
+            "exact_occurrences": 2,
+            "chapter_files": 2,
+            "first_file": "chapters/0222.md"
+          }
+        },
+        "first_match_file": "chapters/0222.md",
+        "first_match_form": "掩耳盗铃",
+        "first_match_excerpt_zh": "“这位”陆沉陪着青衣小童一起走向崖畔，笑问道：“掩耳盗铃这个典故听说过吗？” 青衣小童抬起手背，擦了擦额头",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "湖光山色",
+      "zh_aliases": [],
+      "pinyin": "hú guāng shān sè",
+      "category": "чэнъюй",
+      "meaning_ru": "озёрные дали и горные пейзажи",
+      "literal_ru": "свет озера и краски гор",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 2,
+        "primary_form_chapter_files": 2,
+        "first_primary_form_file": "chapters/0969.md",
+        "matched_forms": {
+          "湖光山色": {
+            "exact_occurrences": 2,
+            "chapter_files": 2,
+            "first_file": "chapters/0969.md"
+          }
+        },
+        "first_match_file": "chapters/0969.md",
+        "first_match_form": "湖光山色",
+        "first_match_excerpt_zh": "西下，就像有人在天边放了一把大火，烧得云海鲜红。 湖光山色有无中，人生行乐须年少。 仙人果然，少年姿容，头别",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "满腹经纶",
+      "zh_aliases": [],
+      "pinyin": "mǎn fù jīng lún",
+      "category": "чэнъюй",
+      "meaning_ru": "быть широко образованным и сведущим в делах",
+      "literal_ru": "весь живот наполнен учёностью и государственными знаниями",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 2,
+        "primary_form_chapter_files": 2,
+        "first_primary_form_file": "chapters/0538.md",
+        "matched_forms": {
+          "满腹经纶": {
+            "exact_occurrences": 2,
+            "chapter_files": 2,
+            "first_file": "chapters/0538.md"
+          }
+        },
+        "first_match_file": "chapters/0538.md",
+        "first_match_form": "满腹经纶",
+        "first_match_excerpt_zh": "是我们读书人必须关心的紧要事？难不成天上会凭空掉下一个个满腹经纶并且愿意修身齐家的读书人？” 书童嗯了一声，“老爷",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "舍生取义",
+      "zh_aliases": [],
+      "pinyin": "shě shēng qǔ yì",
+      "category": "чэнъюй",
+      "meaning_ru": "пожертвовать жизнью ради правого дела",
+      "literal_ru": "отдать жизнь, чтобы сохранить справедливость",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 2,
+        "primary_form_chapter_files": 2,
+        "first_primary_form_file": "chapters/0038.md",
+        "matched_forms": {
+          "舍生取义": {
+            "exact_occurrences": 2,
+            "chapter_files": 2,
+            "first_file": "chapters/0038.md"
+          }
+        },
+        "first_match_file": "chapters/0038.md",
+        "first_match_form": "舍生取义",
+        "first_match_excerpt_zh": "刀，破天荒有些为难，不知如何刻写印章的篆文，“杀身成仁，舍生取义。对这个孩子来说，好像太大了一些，不妥当，也不吉利。安心",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "虎头蛇尾",
+      "zh_aliases": [],
+      "pinyin": "hǔ tóu shé wěi",
+      "category": "чэнъюй",
+      "meaning_ru": "начать ярко, а закончить слабо",
+      "literal_ru": "голова тигра, хвост змеи",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 2,
+        "primary_form_chapter_files": 2,
+        "first_primary_form_file": "chapters/0437.md",
+        "matched_forms": {
+          "虎头蛇尾": {
+            "exact_occurrences": 2,
+            "chapter_files": 2,
+            "first_file": "chapters/0437.md"
+          }
+        },
+        "first_match_file": "chapters/0437.md",
+        "first_match_form": "虎头蛇尾",
+        "first_match_excerpt_zh": "东山突然问道：“如果刘老成出手打死了顾璨，这个局，岂不是虎头蛇尾？” 崔瀺反问道：“真正需要着急的人，是我吗？不是",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "负荆请罪",
+      "zh_aliases": [],
+      "pinyin": "fù jīng qǐng zuì",
+      "category": "чэнъюй",
+      "meaning_ru": "явиться с повинной и просить прощения, принимая наказание",
+      "literal_ru": "нести терновые прутья и просить о прощении",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 2,
+        "primary_form_chapter_files": 2,
+        "first_primary_form_file": "chapters/0229.md",
+        "matched_forms": {
+          "负荆请罪": {
+            "exact_occurrences": 2,
+            "chapter_files": 2,
+            "first_file": "chapters/0229.md"
+          }
+        },
+        "first_match_file": "chapters/0229.md",
+        "first_match_form": "负荆请罪",
+        "first_match_excerpt_zh": "喜的小灵器，杨晃也是个妙人，才撕破脸皮没多久，如今他赵鎏负荆请罪，竟是客气热情得很，说喝酒就喝酒，就连那件灵器都收下了，",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "路遥知马力",
+      "zh_aliases": [],
+      "pinyin": "lù yáo zhī mǎ lì",
+      "category": "чэнъюй",
+      "meaning_ru": "долгая дорога проверит силу коня; время всё покажет",
+      "literal_ru": "длинный путь открывает силу лошади",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 2,
+        "primary_form_chapter_files": 2,
+        "first_primary_form_file": "chapters/0044.md",
+        "matched_forms": {
+          "路遥知马力": {
+            "exact_occurrences": 2,
+            "chapter_files": 2,
+            "first_file": "chapters/0044.md"
+          }
+        },
+        "first_match_file": "chapters/0044.md",
+        "first_match_form": "路遥知马力",
+        "first_match_excerpt_zh": "赶人，“行了，起来吧，以后到了清风城，修行一事最耗光阴，路遥知马力，你是不是忘本，自然水落石出。” 卢正淳后退着离开",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "鹏程万里",
+      "zh_aliases": [],
+      "pinyin": "péng chéng wàn lǐ",
+      "category": "чэнъюй",
+      "meaning_ru": "впереди широкий путь и большие свершения",
+      "literal_ru": "великая птица пролетает десять тысяч ли",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 2,
+        "primary_form_chapter_files": 2,
+        "first_primary_form_file": "chapters/0027.md",
+        "matched_forms": {
+          "鹏程万里": {
+            "exact_occurrences": 2,
+            "chapter_files": 2,
+            "first_file": "chapters/0027.md"
+          }
+        },
+        "first_match_file": "chapters/0027.md",
+        "first_match_form": "鹏程万里",
+        "first_match_excerpt_zh": "家有余庆，行善之人有福田，奴婢在这里预祝赵公子青云直上，鹏程万里。” 赵繇赶紧回礼作揖道：“感谢稚圭姑娘的吉言。”",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "不耻下问",
+      "zh_aliases": [],
+      "pinyin": "bù chǐ xià wèn",
+      "category": "чэнъюй",
+      "meaning_ru": "не стыдиться спрашивать тех, кто знает больше",
+      "literal_ru": "не считать зазорным спросить у нижестоящего",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 1,
+        "primary_form_chapter_files": 1,
+        "first_primary_form_file": "chapters/1017.md",
+        "matched_forms": {
+          "不耻下问": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/1017.md"
+          }
+        },
+        "first_match_file": "chapters/1017.md",
+        "first_match_form": "不耻下问",
+        "first_match_excerpt_zh": "江湖经验丰富，还会问这种白痴问题？” 少年说道：“不耻下问。” 白茅揉了揉眉心，犹豫要不要撇下这个小王八蛋，",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "乐极生悲",
+      "zh_aliases": [],
+      "pinyin": "lè jí shēng bēi",
+      "category": "чэнъюй",
+      "meaning_ru": "за чрезмерной радостью приходит горе",
+      "literal_ru": "крайняя радость рождает печаль",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 1,
+        "primary_form_chapter_files": 1,
+        "first_primary_form_file": "chapters/1062.md",
+        "matched_forms": {
+          "乐极生悲": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/1062.md"
+          }
+        },
+        "first_match_file": "chapters/1062.md",
+        "first_match_form": "乐极生悲",
+        "first_match_excerpt_zh": "霜降说苏子是苦中作乐，故而豁达。反观白也就太顺遂了，属于乐极生悲，但是白也确实才华无匹，尤其胜在仙气足够多，浩浩荡荡，人",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "买椟还珠",
+      "zh_aliases": [],
+      "pinyin": "mǎi dú huán zhū",
+      "category": "чэнъюй",
+      "meaning_ru": "перепутать ценность: выбрать оправу и отвергнуть драгоценность",
+      "literal_ru": "купить шкатулку, а жемчужину вернуть",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 1,
+        "primary_form_chapter_files": 1,
+        "first_primary_form_file": "chapters/0938.md",
+        "matched_forms": {
+          "买椟还珠": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/0938.md"
+          }
+        },
+        "first_match_file": "chapters/0938.md",
+        "first_match_form": "买椟还珠",
+        "first_match_excerpt_zh": "道不同不相为谋。 陆沉笑道：“我的名字，可就多了，买椟还珠的郑人，滥竽充数的南郭，‘遍身罗绮者’的罗绮，‘心忧炭贱",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "口蜜腹剑",
+      "zh_aliases": [],
+      "pinyin": "kǒu mì fù jiàn",
+      "category": "чэнъюй",
+      "meaning_ru": "говорить сладко, а в душе держать нож",
+      "literal_ru": "мёд во рту, меч в животе",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 1,
+        "primary_form_chapter_files": 1,
+        "first_primary_form_file": "chapters/0248.md",
+        "matched_forms": {
+          "口蜜腹剑": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/0248.md"
+          }
+        },
+        "first_match_file": "chapters/0248.md",
+        "first_match_form": "口蜜腹剑",
+        "first_match_excerpt_zh": "跻身君子。周矩对那支敌对文脉，观感谈不上好恶，但是对这位口蜜腹剑的贤人，关键此人还假借自家先生的文章宗旨，用以攻讦山崖书",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "叶公好龙",
+      "zh_aliases": [],
+      "pinyin": "yè gōng hào lóng",
+      "category": "чэнъюй",
+      "meaning_ru": "на словах любить, а при встрече испугаться настоящего",
+      "literal_ru": "князь Е любит драконов",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 1,
+        "primary_form_chapter_files": 1,
+        "first_primary_form_file": "chapters/1057.md",
+        "matched_forms": {
+          "叶公好龙": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/1057.md"
+          }
+        },
+        "first_match_file": "chapters/1057.md",
+        "first_match_form": "叶公好龙",
+        "first_match_excerpt_zh": "个想法，还是算了吧。 担心傅山神真见着了陆沉，不是叶公好龙，就是大失所望，岂不是连累陆掌教白白失去一个仰慕者。",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "同甘共苦",
+      "zh_aliases": [],
+      "pinyin": "tóng gān gòng kǔ",
+      "category": "чэнъюй",
+      "meaning_ru": "делить и радость, и горе",
+      "literal_ru": "разделять сладость и горечь",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 1,
+        "primary_form_chapter_files": 1,
+        "first_primary_form_file": "chapters/0422.md",
+        "matched_forms": {
+          "同甘共苦": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/0422.md"
+          }
+        },
+        "first_match_file": "chapters/0422.md",
+        "first_match_form": "同甘共苦",
+        "first_match_excerpt_zh": "水井亲自下厨，两个贫苦出身的店里伙计，便是要想着陪着掌柜同甘共苦，董水井也不让。 董水井的馄饨铺子，名气越大越大，",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "塞翁失马",
+      "zh_aliases": [],
+      "pinyin": "sài wēng shī mǎ",
+      "category": "чэнъюй",
+      "meaning_ru": "потеря может обернуться удачей; исход ещё неизвестен",
+      "literal_ru": "старец у заставы потерял коня",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 1,
+        "primary_form_chapter_files": 1,
+        "first_primary_form_file": "chapters/0988.md",
+        "matched_forms": {
+          "塞翁失马": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/0988.md"
+          }
+        },
+        "first_match_file": "chapters/0988.md",
+        "first_match_form": "塞翁失马",
+        "first_match_excerpt_zh": "吕喦重新别好葫芦瓢，转头瞥了眼北方，略带几分讥讽道：“塞翁失马焉知非福，白裳与那田婉暗中勾结，试图操控一洲剑道气运流转",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "心花怒放",
+      "zh_aliases": [],
+      "pinyin": "xīn huā nù fàng",
+      "category": "чэнъюй",
+      "meaning_ru": "расцвести от радости",
+      "literal_ru": "цветок в сердце распускается во всю силу",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 1,
+        "primary_form_chapter_files": 1,
+        "first_primary_form_file": "chapters/0924.md",
+        "matched_forms": {
+          "心花怒放": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/0924.md"
+          }
+        },
+        "first_match_file": "chapters/0924.md",
+        "first_match_form": "心花怒放",
+        "first_match_excerpt_zh": "一句，说“如此一来，小姐那封诰还是极为稳当的”，说得老人心花怒放，一喜之下，便给了三千两银子。 身为郡守随从的小陌",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "指鹿为马",
+      "zh_aliases": [],
+      "pinyin": "zhǐ lù wéi mǎ",
+      "category": "чэнъюй",
+      "meaning_ru": "выдавать очевидную ложь за правду",
+      "literal_ru": "указать на оленя и назвать его конём",
+      "translation_note": "В первой сцене глава 40 следует за превращением белого оленя в коня: образ одновременно отсылает к идиоме и описывает происходящее. Не сглаживать эту игру контекста.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 1,
+        "primary_form_chapter_files": 1,
+        "first_primary_form_file": "chapters/0040.md",
+        "matched_forms": {
+          "指鹿为马": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/0040.md"
+          }
+        },
+        "first_match_file": "chapters/0040.md",
+        "first_match_form": "指鹿为马",
+        "first_match_excerpt_zh": "地摸了摸它的背脊，下一刻它便变成了一匹马的身姿。 指鹿为马。 年轻道姑望向陈平安，微微叹息，笑着说了一句话，",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "望梅止渴",
+      "zh_aliases": [],
+      "pinyin": "wàng méi zhǐ kě",
+      "category": "чэнъюй",
+      "meaning_ru": "утешаться воображением; обнадёживать себя несбыточным",
+      "literal_ru": "глядеть на сливы, чтобы утолить жажду",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 1,
+        "primary_form_chapter_files": 1,
+        "first_primary_form_file": "chapters/0417.md",
+        "matched_forms": {
+          "望梅止渴": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/0417.md"
+          }
+        },
+        "first_match_file": "chapters/0417.md",
+        "first_match_form": "望梅止渴",
+        "first_match_excerpt_zh": "不再是奢望。在祁真年少时，就曾得到世外高人一句“仙人也要望梅止渴”的谶语，十二境之前，自是大吉之言，等到祁真跻身天君，几",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "杯弓蛇影",
+      "zh_aliases": [],
+      "pinyin": "bēi gōng shé yǐng",
+      "category": "чэнъюй",
+      "meaning_ru": "пугаться собственной тени; видеть угрозу там, где её нет",
+      "literal_ru": "отражение лука в чаше кажется змеёй",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 1,
+        "primary_form_chapter_files": 1,
+        "first_primary_form_file": "chapters/0750.md",
+        "matched_forms": {
+          "杯弓蛇影": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/0750.md"
+          }
+        },
+        "first_match_file": "chapters/0750.md",
+        "first_match_form": "杯弓蛇影",
+        "first_match_excerpt_zh": "最后就是陈平安有一份私心，实在是被那三个古怪梦境给折腾得杯弓蛇影了，所以想要尽早在一洲山河，脚踏实地，尤其是借助桐叶洲的",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "百闻不如一见",
+      "zh_aliases": [],
+      "pinyin": "bǎi wén bù rú yī jiàn",
+      "category": "чэнъюй",
+      "meaning_ru": "лучше один раз увидеть, чем сто раз услышать",
+      "literal_ru": "сто рассказов не заменят одного взгляда",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 1,
+        "primary_form_chapter_files": 1,
+        "first_primary_form_file": "chapters/1023.md",
+        "matched_forms": {
+          "百闻不如一见": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/1023.md"
+          }
+        },
+        "first_match_file": "chapters/1023.md",
+        "first_match_form": "百闻不如一见",
+        "first_match_excerpt_zh": "去之后，刘铁笑着调侃道：“周楸，那位陈先生，如何，是不是百闻不如一见？你就没有？嗯？” “这辈子还没喜欢过谁。”",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "见义勇为",
+      "zh_aliases": [],
+      "pinyin": "jiàn yì yǒng wéi",
+      "category": "чэнъюй",
+      "meaning_ru": "смело вступиться за правое дело",
+      "literal_ru": "увидеть справедливость и действовать храбро",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 1,
+        "primary_form_chapter_files": 1,
+        "first_primary_form_file": "chapters/0119.md",
+        "matched_forms": {
+          "见义勇为": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/0119.md"
+          }
+        },
+        "first_match_file": "chapters/0119.md",
+        "first_match_form": "见义勇为",
+        "first_match_excerpt_zh": "儒衫男人有些畏缩，望向二楼那边，高喊道：“还望老先生见义勇为，在下定会铭感五内！” 老人对此面无表情，望向陈平",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "集思广益",
+      "zh_aliases": [],
+      "pinyin": "jí sī guǎng yì",
+      "category": "чэнъюй",
+      "meaning_ru": "собрать мнения многих и расширить пользу",
+      "literal_ru": "соединить мысли и увеличить пользу",
+      "translation_note": "Сверить функцию фразы в реплике и сохранить китайский образ, если он значим; не подменять автоматически русской пословицей.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 1,
+        "primary_form_chapter_files": 1,
+        "first_primary_form_file": "chapters/0629.md",
+        "matched_forms": {
+          "集思广益": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/0629.md"
+          }
+        },
+        "first_match_file": "chapters/0629.md",
+        "first_match_form": "集思广益",
+        "first_match_excerpt_zh": "我们的职责，其实就是查漏补缺，大忙注定帮不上，可如果我们集思广益，帮点小忙，应该可以。” 在林君璧言语期间，陈平安",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "集腋成裘",
+      "zh_aliases": [],
+      "pinyin": "jí yè chéng qiú",
+      "category": "чэнъюй",
+      "meaning_ru": "собрать по крупице и создать целое",
+      "literal_ru": "собрать пушок с подмышек лисиц и сшить меховую одежду",
+      "translation_note": "В главе 486 Пэй Цянь шутит о лисьем мехе; сохранить её детски-практичный, слегка жутковатый юмор, не превращая поговорку в серьёзный афоризм.",
+      "wiki_card": null,
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 1,
+        "primary_form_chapter_files": 1,
+        "first_primary_form_file": "chapters/0486.md",
+        "matched_forms": {
+          "集腋成裘": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/0486.md"
+          }
+        },
+        "first_match_file": "chapters/0486.md",
+        "first_match_form": "集腋成裘",
+        "first_match_excerpt_zh": "心里委屈巴巴，小东西怕什么，胆儿贼小，书上不是有个说法叫集腋成裘嘛，她也就是想着剥了皮做件衣服肯定值钱，又不会真宰了你。",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "泥菩萨过江",
+      "zh_aliases": [
+        "泥菩萨过江——自身难保",
+        "泥菩萨过江自身难保"
+      ],
+      "pinyin": "Ní pú sà guò jiāng, zì shēn nán bǎo",
+      "category": "поговорка-двучастная",
+      "meaning_ru": "Даже спаситель сам не может спастись; человек оказался в беде и не способен помочь другим.",
+      "literal_ru": "Глиняный бодхисаттва пытается переправиться через реку и сам размокает.",
+      "translation_note": "Сохранить образ; в романе выражение также связано с названием опасного порога в боевых искусствах. См. карточку поговорки.",
+      "wiki_card": "idioms/clay-bodhisattva-crossing-river.md",
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 10,
+        "primary_form_chapter_files": 10,
+        "first_primary_form_file": "chapters/0001.md",
+        "matched_forms": {
+          "泥菩萨过江": {
+            "exact_occurrences": 10,
+            "chapter_files": 10,
+            "first_file": "chapters/0001.md"
+          },
+          "泥菩萨过江——自身难保": {
+            "exact_occurrences": 0,
+            "chapter_files": 0,
+            "first_file": null
+          },
+          "泥菩萨过江自身难保": {
+            "exact_occurrences": 3,
+            "chapter_files": 3,
+            "first_file": "chapters/0001.md"
+          }
+        },
+        "first_match_file": "chapters/0001.md",
+        "first_match_form": "泥菩萨过江自身难保",
+        "first_match_excerpt_zh": "地失去官窑烧制资格，负责替朝廷监理窑务的督造大人，自己都泥菩萨过江自身难保了，哪里还顾得上官场同僚的私生子，丢下一些银钱，就火急火",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "世间好物不坚牢，彩云易散琉璃脆",
+      "zh_aliases": [
+        "世间好物不坚牢",
+        "彩云易散琉璃脆"
+      ],
+      "pinyin": "Shì jiān hǎo wù bù jiān láo, cǎi yún yì sàn liú lí cuì",
+      "category": "цитата",
+      "meaning_ru": "Всё прекрасное хрупко: счастье, юность и красота не вечны.",
+      "literal_ru": "Прекрасное в мире непрочно; радужные облака легко рассеиваются, глазурь хрупка.",
+      "translation_note": "Использовать канонический поэтический перевод из карточки; при первом появлении сохранить связь с Бо Цзюйи.",
+      "wiki_card": "idioms/good-things-fragile.md",
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 3,
+        "primary_form_chapter_files": 3,
+        "first_primary_form_file": "chapters/0000.md",
+        "matched_forms": {
+          "世间好物不坚牢，彩云易散琉璃脆": {
+            "exact_occurrences": 3,
+            "chapter_files": 3,
+            "first_file": "chapters/0000.md"
+          },
+          "世间好物不坚牢": {
+            "exact_occurrences": 3,
+            "chapter_files": 3,
+            "first_file": "chapters/0000.md"
+          },
+          "彩云易散琉璃脆": {
+            "exact_occurrences": 4,
+            "chapter_files": 4,
+            "first_file": "chapters/0000.md"
+          }
+        },
+        "first_match_file": "chapters/0000.md",
+        "first_match_form": "世间好物不坚牢，彩云易散琉璃脆",
+        "first_match_excerpt_zh": "“珠子以线串成珠帘”，琳琅满目，毕竟是一件很美好的事物。世间好物不坚牢，彩云易散琉璃脆。那咱们就从小说里找补回来，多好。",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "为天地立心，为生民立命，为往圣继绝学，为万世开太平",
+      "zh_aliases": [
+        "横渠四句",
+        "为万世开太平",
+        "为生民立命"
+      ],
+      "pinyin": "Wèi tiān dì lì xīn, wèi shēng mín lì mìng, wèi wǎng shèng jì jué xué, wèi wàn shì kāi tài píng",
+      "category": "цитата",
+      "meaning_ru": "Завет учёного: утвердить нравственный порядок, служить народу, продолжить учение мудрецов и открыть мир для будущих поколений.",
+      "literal_ru": "Утвердить сердце для Неба и Земли; устроить долю народа; продолжить прерванное учение святых; открыть покой на десять тысяч поколений.",
+      "translation_note": "В корпусе нет полного четверостишия: встречаются лишь `为万世开太平` (главы 38 и 712) и `为生民立命` (глава 71). Не вставлять отсутствующие строки в реплики; полный перевод дан только как справка о классическом источнике.",
+      "wiki_card": "idioms/hengqu-four-sentences.md",
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 0,
+        "primary_form_chapter_files": 0,
+        "first_primary_form_file": null,
+        "matched_forms": {
+          "为天地立心，为生民立命，为往圣继绝学，为万世开太平": {
+            "exact_occurrences": 0,
+            "chapter_files": 0,
+            "first_file": null
+          },
+          "横渠四句": {
+            "exact_occurrences": 0,
+            "chapter_files": 0,
+            "first_file": null
+          },
+          "为万世开太平": {
+            "exact_occurrences": 2,
+            "chapter_files": 2,
+            "first_file": "chapters/0038.md"
+          },
+          "为生民立命": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/0071.md"
+          }
+        },
+        "first_match_file": "chapters/0038.md",
+        "first_match_form": "为万世开太平",
+        "first_match_excerpt_zh": "来的儒家君子问了他一个问题，“先生可想继承某人遗愿，继续为万世开太平？” 齐静春当时回答道：“容我考虑考虑。”",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "唯有一剑",
+      "zh_aliases": [
+        "我陈平安，唯有一剑",
+        "唯有一剑，可搬山，倒海，降妖，镇魔，敕神，摘星，断江，摧城，开天"
+      ],
+      "pinyin": "Wéi yǒu yī jiàn; kě bān shān, dǎo hǎi, jiàng yāo, zhèn mó, chì shén, zhāi xīng, duàn jiāng, cuī chéng, kāi tiān",
+      "category": "кредо",
+      "meaning_ru": "У героя есть один меч, способный преодолеть любые преграды; это самоописание и ритмический девиз романа.",
+      "literal_ru": "Лишь один меч: двигать горы, опрокидывать моря, усмирять демонов, повелевать богами, срывать звёзды, рассекать реки, рушить города, разверзать Небо.",
+      "translation_note": "Сохранять чеканный перечень действий и неизменный канонический русский вариант из карточки. В аннотации `0000_synopsis.md` и в первой сюжетной сцене главы 84 порядок звеньев различается: в главе 84 `断江` стоит перед `倒海`; в цитате сохранять порядок конкретного источника.",
+      "wiki_card": "idioms/one-sword-credo.md",
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 7,
+        "primary_form_chapter_files": 6,
+        "first_primary_form_file": "chapters/0084.md",
+        "matched_forms": {
+          "唯有一剑": {
+            "exact_occurrences": 7,
+            "chapter_files": 6,
+            "first_file": "chapters/0084.md"
+          },
+          "我陈平安，唯有一剑": {
+            "exact_occurrences": 2,
+            "chapter_files": 1,
+            "first_file": "chapters/0084.md"
+          },
+          "唯有一剑，可搬山，倒海，降妖，镇魔，敕神，摘星，断江，摧城，开天": {
+            "exact_occurrences": 0,
+            "chapter_files": 0,
+            "first_file": null
+          }
+        },
+        "first_match_file": "chapters/0084.md",
+        "first_match_form": "我陈平安，唯有一剑",
+        "first_match_excerpt_zh": "轻轻合掌在一起。 她闭上眼睛，缓缓道：“天道崩塌，我陈平安，唯有一剑，可搬山，断江，倒海，降妖，镇魔，敕神，摘星，摧城，开天",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "言念君子，温其如玉",
+      "zh_aliases": [
+        "温其如玉"
+      ],
+      "pinyin": "Yán niàn jūn zǐ, wēn qí rú yù",
+      "category": "цитата",
+      "meaning_ru": "Образ благородного человека, чья внутренняя твёрдость выражается мягкостью и учтивостью.",
+      "literal_ru": "Вспоминаю благородного мужа — тёпел он, словно нефрит.",
+      "translation_note": "Это строка из древней поэзии и надпись на шпильке; использовать перевод карточки, а не свободную современную поговорку.",
+      "wiki_card": "idioms/yan-sheng-yu-kuan.md",
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 6,
+        "primary_form_chapter_files": 6,
+        "first_primary_form_file": "chapters/0025.md",
+        "matched_forms": {
+          "言念君子，温其如玉": {
+            "exact_occurrences": 6,
+            "chapter_files": 6,
+            "first_file": "chapters/0025.md"
+          },
+          "温其如玉": {
+            "exact_occurrences": 6,
+            "chapter_files": 6,
+            "first_file": "chapters/0025.md"
+          }
+        },
+        "first_match_file": "chapters/0025.md",
+        "first_match_form": "言念君子，温其如玉",
+        "first_match_excerpt_zh": "八个字，便是仅算粗通文墨的少女，也觉得极为动人。 言念君子，温其如玉。",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "岁岁平安",
+      "zh_aliases": [
+        "碎碎平安",
+        "平平安安"
+      ],
+      "pinyin": "Suì suì píng ān",
+      "category": "каламбур и благопожелание",
+      "meaning_ru": "Пожелание мира и благополучия из года в год; через созвучие связано с разбитым фарфором.",
+      "literal_ru": "岁岁 — «год за годом»; 碎碎 — «разбилось вдребезги»; 平安 — мир и покой.",
+      "translation_note": "При разбитой посуде сохранять одновременно «осколки» и «мир да покой»; не сводить каламбур к одному смыслу.",
+      "wiki_card": "idioms/suisui-pingan.md",
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 7,
+        "primary_form_chapter_files": 6,
+        "first_primary_form_file": "chapters/0001.md",
+        "matched_forms": {
+          "岁岁平安": {
+            "exact_occurrences": 7,
+            "chapter_files": 6,
+            "first_file": "chapters/0001.md"
+          },
+          "碎碎平安": {
+            "exact_occurrences": 12,
+            "chapter_files": 10,
+            "first_file": "chapters/0001.md"
+          },
+          "平平安安": {
+            "exact_occurrences": 40,
+            "chapter_files": 38,
+            "first_file": "chapters/0050.md"
+          }
+        },
+        "first_match_file": "chapters/0001.md",
+        "first_match_form": "岁岁平安",
+        "first_match_excerpt_zh": "寒少年闭上眼睛，小声呢喃道：“碎碎平，岁岁安，碎碎平安，岁岁平安……” ————- ps1:雪中的一个近二十",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "二月二，龙抬头",
+      "zh_aliases": [
+        "二月二，烛照梁，桃打墙，人间蛇虫无处藏"
+      ],
+      "pinyin": "Èr yuè èr, lóng tái tóu",
+      "category": "обычай и народная приговорка",
+      "meaning_ru": "Весенний праздник второго дня второй луны; пробуждение Дракона связано с началом дождей и защитными обрядами.",
+      "literal_ru": "Во второй день второй луны Дракон поднимает голову. В приговорке свечой освещают балку и персиковой веткой бьют по стене, чтобы изгнать гадов.",
+      "translation_note": "Речь бытовая и ритмичная; для подробного смысла и готового русского варианта см. карточку обряда.",
+      "wiki_card": "idioms/jingzhe-dragon-raises-head.md",
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 3,
+        "primary_form_chapter_files": 3,
+        "first_primary_form_file": "chapters/0001.md",
+        "matched_forms": {
+          "二月二，龙抬头": {
+            "exact_occurrences": 3,
+            "chapter_files": 3,
+            "first_file": "chapters/0001.md"
+          },
+          "二月二，烛照梁，桃打墙，人间蛇虫无处藏": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/0001.md"
+          }
+        },
+        "first_match_file": "chapters/0001.md",
+        "first_match_form": "二月二，烛照梁，桃打墙，人间蛇虫无处藏",
+        "first_match_excerpt_zh": "、蜈蚣等，嘴里念念有词，是这座小镇祖祖辈辈传下来的老话：二月二，烛照梁，桃打墙，人间蛇虫无处藏。 少年姓陈，名平安，爹娘早逝。小镇的瓷器极负盛名",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "惊蛰",
+      "zh_aliases": [],
+      "pinyin": "Jīng zhé",
+      "category": "сезонный термин",
+      "meaning_ru": "Третий из двадцати четырёх солнечных сроков традиционного календаря; время, когда весенние грозы будят насекомых.",
+      "literal_ru": "«Пробуждение насекомых».",
+      "translation_note": "В названии первой главы использовать закреплённую форму «Пробуждение насекомых»; не смешивать сезонный термин с праздником второго дня второй луны.",
+      "wiki_card": "idioms/jingzhe-dragon-raises-head.md",
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 26,
+        "primary_form_chapter_files": 17,
+        "first_primary_form_file": "chapters/0001.md",
+        "matched_forms": {
+          "惊蛰": {
+            "exact_occurrences": 26,
+            "chapter_files": 17,
+            "first_file": "chapters/0001.md"
+          }
+        },
+        "first_match_file": "chapters/0001.md",
+        "first_match_form": "惊蛰",
+        "first_match_excerpt_zh": "第一章 惊蛰 二月二，龙抬头。 暮色里，小镇名叫泥瓶巷的僻静",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "大千世界，无奇不有",
+      "zh_aliases": [
+        "无奇不有"
+      ],
+      "pinyin": "Dà qiān shì jiè, wú qí bù yǒu",
+      "category": "устойчивая формула",
+      "meaning_ru": "В огромном мире встречаются любые чудеса и необычные вещи.",
+      "literal_ru": "Великий тысячекратный мир — и нет диковины, которой в нём не было бы.",
+      "translation_note": "В аннотации это часть открывающей формулы романа; сверяться с карточкой кредо меча.",
+      "wiki_card": "idioms/one-sword-credo.md",
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 11,
+        "primary_form_chapter_files": 11,
+        "first_primary_form_file": "chapters/0037.md",
+        "matched_forms": {
+          "大千世界，无奇不有": {
+            "exact_occurrences": 11,
+            "chapter_files": 11,
+            "first_file": "chapters/0037.md"
+          },
+          "无奇不有": {
+            "exact_occurrences": 35,
+            "chapter_files": 35,
+            "first_file": "chapters/0037.md"
+          }
+        },
+        "first_match_file": "chapters/0037.md",
+        "first_match_form": "大千世界，无奇不有",
+        "first_match_excerpt_zh": "还有不计其数的古怪物品，你只要走得够远，就总能遇到惊喜。大千世界，无奇不有，你以后，最好还是要出去走走，不说奢望离开东宝瓶洲，离开",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    },
+    {
+      "zh": "二月二，烛照梁，桃打墙，人间蛇虫无处藏",
+      "zh_aliases": [
+        "烛照梁，桃打墙"
+      ],
+      "pinyin": "Èr yuè èr, zhú zhào liáng, táo dǎ qiáng, rén jiān shé chóng wú chù cáng",
+      "category": "народная приговорка",
+      "meaning_ru": "Обрядовое пожелание изгнать змей и скорпионов из дома.",
+      "literal_ru": "Во второй день второй луны — свеча на балку, персиком по стене, чтобы змеям и насекомым негде было укрыться.",
+      "translation_note": "Сохранять домашний, напевный ритм и защитный смысл; см. карточку календарного обряда.",
+      "wiki_card": "idioms/jingzhe-dragon-raises-head.md",
+      "corpus_matches": {
+        "primary_form_exact_occurrences": 1,
+        "primary_form_chapter_files": 1,
+        "first_primary_form_file": "chapters/0001.md",
+        "matched_forms": {
+          "二月二，烛照梁，桃打墙，人间蛇虫无处藏": {
+            "exact_occurrences": 1,
+            "chapter_files": 1,
+            "first_file": "chapters/0001.md"
+          },
+          "烛照梁，桃打墙": {
+            "exact_occurrences": 2,
+            "chapter_files": 2,
+            "first_file": "chapters/0001.md"
+          }
+        },
+        "first_match_file": "chapters/0001.md",
+        "first_match_form": "二月二，烛照梁，桃打墙，人间蛇虫无处藏",
+        "first_match_excerpt_zh": "、蜈蚣等，嘴里念念有词，是这座小镇祖祖辈辈传下来的老话：二月二，烛照梁，桃打墙，人间蛇虫无处藏。 少年姓陈，名平安，爹娘早逝。小镇的瓷器极负盛名",
+        "method_note": "Точный поиск подстроки по нумерованным .md-файлам; счёт включает дубликаты файлов и не равен числу идиоматических употреблений."
+      }
+    }
+  ],
+  "total_entries": 96,
+  "counting_note": "Поля corpus_matches отражают точные строковые совпадения и не классифицируют употребление как идиоматическое. Учитывайте контекст, омонимы и дубли глав.",
+  "corpus_scope": {
+    "files": "chapters/0000.md–chapters/1197.md",
+    "method": "Точный поиск подстроки в каждом нумерованном Markdown-файле; отдельная аннотация chapters/0000_synopsis.md исключена.",
+    "verification": "Первые совпадения и отдельные повторы проверяются вручную по контексту; весь корпус не размечен семантически, а число точных совпадений не равно числу идиоматических употреблений."
+  }
+}

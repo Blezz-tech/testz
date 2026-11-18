@@ -9,7 +9,7 @@
 ## Схема
 
 ```text
-chapters/NNNN.txt + chapters/index.json
+chapters/NNNN.md + chapters/index.json
         │
         ▼
 [0] Проверка записи в реестре          ── duplicate / missing_stub → стоп
@@ -52,17 +52,17 @@ translations/ru/NNNN.md
 
 **Особые файлы** (см. [оглавление корпуса](../chapters/README.md)):
 
-- `0000_synopsis.txt` — аннотация, не глава;
-- `0000.txt` — авторское предисловие;
-- `0351.txt`, `0936.txt` — заглушки;
-- `0749.txt` (`= 0748`), `0942.txt` (`= 0941`) — дубликаты.
+- `0000_synopsis.md` — аннотация, не глава;
+- `0000.md` — авторское предисловие;
+- `0351.md`, `0936.md` — заглушки;
+- `0749.md` (`= 0748`), `0942.md` (`= 0941`) — дубликаты.
 
 ---
 
 ## Шаг 1. Досье сущностей
 
 ```bash
-python3 scripts/wiki_tool.py scan chapters/NNNN.txt --max-chapter NNNN
+python3 scripts/wiki_tool.py scan chapters/NNNN.md --max-chapter NNNN
 ```
 
 Что делает команда:
@@ -208,7 +208,7 @@ endnotes: 3
 
 ```bash
 # досье главы
-python3 scripts/wiki_tool.py scan chapters/0512.txt --max-chapter 512
+python3 scripts/wiki_tool.py scan chapters/0512.md --max-chapter 512
 
 # найти сущность
 python3 scripts/wiki_tool.py lookup 落魄山

@@ -7,7 +7,7 @@ pinyin: Yan nian junzi, wen qi ru yu
 ru: Вспоминаю благородного мужа — мягок и тёпел он, словно нефрит
 subtype: classical_quote
 needs_endnote: true
-first_chapter: 24
+first_chapter: 25
 tags: ["шицзин", "шпилька", "ци-цзинчунь", "чэнь-пинъань"]
 ---
 

@@ -7,7 +7,7 @@ pinyin: Daoli / Benxin / Guiju
 ru: Правда мира, Изначальное сердце и Устои
 subtype: philosophical_triad
 needs_endnote: false
-first_chapter: 6
+first_chapter: 3
 tags: ["философия", "три-учения", "рефрен"]
 scan_hints:
   - "`道理` — «правда, резон», встречается в каждом споре; карточка нужна как напоминание о каноне, а не как имя собственное."

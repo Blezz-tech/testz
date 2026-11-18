@@ -7,7 +7,7 @@ pinyin: Suisui ping'an
 ru: Из года в год — мир да покой / Осколки — к миру и покою
 subtype: pun
 needs_endnote: true
-first_chapter: 14
+first_chapter: 1
 tags: ["каламбур", "имя-героя", "фарфор", "сквозной-мотив"]
 ---
 

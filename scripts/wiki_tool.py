@@ -5,8 +5,9 @@
 
 Команды:
   python3 scripts/wiki_tool.py build
-      Собирает поисковый индекс `wiki/_index.json`: все карточки, граф прямых
-      и обратных ссылок, таблицу китайских ключей (от длинных к коротким).
+      Собирает поисковый индекс `wiki/_index.json` и словарь карточек
+      `wiki/dictionaries/all_wiki_objects.json`: граф ссылок, китайские ключи
+      и переводческие правила из frontmatter и Markdown-разделов карточек.
 
   python3 scripts/wiki_tool.py check
       Проверяет YAML-заголовки, обязательные поля, дубли id и китайских ключей,
@@ -17,7 +18,7 @@
       Перегенерирует `wiki/INDEX.md` — полный алфавитный указатель всех статей
       по категориям (его не нужно править вручную).
 
-  python3 scripts/wiki_tool.py scan chapters/0001.txt [--max-chapter N]
+  python3 scripts/wiki_tool.py scan chapters/0001.md [--max-chapter N]
       Сканирует китайский текст главы и выводит досье перевода: найденные
       персонажи, топонимы, термины, ранги и идиомы с защитой от спойлеров.
       Если `--max-chapter` не указан, номер главы берётся из имени файла.
@@ -42,10 +43,11 @@ WIKI_DIR = Path("wiki")
 DOCS_DIR = Path("docs")
 INDEX_FILE = WIKI_DIR / "_index.json"
 HUMAN_INDEX = WIKI_DIR / "INDEX.md"
+DICTIONARY_FILE = WIKI_DIR / "dictionaries" / "all_wiki_objects.json"
 
 MD_LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 REQUIRED_FIELDS = {"id", "type", "zh", "ru", "first_chapter"}
-SKIP_DIRS = {"_templates"}
+SKIP_DIRS = {"_templates", "dictionaries"}
 SKIP_FILES = {"README.MD", "INDEX.MD"}
 
 TYPE_ORDER = [
@@ -278,6 +280,7 @@ def build_index(verbose: bool = True) -> dict[str, Any]:
     INDEX_FILE.write_text(
         json.dumps(index_data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
+    write_objects_dictionary(index_data)
     if verbose:
         counts = ", ".join(f"{k}={v}" for k, v in index_data["counts_by_type"].items())
         print(
@@ -285,6 +288,83 @@ def build_index(verbose: bool = True) -> dict[str, Any]:
             f"(карточек: {index_data['total_entities']}, ключей: {len(sorted_zh_lookup)}; {counts})"
         )
     return index_data
+
+
+def extract_translation_rule(md_path: Path) -> str:
+    """Собирает из карточки все разделы с нормами и решениями перевода."""
+    text = md_path.read_text(encoding="utf-8")
+    try:
+        _, body = parse_frontmatter(text, md_path)
+    except ValueError:
+        return ""
+
+    headings = list(re.finditer(r"^##\s+(.+?)\s*$", body, re.MULTILINE))
+    rule_heading = re.compile(
+        r"перевод|классификац|стилистическ|эталонн|правил",
+        re.IGNORECASE,
+    )
+    sections: list[str] = []
+    for idx, match in enumerate(headings):
+        title = match.group(1).strip()
+        if not rule_heading.search(title):
+            continue
+        end = headings[idx + 1].start() if idx + 1 < len(headings) else len(body)
+        content = body[match.end() : end].strip()
+        sections.append(f"## {title}\n\n{content}" if content else f"## {title}")
+    return "\n\n".join(sections)
+
+
+def write_objects_dictionary(index_data: dict[str, Any]) -> None:
+    """Создаёт полный русскоязычный словарь карточек из актуального индекса."""
+    entries: list[dict[str, Any]] = []
+    for entity in index_data["entities"].values():
+        path = Path(entity["path"])
+        try:
+            meta, _ = parse_frontmatter(path.read_text(encoding="utf-8"), path)
+        except ValueError:
+            meta = {}
+        entry = {
+            "id": entity["id"],
+            "type": entity["type"],
+            "zh": entity["zh"],
+            "zh_aliases": entity["zh_aliases"],
+            "unindexed_zh_aliases": list(meta.get("unindexed_zh_aliases") or []),
+            "pinyin": entity["pinyin"],
+            "palladius": entity["palladius"],
+            "ru": entity["ru"],
+            "ru_aliases": entity["ru_aliases"],
+            "first_chapter": entity["first_chapter"],
+            "gender": entity["gender"],
+            "subtype": entity["subtype"],
+            "parent": entity["parent"],
+            "needs_endnote": entity["needs_endnote"],
+            "scan_skip": entity["scan_skip"],
+            "scan_hints": entity["scan_hints"],
+            "tags": entity["tags"],
+            "translation_rule": extract_translation_rule(path),
+            "links_to": entity["links_to"],
+            "referenced_by": entity["referenced_by"],
+            "card": entity["path"],
+        }
+        entries.append(entry)
+
+    entries.sort(key=lambda item: (str(item["ru"]).lower().replace("ё", "е"), item["id"]))
+    data = {
+        "schema_version": "1.0",
+        "language": "ru",
+        "description": (
+            "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. "
+            "Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card."
+        ),
+        "source_index": "wiki/_index.json",
+        "total_entries": len(entries),
+        "counts_by_type": index_data["counts_by_type"],
+        "entries": entries,
+    }
+    DICTIONARY_FILE.parent.mkdir(parents=True, exist_ok=True)
+    DICTIONARY_FILE.write_text(
+        json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
 
 
 # --------------------------------------------------------------------------
@@ -319,7 +399,7 @@ def render_human_index(index_data: dict[str, Any]) -> str:
                 zh += " / " + " / ".join(ent["zh_aliases"][:3])
             lines.append(f"| [{ent['ru']}]({rel}) | `{zh}` | {ent['first_chapter']} |")
         lines.append("")
-    return "\n".join(lines) + "\n"
+    return "\n".join(lines).rstrip() + "\n"
 
 
 def write_human_index(index_data: dict[str, Any]) -> None:
@@ -538,12 +618,12 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Инструмент управления Лор-Вики 《剑来》")
     sub = parser.add_subparsers(dest="cmd", required=True)
 
-    sub.add_parser("build", help="Собрать wiki/_index.json и граф обратных ссылок")
+    sub.add_parser("build", help="Собрать индекс вики и словарь всех карточек")
     sub.add_parser("index", help="Перегенерировать человекочитаемый wiki/INDEX.md")
     sub.add_parser("check", help="Проверить карточки, ссылки и свежесть INDEX.md")
 
     scan_p = sub.add_parser("scan", help="Просканировать главу по базе Лор-Вики")
-    scan_p.add_argument("chapter_file", type=Path, help="Путь к файлу главы (chapters/NNNN.txt)")
+    scan_p.add_argument("chapter_file", type=Path, help="Путь к файлу главы (chapters/NNNN.md)")
     scan_p.add_argument(
         "--max-chapter",
         type=int,

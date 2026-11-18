@@ -3,9 +3,9 @@
 Разбивает исходный файл «剑来_全集_1198章.txt» на отдельные файлы глав в папке chapters/.
 
 Особенности обработки:
-1. Сохраняет аннотацию книги в `chapters/0000_synopsis.txt`.
-2. Предисловие автора (`新书感言`) сохраняет в `chapters/0000.txt`, чтобы `chapters/0001.txt`
-   напрямую соответствовал первой главе (`第一章 惊蛰`), `0002.txt` — второй и т.д.
+1. Сохраняет аннотацию книги в `chapters/0000_synopsis.md`.
+2. Предисловие автора (`新书感言`) сохраняет в `chapters/0000.md`, чтобы `chapters/0001.md`
+   напрямую соответствовал первой главе (`第一章 惊蛰`), `0002.md` — второй и т.д.
 3. Очищает 21 встроенный водяной знак сторонних сайтов вида `[www.xxx.yyy]`,
    разрывавший китайские слова прямо посреди предложения (например, `大[...]骊` -> `大骊`),
    не затрагивая оригинальный монолитный файл в корне репозитория.
@@ -96,7 +96,7 @@ def main() -> None:
         i for i, line in enumerate(lines) if line.startswith("====")
     )
     synopsis_text = "\n".join(lines[:separator_idx]).strip() + "\n"
-    (OUTPUT_DIR / "0000_synopsis.txt").write_text(synopsis_text, encoding="utf-8")
+    (OUTPUT_DIR / "0000_synopsis.md").write_text(synopsis_text, encoding="utf-8")
 
     # Заголовки глав — все непустые строки после разделителя без отступа '　　'
     header_indices = [
@@ -134,7 +134,7 @@ def main() -> None:
         content_hash = hashlib.sha256(full_chapter_text.encode("utf-8")).hexdigest()[:16]
 
         file_id = f"{seq_id:04d}"
-        filename = f"{file_id}.txt"
+        filename = f"{file_id}.md"
         duplicate_of = seen_hashes.get(content_hash)
         if duplicate_of is not None:
             status = "duplicate"
@@ -169,7 +169,7 @@ def main() -> None:
         "author_zh": "烽火戏诸侯",
         "author_ru": "Фэнхо Сичжухоу",
         "source_file": str(SOURCE_FILE),
-        "synopsis_file": "0000_synopsis.txt",
+        "synopsis_file": "0000_synopsis.md",
         "total_entries": len(manifest_entries),
         "counts_by_status": {
             "ok": sum(1 for e in manifest_entries if e["status"] == "ok"),

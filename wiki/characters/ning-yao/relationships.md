@@ -7,7 +7,7 @@ first_chapter: 15
 parent: char.ning-yao
 ---
 
-# Нин Яо — Отношения
+# Нин Яо — отношения (宁姚)
 
 > [← Нин Яо](../ning-yao.md) · [Портал Вики](../../README.md) · [Указатель](../../INDEX.md)
 

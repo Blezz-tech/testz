@@ -1,24 +1,24 @@
 ---
 id: char.cui-minghuang
 type: character
-zh: 崔明煌
+zh: 崔明皇
 zh_aliases: ["崔先生"]
 pinyin: Cui Minghuang
 palladius: Цуй Минхуан
 ru: Цуй Минхуан
 ru_aliases: []
 gender: male
-first_chapter: 83
+first_chapter: 45
 tags: ["конфуцианство", "академия", "учёный", "печати"]
 ---
 
-# Цуй Минхуан (崔明煌)
+# Цуй Минхуан (崔明皇)
 
 [← Портал Вики](../README.md) · [Полный указатель](../INDEX.md)
 
 | Параметр | Сведения |
 | :--- | :--- |
-| **Оригинал** | 崔明煌 (*Cuī Mínghuáng*) |
+| **Оригинал** | 崔明皇 (*Cuī Mínghuáng*) |
 | **Пол** | Мужской |
 | **Статус** | Будущий горный глава [Академии Созерцания Озера](../factions/mountain-cliff-academy.md), посланник конфуцианства в [Грот-небесах Личжу](../locations/lizhu-grotto-heaven.md) |
 | **Первое появление** | Глава 45 |

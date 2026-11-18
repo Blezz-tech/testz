@@ -5,7 +5,7 @@
 Внутри три вещи, которые работают вместе:
 
 - **`chapters/`** — полный китайский оригинал: 1199 файлов, 12,1 млн знаков, разбитый по главам и очищенный от мусора парсеров.
-- **`wiki/`** — Лор-Вики на **195 карточек**: персонажи, локации, фракции, культивация, концепции, артефакты, идиомы, медиа. С китайским оригиналом, пиньинем, Палладием, первой главой появления и явными «Правилами перевода».
+- **`wiki/`** — Лор-Вики на **254 карточки**: персонажи, локации, фракции, культивация, концепции, артефакты, идиомы и медиа. С китайским оригиналом, пиньинем, Палладием, первой главой появления и явными «Правилами перевода». Переводческие справочники лежат в `wiki/dictionaries/`.
 - **`docs/`** — методика и рабочий процесс: как переводить, какие сноски ставить, как не потерять канон на 1198 главах.
 
 ---
@@ -17,7 +17,7 @@
 python3 scripts/wiki_tool.py check
 
 # досье сущностей главы перед переводом
-python3 scripts/wiki_tool.py scan chapters/0001.txt --max-chapter 1
+python3 scripts/wiki_tool.py scan chapters/0001.md --max-chapter 1
 
 # найти сущность по китайскому или русскому имени
 python3 scripts/wiki_tool.py lookup 落魄山
@@ -32,7 +32,7 @@ python3 scripts/wiki_tool.py lookup 落魄山
 | Путь | Что внутри |
 | :--- | :--- |
 | [`chapters/`](chapters/README.md) | Оригинал по главам + реестр [`chapters/index.json`](chapters/index.json) |
-| [`wiki/`](wiki/README.md) | Лор-Вики: 195 карточек, [`INDEX.md`](wiki/INDEX.md), [`_index.json`](wiki/_index.json) |
+| [`wiki/`](wiki/README.md) | Лор-Вики: 254 карточки, [`INDEX.md`](wiki/INDEX.md), [`_index.json`](wiki/_index.json), переводческие [`словари`](wiki/dictionaries/README.md) |
 | [`docs/TRANSLATION_BEST_PRACTICES.md`](docs/TRANSLATION_BEST_PRACTICES.md) | Методика: имена, обращения, регистр, сноски, синтаксис, запреты |
 | [`docs/TRANSLATION_WORKFLOW.md`](docs/TRANSLATION_WORKFLOW.md) | Пайплайн перевода главы: от реестра до обновления вики |
 | [`scripts/wiki_tool.py`](scripts/wiki_tool.py) | CLI: `build`, `index`, `check`, `scan`, `lookup` |
@@ -42,14 +42,15 @@ python3 scripts/wiki_tool.py lookup 落魄山
 
 | Категория | Карточек | Начать с |
 | :--- | ---: | :--- |
-| Персонажи | 113 (в т. ч. 9 подстраниц) | [Чэнь Пинъань](wiki/characters/chen-pingan.md) |
-| Локации | 37 | [Грот-небеса Личжу](wiki/locations/lizhu-grotto-heaven.md) |
-| Фракции | 14 | [Великая Ли](wiki/factions/great-li-empire.md) |
+| Персонажи | 141 (в т. ч. 9 подстраниц) | [Чэнь Пинъань](wiki/characters/chen-pingan.md) |
+| Локации | 46 | [Грот-небеса Личжу](wiki/locations/lizhu-grotto-heaven.md) |
+| Фракции | 34 | [Великая Ли](wiki/factions/great-li-empire.md) |
 | Культивация | 11 | [Иерархия ступеней](wiki/cultivation/realms-overview.md) |
-| Концепции | 5 | [Судьбоносная удача](wiki/concepts/qiyun.md) |
-| Артефакты | 7 | [Мечи Чэнь Пинъаня](wiki/artifacts/chen-pingans-swords.md) |
+| Концепции | 6 | [Судьбоносная удача](wiki/concepts/qiyun.md) |
+| Артефакты | 6 | [Мечи Чэнь Пинъаня](wiki/artifacts/chen-pingans-swords.md) |
 | Идиомы | 8 | [Даоли и бэньсинь](wiki/idioms/daoli-and-benxin.md) |
 | Медиа | 2 | [О романе](wiki/media/novel.md) |
+| **Всего** | **254** | [Полный указатель](wiki/INDEX.md) · [Словарь 96 идиом](wiki/dictionaries/chinese_idioms.json) · [Словарь всех карточек](wiki/dictionaries/all_wiki_objects.json) |
 
 Полный список — [`wiki/INDEX.md`](wiki/INDEX.md).
 
