@@ -3,14 +3,14 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 256,
+  "total_entries": 261,
   "counts_by_type": {
-    "artifact": 6,
+    "artifact": 8,
     "character": 141,
-    "concept": 6,
+    "concept": 8,
     "cultivation": 11,
     "faction": 34,
-    "idiom": 8,
+    "idiom": 9,
     "location": 48,
     "media": 2
   },
@@ -546,6 +546,7 @@
       ],
       "referenced_by": [
         "char.cai-jinjian",
+        "concept.dharma-ending-land",
         "cult.confucianism",
         "cult.hundred-schools",
         "cult.realms-overview",
@@ -1024,7 +1025,6 @@
         "char.yang-hua",
         "char.yin-god",
         "char.zhu-lian",
-        "concept.currency",
         "concept.mountain-seals",
         "concept.qiyun",
         "loc.luopo-mountain",
@@ -1673,6 +1673,7 @@
         "char.zheng-dafeng",
         "char.zhu-he",
         "char.zhu-lu",
+        "concept.dharma-ending-land",
         "concept.imperial-kilns",
         "cult.buddhism",
         "cult.confucianism",
@@ -1813,7 +1814,6 @@
       "links_to": [
         "char.chen-pingan",
         "char.gu-can",
-        "char.liu-zhimao",
         "concept.natal-porcelain",
         "loc.bamboo-scroll-lake",
         "loc.niping-alley"
@@ -2124,7 +2124,10 @@
         "金精铜钱",
         "迎春钱",
         "吉祥钱",
-        "斋醮钱"
+        "斋醮钱",
+        "压胜钱",
+        "供养钱",
+        "金精供养钱"
       ],
       "unindexed_zh_aliases": [],
       "pinyin": "Shenxianqian",
@@ -2137,7 +2140,7 @@
         "монета Хлебных Дождей",
         "медная монета золотой эссенции"
       ],
-      "first_chapter": 20,
+      "first_chapter": 12,
       "gender": null,
       "subtype": null,
       "parent": null,
@@ -2152,11 +2155,12 @@
       ],
       "translation_rule": "",
       "links_to": [
+        "char.cai-jinjian",
         "char.chen-pingan",
-        "char.pei-qian",
+        "char.fu-nanhua",
+        "char.song-jixin",
         "char.sun-jiashu",
-        "char.wei-bo",
-        "char.yan-zhuo",
+        "concept.qiyun",
         "cult.qi-refinement",
         "loc.luopo-mountain",
         "loc.old-dragon-city"
@@ -2717,6 +2721,7 @@
         "cult.confucianism"
       ],
       "referenced_by": [
+        "art.old-dragon-rain-pendant",
         "char.chen-pingan",
         "char.chen-pingan.items",
         "char.qi-jingchun",
@@ -2725,6 +2730,41 @@
         "idiom.yan-sheng-yu-kuan"
       ],
       "card": "wiki/artifacts/jade-hairpin-and-seals.md"
+    },
+    {
+      "id": "concept.dharma-ending-land",
+      "type": "concept",
+      "zh": "末法之地",
+      "zh_aliases": [
+        "末法"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Mofazhidi",
+      "palladius": "Мо-фа чжи ди",
+      "ru": "Земля конца Дхармы",
+      "ru_aliases": [
+        "земля эпохи Заката Дхармы"
+      ],
+      "first_chapter": 17,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "буддизм",
+        "ограничение-сил",
+        "городок"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **`末法之地` → «земля конца Дхармы»**. Сохранять буддийское звучание термина; не подменять его общими выражениями вроде «запретная зона».\n- При первом появлении нужна сноска: буквальный смысл и контекст важны для понимания реплики.",
+      "links_to": [
+        "char.ning-yao",
+        "cult.buddhism",
+        "loc.small-town"
+      ],
+      "referenced_by": [],
+      "card": "wiki/concepts/dharma-ending-land.md"
     },
     {
       "id": "cult.realms-overview",
@@ -3221,6 +3261,7 @@
         "char.zhao-yao",
         "char.zhisheng-xianshi",
         "char.zhong-kui",
+        "concept.yasheng",
         "cult.buddhism",
         "cult.daoism",
         "cult.hundred-schools",
@@ -3873,7 +3914,7 @@
       "ru_aliases": [
         "даос Лу Чэнь"
       ],
-      "first_chapter": 16,
+      "first_chapter": 14,
       "gender": "male",
       "subtype": null,
       "parent": null,
@@ -4090,7 +4131,6 @@
         "char.cai-jinjian",
         "char.chen-pingan.relationships",
         "char.gu-can",
-        "char.gu-shi",
         "char.liu-laocheng",
         "char.zeng-ye",
         "cult.qi-refinement",
@@ -4653,6 +4693,7 @@
         "fac.sects-compendium",
         "fac.taihui-sword-sect",
         "fac.wind-thunder-garden",
+        "idiom.bu-ping-ze-ming",
         "idiom.one-sword-credo",
         "loc.ascension-city",
         "loc.northern-juilu-continent",
@@ -4940,6 +4981,73 @@
       "card": "wiki/idioms/good-things-fragile.md"
     },
     {
+      "id": "idiom.bu-ping-ze-ming",
+      "type": "idiom",
+      "zh": "不平则鸣",
+      "zh_aliases": [],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Buping ze ming",
+      "palladius": "Бу-пин цзэ мин",
+      "ru": "Несправедливость не молчит",
+      "ru_aliases": [],
+      "first_chapter": 17,
+      "gender": null,
+      "subtype": "chengyu",
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "несправедливость",
+        "голос",
+        "меч"
+      ],
+      "translation_rule": "## Классификация и переводческое решение\n\n- **Тип выражения:** чэнъюй; классическое изречение о том, что несправедливость заставляет пострадавшего подать голос.\n- **Почему нужна сноска:** в заглавии важно сохранить и смысл протеста, и значение `鸣` — «издать звук»; в конце главы на него отвечает звон меча в ножнах.\n\n## Как переводить\n\n- **В тексте:** заглавие главы 17 — **«Несправедливость не молчит»**.\n- **В сноске:** пояснить смысл идиомы и её звуковое эхо в финале главы.",
+      "links_to": [
+        "char.chen-pingan",
+        "char.ning-yao",
+        "cult.sword-cultivator"
+      ],
+      "referenced_by": [],
+      "card": "wiki/idioms/bu-ping-ze-ming.md"
+    },
+    {
+      "id": "art.old-dragon-rain-pendant",
+      "type": "artifact",
+      "zh": "老龙布雨",
+      "zh_aliases": [
+        "老龙佩"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Laolong Buyu",
+      "palladius": "Лаолун бу юй",
+      "ru": "Нефритовый кулон «Старый дракон проливает дождь»",
+      "ru_aliases": [
+        "кулон Старого Дракона",
+        "зелёный нефритовый кулон"
+      ],
+      "first_chapter": 9,
+      "gender": null,
+      "subtype": "pendant",
+      "parent": null,
+      "needs_endnote": false,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "нефрит",
+        "артефакт",
+        "старый-драконий-город"
+      ],
+      "translation_rule": "## Правила перевода\n\n- `老龙布雨` передавать как **«Старый дракон проливает дождь»**; `老龙佩` — **кулон Старого Дракона**.\n- В главе 9 кулон назван зелёным нефритовым; не приписывать ему не названные в тексте свойства.",
+      "links_to": [
+        "art.jade-hairpin-and-seals",
+        "char.fu-nanhua",
+        "loc.old-dragon-city"
+      ],
+      "referenced_by": [],
+      "card": "wiki/artifacts/old-dragon-rain-pendant.md"
+    },
+    {
       "id": "char.ning-yao",
       "type": "character",
       "zh": "宁姚",
@@ -5016,9 +5124,11 @@
         "char.qi-tingji",
         "char.ruan-xiu",
         "char.yan-zhuo",
+        "concept.dharma-ending-land",
         "cult.daoism",
         "cult.sword-cultivator",
         "fac.clans-compendium",
+        "idiom.bu-ping-ze-ming",
         "loc.ascension-city",
         "loc.daoxuan-mountain",
         "loc.sword-qi-great-wall"
@@ -5987,7 +6097,6 @@
         "char.cui-dongshan",
         "char.guo-zhujiu",
         "char.zhu-lian",
-        "concept.currency",
         "cult.martial-arts",
         "fac.azure-phoenix-nation",
         "fac.southern-garden-nation",
@@ -6207,7 +6316,7 @@
         "справочник",
         "секты-материка"
       ],
-      "translation_rule": "## Правила перевода\n\n- **Передача:** `宗门` — **секта**; `山上仙家` — **горные бессмертные дома** (в тексте часто просто «горные»). Не «кланы» и не «ордена».\n- **Единый список:** все названия сект ниже закреплены. При появлении новой — сначала добавить сюда, потом использовать в переводе.\n\n## Правило для переводчика\n\n`宗` — **секта**; `派` — **школа** (например, `湖山派`); `宫` — **дворец**; `山` — **гора** (в названии секты!); `园` — **сад**. Эти иероглифы входят в названия, и от них зависит, как называть организацию.",
+      "translation_rule": "## Правила перевода\n\n- **Передача:** `宗门` — **секта**; `山上仙家` — **горные бессмертные дома** (в тексте часто просто «горные»). Не «кланы» и не «ордена».\n- **Единый список:** все названия сект ниже закреплены. При появлении новой — сначала добавить сюда, потом использовать в переводе.\n- `松霞老祖` передавать как **патриарх Сунся**; это титуловое обращение, не придумывать личное имя.\n\n## Правило для переводчика\n\n`宗` — **секта**; `派` — **школа** (например, `湖山派`); `宫` — **дворец**; `山` — **гора** (в названии секты!); `园` — **сад**. Эти иероглифы входят в названия, и от них зависит, как называть организацию.",
       "links_to": [
         "char.cai-jinjian",
         "char.ding-ying",
@@ -7289,6 +7398,8 @@
         "loc.sword-qi-great-wall"
       ],
       "referenced_by": [
+        "art.old-dragon-rain-pendant",
+        "art.shanxiao-pot",
         "char.fan-er",
         "char.fan-junmao",
         "char.fu-nanhua",
@@ -7518,6 +7629,7 @@
         "char.yang-hua",
         "char.yin-god",
         "char.zhigui",
+        "concept.currency",
         "concept.mountain-seals",
         "concept.natal-porcelain",
         "cult.qi-refinement",
@@ -7696,6 +7808,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "art.shanxiao-pot",
         "char.cao-xi",
         "char.chen-pingan",
         "char.chen-pingan.history",
@@ -7704,6 +7817,7 @@
         "char.song-changjing",
         "char.zhao-yao",
         "char.zhigui",
+        "concept.currency",
         "fac.clans-compendium",
         "faction.imperial-court",
         "idiom.clay-bodhisattva-crossing-river",
@@ -8011,6 +8125,7 @@
         "char.wu-shuangjiang",
         "char.zhisheng-xianshi",
         "concept.qiyun",
+        "concept.yasheng",
         "cult.buddhism",
         "cult.confucianism",
         "cult.daoism",
@@ -8363,9 +8478,12 @@
         "loc.old-dragon-city"
       ],
       "referenced_by": [
+        "art.old-dragon-rain-pendant",
+        "art.shanxiao-pot",
         "char.cai-jinjian",
         "char.chen-pingan",
         "char.sun-jiashu",
+        "concept.currency",
         "loc.old-dragon-city"
       ],
       "card": "wiki/characters/fu-nanhua.md"
@@ -8628,6 +8746,7 @@
         "char.chen-pingan",
         "char.chen-pingan.history",
         "char.fu-nanhua",
+        "concept.currency",
         "concept.mountain-seals",
         "cult.buddhism",
         "cult.qi-refinement",
@@ -9283,6 +9402,7 @@
         "char.zhao-yao",
         "char.zuo-you",
         "con.river-of-time",
+        "concept.yasheng",
         "cult.confucianism",
         "cult.qi-refinement",
         "fac.great-li-empire",
@@ -9534,6 +9654,42 @@
       "card": "wiki/characters/cui-cheng.md"
     },
     {
+      "id": "art.shanxiao-pot",
+      "type": "artifact",
+      "zh": "山魈壶",
+      "zh_aliases": [
+        "养心壶"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Shanxiao hu",
+      "palladius": "Шаньсяо ху",
+      "ru": "Чайник с клеймом «Горный демон»",
+      "ru_aliases": [
+        "чайник Шаньсяо",
+        "чайник для взращивания сердца"
+      ],
+      "first_chapter": 17,
+      "gender": null,
+      "subtype": "vessel",
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "сосуд",
+        "антиквариат",
+        "старый-драконий-город"
+      ],
+      "translation_rule": "## Правила перевода\n\n- `山魈壶` передавать как **чайник с клеймом «Горный демон»**: `山魈` — надпись-клеймо на донышке сосуда.\n- `养心壶` передавать как **чайник для взращивания сердца**; в тексте это обозначение сосуда, а не отдельный предмет.\n- Не приписывать чайнику магические свойства: в главе 17 герой оценивает его как редкую красивую вещь, но её действие не раскрыто.",
+      "links_to": [
+        "char.fu-nanhua",
+        "char.song-jixin",
+        "loc.old-dragon-city"
+      ],
+      "referenced_by": [],
+      "card": "wiki/artifacts/shanxiao-pot.md"
+    },
+    {
       "id": "idiom.hengqu-four-sentences",
       "type": "idiom",
       "zh": "为天地立心，为生民立命，为往圣继绝学，为万世开太平",
@@ -9736,6 +9892,7 @@
         "char.old-man-yang",
         "char.song-jixin",
         "char.xie-shi",
+        "concept.yasheng",
         "cult.demon-tribe",
         "idiom.jingzhe-dragon-raises-head",
         "loc.lizhu-grotto-heaven",
@@ -10536,6 +10693,7 @@
         "fac.green-duckweed-sword-sect",
         "fac.mountain-cliff-academy",
         "fac.yellow-millet-school",
+        "idiom.bu-ping-ze-ming",
         "idiom.daoli-and-benxin",
         "idiom.good-things-fragile",
         "idiom.hengqu-four-sentences",
@@ -11594,7 +11752,6 @@
         "char.ning-yao.history",
         "char.ning-yao.relationships",
         "char.qi-shou",
-        "concept.currency",
         "loc.sword-qi-great-wall"
       ],
       "card": "wiki/characters/yan-zhuo.md"
@@ -11635,6 +11792,38 @@
         "char.xu-yuanxia"
       ],
       "card": "wiki/characters/yao-zhen.md"
+    },
+    {
+      "id": "concept.yasheng",
+      "type": "concept",
+      "zh": "压胜",
+      "zh_aliases": [],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Yasheng",
+      "palladius": "Яшэн",
+      "ru": "Яшэн",
+      "ru_aliases": [],
+      "first_chapter": 15,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "оберег",
+        "магическое-воздействие",
+        "ритуал"
+      ],
+      "translation_rule": "## Правила перевода\n\n- Самостоятельный термин `压胜` передавать транслитерацией **Яшэн**; не заменять смысловым переводом.\n- Составные выражения с `压胜` разбирать отдельно по контексту, не перенося на них автоматически правило для самостоятельного термина.",
+      "links_to": [
+        "char.qi-jingchun",
+        "char.zhigui",
+        "cult.confucianism",
+        "cult.three-teachings"
+      ],
+      "referenced_by": [],
+      "card": "wiki/concepts/yasheng.md"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
   "schema_version": "2.0",
-  "total_entities": 256,
+  "total_entities": 261,
   "counts_by_type": {
-    "artifact": 6,
+    "artifact": 8,
     "character": 141,
-    "concept": 6,
+    "concept": 8,
     "cultivation": 11,
     "faction": 34,
-    "idiom": 8,
+    "idiom": 9,
     "location": 48,
     "media": 2
   },
@@ -174,6 +174,7 @@
         "cult.confucianism"
       ],
       "referenced_by": [
+        "art.old-dragon-rain-pendant",
         "char.chen-pingan",
         "char.chen-pingan.items",
         "char.qi-jingchun",
@@ -181,6 +182,40 @@
         "concept.mountain-seals",
         "idiom.yan-sheng-yu-kuan"
       ]
+    },
+    "art.old-dragon-rain-pendant": {
+      "id": "art.old-dragon-rain-pendant",
+      "type": "artifact",
+      "zh": "老龙布雨",
+      "zh_aliases": [
+        "老龙佩"
+      ],
+      "pinyin": "Laolong Buyu",
+      "palladius": "Лаолун бу юй",
+      "ru": "Нефритовый кулон «Старый дракон проливает дождь»",
+      "ru_aliases": [
+        "кулон Старого Дракона",
+        "зелёный нефритовый кулон"
+      ],
+      "first_chapter": 9,
+      "gender": null,
+      "subtype": "pendant",
+      "parent": null,
+      "needs_endnote": false,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "нефрит",
+        "артефакт",
+        "старый-драконий-город"
+      ],
+      "path": "wiki/artifacts/old-dragon-rain-pendant.md",
+      "links_to": [
+        "art.jade-hairpin-and-seals",
+        "char.fu-nanhua",
+        "loc.old-dragon-city"
+      ],
+      "referenced_by": []
     },
     "art.osmanthus-island-ferry": {
       "id": "art.osmanthus-island-ferry",
@@ -211,6 +246,40 @@
         "fac.clans-compendium",
         "loc.daoxuan-mountain",
         "loc.eastern-treasured-vial-continent"
+      ],
+      "referenced_by": []
+    },
+    "art.shanxiao-pot": {
+      "id": "art.shanxiao-pot",
+      "type": "artifact",
+      "zh": "山魈壶",
+      "zh_aliases": [
+        "养心壶"
+      ],
+      "pinyin": "Shanxiao hu",
+      "palladius": "Шаньсяо ху",
+      "ru": "Чайник с клеймом «Горный демон»",
+      "ru_aliases": [
+        "чайник Шаньсяо",
+        "чайник для взращивания сердца"
+      ],
+      "first_chapter": 17,
+      "gender": null,
+      "subtype": "vessel",
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "сосуд",
+        "антиквариат",
+        "старый-драконий-город"
+      ],
+      "path": "wiki/artifacts/shanxiao-pot.md",
+      "links_to": [
+        "char.fu-nanhua",
+        "char.song-jixin",
+        "loc.old-dragon-city"
       ],
       "referenced_by": []
     },
@@ -478,6 +547,7 @@
         "char.chen-pingan",
         "char.chen-pingan.history",
         "char.fu-nanhua",
+        "concept.currency",
         "concept.mountain-seals",
         "cult.buddhism",
         "cult.qi-refinement",
@@ -1044,6 +1114,7 @@
         "fac.green-duckweed-sword-sect",
         "fac.mountain-cliff-academy",
         "fac.yellow-millet-school",
+        "idiom.bu-ping-ze-ming",
         "idiom.daoli-and-benxin",
         "idiom.good-things-fragile",
         "idiom.hengqu-four-sentences",
@@ -2055,9 +2126,12 @@
         "loc.old-dragon-city"
       ],
       "referenced_by": [
+        "art.old-dragon-rain-pendant",
+        "art.shanxiao-pot",
         "char.cai-jinjian",
         "char.chen-pingan",
         "char.sun-jiashu",
+        "concept.currency",
         "loc.old-dragon-city"
       ]
     },
@@ -2175,7 +2249,6 @@
       "links_to": [
         "char.chen-pingan",
         "char.gu-can",
-        "char.liu-zhimao",
         "concept.natal-porcelain",
         "loc.bamboo-scroll-lake",
         "loc.niping-alley"
@@ -3062,7 +3135,6 @@
         "char.cai-jinjian",
         "char.chen-pingan.relationships",
         "char.gu-can",
-        "char.gu-shi",
         "char.liu-laocheng",
         "char.zeng-ye",
         "cult.qi-refinement",
@@ -3127,7 +3199,7 @@
       "ru_aliases": [
         "даос Лу Чэнь"
       ],
-      "first_chapter": 16,
+      "first_chapter": 14,
       "gender": "male",
       "subtype": null,
       "parent": null,
@@ -3724,9 +3796,11 @@
         "char.qi-tingji",
         "char.ruan-xiu",
         "char.yan-zhuo",
+        "concept.dharma-ending-land",
         "cult.daoism",
         "cult.sword-cultivator",
         "fac.clans-compendium",
+        "idiom.bu-ping-ze-ming",
         "loc.ascension-city",
         "loc.daoxuan-mountain",
         "loc.sword-qi-great-wall"
@@ -4083,7 +4157,6 @@
         "char.cui-dongshan",
         "char.guo-zhujiu",
         "char.zhu-lian",
-        "concept.currency",
         "cult.martial-arts",
         "fac.azure-phoenix-nation",
         "fac.southern-garden-nation",
@@ -4162,6 +4235,7 @@
         "char.zhao-yao",
         "char.zuo-you",
         "con.river-of-time",
+        "concept.yasheng",
         "cult.confucianism",
         "cult.qi-refinement",
         "fac.great-li-empire",
@@ -4577,6 +4651,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "art.shanxiao-pot",
         "char.cao-xi",
         "char.chen-pingan",
         "char.chen-pingan.history",
@@ -4585,6 +4660,7 @@
         "char.song-changjing",
         "char.zhao-yao",
         "char.zhigui",
+        "concept.currency",
         "fac.clans-compendium",
         "faction.imperial-court",
         "idiom.clay-bodhisattva-crossing-river",
@@ -4869,7 +4945,6 @@
         "char.yang-hua",
         "char.yin-god",
         "char.zhu-lian",
-        "concept.currency",
         "concept.mountain-seals",
         "concept.qiyun",
         "loc.luopo-mountain",
@@ -5218,7 +5293,6 @@
         "char.ning-yao.history",
         "char.ning-yao.relationships",
         "char.qi-shou",
-        "concept.currency",
         "loc.sword-qi-great-wall"
       ]
     },
@@ -5822,6 +5896,7 @@
         "char.old-man-yang",
         "char.song-jixin",
         "char.xie-shi",
+        "concept.yasheng",
         "cult.demon-tribe",
         "idiom.jingzhe-dragon-raises-head",
         "loc.lizhu-grotto-heaven",
@@ -6247,7 +6322,10 @@
         "金精铜钱",
         "迎春钱",
         "吉祥钱",
-        "斋醮钱"
+        "斋醮钱",
+        "压胜钱",
+        "供养钱",
+        "金精供养钱"
       ],
       "pinyin": "Shenxianqian",
       "palladius": "Шэньсяньцянь",
@@ -6259,7 +6337,7 @@
         "монета Хлебных Дождей",
         "медная монета золотой эссенции"
       ],
-      "first_chapter": 20,
+      "first_chapter": 12,
       "gender": null,
       "subtype": null,
       "parent": null,
@@ -6274,11 +6352,12 @@
       ],
       "path": "wiki/concepts/currency.md",
       "links_to": [
+        "char.cai-jinjian",
         "char.chen-pingan",
-        "char.pei-qian",
+        "char.fu-nanhua",
+        "char.song-jixin",
         "char.sun-jiashu",
-        "char.wei-bo",
-        "char.yan-zhuo",
+        "concept.qiyun",
         "cult.qi-refinement",
         "loc.luopo-mountain",
         "loc.old-dragon-city"
@@ -6296,6 +6375,39 @@
         "loc.old-dragon-city",
         "loc.qingfeng-city"
       ]
+    },
+    "concept.dharma-ending-land": {
+      "id": "concept.dharma-ending-land",
+      "type": "concept",
+      "zh": "末法之地",
+      "zh_aliases": [
+        "末法"
+      ],
+      "pinyin": "Mofazhidi",
+      "palladius": "Мо-фа чжи ди",
+      "ru": "Земля конца Дхармы",
+      "ru_aliases": [
+        "земля эпохи Заката Дхармы"
+      ],
+      "first_chapter": 17,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "буддизм",
+        "ограничение-сил",
+        "городок"
+      ],
+      "path": "wiki/concepts/dharma-ending-land.md",
+      "links_to": [
+        "char.ning-yao",
+        "cult.buddhism",
+        "loc.small-town"
+      ],
+      "referenced_by": []
     },
     "concept.imperial-kilns": {
       "id": "concept.imperial-kilns",
@@ -6542,6 +6654,7 @@
         "char.yang-hua",
         "char.yin-god",
         "char.zhigui",
+        "concept.currency",
         "concept.mountain-seals",
         "concept.natal-porcelain",
         "cult.qi-refinement",
@@ -6555,6 +6668,36 @@
         "loc.small-town",
         "loc.ten-great-grotto-heavens"
       ]
+    },
+    "concept.yasheng": {
+      "id": "concept.yasheng",
+      "type": "concept",
+      "zh": "压胜",
+      "zh_aliases": [],
+      "pinyin": "Yasheng",
+      "palladius": "Яшэн",
+      "ru": "Яшэн",
+      "ru_aliases": [],
+      "first_chapter": 15,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "оберег",
+        "магическое-воздействие",
+        "ритуал"
+      ],
+      "path": "wiki/concepts/yasheng.md",
+      "links_to": [
+        "char.qi-jingchun",
+        "char.zhigui",
+        "cult.confucianism",
+        "cult.three-teachings"
+      ],
+      "referenced_by": []
     },
     "cult.buddhism": {
       "id": "cult.buddhism",
@@ -6601,6 +6744,7 @@
       ],
       "referenced_by": [
         "char.cai-jinjian",
+        "concept.dharma-ending-land",
         "cult.confucianism",
         "cult.hundred-schools",
         "cult.realms-overview",
@@ -6681,6 +6825,7 @@
         "char.zhao-yao",
         "char.zhisheng-xianshi",
         "char.zhong-kui",
+        "concept.yasheng",
         "cult.buddhism",
         "cult.daoism",
         "cult.hundred-schools",
@@ -7248,6 +7393,7 @@
         "fac.sects-compendium",
         "fac.taihui-sword-sect",
         "fac.wind-thunder-garden",
+        "idiom.bu-ping-ze-ming",
         "idiom.one-sword-credo",
         "loc.ascension-city",
         "loc.northern-juilu-continent",
@@ -7299,6 +7445,7 @@
         "char.wu-shuangjiang",
         "char.zhisheng-xianshi",
         "concept.qiyun",
+        "concept.yasheng",
         "cult.buddhism",
         "cult.confucianism",
         "cult.daoism",
@@ -8667,6 +8814,35 @@
         "loc.lizhu-grotto-heaven",
         "loc.mirage-city"
       ]
+    },
+    "idiom.bu-ping-ze-ming": {
+      "id": "idiom.bu-ping-ze-ming",
+      "type": "idiom",
+      "zh": "不平则鸣",
+      "zh_aliases": [],
+      "pinyin": "Buping ze ming",
+      "palladius": "Бу-пин цзэ мин",
+      "ru": "Несправедливость не молчит",
+      "ru_aliases": [],
+      "first_chapter": 17,
+      "gender": null,
+      "subtype": "chengyu",
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "несправедливость",
+        "голос",
+        "меч"
+      ],
+      "path": "wiki/idioms/bu-ping-ze-ming.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.ning-yao",
+        "cult.sword-cultivator"
+      ],
+      "referenced_by": []
     },
     "idiom.clay-bodhisattva-crossing-river": {
       "id": "idiom.clay-bodhisattva-crossing-river",
@@ -10292,6 +10468,8 @@
         "loc.sword-qi-great-wall"
       ],
       "referenced_by": [
+        "art.old-dragon-rain-pendant",
+        "art.shanxiao-pot",
         "char.fan-er",
         "char.fan-junmao",
         "char.fu-nanhua",
@@ -10722,6 +10900,7 @@
         "char.zheng-dafeng",
         "char.zhu-he",
         "char.zhu-lu",
+        "concept.dharma-ending-land",
         "concept.imperial-kilns",
         "cult.buddhism",
         "cult.confucianism",
@@ -11235,6 +11414,9 @@
     "药铺杨老头": [
       "char.old-man-yang"
     ],
+    "金精供养钱": [
+      "concept.currency"
+    ],
     "陈平安他娘": [
       "char.chen-mu"
     ],
@@ -11249,6 +11431,9 @@
     ],
     "三教祖师": [
       "cult.three-teachings"
+    ],
+    "不平则鸣": [
+      "idiom.bu-ping-ze-ming"
     ],
     "东宝瓶洲": [
       "loc.eastern-treasured-vial-continent"
@@ -11373,6 +11558,9 @@
     "曹曦娘娘": [
       "char.cao-xi"
     ],
+    "末法之地": [
+      "concept.dharma-ending-land"
+    ],
     "本命飞剑": [
       "cult.sword-cultivator"
     ],
@@ -11441,6 +11629,9 @@
     ],
     "纳兰爷爷": [
       "char.nalan-yexing"
+    ],
+    "老龙布雨": [
+      "art.old-dragon-rain-pendant"
     ],
     "至圣先师": [
       "char.zhisheng-xianshi"
@@ -11547,6 +11738,9 @@
     "余士禄": [
       "char.yu-lu"
     ],
+    "供养钱": [
+      "concept.currency"
+    ],
     "俞真意": [
       "char.yu-zhenyi"
     ],
@@ -11555,6 +11749,9 @@
     ],
     "养剑葫": [
       "art.sword-nurturing-gourd"
+    ],
+    "养心壶": [
+      "art.shanxiao-pot"
     ],
     "冯雪涛": [
       "char.feng-xuetao"
@@ -11594,6 +11791,9 @@
     ],
     "卢白象": [
       "char.lu-baixiang"
+    ],
+    "压胜钱": [
+      "concept.currency"
     ],
     "叶芸芸": [
       "char.ye-yunyun"
@@ -11678,6 +11878,9 @@
     ],
     "山水印": [
       "concept.mountain-seals"
+    ],
+    "山魈壶": [
+      "art.shanxiao-pot"
     ],
     "崔东山": [
       "char.cui-dongshan"
@@ -11924,6 +12127,9 @@
     ],
     "老聋儿": [
       "char.old-deaf-sword-immortal"
+    ],
+    "老龙佩": [
+      "art.old-dragon-rain-pendant"
     ],
     "老龙城": [
       "loc.old-dragon-city"
@@ -12240,6 +12446,9 @@
     "印章": [
       "art.jade-hairpin-and-seals"
     ],
+    "压胜": [
+      "concept.yasheng"
+    ],
     "叠嶂": [
       "char.die-zhang"
     ],
@@ -12413,6 +12622,9 @@
     ],
     "朝晕": [
       "char.xie-gou"
+    ],
+    "末法": [
+      "concept.dharma-ending-land"
     ],
     "本心": [
       "idiom.daoli-and-benxin"
