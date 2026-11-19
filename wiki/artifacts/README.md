@@ -14,6 +14,8 @@
 | [Чуи и Шиу](chuyi-and-shiwu.md) | 初一 / 十五 | [Чэнь Пинъань](../characters/chen-pingan.md) |
 | [«Птаха в Клетке» и «Луна в Колодце»](chen-pingans-swords.md) | 笼中雀 / 井中月 | [Чэнь Пинъань](../characters/chen-pingan.md) |
 | [«Небесная Истина»](heavenly-truths-swords.md) | 天真 | [Нин Яо](../characters/ning-yao.md) |
+| [Чайник с клеймом «Горный демон»](shanxiao-pot.md) | 山魈壶 / 养心壶 | [Сун Цзисинь](../characters/song-jixin.md) → [Фу Наньхуа](../characters/fu-nanhua.md) |
+| [Нефритовый кулон «Старый дракон проливает дождь»](old-dragon-rain-pendant.md) | 老龙布雨 / 老龙佩 | [Фу Наньхуа](../characters/fu-nanhua.md) |
 | [Фляга для выращивания мечей](sword-nurturing-gourd.md) | 养剑葫 | [Чэнь Пинъань](../characters/chen-pingan.md) |
 
 ## Правила создания карточек
