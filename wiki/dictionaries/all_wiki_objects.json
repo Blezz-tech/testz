@@ -3,11 +3,11 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 261,
+  "total_entries": 264,
   "counts_by_type": {
-    "artifact": 8,
+    "artifact": 9,
     "character": 141,
-    "concept": 8,
+    "concept": 10,
     "cultivation": 11,
     "faction": 34,
     "idiom": 9,
@@ -429,6 +429,45 @@
         "idiom.one-sword-credo"
       ],
       "card": "wiki/characters/mountain-moving-ape.md"
+    },
+    {
+      "id": "art.white-bowl",
+      "type": "artifact",
+      "zh": "白碗",
+      "zh_aliases": [
+        "大白碗"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Bai wan",
+      "palladius": "Бай вань",
+      "ru": "Белая чаша",
+      "ru_aliases": [
+        "большая белая чаша"
+      ],
+      "first_chapter": 18,
+      "gender": null,
+      "subtype": "vessel",
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "сосуд",
+        "пространство",
+        "озеро-бамбуковых-свитков",
+        "лю-чжимао"
+      ],
+      "translation_rule": "## Правила перевода\n\n- `白碗` → **белая чаша** (не «пиала» и не «миска»: сосуд должен звучать как ритуальная утварь).\n- Внутренний простор передавать словами «в чаше», не добавляя терминов вроде «карманное измерение».\n- При первом появлении нужна сноска: без неё реплика «В чаше» выглядит бессмыслицей.",
+      "links_to": [
+        "char.gu-can",
+        "char.liu-zhimao",
+        "concept.entry-thresholds",
+        "loc.bamboo-scroll-lake"
+      ],
+      "referenced_by": [
+        "char.gu-can"
+      ],
+      "card": "wiki/artifacts/white-bowl.md"
     },
     {
       "id": "loc.lotus-root-blessed-land",
@@ -1674,6 +1713,7 @@
         "char.zhu-he",
         "char.zhu-lu",
         "concept.dharma-ending-land",
+        "concept.entry-thresholds",
         "concept.imperial-kilns",
         "cult.buddhism",
         "cult.confucianism",
@@ -1819,10 +1859,12 @@
         "loc.niping-alley"
       ],
       "referenced_by": [
+        "char.cai-jinjian",
         "char.chen-gong",
         "char.chen-mu",
         "char.gu-can",
-        "char.liu-zhimao"
+        "char.liu-zhimao",
+        "concept.entry-thresholds"
       ],
       "card": "wiki/characters/gu-shi.md"
     },
@@ -2008,6 +2050,7 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Гу Цань** — фамилия *Гу* неизменяема, имя *Цань* не склоняется (*с Гу Цань, к Гу Цань*).\n- **Речь:** в детстве — ласковая и восторженная; позже — вкрадчивая, вежливая до жути.\n- **Обращения:** к [Чэнь Пинъаню](chen-pingan.md) — *«дядюшка Пинъань»* с детства и до конца.",
       "links_to": [
+        "art.white-bowl",
         "char.chen-pingan",
         "char.gu-shi",
         "char.liu-zhimao",
@@ -2015,6 +2058,7 @@
         "loc.niping-alley"
       ],
       "referenced_by": [
+        "art.white-bowl",
         "char.cao-qinglang",
         "char.chen-gong",
         "char.chen-pingan",
@@ -2027,6 +2071,7 @@
         "char.shi-rou",
         "char.zeng-ye",
         "char.zheng-juzhong",
+        "concept.entry-thresholds",
         "loc.bamboo-scroll-lake",
         "loc.qingxia-island",
         "loc.white-emperor-city"
@@ -2066,10 +2111,11 @@
         "байюйцзин",
         "система-мира"
       ],
-      "translation_rule": "## Правила перевода и титулатура\n\n- **`道祖` → Патриарх Дао** — основатель даосизма на Пятнадцатой ступени, восседающий над небесами.\n- **`白玉京` → Столица Белого Нефрита** («пять градов и двенадцать башен» — `天上白玉京，十二楼五城`, классический образ из поэзии Ли Бо, воплощённый как реальная твердыня даосов в [Лазурной Поднебесной](../locations/heavenly-world.md)).\n- **`掌教` → Владыка Учения (Хранитель престола)** — каждый из трёх прямых учеников Патриарха Дао возглавляет собственную ветвь даосизма; третий ученик — странствующий в сонном мире [Лу Чэнь](../characters/lu-chen.md), второй — владыка [Столицы Белого Нефрита](../factions/sects-compendium.md).\n- **Даосские ранги и обращения:**\n  - `真人` → **истинный муж / совершенный** — почётный титул земных бессмертных даосских сект;\n  - `真君` → **истинный владыка** — высокий титул даосов Пяти высших ступеней;\n  - `天君` → **небесный владыка** (как [Се Ши](../characters/xie-shi.md) или глава [Ордена Божественного Указа](../factions/sects-compendium.md));\n  - `天师` → **небесный наставник** — патриархи линии талисманов и громовых печатей (прежде всего род Чжан на горе Лунхушань);\n  - `道观` → **даосская обитель / храм** (**нельзя** переводить как «церковь» или «часовня»).\n- **`符箓` → талисманы-фулу**; **`丹药` → пилюли** (не «эликсиры бессмертия» в каждом абзаце — в тексте это именно лекарственные пилюли-дан).",
+      "translation_rule": "## Правила перевода и титулатура\n\n- **`道祖` → Патриарх Дао** — основатель даосизма на Пятнадцатой ступени, восседающий над небесами.\n- **`白玉京` → Столица Белого Нефрита** («пять градов и двенадцать башен» — `天上白玉京，十二楼五城`, классический образ из поэзии Ли Бо, воплощённый как реальная твердыня даосов в [Лазурной Поднебесной](../locations/heavenly-world.md)).\n- **`掌教` → Владыка Учения (Хранитель престола)** — каждый из трёх прямых учеников Патриарха Дао возглавляет собственную ветвь даосизма; третий ученик — странствующий в сонном мире [Лу Чэнь](../characters/lu-chen.md), второй — владыка [Столицы Белого Нефрита](../factions/sects-compendium.md).\n- **Даосские ранги и обращения:**\n  - `真人` → **истинный муж / совершенный** — почётный титул земных бессмертных даосских сект;\n  - `真君` → **истинный владыка** — высокий титул даосов Пяти высших ступеней;\n  - `天君` → **небесный владыка** (как [Се Ши](../characters/xie-shi.md) или глава [Ордена Божественного Указа](../factions/sects-compendium.md));\n  - `天师` → **небесный наставник** — патриархи линии талисманов и громовых печатей (прежде всего род Чжан на горе Лунхушань);\n  - `道观` → **даосская обитель / храм** (**нельзя** переводить как «церковь» или «часовня»).\n- **Титул и держава.** `真君` жалует государь, а не Учение: каждый истинный владыка, восседая в державе, собирает для государя судьбу государства, сдерживает её и приумножает. Титулов мало и они не отзываются: в главе 18 у императора Юаньу остаётся всего два свободных места, поэтому самозваный «истинный владыка» [Лю Чжимао](../characters/liu-zhimao.md) для знающих — лишь `真人` из боковых врат.\n- **`符箓` → талисманы-фулу**; **`丹药` → пилюли** (не «эликсиры бессмертия» в каждом абзаце — в тексте это именно лекарственные пилюли-дан).",
       "links_to": [
         "char.chen-pingan",
         "char.he-xiaoliang",
+        "char.liu-zhimao",
         "char.lu-chen",
         "char.ning-yao",
         "char.xie-shi",
@@ -2094,6 +2140,7 @@
         "char.yu-xuan",
         "char.zhang-shanfeng",
         "char.zhao-luan",
+        "concept.cloud-root-stone",
         "cult.buddhism",
         "cult.confucianism",
         "cult.hundred-schools",
@@ -2169,6 +2216,7 @@
         "char.chen-pingan.items",
         "char.mi-yu",
         "char.sun-jiashu",
+        "concept.cloud-root-stone",
         "concept.qiyun",
         "cult.martial-arts",
         "cult.qi-refinement",
@@ -3124,6 +3172,49 @@
         "loc.small-town"
       ],
       "card": "wiki/concepts/imperial-kilns.md"
+    },
+    {
+      "id": "concept.cloud-root-stone",
+      "type": "concept",
+      "zh": "云根石",
+      "zh_aliases": [
+        "云根"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Yungen shi",
+      "palladius": "Юньгэнь ши",
+      "ru": "Камни облачного корня",
+      "ru_aliases": [
+        "камень облачного корня"
+      ],
+      "first_chapter": 9,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": false,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "материалы",
+        "гора-облачной-зари",
+        "торговля",
+        "алхимия"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **`云根石` → «камни облачного корня»** (множественное число — в тексте они всегда идут счётно: десять камней, половина цены камнями).\n- Не переводить как «облачный камень»: `云根` — «корень облаков», устойчивый поэтический образ скал, из которых рождаются тучи.\n- Не путать с [камнями-печатями](mountain-seals-and-bridges.md): это сырьё, а не печать.",
+      "links_to": [
+        "char.cai-jinjian",
+        "char.fu-nanhua",
+        "char.liu-zhimao",
+        "concept.currency",
+        "concept.mountain-seals",
+        "cult.daoism",
+        "fac.sects-compendium",
+        "loc.old-dragon-city"
+      ],
+      "referenced_by": [
+        "char.cai-jinjian"
+      ],
+      "card": "wiki/concepts/cloud-root-stone.md"
     },
     {
       "id": "fac.clans-compendium",
@@ -4104,7 +4195,7 @@
       "ru_aliases": [
         "Истинный Владыка, Рассекающий Реку"
       ],
-      "first_chapter": 18,
+      "first_chapter": 17,
       "gender": "male",
       "subtype": null,
       "parent": null,
@@ -4119,6 +4210,7 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Лю Чжимао**; титул — **Истинный Владыка, Рассекающий Реку** (`截江真君`). В тексте он часто «сказитель» (`说书先生`) — этот маскарад нужно сохранять.\n- **Речь:** мягкая, вкрадчивая, с прибаутками сказителя; он говорит, как рассказывает сказку, — и именно поэтому ему так легко поверить.\n- **Ключ:** он не «злодей» в чистом виде, а человек, который всю жизнь пробивался сам и привык, что доброта — непозволительная роскошь.",
       "links_to": [
+        "char.cai-jinjian",
         "char.chen-pingan",
         "char.gu-can",
         "char.gu-shi",
@@ -4128,11 +4220,16 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "art.white-bowl",
         "char.cai-jinjian",
         "char.chen-pingan.relationships",
+        "char.fu-nanhua",
         "char.gu-can",
         "char.liu-laocheng",
         "char.zeng-ye",
+        "concept.cloud-root-stone",
+        "concept.entry-thresholds",
+        "cult.daoism",
         "cult.qi-refinement",
         "fac.true-realm-sect",
         "idiom.one-sword-credo",
@@ -4793,6 +4890,7 @@
         "char.cai-jinjian",
         "char.chen-pingan",
         "con.river-of-time",
+        "concept.cloud-root-stone",
         "concept.qiyun",
         "cult.qi-refinement",
         "loc.daoxuan-mountain",
@@ -4899,6 +4997,7 @@
         "char.ma-lanhua",
         "char.old-man-yang",
         "char.old-man-yao",
+        "concept.entry-thresholds",
         "concept.imperial-kilns",
         "concept.mountain-seals",
         "concept.qiyun",
@@ -5285,6 +5384,7 @@
         "loc.eastern-treasured-vial-continent"
       ],
       "referenced_by": [
+        "art.white-bowl",
         "char.chen-pingan",
         "char.gu-can",
         "char.gu-shi",
@@ -5765,6 +5865,50 @@
         "loc.ten-great-grotto-heavens"
       ],
       "card": "wiki/locations/majestic-world.md"
+    },
+    {
+      "id": "concept.entry-thresholds",
+      "type": "concept",
+      "zh": "门槛",
+      "zh_aliases": [
+        "开门",
+        "登堂",
+        "入室"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Menkan / Kaimen, dengtang, rushi",
+      "palladius": "Мэнькань / Кай мэнь, дэн тан, жу ши",
+      "ru": "Пороги вхождения и три ступени",
+      "ru_aliases": [
+        "два порога",
+        "открыть дверь, войти в зал, проникнуть во внутренние покои"
+      ],
+      "first_chapter": 18,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "культивация",
+        "дети",
+        "городок",
+        "механизм-мира"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **`门槛` → «порог»**: у девочек — шесть и двенадцать лет, у мальчиков — девять и восемнадцать.\n- **`开门`、`登堂`、`入室` → «открыть дверь», «войти в зал», «проникнуть во внутренние покои»**. Сохранять образ дома: это ступени вхождения в учение, а не названия сект или рангов.\n- При первом появлении нужна сноска: без пояснения читатель примет метафору за бытовую сцену.",
+      "links_to": [
+        "char.gu-can",
+        "char.gu-shi",
+        "char.liu-zhimao",
+        "concept.natal-porcelain",
+        "concept.qiyun",
+        "loc.small-town"
+      ],
+      "referenced_by": [
+        "art.white-bowl"
+      ],
+      "card": "wiki/concepts/entry-thresholds.md"
     },
     {
       "id": "idiom.daoli-and-benxin",
@@ -6358,6 +6502,7 @@
         "char.wei-jin",
         "char.yu-zhenyi",
         "char.zhao-luan",
+        "concept.cloud-root-stone",
         "cult.buddhism",
         "cult.daoism",
         "cult.militarians",
@@ -7404,6 +7549,7 @@
         "char.fan-junmao",
         "char.fu-nanhua",
         "char.sun-jiashu",
+        "concept.cloud-root-stone",
         "concept.currency",
         "fac.azure-phoenix-nation",
         "fac.clans-compendium",
@@ -7630,6 +7776,7 @@
         "char.yin-god",
         "char.zhigui",
         "concept.currency",
+        "concept.entry-thresholds",
         "concept.mountain-seals",
         "concept.natal-porcelain",
         "cult.qi-refinement",
@@ -8471,6 +8618,7 @@
       "links_to": [
         "char.cai-jinjian",
         "char.chen-pingan",
+        "char.liu-zhimao",
         "char.sun-jiashu",
         "concept.natal-porcelain",
         "fac.clans-compendium",
@@ -8483,6 +8631,7 @@
         "char.cai-jinjian",
         "char.chen-pingan",
         "char.sun-jiashu",
+        "concept.cloud-root-stone",
         "concept.currency",
         "loc.old-dragon-city"
       ],
@@ -8733,7 +8882,9 @@
       "links_to": [
         "char.chen-pingan",
         "char.fu-nanhua",
+        "char.gu-shi",
         "char.liu-zhimao",
+        "concept.cloud-root-stone",
         "concept.mountain-seals",
         "concept.natal-porcelain",
         "cult.buddhism",
@@ -8746,6 +8897,8 @@
         "char.chen-pingan",
         "char.chen-pingan.history",
         "char.fu-nanhua",
+        "char.liu-zhimao",
+        "concept.cloud-root-stone",
         "concept.currency",
         "concept.mountain-seals",
         "cult.buddhism",
