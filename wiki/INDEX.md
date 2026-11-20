@@ -5,9 +5,9 @@
 > Файл генерируется автоматически командой `python3 scripts/wiki_tool.py index`.
 > Не редактируйте его вручную: после правки карточек просто перегенерируйте указатель.
 
-**Всего статей: 293.**
+**Всего статей: 303.**
 
-## Персонажи (151)
+## Персонажи (155)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -17,6 +17,7 @@
 | [Бай Шоу](characters/bai-shou.md) | `白首 / 小剑仙` | 539 |
 | [Бай Юань](characters/mountain-moving-ape.md) | `搬山猿 / 老畜生` | 43 |
 | [Ван Ифу](characters/wang-yifu.md) | `王毅甫 / 卢氏王朝头号猛将 / 上柱国` | 89 |
+| [Второй господин рода Ли](characters/li-second-master.md) | `李家二公子 / 二公子 / 李家二公子` | 105 |
 | [Высший Святой — Первый Учитель](characters/zhisheng-xianshi.md) | `至圣先师` | 11 |
 | [Вэй Бо](characters/wei-bo.md) | `魏檗 / 魏山神 / 老魏 / 棋墩山土地` | 98 |
 | [Вэй Сянь](characters/wei-xian.md) | `魏羡 / 南苑国开国皇帝` | 315 |
@@ -48,6 +49,7 @@
 | [Ли Лю](characters/li-liu.md) | `李柳 / 柳儿` | 73 |
 | [Ли Сишэн](characters/li-xisheng.md) | `李希圣 / 希圣` | 127 |
 | [Ли Хуай](characters/li-huai.md) | `李槐 / 槐儿` | 67 |
+| [Ли Цзинь](characters/li-jin.md) | `李锦 / 年轻店主 / 年轻公子哥 / 书铺主人` | 106 |
 | [Ли Эр](characters/li-er.md) | `李二` | 50 |
 | [Линь Цзюньби](characters/lin-junbi.md) | `林君璧` | 594 |
 | [Линь Цзянсянь](characters/lin-jiangxian.md) | `林江仙` | 876 |
@@ -66,6 +68,7 @@
 | [Ма Кусюань](characters/ma-kuxuan.md) | `马苦玄 / 苦玄` | 40 |
 | [Ма Ланьхуа](characters/ma-lanhua.md) | `马兰花 / 马婆婆` | 59 |
 | [Ма Чжань](characters/ma-zhan.md) | `马瞻 / 马老先生` | 82 |
+| [Мальчик в алом](characters/scarlet-censer-boy.md) | `朱衣童子 / 香火童子 / 小家伙 / 小童子` | 108 |
 | [Мао Сяодун](characters/mao-xiaodong.md) | `茅小冬 / 茅先生` | 160 |
 | [Ми Юй](characters/mi-yu.md) | `米裕 / 泥瓶巷米裕` | 610 |
 | [Налань Есин](characters/nalan-yexing.md) | `纳兰夜行 / 纳兰爷爷 / 老管事` | 576 |
@@ -136,6 +139,7 @@
 | [Чжун Цю](characters/zhong-qiu.md) | `种秋 / 南苑国国师 / 天下第一手` | 104 |
 | [Чжэн Дафэн](characters/zheng-dafeng.md) | `郑大风` | 50 |
 | [Чжэн Цзюйчжун](characters/zheng-juzhong.md) | `郑居中 / 怀仙` | 692 |
+| [Чэн Шэн](characters/cheng-sheng.md) | `程昇 / 老程 / 程驿丞 / 驿丞` | 105 |
 | [Чэнь Дуй](characters/chen-dui.md) | `陈对` | 50 |
 | [Чэнь Линцзюнь](characters/chen-lingjun.md) | `陈灵均 / 青衣小童 / 水蛇` | 470 |
 | [Чэнь Нуаньшу](characters/chen-nuanshu.md) | `陈暖树 / 陈如初 / 暖树` | 470 |
@@ -221,7 +225,7 @@
 | [Школа Озёрных Гор](factions/lake-mountain-school.md) | `湖山派` | 308 |
 | [Школа Хуанлян](factions/yellow-millet-school.md) | `黄粱派` | 926 |
 
-## Миры, континенты и локации (53)
+## Миры, континенты и локации (56)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -246,6 +250,7 @@
 | [Грот-небеса Личжу](locations/lizhu-grotto-heaven.md) | `骊珠洞天` | 1 |
 | [Десять больших грот-небес](locations/ten-great-grotto-heavens.md) | `十大洞天 / 大洞天` | 70 |
 | [Долина Призрачных Тварей](locations/ghost-devils-valley.md) | `鬼蜮谷` | 488 |
+| [Заводь Фушуй](locations/fushui-bay.md) | `敷水湾 / 月牙状河湾` | 105 |
 | [Застава Ефу](locations/efuguan-pass.md) | `野夫关` | 88 |
 | [Лазурная Поднебесная](locations/heavenly-world.md) | `青冥天下 / 青冥` | 108 |
 | [Лисье Местечко](locations/fox-town.md) | `狐儿镇` | 333 |
@@ -263,10 +268,12 @@
 | [Переулок Оседлавшего Дракона](locations/qilong-alley.md) | `骑龙巷` | 1 |
 | [Переулок Персиковых Листьев](locations/peach-leaf-alley.md) | `桃叶巷` | 3 |
 | [Поднебесная Необъятного Света](locations/majestic-world.md) | `浩然天下 / 浩然` | 15 |
+| [Почтовая станция «Подушка»](locations/post-station-pillow.md) | `枕头驿 / 枕头驿馆 / 驿馆` | 105 |
 | [Префектура Драконьего Родника](locations/dragon-spring-prefecture.md) | `龙泉郡 / 龙泉县` | 179 |
 | [Префектура Румян](locations/blusher-prefecture.md) | `胭脂郡` | 220 |
 | [Проспект Фортуны](locations/fortune-street.md) | `福禄街 / 福鹿街` | 5 |
 | [Пятицветная Поднебесная](locations/five-colored-world.md) | `五彩天下` | 787 |
+| [Река Чундань](locations/chundan-river.md) | `冲澹江 / 绣花江 / 玉液江 / 馒头山` | 102 |
 | [Ручей Сокровищ](locations/baoxi-stream.md) | `宝溪` | 4 |
 | [Северный Цзюйлу](locations/northern-juilu-continent.md) | `北俱芦洲` | 189 |
 | [Срединный Божественный материк](locations/middle-earth-continent.md) | `中土神洲 / 中土` | 127 |
@@ -279,10 +286,11 @@
 | [Фуяо](locations/fuyao-continent.md) | `扶摇洲` | 259 |
 | [Южный Посо](locations/southern-posha-continent.md) | `南婆娑洲` | 184 |
 
-## Концепты и устройство мира (16)
+## Концепты и устройство мира (18)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
+| [«Подлые дворы» и звание гаомин](concepts/mean-households.md) | `贱户 / 贱籍 / 贱户 / 诰命` | 105 |
 | [Боги гор и вод](concepts/mountain-and-river-gods.md) | `山水神祇 / 土地 / 山神 / 山水正神` | 63 |
 | [Господин Трёх гор и Девяти князей](concepts/three-mountains-nine-lords.md) | `三山九侯先生 / 三山九侯` | 89 |
 | [Денежная система и монеты бессмертных](concepts/currency.md) | `神仙钱 / 谷雨钱 / 小暑钱 / 雪花钱` | 12 |
@@ -297,16 +305,18 @@
 | [Натальный фарфор](concepts/natal-porcelain.md) | `本命瓷 / 买瓷人 / 碎瓷山` | 17 |
 | [Пороги вхождения и три ступени](concepts/entry-thresholds.md) | `门槛 / 开门 / 登堂 / 入室` | 18 |
 | [Река Времени](concepts/river-of-time.md) | `光阴长河` | 24 |
+| [Сезонные облавы и сигнальные башни](concepts/seasonal-hunts.md) | `春蒐夏苗秋狝冬狩 / 春蒐 / 烽燧 / 太平火` | 105 |
 | [Судьбоносная удача и благовония веры](concepts/qiyun.md) | `气运 / 香火 / 山水神灵 / 金身` | 0 |
 | [Яшэн](concepts/yasheng.md) | `压胜` | 15 |
 
-## Артефакты и снаряжение (14)
+## Артефакты и снаряжение (15)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
 | [«Книга звона над облаками»](artifacts/cloud-ringing-book.md) | `云上琅琅书 / 道家古籍 / 泛黄古籍` | 104 |
 | [«Книга пурпурного дыхания»](artifacts/purple-qi-book.md) | `紫气书 / 仙家秘籍 / 武学秘籍` | 104 |
 | [«Небесная Истина»](artifacts/heavenly-truths-swords.md) | `天真 / 宁姚的剑` | 600 |
+| [«Рассекающая воду круча»](artifacts/shuduan-cliff.md) | `断水大崖 / 蠹鱼 / 书铺孤本` | 106 |
 | [Белая чаша](artifacts/white-bowl.md) | `白碗 / 大白碗` | 18 |
 | [Горлянка для взращивания меча](artifacts/sword-nurturing-gourd.md) | `养剑葫 / 葫芦` | 57 |
 | [Зелёная нефритовая шпилька и печати](artifacts/jade-hairpin-and-seals.md) | `碧玉簪 / 簪子 / 印章` | 24 |

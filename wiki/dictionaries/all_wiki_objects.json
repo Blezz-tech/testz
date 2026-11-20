@@ -3,15 +3,15 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 293,
+  "total_entries": 303,
   "counts_by_type": {
-    "artifact": 14,
-    "character": 151,
-    "concept": 16,
+    "artifact": 15,
+    "character": 155,
+    "concept": 18,
     "cultivation": 11,
     "faction": 37,
     "idiom": 9,
-    "location": 53,
+    "location": 56,
     "media": 2
   },
   "entries": [
@@ -53,6 +53,7 @@
       ],
       "referenced_by": [
         "idiom.good-things-fragile",
+        "idiom.one-sword-credo",
         "media.author"
       ],
       "card": "wiki/media/novel.md"
@@ -186,6 +187,106 @@
       "card": "wiki/artifacts/heavenly-truths-swords.md"
     },
     {
+      "id": "concept.mean-households",
+      "type": "concept",
+      "zh": "贱户",
+      "zh_aliases": [
+        "贱籍",
+        "贱户",
+        "诰命",
+        "诰命夫人",
+        "无根浮萍"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Jianhu",
+      "palladius": "Цзянь ху",
+      "ru": "«Подлые дворы» и звание гаомин",
+      "ru_aliases": [
+        "подлый список",
+        "подлые дворы",
+        "гаомин"
+      ],
+      "first_chapter": 105,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "сословия",
+        "великая-ли",
+        "подлые-дворы",
+        "гаомин",
+        "лодочные-девы"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **`贱户`** → **«подлые дворы»**; **`贱籍`** → **«подлый список»**. Не «рабы»: они не рабы, а низкое сословие с особым учётом.\n- **`诰命`** → **звание гаомин**; **`诰命夫人`** → **«госпожа по высочайшему пожалованию»**.\n- **`无根浮萍`** → **ряска без корней**: образ судьбы тех, кому запрещено сходить на берег.",
+      "links_to": [
+        "char.chen-pingan",
+        "char.cheng-sheng",
+        "char.li-second-master",
+        "char.zhu-he",
+        "char.zhu-lu",
+        "concept.house-born-servants",
+        "concept.qiyun",
+        "fac.great-li-empire",
+        "loc.fushui-bay",
+        "loc.red-candle-town"
+      ],
+      "referenced_by": [
+        "char.cheng-sheng",
+        "char.li-second-master",
+        "loc.fushui-bay"
+      ],
+      "card": "wiki/concepts/mean-households.md"
+    },
+    {
+      "id": "art.shuduan-cliff",
+      "type": "artifact",
+      "zh": "断水大崖",
+      "zh_aliases": [
+        "蠹鱼",
+        "书铺孤本"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Duanshui Daya",
+      "palladius": "Дуаньшуй дая",
+      "ru": "«Рассекающая воду круча»",
+      "ru_aliases": [
+        "«Рассекающая воду круча»",
+        "книга с книжными рыбками"
+      ],
+      "first_chapter": 106,
+      "gender": null,
+      "subtype": "book",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "книга",
+        "нечисть",
+        "ли-хуай",
+        "книжные-рыбки",
+        "редкость"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **`断水大崖`** → **«Рассекающая воду круча»**: `断水` — рассекать воду, `大崖` — большая круча. Название звучит как заглавие приключенческой книги, а не трактата.\n- **`蠹鱼`** → **книжная рыбка**: крошечная нечисть `精魅`, что живёт между строк и кормится духом знаков.",
+      "links_to": [
+        "char.aliang",
+        "char.chen-pingan",
+        "char.li-huai",
+        "char.li-jin",
+        "char.lin-shouyi",
+        "concept.qiyun",
+        "loc.red-candle-town"
+      ],
+      "referenced_by": [
+        "char.li-huai",
+        "char.li-jin"
+      ],
+      "card": "wiki/artifacts/shuduan-cliff.md"
+    },
+    {
       "id": "char.aliang",
       "type": "character",
       "zh": "阿良",
@@ -236,6 +337,7 @@
         "loc.sword-qi-great-wall"
       ],
       "referenced_by": [
+        "art.shuduan-cliff",
         "art.sword-nurturing-gourd",
         "art.xiangfu-blade",
         "char.bai-lianshuang",
@@ -252,6 +354,7 @@
         "char.li-baoping",
         "char.li-er",
         "char.li-huai",
+        "char.li-jin",
         "char.lin-shouyi",
         "char.ning-yao",
         "char.ning-yao.history",
@@ -269,6 +372,7 @@
         "fac.great-sui-nation",
         "idiom.daoli-and-benxin",
         "loc.bamboo-sea-grotto-heaven",
+        "loc.fushui-bay",
         "loc.mountains-near-town",
         "loc.red-candle-town",
         "loc.sword-qi-great-wall",
@@ -800,8 +904,10 @@
       ],
       "referenced_by": [
         "char.black-snake-and-white-python",
+        "char.scarlet-censer-boy",
         "char.wei-bo",
-        "concept.mountain-opening-talismans"
+        "concept.mountain-opening-talismans",
+        "loc.chundan-river"
       ],
       "card": "wiki/concepts/mountain-and-river-gods.md"
     },
@@ -1003,9 +1109,11 @@
         "char.zhu-he",
         "concept.house-born-servants",
         "concept.imperial-kilns",
+        "concept.mean-households",
         "concept.mountain-and-river-gods",
         "concept.natal-porcelain",
         "concept.qiyun",
+        "concept.seasonal-hunts",
         "cult.demon-tribe",
         "cult.hundred-schools",
         "cult.militarians",
@@ -1332,6 +1440,51 @@
       "card": "wiki/idioms/yan-sheng-yu-kuan.md"
     },
     {
+      "id": "char.li-second-master",
+      "type": "character",
+      "zh": "李家二公子",
+      "zh_aliases": [
+        "二公子",
+        "李家二公子"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Li jia er gongzi",
+      "palladius": "Ли цзя эр гунцзы",
+      "ru": "Второй господин рода Ли",
+      "ru_aliases": [
+        "второй господин",
+        "второй сын рода Ли"
+      ],
+      "first_chapter": 105,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "род-ли",
+        "книжник",
+        "столица",
+        "интрига",
+        "отсутствующий"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **`二公子`** → **второй господин**; так его зовут и дворовые, и сестра. `公子` — «молодой господин», не «принц».\n- Не путать со старшим братом [Ли Баопинг](../characters/li-baoping.md) — тем самым начётчиком, что «в обычное время сидит сложа руки».",
+      "links_to": [
+        "char.chen-pingan",
+        "char.li-baoping",
+        "char.zhu-he",
+        "char.zhu-lu",
+        "concept.house-born-servants",
+        "concept.mean-households",
+        "loc.small-town"
+      ],
+      "referenced_by": [
+        "concept.mean-households"
+      ],
+      "card": "wiki/characters/li-second-master.md"
+    },
+    {
       "id": "char.zhisheng-xianshi",
       "type": "character",
       "zh": "至圣先师",
@@ -1432,6 +1585,7 @@
         "char.chen-pingan.relationships",
         "char.lady-chu",
         "char.ma-lanhua",
+        "char.scarlet-censer-boy",
         "char.wei-jin",
         "char.yang-hua",
         "char.yin-god",
@@ -1442,6 +1596,8 @@
         "concept.qiyun",
         "fac.zhenwu-mountain",
         "loc.bamboo-sea-grotto-heaven",
+        "loc.chundan-river",
+        "loc.fushui-bay",
         "loc.luopo-mountain",
         "loc.mountains-near-town"
       ],
@@ -2350,6 +2506,7 @@
         "char.li-baozhen",
         "char.li-er",
         "char.li-huai",
+        "char.li-second-master",
         "char.li-xisheng",
         "char.liu-zhimao",
         "char.lu-chen",
@@ -2431,13 +2588,23 @@
       "links_to": [
         "char.aliang",
         "char.chen-pingan",
+        "char.li-jin",
         "fac.great-li-empire",
+        "loc.fushui-bay",
         "loc.lizhu-grotto-heaven",
         "loc.mountains-near-town",
         "loc.small-town"
       ],
       "referenced_by": [
-        "loc.mountains-near-town"
+        "art.shuduan-cliff",
+        "char.cheng-sheng",
+        "char.li-jin",
+        "concept.mean-households",
+        "concept.seasonal-hunts",
+        "loc.chundan-river",
+        "loc.fushui-bay",
+        "loc.mountains-near-town",
+        "loc.post-station-pillow"
       ],
       "card": "wiki/locations/red-candle-town.md"
     },
@@ -2512,6 +2679,7 @@
         "concept.mountain-seals",
         "fac.zhenwu-mountain",
         "loc.bamboo-sea-grotto-heaven",
+        "loc.chundan-river",
         "loc.longji-mountain",
         "loc.luopo-mountain",
         "loc.piyun-mountain",
@@ -3801,6 +3969,51 @@
       "card": "wiki/characters/master-ruan.md"
     },
     {
+      "id": "loc.fushui-bay",
+      "type": "location",
+      "zh": "敷水湾",
+      "zh_aliases": [
+        "月牙状河湾"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Fushui Wan",
+      "palladius": "Фушуй вань",
+      "ru": "Заводь Фушуй",
+      "ru_aliases": [
+        "залив Фушуй",
+        "лунная заводь"
+      ],
+      "first_chapter": 105,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "река",
+        "лодки",
+        "красные-свечи",
+        "подлые-дворы"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **`敷水湾`** → **заводь Фушуй**; `湾` — заводь, залив, не «бухта».\n- **`画舫`** → **лодка** (украшенная, прогулочная); в главах уже принято «цветочные лодки» — здесь допустимо **лодка**.\n- **`船家女`** → **речная дева**, **лодочная дева**; не «лодочница».",
+      "links_to": [
+        "char.aliang",
+        "char.cheng-sheng",
+        "char.lin-shouyi",
+        "char.wei-bo",
+        "concept.mean-households",
+        "loc.chundan-river",
+        "loc.red-candle-town"
+      ],
+      "referenced_by": [
+        "concept.mean-households",
+        "loc.chundan-river",
+        "loc.red-candle-town"
+      ],
+      "card": "wiki/locations/fushui-bay.md"
+    },
+    {
       "id": "concept.mountain-opening-talismans",
       "type": "concept",
       "zh": "开山篇",
@@ -3882,7 +4095,9 @@
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy"
       ],
-      "referenced_by": [],
+      "referenced_by": [
+        "concept.seasonal-hunts"
+      ],
       "card": "wiki/locations/efuguan-pass.md"
     },
     {
@@ -4146,6 +4361,7 @@
         "char.xu-hunran",
         "char.yao-zhen",
         "concept.imperial-kilns",
+        "concept.seasonal-hunts",
         "fac.bamboo-leaf-pavilion",
         "fac.clans-compendium",
         "fac.great-li-empire",
@@ -4741,6 +4957,7 @@
         "char.dong-shuijing",
         "char.li-baozhen",
         "char.li-huai",
+        "char.li-second-master",
         "char.li-xisheng",
         "char.lin-shouyi",
         "char.ma-zhan",
@@ -4753,6 +4970,7 @@
         "concept.ancestral-shade-leaves",
         "concept.house-born-servants",
         "concept.natal-porcelain",
+        "concept.seasonal-hunts",
         "fac.clans-compendium",
         "fac.great-sui-nation",
         "fac.lake-view-academy",
@@ -4760,6 +4978,7 @@
         "loc.eastern-treasured-vial-continent",
         "loc.fortune-street",
         "loc.mountains-near-town",
+        "loc.post-station-pillow",
         "loc.small-town"
       ],
       "card": "wiki/characters/li-baoping.md"
@@ -4914,8 +5133,10 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Ли Хуай** — имя *Хуай* не склоняется (*с Ли Хуай, к Ли Хуай*).\n- **Речь:** дерзкая, быстрая, полная подначек; он вечно спорит и всегда находит, что ответить.\n- **Обращения:** к [Чэнь Пинъаню](chen-pingan.md) — *«дядюшка Чэнь»*; к сестре — по имени.",
       "links_to": [
+        "art.shuduan-cliff",
         "char.aliang",
         "char.chen-pingan",
+        "char.cheng-sheng",
         "char.li-baoping",
         "char.li-er",
         "char.li-liu",
@@ -4928,13 +5149,16 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "art.shuduan-cliff",
         "art.xiangfu-blade",
         "char.aliang",
         "char.chen-pingan",
         "char.chen-pingan.history",
+        "char.cheng-sheng",
         "char.dong-shuijing",
         "char.li-baoping",
         "char.li-er",
+        "char.li-jin",
         "char.li-liu",
         "char.lin-shouyi",
         "char.ma-zhan",
@@ -4949,6 +5173,55 @@
         "loc.fortune-street"
       ],
       "card": "wiki/characters/li-huai.md"
+    },
+    {
+      "id": "char.li-jin",
+      "type": "character",
+      "zh": "李锦",
+      "zh_aliases": [
+        "年轻店主",
+        "年轻公子哥",
+        "书铺主人"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Li Jin",
+      "palladius": "Ли Цзинь",
+      "ru": "Ли Цзинь",
+      "ru_aliases": [
+        "хозяин книжной лавки",
+        "молодой господин"
+      ],
+      "first_chapter": 106,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "нечисть",
+        "книжная-лавка",
+        "красные-свечи",
+        "цинмин",
+        "чудак"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Ли Цзинь**; в описании — **молодой хозяин лавки**, **молодой господин**.\n- **Речь:** лениво-насмешливая, с достоинством; перед сильными — почтительная, но без потери себя.\n- **Важно:** это не человек. Раз в двадцать-тридцать лет он меняет лицо и облик, а «родиться человеком» для его породы — великое счастье.",
+      "links_to": [
+        "art.shuduan-cliff",
+        "char.aliang",
+        "char.cheng-sheng",
+        "char.li-huai",
+        "loc.chundan-river",
+        "loc.red-candle-town"
+      ],
+      "referenced_by": [
+        "art.shuduan-cliff",
+        "char.chen-pingan",
+        "char.cheng-sheng",
+        "loc.chundan-river",
+        "loc.red-candle-town"
+      ],
+      "card": "wiki/characters/li-jin.md"
     },
     {
       "id": "char.li-er",
@@ -5110,11 +5383,13 @@
       ],
       "referenced_by": [
         "art.cloud-ringing-book",
+        "art.shuduan-cliff",
         "art.xiangfu-blade",
         "char.aliang",
         "char.cao-gengxin",
         "char.chen-pingan",
         "char.chen-pingan.history",
+        "char.cheng-sheng",
         "char.cui-minghuang",
         "char.dong-shuijing",
         "char.li-baoping",
@@ -5125,7 +5400,9 @@
         "char.shi-chunjia",
         "char.zhu-lu",
         "fac.great-sui-nation",
-        "fac.mountain-cliff-academy"
+        "fac.mountain-cliff-academy",
+        "loc.fushui-bay",
+        "loc.post-station-pillow"
       ],
       "card": "wiki/characters/lin-shouyi.md"
     },
@@ -5891,6 +6168,50 @@
       "card": "wiki/characters/ma-zhan.md"
     },
     {
+      "id": "char.scarlet-censer-boy",
+      "type": "character",
+      "zh": "朱衣童子",
+      "zh_aliases": [
+        "香火童子",
+        "小家伙",
+        "小童子"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Zhuyi tongzi",
+      "palladius": "Чжуи тунцзы",
+      "ru": "Мальчик в алом",
+      "ru_aliases": [
+        "курёнок",
+        "мальчишка в алом"
+      ],
+      "first_chapter": 108,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "дух",
+        "кумирня",
+        "комический",
+        "красные-свечи",
+        "курения-веры"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **`香火童子`** → **курёнок**: дух, рождённый из благовонных курений в кумирне. Не «мальчик-служка» и не «ангелок».\n- **Речь:** дерзкая, визгливая, полна брани и причитаний; он зовёт своего «хозяина» на «ты» и поминутно грозит ему казнью за оскорбление величества.\n- **Рост:** с ладонь; ездит на спине сине-зелёного карпа, держась за его усы, как за поводья.",
+      "links_to": [
+        "char.cheng-sheng",
+        "char.wei-bo",
+        "concept.mountain-and-river-gods",
+        "concept.qiyun",
+        "loc.chundan-river"
+      ],
+      "referenced_by": [
+        "loc.chundan-river"
+      ],
+      "card": "wiki/characters/scarlet-censer-boy.md"
+    },
+    {
       "id": "char.mao-xiaodong",
       "type": "character",
       "zh": "茅小冬",
@@ -6411,7 +6732,9 @@
         "loc.dragon-spring-prefecture"
       ],
       "referenced_by": [
-        "char.zhu-he"
+        "char.li-second-master",
+        "char.zhu-he",
+        "concept.mean-households"
       ],
       "card": "wiki/concepts/house-born-servants.md"
     },
@@ -7466,6 +7789,50 @@
       "card": "wiki/concepts/entry-thresholds.md"
     },
     {
+      "id": "loc.post-station-pillow",
+      "type": "location",
+      "zh": "枕头驿",
+      "zh_aliases": [
+        "枕头驿馆",
+        "驿馆"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Zhentou Yi",
+      "palladius": "Чжэньтоу и",
+      "ru": "Почтовая станция «Подушка»",
+      "ru_aliases": [
+        "станция «Подушка»",
+        "«Подушка»"
+      ],
+      "first_chapter": 105,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "почтовая-станция",
+        "красные-свечи",
+        "ночлег",
+        "письма"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **`枕头驿`** → **[станция] «Подушка»**: `驿` — почтовая станция, не «гостиница».\n- **`甲等/乙等驿舍`** → **комнаты первого и второго разряда**.\n- **`驿丞`** → **смотритель станции** (см. [Чэн Шэн](../characters/cheng-sheng.md)).",
+      "links_to": [
+        "char.chen-pingan",
+        "char.cheng-sheng",
+        "char.li-baoping",
+        "char.lin-shouyi",
+        "char.zhu-lu",
+        "loc.chundan-river",
+        "loc.red-candle-town"
+      ],
+      "referenced_by": [
+        "char.cheng-sheng"
+      ],
+      "card": "wiki/locations/post-station-pillow.md"
+    },
+    {
       "id": "idiom.daoli-and-benxin",
       "type": "idiom",
       "zh": "道理",
@@ -7879,6 +8246,57 @@
       ],
       "referenced_by": [],
       "card": "wiki/concepts/river-of-time.md"
+    },
+    {
+      "id": "loc.chundan-river",
+      "type": "location",
+      "zh": "冲澹江",
+      "zh_aliases": [
+        "绣花江",
+        "玉液江",
+        "馒头山",
+        "石林"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Chongdan Jiang",
+      "palladius": "Чундань цзян",
+      "ru": "Река Чундань",
+      "ru_aliases": [
+        "Чундань",
+        "река Вышитых цветов",
+        "река Яшмовой влаги"
+      ],
+      "first_chapter": 102,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "река",
+        "три-реки",
+        "красные-свечи",
+        "каменный-лес",
+        "без-бога"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **`冲澹江`** → **река Чундань** (название не переводится).\n- **`绣花江`** → **река Вышитых цветов**; **`玉液江`** → **река Яшмовой влаги**.\n- **`雨后春笋`** → **«бамбуковые побеги после дождя»**: так зовут каменные столбы в воде.\n- **`馒头山`** → **гора Пампушка**: местное просторечное имя.",
+      "links_to": [
+        "char.li-jin",
+        "char.scarlet-censer-boy",
+        "char.wei-bo",
+        "concept.mountain-and-river-gods",
+        "loc.fushui-bay",
+        "loc.mountains-near-town",
+        "loc.red-candle-town"
+      ],
+      "referenced_by": [
+        "char.li-jin",
+        "char.scarlet-censer-boy",
+        "loc.fushui-bay",
+        "loc.post-station-pillow"
+      ],
+      "card": "wiki/locations/chundan-river.md"
     },
     {
       "id": "char.river-hag",
@@ -8451,6 +8869,53 @@
         "loc.snowy-continent"
       ],
       "card": "wiki/locations/northern-juilu-continent.md"
+    },
+    {
+      "id": "concept.seasonal-hunts",
+      "type": "concept",
+      "zh": "春蒐夏苗秋狝冬狩",
+      "zh_aliases": [
+        "春蒐",
+        "烽燧",
+        "太平火",
+        "斥候"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Chun sou xia miao qiu xian dong shou",
+      "palladius": "Чунь соу ся мяо цю сянь дун шоу",
+      "ru": "Сезонные облавы и сигнальные башни",
+      "ru_aliases": [
+        "весенняя облава",
+        "огонь спокойствия",
+        "сигнальные башни"
+      ],
+      "first_chapter": 105,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "войско",
+        "учения",
+        "сигналы",
+        "облавы"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **`春蒐夏苗秋狝冬狩`** → **весенняя облава, летний обход, осенняя гоньба и зимняя охота**: четыре сезонные облавы, иносказание о больших воинских учениях.\n- **`烽燧`** → **сигнальные башни**; **`燧长`** → **начальник башни**; **`烽子`** → **дозорные**.\n- **`太平火`** → **«огонь спокойствия»**: сигнал, которым граница извещает столицу, что всё тихо.",
+      "links_to": [
+        "char.cheng-sheng",
+        "char.li-baoping",
+        "fac.great-li-empire",
+        "faction.imperial-court",
+        "loc.efuguan-pass",
+        "loc.red-candle-town"
+      ],
+      "referenced_by": [
+        "char.cheng-sheng"
+      ],
+      "card": "wiki/concepts/seasonal-hunts.md"
     },
     {
       "id": "fac.divine-edict-sect",
@@ -9425,10 +9890,12 @@
         "loc.niping-alley"
       ],
       "referenced_by": [
+        "art.shuduan-cliff",
         "char.lady-chu",
         "char.li-liu",
         "char.ma-lanhua",
         "char.old-man-yang",
+        "char.scarlet-censer-boy",
         "char.wei-bo",
         "char.yang-hua",
         "char.yin-god",
@@ -9436,6 +9903,7 @@
         "concept.ancestral-shade-leaves",
         "concept.currency",
         "concept.entry-thresholds",
+        "concept.mean-households",
         "concept.mountain-seals",
         "concept.natal-porcelain",
         "concept.three-mountains-nine-lords",
@@ -10158,7 +10626,10 @@
         "char.liu-zhimao",
         "char.mountain-moving-ape",
         "char.sword-spirit",
-        "cult.sword-cultivator"
+        "char.zhu-he",
+        "char.zhu-lu",
+        "cult.sword-cultivator",
+        "media.novel"
       ],
       "referenced_by": [
         "char.sword-spirit",
@@ -12089,10 +12560,14 @@
         "char.chen-pingan",
         "char.li-baoping",
         "char.li-huai",
+        "char.li-second-master",
         "char.wei-bo",
         "char.zhu-he",
         "concept.house-born-servants",
-        "concept.mountain-opening-talismans"
+        "concept.mean-households",
+        "concept.mountain-opening-talismans",
+        "idiom.one-sword-credo",
+        "loc.post-station-pillow"
       ],
       "card": "wiki/characters/zhu-lu.md"
     },
@@ -12204,13 +12679,17 @@
         "char.aliang",
         "char.black-snake-and-white-python",
         "char.chen-pingan",
+        "char.cheng-sheng",
         "char.li-baoping",
+        "char.li-second-master",
         "char.wei-bo",
         "char.zhu-lu",
         "concept.house-born-servants",
+        "concept.mean-households",
         "concept.mountain-opening-talismans",
         "cult.realms-overview",
-        "fac.zhenwu-mountain"
+        "fac.zhenwu-mountain",
+        "idiom.one-sword-credo"
       ],
       "card": "wiki/characters/zhu-he.md"
     },
@@ -12502,6 +12981,58 @@
       "card": "wiki/artifacts/chuyi-and-shiwu.md"
     },
     {
+      "id": "char.cheng-sheng",
+      "type": "character",
+      "zh": "程昇",
+      "zh_aliases": [
+        "老程",
+        "程驿丞",
+        "驿丞"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Cheng Sheng",
+      "palladius": "Чэн Шэн",
+      "ru": "Чэн Шэн",
+      "ru_aliases": [
+        "смотритель станции Чэн Шэн",
+        "старый Чэн"
+      ],
+      "first_chapter": 105,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "смотритель-станции",
+        "красные-свечи",
+        "сюжет",
+        "второстепенный"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Чэн Шэн**; в обращении — **смотритель Чэн** или, как зовёт его [Ли Хуай](../characters/li-huai.md), **старый Чэн**.\n- **`驿丞`** → **смотритель почтовой станции**: не «начальник почты» и не «чиновник». Это `胥吏` — мелкий писец, не входящий в число «чиновных».\n- **Речь:** услужливая, с постоянным самоуничижением («я всего лишь человек при ослах и конях»), но под ней — цепкий расчёт.",
+      "links_to": [
+        "char.li-huai",
+        "char.li-jin",
+        "char.lin-shouyi",
+        "char.zhu-he",
+        "concept.mean-households",
+        "concept.seasonal-hunts",
+        "loc.post-station-pillow",
+        "loc.red-candle-town"
+      ],
+      "referenced_by": [
+        "char.li-huai",
+        "char.li-jin",
+        "char.scarlet-censer-boy",
+        "concept.mean-households",
+        "concept.seasonal-hunts",
+        "loc.fushui-bay",
+        "loc.post-station-pillow"
+      ],
+      "card": "wiki/characters/cheng-sheng.md"
+    },
+    {
       "id": "char.chen-dui",
       "type": "character",
       "zh": "陈对",
@@ -12702,6 +13233,7 @@
         "char.he-xiaoliang",
         "char.li-baoping",
         "char.li-huai",
+        "char.li-jin",
         "char.lin-shouyi",
         "char.liu-baqiao",
         "char.liu-xianyang",
@@ -12755,6 +13287,7 @@
         "art.chuyi-and-shiwu",
         "art.heavenly-truths-swords",
         "art.jade-hairpin-and-seals",
+        "art.shuduan-cliff",
         "art.sword-nurturing-gourd",
         "art.zhen-yao-bell",
         "char.aliang",
@@ -12799,6 +13332,7 @@
         "char.li-er",
         "char.li-huai",
         "char.li-liu",
+        "char.li-second-master",
         "char.lin-shouyi",
         "char.liu-baqiao",
         "char.liu-laocheng",
@@ -12864,6 +13398,7 @@
         "concept.currency",
         "concept.house-born-servants",
         "concept.imperial-kilns",
+        "concept.mean-households",
         "concept.mountain-seals",
         "concept.natal-porcelain",
         "concept.qiyun",
@@ -12900,6 +13435,7 @@
         "loc.northern-juilu-continent",
         "loc.old-locust-tree",
         "loc.parasol-leaf-continent",
+        "loc.post-station-pillow",
         "loc.qilong-alley",
         "loc.red-candle-town",
         "loc.small-town",
