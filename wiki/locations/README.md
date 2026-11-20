@@ -27,7 +27,7 @@
 
 ## Дом героя
 
-[Грот-небеса Личжу](lizhu-grotto-heaven.md) · [Городок](small-town.md) · [Старая софора](old-locust-tree.md) · [Ручей Сокровищ](baoxi-stream.md) · [Переулок Глиняных Кувшинов](niping-alley.md) · [Переулок Оседлавшего Дракона](qilong-alley.md) · [Переулок Абрикосовых Цветов](apricot-blossom-alley.md) · [Переулок Персиковых Листьев](peach-leaf-alley.md) · [Проспект Фортуны](fortune-street.md) · [Горы близ городка](mountains-near-town.md) · [Префектура Драконьего Родника](dragon-spring-prefecture.md) · [Гора Лопо](luopo-mountain.md)
+[Грот-небеса Личжу](lizhu-grotto-heaven.md) · [Городок](small-town.md) · [Старая софора](old-locust-tree.md) · [Ручей Сокровищ](baoxi-stream.md) · [Переулок Глиняных Кувшинов](niping-alley.md) · [Переулок Оседлавшего Дракона](qilong-alley.md) · [Переулок Абрикосовых Цветов](apricot-blossom-alley.md) · [Переулок Персиковых Листьев](peach-leaf-alley.md) · [Проспект Фортуны](fortune-street.md) · [Горы близ городка](mountains-near-town.md) · [Префектура Драконьего Родника](dragon-spring-prefecture.md) · [Гора Лопо](luopo-mountain.md) · [Застава Ефу](efuguan-pass.md)
 
 ## Дальние земли
 
