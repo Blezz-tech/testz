@@ -3,15 +3,15 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 273,
+  "total_entries": 278,
   "counts_by_type": {
     "artifact": 9,
-    "character": 146,
-    "concept": 12,
+    "character": 149,
+    "concept": 13,
     "cultivation": 11,
     "faction": 34,
     "idiom": 9,
-    "location": 50,
+    "location": 51,
     "media": 2
   },
   "entries": [
@@ -131,8 +131,11 @@
         "char.chen-pingan",
         "char.chen-qingdu",
         "char.cui-chan",
+        "char.li-huai",
+        "char.master-ruan",
         "char.ning-yao",
         "char.scholarly-sage",
+        "char.wei-jin",
         "char.zuo-you",
         "cult.sword-cultivator",
         "fac.great-sui-nation",
@@ -151,17 +154,20 @@
         "char.chen-sanqiu",
         "char.dong-huafu",
         "char.li-baoping",
+        "char.li-huai",
         "char.ning-yao",
         "char.ning-yao.history",
         "char.ning-yao.relationships",
         "char.pang-yuanji",
         "char.scholarly-sage",
         "char.wei-bo",
+        "char.zhu-he",
         "char.zhu-lu",
         "cult.realms-overview",
         "cult.sword-cultivator",
         "fac.great-sui-nation",
         "idiom.daoli-and-benxin",
+        "loc.mountains-near-town",
         "loc.red-candle-town",
         "loc.sword-qi-great-wall",
         "media.novel"
@@ -230,6 +236,7 @@
         "fac.great-sui-nation",
         "fac.lake-view-academy",
         "loc.bamboo-scroll-lake",
+        "loc.efuguan-pass",
         "loc.middle-earth-continent",
         "loc.piyun-mountain"
       ],
@@ -656,6 +663,54 @@
       "card": "wiki/cultivation/buddhism.md"
     },
     {
+      "id": "char.wang-yifu",
+      "type": "character",
+      "zh": "王毅甫",
+      "zh_aliases": [
+        "卢氏王朝头号猛将",
+        "上柱国"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Wang Yifu",
+      "palladius": "Ван Ифу",
+      "ru": "Ван Ифу",
+      "ru_aliases": [],
+      "first_chapter": 89,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "полководец",
+        "перебежчик",
+        "сабля",
+        "достоинство"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Ван Ифу** — имя склоняется (*Ван Ифу, Ван Ифу*; в проекте **не склоняется**); в устах госпожи — *«генерал Ван»*.\n- **Речь:** короткая, глухая, без подобострастия. Он говорит «подчинённый», но не унижается — и именно это бесит окружающих.\n- **Обращения:** к [госпоже Великой Ли](great-li-empress.md) — на «вы», сдержанно; к покойному [Сун Юйчжану](song-yuzhang.md) — как к живому, вслух, над телом.",
+      "links_to": [
+        "char.great-li-empress",
+        "char.song-changjing",
+        "char.song-yuzhang",
+        "char.xu-hunran",
+        "char.yang-hua",
+        "cult.martial-arts",
+        "cult.qi-refinement",
+        "fac.great-li-empire",
+        "faction.imperial-court",
+        "loc.niping-alley"
+      ],
+      "referenced_by": [
+        "char.great-li-empress",
+        "char.song-yuzhang",
+        "char.xu-hunran",
+        "fac.great-li-empire"
+      ],
+      "card": "wiki/characters/wang-yifu.md"
+    },
+    {
       "id": "fac.great-li-empire",
       "type": "faction",
       "zh": "大骊王朝",
@@ -686,15 +741,21 @@
       "translation_rule": "## Правила перевода\n\n- **Передача:** `大骊` — **Великая Ли** (`骊` — «вороной конь», входит в имя династии). Не «Дали»: транслитерация «Дали» создаёт ложную ассоциацию с южнокитайским городом.\n- **Титулы:** `国师` — **государственный наставник**; `督造官` — **надзиратель за печами** (не «инспектор»); `山君` — **горный бог/владыка горы**.\n- **Слово `大`:** в названии державы **не переводить** как «великий» отдельно — «Великая Ли» уже включает его.\n\n## Правило для переводчика\n\nРечь имперских чиновников — **канцелярская**, с формулами («по докладу», «согласно уложению»). Речь военных — короткая и грубая. Не смешивать эти два регистра: в романе они чётко разделены и характеризуют персонажей.",
       "links_to": [
         "char.cao-xi",
+        "char.chen-pingan",
         "char.cui-chan",
         "char.dong-hu",
+        "char.master-ruan",
         "char.qi-jingchun",
         "char.song-changjing",
         "char.song-he",
         "char.song-yuzhang",
+        "char.wang-yifu",
         "char.wu-yuan",
+        "char.xu-hunran",
+        "char.yang-hua",
         "concept.natal-porcelain",
         "concept.qiyun",
+        "cult.militarians",
         "fac.great-sui-nation",
         "fac.lake-view-academy",
         "fac.mountain-cliff-academy",
@@ -713,6 +774,7 @@
         "char.cui-chan",
         "char.dong-hu",
         "char.gao-xuan",
+        "char.great-li-empress",
         "char.lady-chu",
         "char.li-baozhen",
         "char.li-xisheng",
@@ -724,8 +786,10 @@
         "char.song-changjing",
         "char.song-he",
         "char.song-jixin",
+        "char.wang-yifu",
         "char.wei-bo",
         "char.wu-yuan",
+        "char.xu-hunran",
         "char.yang-hua",
         "char.yin-god",
         "char.yu-lu",
@@ -742,6 +806,7 @@
         "loc.bamboo-scroll-lake",
         "loc.dragon-spring-prefecture",
         "loc.eastern-treasured-vial-continent",
+        "loc.efuguan-pass",
         "loc.fortune-street",
         "loc.great-li-capital",
         "loc.lizhu-grotto-heaven",
@@ -893,6 +958,7 @@
         "fac.great-li-empire",
         "fac.mountain-cliff-academy",
         "fac.yellow-court-nation",
+        "loc.efuguan-pass",
         "media.novel"
       ],
       "card": "wiki/factions/great-sui-nation.md"
@@ -990,6 +1056,7 @@
         "char.liu-xianyang",
         "char.lu-tai",
         "char.shi-rou",
+        "concept.three-mountains-nine-lords",
         "cult.buddhism",
         "cult.confucianism",
         "cult.daoism",
@@ -1223,11 +1290,15 @@
         "char.master-ruan",
         "char.wei-bo",
         "char.wei-xian",
-        "fac.sects-compendium"
+        "fac.sects-compendium",
+        "loc.mountains-near-town"
       ],
       "referenced_by": [
+        "char.aliang",
+        "char.master-ruan",
         "cult.militarians",
-        "cult.sword-cultivator"
+        "cult.sword-cultivator",
+        "fac.wind-snow-temple"
       ],
       "card": "wiki/characters/wei-jin.md"
     },
@@ -1807,9 +1878,12 @@
       "translation_rule": "## Правила перевода\n\n- **Передача:** до Главы 63 — только **городок** (строчными, как нарицательное). После раскрытия — [Грот-небеса Личжу](lizhu-grotto-heaven.md). **Это правило защиты от спойлеров, нарушать нельзя.**\n- **Названия улиц:** [Переулок Глиняных Кувшинов](niping-alley.md) (`泥瓶巷`), [Переулок Оседлавшего Дракона](qilong-alley.md) (`骑龙巷`), [Переулок Абрикосовых Цветов](apricot-blossom-alley.md) (`杏花巷`), [Переулок Персиковых Листьев](peach-leaf-alley.md) (`桃叶巷`), [Проспект Фортуны](fortune-street.md) (`福禄街`). Все — смысловые.\n- **Числа:** «менее семисот родов, около пяти тысяч человек с прислугой» — численность даётся один раз, но её нельзя менять на «несколько тысяч».",
       "links_to": [
         "char.chen-pingan",
+        "char.great-li-empress",
         "char.li-baoping",
         "char.ma-kuxuan",
         "char.master-ruan",
+        "char.old-man-yang",
+        "char.song-jixin",
         "char.wu-yuan",
         "char.zheng-dafeng",
         "concept.imperial-kilns",
@@ -1958,8 +2032,10 @@
       ],
       "translation_rule": "## Правила перевода\n\n- **Передача:** описательно — **горы близ городка**. Конкретные вершины — по отдельности: `棋墩山` **Гора Шашечной Доски**, `云遮山` **Гора Завесы Облаков**, `龙头山` **Гора Драконьей Головы**, `神仙坟` **Могилы Бессмертных**.\n- **Не путать** `云遮山` (Гора Завесы Облаков) с `云霞山` (Гора Облачной Зари) — это **разные** горы, и в романе они обе важны.",
       "links_to": [
+        "char.aliang",
         "char.chen-pingan",
         "char.gu-can",
+        "char.li-baoping",
         "char.liu-xianyang",
         "char.master-ruan",
         "char.ning-yao",
@@ -1979,6 +2055,7 @@
         "char.lady-chu",
         "char.master-ruan",
         "char.wei-bo",
+        "char.wei-jin",
         "char.wu-yuan",
         "char.yang-hua",
         "concept.mountain-seals",
@@ -1987,6 +2064,103 @@
         "loc.small-town"
       ],
       "card": "wiki/locations/mountains-near-town.md"
+    },
+    {
+      "id": "concept.three-mountains-nine-lords",
+      "type": "concept",
+      "zh": "三山九侯先生",
+      "zh_aliases": [
+        "三山九侯"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Sānshān Jiǔhóu Xiānshēng",
+      "palladius": "Саньшань Цзюхоу сяньшэн",
+      "ru": "Господин Трёх гор и Девяти князей",
+      "ru_aliases": [],
+      "first_chapter": 89,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "божества",
+        "талисманы",
+        "древность",
+        "заклинания"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **Передача:** *господин Трёх гор и Девяти князей* — калька, без транскрипции: имя произносится как титул, а не как имя собственное.\n- **В заклинании:** «…по указу господина Трёх гор и Девяти князей!» — формула идёт в конце, как «во имя».\n- **Сноска:** нужна при первом появлении.",
+      "links_to": [
+        "char.great-li-empress",
+        "concept.qiyun",
+        "cult.daoism",
+        "loc.eastern-treasured-vial-continent",
+        "loc.fortune-street"
+      ],
+      "referenced_by": [],
+      "card": "wiki/concepts/three-mountains-nine-lords.md"
+    },
+    {
+      "id": "char.great-li-empress",
+      "type": "character",
+      "zh": "大骊娘娘",
+      "zh_aliases": [
+        "娘娘",
+        "宋睦之母"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Dà Lí Niángniang",
+      "palladius": "Дали Няннян",
+      "ru": "Госпожа Великой Ли",
+      "ru_aliases": [
+        "госпожа",
+        "наложница государя"
+      ],
+      "first_chapter": 89,
+      "gender": "female",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "двор",
+        "интрига",
+        "мать",
+        "натальный-фарфор"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **госпожа Великой Ли**; в прямой речи слуг — *«госпожа»* (`娘娘`), без имени. Имени в романе ей не дают: это подчёркнуто.\n- **Этимология:** `娘娘` — почтительное обращение к жене государя и к божествам; по-русски «государыня» звучало бы слишком официально, потому в проекте — *госпожа*.\n- **Речь:** воркующая, ласковая, полная уменьшительных слов — и в той же фразе ледяная. Она переходит от нежности к угрозе без паузы, и это главное, что нужно сохранять.\n- **Обращения:** к сыну — *«мой Му»* (`我家睦儿`); к слугам — по имени, с ласковой снисходительностью; к [Чэнь Пинъаню](chen-pingan.md) (за глаза) — *«низкое отродье»*, *«нищий грязный мужик»*.",
+      "links_to": [
+        "char.chen-pingan",
+        "char.cui-chan",
+        "char.fu-nanhua",
+        "char.liu-xianyang",
+        "char.qi-jingchun",
+        "char.song-jixin",
+        "char.song-yuzhang",
+        "char.wang-yifu",
+        "char.xu-hunran",
+        "char.yang-hua",
+        "concept.imperial-kilns",
+        "concept.natal-porcelain",
+        "fac.great-li-empire",
+        "faction.imperial-court",
+        "loc.niping-alley"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.song-jixin",
+        "char.song-yuzhang",
+        "char.wang-yifu",
+        "char.xu-hunran",
+        "char.yang-hua",
+        "concept.imperial-kilns",
+        "concept.three-mountains-nine-lords",
+        "loc.small-town"
+      ],
+      "card": "wiki/characters/great-li-empress.md"
     },
     {
       "id": "char.gu-shi",
@@ -2325,6 +2499,7 @@
         "char.zhang-shanfeng",
         "char.zhao-luan",
         "concept.cloud-root-stone",
+        "concept.three-mountains-nine-lords",
         "cult.buddhism",
         "cult.confucianism",
         "cult.hundred-schools",
@@ -2742,6 +2917,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.lin-shouyi",
         "char.shi-chunjia",
         "loc.apricot-blossom-alley"
       ],
@@ -2791,6 +2967,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.chen-pingan",
         "idiom.one-sword-credo"
       ],
       "card": "wiki/characters/sword-spirit.md"
@@ -3006,6 +3183,7 @@
         "char.old-man-yang",
         "char.qi-jingchun",
         "char.ruan-xiu",
+        "char.wei-jin",
         "char.wu-yuan",
         "cult.militarians",
         "cult.sword-cultivator",
@@ -3020,6 +3198,7 @@
       "referenced_by": [
         "art.chen-pingans-swords",
         "art.heavenly-truths-swords",
+        "char.aliang",
         "char.chen-pingan",
         "char.chen-pingan.cultivation",
         "char.chen-pingan.items",
@@ -3038,8 +3217,10 @@
         "concept.imperial-kilns",
         "cult.militarians",
         "fac.dragon-spring-sword-sect",
+        "fac.great-li-empire",
         "fac.sects-compendium",
         "fac.wind-snow-temple",
+        "loc.efuguan-pass",
         "loc.lizhu-grotto-heaven",
         "loc.luopo-mountain",
         "loc.mountains-near-town",
@@ -3048,6 +3229,41 @@
         "loc.small-town"
       ],
       "card": "wiki/characters/master-ruan.md"
+    },
+    {
+      "id": "loc.efuguan-pass",
+      "type": "location",
+      "zh": "野夫关",
+      "zh_aliases": [],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Yěfū Guān",
+      "palladius": "Ефу гуань",
+      "ru": "Застава Ефу",
+      "ru_aliases": [],
+      "first_chapter": 88,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "граница",
+        "школа-военных",
+        "крепость"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **Принцип:** гибридный — транскрипция названия + родовое слово «застава».\n- **Буквальное значение:** `野夫` — «муж из глуши», «деревенщина»; `关` — заставa, горный проход с крепостью.\n- **Предлоги в русском:** *до заставы Ефу*, *у заставы Ефу*, *за заставой*.\n- **Сноска:** нужна при первом появлении — в главе 88 её вводят как «твердыню Школы Военных на великолиской границе».",
+      "links_to": [
+        "char.chen-pingan",
+        "char.master-ruan",
+        "cult.militarians",
+        "fac.great-li-empire",
+        "fac.great-sui-nation",
+        "fac.mountain-cliff-academy"
+      ],
+      "referenced_by": [],
+      "card": "wiki/locations/efuguan-pass.md"
     },
     {
       "id": "art.jade-hairpin-and-seals",
@@ -3297,11 +3513,14 @@
       "referenced_by": [
         "char.cao-xi",
         "char.dong-hu",
+        "char.great-li-empress",
         "char.li-baozhen",
         "char.ruan-xiu",
         "char.song-changjing",
         "char.song-he",
         "char.song-yuzhang",
+        "char.wang-yifu",
+        "char.xu-hunran",
         "char.yao-zhen",
         "concept.imperial-kilns",
         "fac.clans-compendium",
@@ -3471,6 +3690,7 @@
       "links_to": [
         "char.chen-gong",
         "char.chen-pingan",
+        "char.great-li-empress",
         "char.liu-xianyang",
         "char.master-ruan",
         "char.old-man-yao",
@@ -3488,6 +3708,7 @@
         "char.chen-gong",
         "char.chen-mu",
         "char.chen-pingan",
+        "char.great-li-empress",
         "char.liu-xianyang",
         "char.old-man-yao",
         "char.song-yuzhang",
@@ -3821,6 +4042,8 @@
         "char.ma-zhan",
         "char.qi-jingchun",
         "char.shi-chunjia",
+        "char.zhu-he",
+        "char.zhu-lu",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
         "loc.apricot-blossom-alley",
@@ -3841,6 +4064,7 @@
         "char.qi-jingchun",
         "char.ruan-xiu",
         "char.shi-chunjia",
+        "char.zhu-he",
         "char.zhu-lu",
         "concept.ancestral-shade-leaves",
         "concept.natal-porcelain",
@@ -3850,6 +4074,7 @@
         "fac.mountain-cliff-academy",
         "loc.eastern-treasured-vial-continent",
         "loc.fortune-street",
+        "loc.mountains-near-town",
         "loc.small-town"
       ],
       "card": "wiki/characters/li-baoping.md"
@@ -4004,6 +4229,7 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Ли Хуай** — имя *Хуай* не склоняется (*с Ли Хуай, к Ли Хуай*).\n- **Речь:** дерзкая, быстрая, полная подначек; он вечно спорит и всегда находит, что ответить.\n- **Обращения:** к [Чэнь Пинъаню](chen-pingan.md) — *«дядюшка Чэнь»*; к сестре — по имени.",
       "links_to": [
+        "char.aliang",
         "char.chen-pingan",
         "char.li-baoping",
         "char.li-er",
@@ -4016,6 +4242,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.aliang",
         "char.chen-pingan",
         "char.chen-pingan.history",
         "char.dong-shuijing",
@@ -4180,6 +4407,7 @@
       "links_to": [
         "char.chen-pingan",
         "char.cui-minghuang",
+        "char.dong-shuijing",
         "char.li-baoping",
         "char.li-huai",
         "char.ma-zhan",
@@ -4200,6 +4428,7 @@
         "char.ma-zhan",
         "char.qi-jingchun",
         "char.shi-chunjia",
+        "char.zhu-lu",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy"
       ],
@@ -4627,6 +4856,7 @@
         "char.chen-pingan",
         "char.chen-pingan.history",
         "char.chen-pingan.relationships",
+        "char.great-li-empress",
         "char.jiang-she",
         "char.liu-baqiao",
         "char.master-ruan",
@@ -4956,6 +5186,7 @@
         "char.li-baoping",
         "char.li-huai",
         "char.lin-shouyi",
+        "char.qi-jingchun",
         "char.shi-chunjia",
         "char.sword-spirit",
         "concept.ancestral-shade-leaves",
@@ -5281,6 +5512,7 @@
         "char.sui-youbian",
         "char.sword-spirit",
         "char.xie-gou",
+        "char.xu-hunran",
         "char.zuo-you",
         "cult.qi-refinement",
         "cult.realms-overview",
@@ -5493,6 +5725,7 @@
         "char.chen-pingan.cultivation",
         "char.chen-pingan.history",
         "char.fu-nanhua",
+        "char.great-li-empress",
         "char.gu-shi",
         "char.ma-lanhua",
         "char.old-man-yang",
@@ -6155,11 +6388,15 @@
         "char.chen-gong",
         "char.chen-pingan",
         "char.chen-pingan.history",
+        "char.great-li-empress",
         "char.gu-can",
         "char.gu-shi",
         "char.shi-chunjia",
         "char.song-changjing",
         "char.song-jixin",
+        "char.wang-yifu",
+        "char.xu-hunran",
+        "char.yang-hua",
         "char.zhigui",
         "concept.qiyun",
         "idiom.jingzhe-dragon-raises-head",
@@ -6647,6 +6884,7 @@
       "referenced_by": [
         "char.liu-xianyang",
         "char.song-changjing",
+        "concept.three-mountains-nine-lords",
         "fac.clans-compendium",
         "loc.lizhu-grotto-heaven",
         "loc.peach-leaf-alley",
@@ -6712,6 +6950,7 @@
         "char.huan-yun",
         "char.lin-shouyi",
         "char.liu-zhimao",
+        "char.wang-yifu",
         "concept.currency",
         "concept.mountain-seals",
         "cult.martial-arts",
@@ -8022,6 +8261,7 @@
         "char.ma-lanhua",
         "char.master-ruan",
         "char.ning-yao",
+        "char.qi-jingchun",
         "char.river-hag",
         "char.song-changjing",
         "char.wu-yuan",
@@ -8031,7 +8271,8 @@
         "loc.lizhu-grotto-heaven",
         "loc.luopo-mountain",
         "loc.mountains-near-town",
-        "loc.piyun-mountain"
+        "loc.piyun-mountain",
+        "loc.small-town"
       ],
       "card": "wiki/characters/old-man-yang.md"
     },
@@ -8397,6 +8638,7 @@
         "concept.entry-thresholds",
         "concept.mountain-seals",
         "concept.natal-porcelain",
+        "concept.three-mountains-nine-lords",
         "cult.qi-refinement",
         "cult.realms-overview",
         "cult.three-teachings",
@@ -8566,10 +8808,12 @@
       "links_to": [
         "char.chen-dui",
         "char.chen-pingan",
+        "char.great-li-empress",
         "char.liu-xianyang",
         "char.ma-kuxuan",
         "char.song-changjing",
         "char.song-he",
+        "char.song-yuzhang",
         "char.tao-zi",
         "char.zhigui",
         "fac.great-li-empire",
@@ -8584,9 +8828,11 @@
         "char.chen-pingan",
         "char.chen-pingan.history",
         "char.gao-xuan",
+        "char.great-li-empress",
         "char.ning-yao",
         "char.qi-jingchun",
         "char.song-changjing",
+        "char.song-yuzhang",
         "char.tao-zi",
         "char.zhao-yao",
         "char.zhigui",
@@ -8598,6 +8844,7 @@
         "loc.fortune-street",
         "loc.lizhu-grotto-heaven",
         "loc.niping-alley",
+        "loc.small-town",
         "loc.twelve-legged-archway"
       ],
       "card": "wiki/characters/song-jixin.md"
@@ -8660,6 +8907,8 @@
         "char.qi-jingchun",
         "char.song-he",
         "char.song-jixin",
+        "char.wang-yifu",
+        "char.xu-hunran",
         "char.xu-yuanxia",
         "char.yao-zhen",
         "char.zheng-dafeng",
@@ -8705,7 +8954,10 @@
       "links_to": [
         "char.chen-pingan",
         "char.dong-hu",
+        "char.great-li-empress",
         "char.qi-jingchun",
+        "char.song-jixin",
+        "char.wang-yifu",
         "char.wu-yuan",
         "concept.imperial-kilns",
         "faction.imperial-court",
@@ -8713,6 +8965,9 @@
       ],
       "referenced_by": [
         "char.dong-hu",
+        "char.great-li-empress",
+        "char.song-jixin",
+        "char.wang-yifu",
         "concept.imperial-kilns",
         "fac.great-li-empire"
       ],
@@ -8795,6 +9050,52 @@
         "loc.old-dragon-city"
       ],
       "card": "wiki/characters/sun-jiashu.md"
+    },
+    {
+      "id": "char.xu-hunran",
+      "type": "character",
+      "zh": "徐浑然",
+      "zh_aliases": [
+        "大骊第一剑师"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Xu Hunran",
+      "palladius": "Сюй Хуньжань",
+      "ru": "Сюй Хуньжань",
+      "ru_aliases": [
+        "первый мечевой наставник державы"
+      ],
+      "first_chapter": 89,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "меч",
+        "наставник",
+        "придворный",
+        "ученик"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Сюй Хуньжань** — имя склоняется (*Сюй Хуньжаня, Сюй Хуньжаню*).\n- **Титул:** `第一剑师` — *первый мечевой наставник державы*; слово «наставник» здесь весит столько же, сколько «великий муж» после фамилии в Сотне школ.\n- **Речь:** стариковская, ворчливая, с оговорками; он единственный, кто при госпоже позволяет себе «госпоже лучше быть осторожнее».\n- **Обращения:** к [госпоже Великой Ли](great-li-empress.md) — на «вы», с почтением и мягким укором; о [Ван Ифу](wang-yifu.md) — с презрением.",
+      "links_to": [
+        "char.great-li-empress",
+        "char.song-changjing",
+        "char.wang-yifu",
+        "char.yang-hua",
+        "cult.sword-cultivator",
+        "fac.great-li-empire",
+        "faction.imperial-court",
+        "loc.niping-alley"
+      ],
+      "referenced_by": [
+        "char.great-li-empress",
+        "char.wang-yifu",
+        "fac.great-li-empire"
+      ],
+      "card": "wiki/characters/xu-hunran.md"
     },
     {
       "id": "char.xu-yuanxia",
@@ -9303,6 +9604,7 @@
         "art.shanxiao-pot",
         "char.cai-jinjian",
         "char.chen-pingan",
+        "char.great-li-empress",
         "char.old-man-yang",
         "char.sun-jiashu",
         "char.zheng-dafeng",
@@ -9442,6 +9744,7 @@
       "translation_rule": "## Правила перевода\n\n- **Храм Ветра и Снега**; `庙` здесь входит в собственное имя организации. Не переводить как обычный храм, в котором только служат божеству.",
       "links_to": [
         "char.master-ruan",
+        "char.wei-jin",
         "cult.qi-refinement",
         "fac.dragon-spring-sword-sect",
         "fac.sects-compendium"
@@ -10201,9 +10504,11 @@
         "char.li-huai",
         "char.lin-shouyi",
         "char.liu-zhimao",
+        "char.ma-zhan",
         "char.mao-xiaodong",
         "char.master-ruan",
         "char.mountain-moving-ape",
+        "char.old-man-yang",
         "char.scholarly-sage",
         "char.song-changjing",
         "char.song-jixin",
@@ -10229,6 +10534,7 @@
         "char.cui-chan",
         "char.cui-minghuang",
         "char.fu-nanhua",
+        "char.great-li-empress",
         "char.he-xiaoliang",
         "char.li-baoping",
         "char.li-huai",
@@ -10465,6 +10771,7 @@
         "char.cui-cheng",
         "char.cui-dongshan",
         "char.cui-minghuang",
+        "char.great-li-empress",
         "char.lady-chu",
         "char.liu-laocheng",
         "char.master-ruan",
@@ -10907,11 +11214,13 @@
         "char.chen-pingan",
         "char.li-baoping",
         "char.li-huai",
+        "char.lin-shouyi",
         "char.zhu-he",
         "loc.small-town"
       ],
       "referenced_by": [
         "art.jade-hairpin-and-seals",
+        "char.li-baoping",
         "char.zhu-he"
       ],
       "card": "wiki/characters/zhu-lu.md"
@@ -11003,7 +11312,9 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Чжу Хэ** — имя склоняется (*Чжу Хэ, Чжу Хэ*; в проекте **не склоняется**).",
       "links_to": [
+        "char.aliang",
         "char.chen-pingan",
+        "char.li-baoping",
         "char.li-huai",
         "char.li-xisheng",
         "char.zhu-lu",
@@ -11011,6 +11322,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.li-baoping",
         "char.zhu-lu"
       ],
       "card": "wiki/characters/zhu-he.md"
@@ -11242,6 +11554,7 @@
         "char.pei-qian",
         "char.song-changjing",
         "char.song-yushao",
+        "char.wang-yifu",
         "char.xu-yuanxia",
         "char.ye-yunyun",
         "char.yu-juanfu",
@@ -11496,6 +11809,7 @@
         "char.cui-cheng",
         "char.cui-dongshan",
         "char.fu-nanhua",
+        "char.great-li-empress",
         "char.gu-can",
         "char.he-xiaoliang",
         "char.li-baoping",
@@ -11516,6 +11830,7 @@
         "char.shi-chunjia",
         "char.song-changjing",
         "char.song-jixin",
+        "char.sword-spirit",
         "char.wei-bo",
         "char.wu-yuan",
         "char.zheng-dafeng",
@@ -11579,6 +11894,7 @@
         "char.fan-junmao",
         "char.fu-nanhua",
         "char.gao-xuan",
+        "char.great-li-empress",
         "char.gu-can",
         "char.gu-shi",
         "char.guo-zhujiu",
@@ -11665,6 +11981,7 @@
         "cult.sword-cultivator",
         "fac.azure-phoenix-nation",
         "fac.chen-clan",
+        "fac.great-li-empire",
         "fac.great-sui-nation",
         "fac.green-duckweed-sword-sect",
         "fac.mountain-cliff-academy",
@@ -11680,6 +11997,7 @@
         "loc.bamboo-scroll-lake",
         "loc.daoxuan-mountain",
         "loc.eastern-treasured-vial-continent",
+        "loc.efuguan-pass",
         "loc.lizhu-grotto-heaven",
         "loc.luopo-mountain",
         "loc.mountains-near-town",
@@ -12405,6 +12723,8 @@
         "cult.martial-arts",
         "cult.realms-overview",
         "cult.three-teachings",
+        "fac.great-li-empire",
+        "loc.efuguan-pass",
         "loc.golden-armor-continent"
       ],
       "card": "wiki/cultivation/militarians.md"
@@ -12738,15 +13058,21 @@
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Ян Хуа** — в проекте **не склоняется** (*у Ян Хуа, к Ян Хуа*); допустимы титулования *«богиня Ян Хуа»*, *«госпожа Ян Хуа»*.\n- **Речь:** надменная, ледяная, торжественная; она почти никогда не показывается людям и говорит с ними как с червями.",
       "links_to": [
         "char.chen-pingan",
+        "char.great-li-empress",
         "char.ma-lanhua",
         "char.wei-bo",
         "concept.qiyun",
         "fac.great-li-empire",
-        "loc.mountains-near-town"
+        "loc.mountains-near-town",
+        "loc.niping-alley"
       ],
       "referenced_by": [
+        "char.great-li-empress",
+        "char.wang-yifu",
         "char.wei-bo",
-        "concept.qiyun"
+        "char.xu-hunran",
+        "concept.qiyun",
+        "fac.great-li-empire"
       ],
       "card": "wiki/characters/yang-hua.md"
     },

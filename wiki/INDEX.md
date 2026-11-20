@@ -5,9 +5,9 @@
 > Файл генерируется автоматически командой `python3 scripts/wiki_tool.py index`.
 > Не редактируйте его вручную: после правки карточек просто перегенерируйте указатель.
 
-**Всего статей: 273.**
+**Всего статей: 278.**
 
-## Персонажи (146)
+## Персонажи (149)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -16,12 +16,14 @@
 | [Бай Цзэ](characters/bai-ze.md) | `白泽 / 白老爷` | 175 |
 | [Бай Шоу](characters/bai-shou.md) | `白首 / 小剑仙` | 539 |
 | [Бай Юань](characters/mountain-moving-ape.md) | `搬山猿 / 老畜生` | 43 |
+| [Ван Ифу](characters/wang-yifu.md) | `王毅甫 / 卢氏王朝头号猛将 / 上柱国` | 89 |
 | [Высший Святой — Первый Учитель](characters/zhisheng-xianshi.md) | `至圣先师` | 11 |
 | [Вэй Бо](characters/wei-bo.md) | `魏檗 / 魏山神 / 老魏` | 102 |
 | [Вэй Сянь](characters/wei-xian.md) | `魏羡 / 南苑国开国皇帝` | 315 |
 | [Вэй Цзинь](characters/wei-jin.md) | `魏晋 / 剑仙魏晋` | 88 |
 | [Гао Сюань](characters/gao-xuan.md) | `高煊 / 高公子` | 159 |
 | [Го Чжуцзю](characters/guo-zhujiu.md) | `郭竹酒 / 竹酒` | 584 |
+| [Госпожа Великой Ли](characters/great-li-empress.md) | `大骊娘娘 / 娘娘 / 宋睦之母` | 89 |
 | [Госпожа Гу](characters/gu-shi.md) | `顾氏 / 顾璨的母亲 / 顾璨他娘` | 17 |
 | [Госпожа Сюй](characters/madam-xu.md) | `许夫人 / 清风城算计夫人` | 44 |
 | [Госпожа Чу](characters/lady-chu.md) | `楚夫人 / 嫁衣女鬼` | 124 |
@@ -90,6 +92,7 @@
 | [Сун Юйчжан](characters/song-yuzhang.md) | `宋煜章 / 督造官宋大人` | 83 |
 | [Сун Юйшао](characters/song-yushao.md) | `宋雨烧` | 237 |
 | [Сунь Цзяшу](characters/sun-jiashu.md) | `孙嘉树 / 孙公子` | 251 |
+| [Сюй Хуньжань](characters/xu-hunran.md) | `徐浑然 / 大骊第一剑师` | 89 |
 | [Сюй Юанься](characters/xu-yuanxia.md) | `徐远霞 / 徐大侠` | 216 |
 | [Тао Цзы](characters/tao-zi.md) | `陶紫 / 紫衣` | 48 |
 | [У Шуанцзян](characters/wu-shuangjiang.md) | `吴霜降` | 682 |
@@ -213,7 +216,7 @@
 | [Школа Озёрных Гор](factions/lake-mountain-school.md) | `湖山派` | 308 |
 | [Школа Хуанлян](factions/yellow-millet-school.md) | `黄粱派` | 926 |
 
-## Миры, континенты и локации (50)
+## Миры, континенты и локации (51)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -236,6 +239,7 @@
 | [Грот-небеса Личжу](locations/lizhu-grotto-heaven.md) | `骊珠洞天` | 1 |
 | [Десять больших грот-небес](locations/ten-great-grotto-heavens.md) | `十大洞天 / 大洞天` | 70 |
 | [Долина Призрачных Тварей](locations/ghost-devils-valley.md) | `鬼蜮谷` | 488 |
+| [Застава Ефу](locations/efuguan-pass.md) | `野夫关` | 88 |
 | [Лазурная Поднебесная](locations/heavenly-world.md) | `青冥天下 / 青冥` | 108 |
 | [Лисье Местечко](locations/fox-town.md) | `狐儿镇` | 333 |
 | [Лотосовая Поднебесная](locations/lotus-world.md) | `莲花天下` | 430 |
@@ -268,10 +272,11 @@
 | [Фуяо](locations/fuyao-continent.md) | `扶摇洲` | 259 |
 | [Южный Посо](locations/southern-posha-continent.md) | `南婆娑洲` | 184 |
 
-## Концепты и устройство мира (12)
+## Концепты и устройство мира (13)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
+| [Господин Трёх гор и Девяти князей](concepts/three-mountains-nine-lords.md) | `三山九侯先生 / 三山九侯` | 89 |
 | [Денежная система и монеты бессмертных](concepts/currency.md) | `神仙钱 / 谷雨钱 / 小暑钱 / 雪花钱` | 12 |
 | [Земля конца Дхармы](concepts/dharma-ending-land.md) | `末法之地 / 末法` | 17 |
 | [Казённые гончарные печи](concepts/imperial-kilns.md) | `官窑 / 奉诏监烧献陵祭器 / 督造大人 / 监造大人` | 1 |

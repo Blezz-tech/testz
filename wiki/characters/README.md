@@ -1,6 +1,6 @@
 # Персонажи (`wiki/characters/`)
 
-Здесь живут все люди, духи, божества и демоны романа — **141 карточка**, включая 9 подстраниц главных героев.
+Здесь живут все люди, духи, божества и демоны романа — **144 карточки**, включая 9 подстраниц главных героев.
 
 [← Портал Вики](../README.md) · [Полный указатель](../INDEX.md)
 
@@ -68,6 +68,6 @@
 
 ## Держава и двор
 
-[Сун Чанцзин](song-changjing.md) · [Сун Хэ](song-he.md) · [Цао Си](cao-xi.md) · [Гао Сюань](gao-xuan.md) · [Яо Чжэнь](yao-zhen.md) · [Сюй Юанься](xu-yuanxia.md) · [Тао Цзы](tao-zi.md) · [Дун Ху](dong-hu.md) · [Сун Юйчжан](song-yuzhang.md) · [Бай Юань](mountain-moving-ape.md) · [Вэй Цзинь](wei-jin.md) · [Ци Цзинлун](qi-jinglong.md) · [Вэй Сянь](wei-xian.md) · [Се Линъюэ](xie-lingyue.md) · [Юй Лу](yu-lu.md) · [Лу Тай](lu-tai.md) · [Чэнь Сунфэн](chen-songfeng.md)
+[Сун Чанцзин](song-changjing.md) · [Сун Хэ](song-he.md) · [Цао Си](cao-xi.md) · [Гао Сюань](gao-xuan.md) · [Яо Чжэнь](yao-zhen.md) · [Сюй Юанься](xu-yuanxia.md) · [Тао Цзы](tao-zi.md) · [Дун Ху](dong-hu.md) · [Сун Юйчжан](song-yuzhang.md) · [Бай Юань](mountain-moving-ape.md) · [Вэй Цзинь](wei-jin.md) · [Ци Цзинлун](qi-jinglong.md) · [Вэй Сянь](wei-xian.md) · [Се Линъюэ](xie-lingyue.md) · [Юй Лу](yu-lu.md) · [Лу Тай](lu-tai.md) · [Чэнь Сунфэн](chen-songfeng.md) · [Госпожа Великой Ли](great-li-empress.md) · [Ван Ифу](wang-yifu.md) · [Сюй Хуньжань](xu-hunran.md)
 
 > **Проверить полноту всегда можно командой:** `python3 scripts/wiki_tool.py index` — указатель генерируется из карточек, а не пишется руками.
