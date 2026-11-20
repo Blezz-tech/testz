@@ -3126,6 +3126,7 @@
       "path": "wiki/characters/liu-xianyang.md",
       "links_to": [
         "char.chen-pingan",
+        "char.master-ruan",
         "char.mountain-moving-ape",
         "char.old-man-yao",
         "char.song-changjing",
@@ -3148,6 +3149,7 @@
         "char.mountain-moving-ape",
         "char.old-man-yao",
         "char.song-changjing",
+        "char.song-jixin",
         "char.tao-zi",
         "char.wei-jin",
         "char.zhigui",
@@ -3654,6 +3656,7 @@
         "char.chen-pingan",
         "char.chen-pingan.cultivation",
         "char.chen-pingan.items",
+        "char.liu-xianyang",
         "char.ning-yao",
         "char.ning-yao.cultivation",
         "char.qi-jingchun",
@@ -4741,6 +4744,7 @@
       "path": "wiki/characters/song-jixin.md",
       "links_to": [
         "char.chen-pingan",
+        "char.liu-xianyang",
         "char.song-changjing",
         "char.song-he",
         "char.zhigui",
