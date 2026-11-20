@@ -1,14 +1,14 @@
 {
   "schema_version": "2.0",
-  "total_entities": 282,
+  "total_entities": 288,
   "counts_by_type": {
-    "artifact": 9,
-    "character": 150,
-    "concept": 14,
+    "artifact": 10,
+    "character": 152,
+    "concept": 16,
     "cultivation": 11,
     "faction": 36,
     "idiom": 9,
-    "location": 51,
+    "location": 52,
     "media": 2
   },
   "entities": {
@@ -373,6 +373,48 @@
         "char.gu-can"
       ]
     },
+    "art.zhen-yao-bell": {
+      "id": "art.zhen-yao-bell",
+      "type": "artifact",
+      "zh": "震妖铃",
+      "zh_aliases": [
+        "铜铃",
+        "红色铃铛",
+        "篆文铜铃"
+      ],
+      "pinyin": "Zhenyao ling",
+      "palladius": "Чжэньяо лин",
+      "ru": "Колокольчик, что отпугивает нечисть",
+      "ru_aliases": [
+        "колокольчик",
+        "медный колокольчик",
+        "колокольчик против нечисти"
+      ],
+      "first_chapter": 93,
+      "gender": null,
+      "subtype": "protective",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "артефакт",
+        "оберег",
+        "нечисть",
+        "род-ли",
+        "чжу-хэ"
+      ],
+      "path": "wiki/artifacts/zhen-yao-bell.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.zhu-he",
+        "fac.clans-compendium",
+        "loc.mountains-near-town"
+      ],
+      "referenced_by": [
+        "char.chen-pingan"
+      ]
+    },
     "char.aliang": {
       "id": "char.aliang",
       "type": "character",
@@ -405,13 +447,16 @@
         "art.sword-nurturing-gourd",
         "char.chen-pingan",
         "char.chen-qingdu",
+        "char.chessboard-earth-god",
         "char.cui-chan",
         "char.li-baoping",
         "char.li-huai",
+        "char.lin-shouyi",
         "char.master-ruan",
         "char.ning-yao",
         "char.scholarly-sage",
         "char.wei-jin",
+        "char.zhu-he",
         "char.zuo-you",
         "cult.sword-cultivator",
         "fac.great-li-empire",
@@ -430,18 +475,23 @@
         "char.chen-qingdu",
         "char.chen-qingliu",
         "char.chen-sanqiu",
+        "char.chessboard-earth-god",
         "char.dong-huafu",
         "char.li-baoping",
+        "char.li-er",
         "char.li-huai",
         "char.lin-shouyi",
         "char.ning-yao",
         "char.ning-yao.history",
         "char.ning-yao.relationships",
         "char.pang-yuanji",
+        "char.river-hag",
         "char.scholarly-sage",
         "char.wei-bo",
         "char.zhu-he",
         "char.zhu-lu",
+        "concept.mountain-and-river-gods",
+        "concept.mountain-opening-talismans",
         "cult.realms-overview",
         "cult.sword-cultivator",
         "fac.great-sui-nation",
@@ -563,6 +613,49 @@
         "char.xie-gou",
         "loc.moon-supporting-mountain"
       ]
+    },
+    "char.black-snake-and-white-python": {
+      "id": "char.black-snake-and-white-python",
+      "type": "character",
+      "zh": "黑蛇白蟒",
+      "zh_aliases": [
+        "墨蛟",
+        "白蟒",
+        "孽畜"
+      ],
+      "pinyin": "Heishe Baimang",
+      "palladius": "Хэйшэ байман",
+      "ru": "Чёрная змея и белая питонша",
+      "ru_aliases": [
+        "чёрная змея",
+        "белая питонша",
+        "две твари"
+      ],
+      "first_chapter": 98,
+      "gender": "other",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "нечисть",
+        "шашечная-доска",
+        "цзяо",
+        "дракон",
+        "пожирание"
+      ],
+      "path": "wiki/characters/black-snake-and-white-python.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.chessboard-earth-god",
+        "char.zhu-he",
+        "char.zhu-lu",
+        "concept.cloud-root-stone",
+        "concept.mountain-and-river-gods",
+        "loc.mountains-near-town"
+      ],
+      "referenced_by": []
     },
     "char.cai-jinjian": {
       "id": "char.cai-jinjian",
@@ -1069,6 +1162,7 @@
         "art.chuyi-and-shiwu",
         "art.jade-hairpin-and-seals",
         "art.sword-nurturing-gourd",
+        "art.zhen-yao-bell",
         "char.aliang",
         "char.cai-jinjian",
         "char.chen-dui",
@@ -1110,6 +1204,8 @@
         "char.zheng-dafeng",
         "char.zhigui",
         "char.zhou-mili",
+        "char.zhu-he",
+        "char.zhu-lu",
         "concept.ancestral-shade-leaves",
         "concept.imperial-kilns",
         "concept.mountain-seals",
@@ -1140,9 +1236,11 @@
         "art.heavenly-truths-swords",
         "art.jade-hairpin-and-seals",
         "art.sword-nurturing-gourd",
+        "art.zhen-yao-bell",
         "char.aliang",
         "char.bai-lianshuang",
         "char.bai-shou",
+        "char.black-snake-and-white-python",
         "char.cai-jinjian",
         "char.cao-ci",
         "char.cao-qinglang",
@@ -1677,6 +1775,54 @@
         "char.cui-minghuang",
         "char.liu-baqiao",
         "char.ruan-xiu"
+      ]
+    },
+    "char.chessboard-earth-god": {
+      "id": "char.chessboard-earth-god",
+      "type": "character",
+      "zh": "棋墩山土地",
+      "zh_aliases": [
+        "白衣老翁",
+        "土地老翁",
+        "绿杖男子"
+      ],
+      "pinyin": "Qidunshan Tudi",
+      "palladius": "Цидуньшань туди",
+      "ru": "Дух земли Горы Шашечной Доски",
+      "ru_aliases": [
+        "старик-дух земли",
+        "белый старик",
+        "муж с зелёным посохом"
+      ],
+      "first_chapter": 98,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "дух-земли",
+        "горный-бог",
+        "великая-ли",
+        "предатель",
+        "шашечная-доска"
+      ],
+      "path": "wiki/characters/chessboard-earth-god.md",
+      "links_to": [
+        "char.aliang",
+        "char.zhu-he",
+        "char.zhu-lu",
+        "concept.mountain-and-river-gods",
+        "concept.mountain-opening-talismans",
+        "loc.mountains-near-town"
+      ],
+      "referenced_by": [
+        "char.aliang",
+        "char.black-snake-and-white-python",
+        "concept.mountain-and-river-gods",
+        "concept.mountain-opening-talismans",
+        "loc.mountains-near-town"
       ]
     },
     "char.cui-chan": {
@@ -2649,6 +2795,7 @@
         "char.chen-pingan",
         "char.lu-chen",
         "char.qi-jingchun",
+        "char.wei-jin",
         "cult.daoism",
         "fac.sects-compendium",
         "loc.eastern-treasured-vial-continent"
@@ -2656,6 +2803,7 @@
       "referenced_by": [
         "char.chen-pingan",
         "char.lu-chen",
+        "char.wei-jin",
         "char.yu-xuan",
         "cult.daoism",
         "fac.divine-edict-sect",
@@ -2950,9 +3098,11 @@
       ],
       "path": "wiki/characters/li-er.md",
       "links_to": [
+        "char.aliang",
         "char.chen-pingan",
         "char.li-huai",
         "char.li-liu",
+        "char.lin-shouyi",
         "char.old-man-yang",
         "char.song-changjing",
         "char.zheng-dafeng",
@@ -3010,6 +3160,7 @@
         "char.ma-zhan",
         "char.qi-jingchun",
         "char.shi-chunjia",
+        "char.zhu-lu",
         "fac.mountain-cliff-academy",
         "loc.small-town"
       ],
@@ -3244,12 +3395,14 @@
         "loc.apricot-blossom-alley"
       ],
       "referenced_by": [
+        "char.aliang",
         "char.cao-gengxin",
         "char.chen-pingan",
         "char.chen-pingan.history",
         "char.cui-minghuang",
         "char.dong-shuijing",
         "char.li-baoping",
+        "char.li-er",
         "char.li-huai",
         "char.ma-zhan",
         "char.qi-jingchun",
@@ -3996,6 +4149,7 @@
         "fac.great-li-empire",
         "fac.sects-compendium",
         "loc.lizhu-grotto-heaven",
+        "loc.longji-mountain",
         "loc.mountains-near-town",
         "loc.piyun-mountain",
         "loc.qilong-alley",
@@ -4018,11 +4172,13 @@
         "char.ning-yao.cultivation",
         "char.old-man-yang",
         "char.qi-jingchun",
+        "char.river-hag",
         "char.ruan-xiu",
         "char.wei-jin",
         "char.wu-yuan",
         "concept.currency",
         "concept.imperial-kilns",
+        "concept.mountain-and-river-gods",
         "cult.militarians",
         "fac.dragon-spring-sword-sect",
         "fac.great-li-empire",
@@ -4031,6 +4187,7 @@
         "fac.wind-snow-temple",
         "loc.efuguan-pass",
         "loc.lizhu-grotto-heaven",
+        "loc.longji-mountain",
         "loc.luopo-mountain",
         "loc.mountains-near-town",
         "loc.piyun-mountain",
@@ -4898,14 +5055,19 @@
       ],
       "path": "wiki/characters/river-hag.md",
       "links_to": [
+        "char.aliang",
         "char.chen-pingan",
+        "char.master-ruan",
         "char.old-man-yang",
         "char.ruan-xiu",
         "loc.apricot-blossom-alley",
         "loc.lizhu-grotto-heaven",
         "loc.small-town"
       ],
-      "referenced_by": []
+      "referenced_by": [
+        "concept.mountain-and-river-gods",
+        "loc.mountains-near-town"
+      ]
     },
     "char.ruan-xiu": {
       "id": "char.ruan-xiu",
@@ -4960,8 +5122,10 @@
         "char.ning-yao",
         "char.river-hag",
         "char.wu-yuan",
+        "concept.mountain-and-river-gods",
         "fac.dragon-spring-sword-sect",
         "fac.mount-yaoling",
+        "fac.wind-snow-temple",
         "loc.luopo-mountain",
         "loc.mountains-near-town",
         "loc.qilong-alley",
@@ -5739,6 +5903,7 @@
       "path": "wiki/characters/wei-jin.md",
       "links_to": [
         "char.chen-pingan",
+        "char.he-xiaoliang",
         "char.liu-xianyang",
         "char.master-ruan",
         "char.wei-bo",
@@ -5749,10 +5914,12 @@
       "referenced_by": [
         "art.sword-nurturing-gourd",
         "char.aliang",
+        "char.he-xiaoliang",
         "char.master-ruan",
         "cult.militarians",
         "cult.sword-cultivator",
-        "fac.wind-snow-temple"
+        "fac.wind-snow-temple",
+        "loc.longji-mountain"
       ]
     },
     "char.wei-xian": {
@@ -7020,14 +7187,21 @@
         "char.li-xisheng",
         "char.zhu-lu",
         "concept.house-born-servants",
+        "concept.mountain-opening-talismans",
         "fac.great-li-empire",
         "loc.mountains-near-town",
         "loc.small-town"
       ],
       "referenced_by": [
+        "art.zhen-yao-bell",
+        "char.aliang",
+        "char.black-snake-and-white-python",
+        "char.chen-pingan",
+        "char.chessboard-earth-god",
         "char.li-baoping",
         "char.zhu-lu",
-        "concept.house-born-servants"
+        "concept.house-born-servants",
+        "concept.mountain-opening-talismans"
       ]
     },
     "char.zhu-lian": {
@@ -7124,9 +7298,14 @@
       ],
       "referenced_by": [
         "art.jade-hairpin-and-seals",
+        "char.black-snake-and-white-python",
+        "char.chen-pingan",
+        "char.chessboard-earth-god",
         "char.li-baoping",
+        "char.li-huai",
         "char.zhu-he",
-        "concept.house-born-servants"
+        "concept.house-born-servants",
+        "concept.mountain-opening-talismans"
       ]
     },
     "char.zuo-you": {
@@ -7302,8 +7481,10 @@
         "loc.old-dragon-city"
       ],
       "referenced_by": [
+        "char.black-snake-and-white-python",
         "char.cai-jinjian",
-        "concept.snake-gall-stones"
+        "concept.snake-gall-stones",
+        "loc.longji-mountain"
       ]
     },
     "concept.currency": {
@@ -7563,6 +7744,106 @@
         "loc.baoxi-stream",
         "loc.lizhu-grotto-heaven",
         "loc.small-town"
+      ]
+    },
+    "concept.mountain-and-river-gods": {
+      "id": "concept.mountain-and-river-gods",
+      "type": "concept",
+      "zh": "山水神祇",
+      "zh_aliases": [
+        "土地",
+        "山神",
+        "山水正神",
+        "敕封",
+        "山水神祇"
+      ],
+      "pinyin": "Shanshui shenqi",
+      "palladius": "Шаньшуй шэньци",
+      "ru": "Боги гор и вод",
+      "ru_aliases": [
+        "духи земли",
+        "горные боги",
+        "боги рек",
+        "истинные боги гор и вод"
+      ],
+      "first_chapter": 63,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "божества",
+        "чины",
+        "великая-ли",
+        "яшмовые-грамоты",
+        "фэншуй"
+      ],
+      "path": "wiki/concepts/mountain-and-river-gods.md",
+      "links_to": [
+        "char.aliang",
+        "char.chessboard-earth-god",
+        "char.master-ruan",
+        "char.river-hag",
+        "char.ruan-xiu",
+        "fac.great-li-empire",
+        "loc.mountains-near-town",
+        "loc.small-town"
+      ],
+      "referenced_by": [
+        "char.black-snake-and-white-python",
+        "char.chessboard-earth-god",
+        "concept.mountain-opening-talismans"
+      ]
+    },
+    "concept.mountain-opening-talismans": {
+      "id": "concept.mountain-opening-talismans",
+      "type": "concept",
+      "zh": "开山篇",
+      "zh_aliases": [
+        "撮壤成山诀",
+        "撵土造山",
+        "太山符",
+        "走水篇",
+        "入山箓",
+        "岳字",
+        "嶽字"
+      ],
+      "pinyin": "Kaishan pian",
+      "palladius": "Кайшань пянь",
+      "ru": "Заклятия вскрытия гор",
+      "ru_aliases": [
+        "заклятие горсти земли",
+        "вскрытие гор",
+        "талисманы входа в горы"
+      ],
+      "first_chapter": 97,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "талисманы",
+        "обряды",
+        "горные-боги",
+        "чжу-хэ",
+        "фу"
+      ],
+      "path": "wiki/concepts/mountain-opening-talismans.md",
+      "links_to": [
+        "char.aliang",
+        "char.chessboard-earth-god",
+        "char.zhu-he",
+        "char.zhu-lu",
+        "concept.mountain-and-river-gods",
+        "concept.three-mountains-nine-lords"
+      ],
+      "referenced_by": [
+        "char.chessboard-earth-god",
+        "char.zhu-he"
       ]
     },
     "concept.mountain-seals": {
@@ -7840,7 +8121,9 @@
         "loc.eastern-treasured-vial-continent",
         "loc.fortune-street"
       ],
-      "referenced_by": []
+      "referenced_by": [
+        "concept.mountain-opening-talismans"
+      ]
     },
     "concept.yasheng": {
       "id": "concept.yasheng",
@@ -8578,6 +8861,7 @@
         "idiom.bu-ping-ze-ming",
         "idiom.one-sword-credo",
         "loc.ascension-city",
+        "loc.longji-mountain",
         "loc.northern-juilu-continent",
         "loc.sword-qi-great-wall"
       ]
@@ -8851,6 +9135,7 @@
       ],
       "referenced_by": [
         "art.osmanthus-island-ferry",
+        "art.zhen-yao-bell",
         "char.fu-nanhua",
         "char.li-baozhen",
         "char.li-xisheng",
@@ -9118,6 +9403,7 @@
         "char.zhu-he",
         "concept.house-born-servants",
         "concept.imperial-kilns",
+        "concept.mountain-and-river-gods",
         "concept.natal-porcelain",
         "concept.qiyun",
         "cult.demon-tribe",
@@ -9936,13 +10222,15 @@
       "path": "wiki/factions/wind-snow-temple.md",
       "links_to": [
         "char.master-ruan",
+        "char.ruan-xiu",
         "char.wei-jin",
         "cult.qi-refinement",
         "fac.dragon-spring-sword-sect",
         "fac.sects-compendium"
       ],
       "referenced_by": [
-        "fac.dragon-spring-sword-sect"
+        "fac.dragon-spring-sword-sect",
+        "loc.longji-mountain"
       ]
     },
     "fac.wind-thunder-garden": {
@@ -10747,6 +11035,7 @@
         "fac.dragon-spring-sword-sect",
         "fac.great-li-empire",
         "loc.blusher-prefecture",
+        "loc.longji-mountain",
         "loc.luopo-mountain",
         "loc.piyun-mountain"
       ]
@@ -11327,6 +11616,49 @@
         "loc.small-town"
       ]
     },
+    "loc.longji-mountain": {
+      "id": "loc.longji-mountain",
+      "type": "location",
+      "zh": "龙脊山",
+      "zh_aliases": [
+        "甲六山",
+        "斩龙台"
+      ],
+      "pinyin": "Longji Shan",
+      "palladius": "Лунцзи шань",
+      "ru": "Гора Драконьего Хребта",
+      "ru_aliases": [
+        "Драконий хребет"
+      ],
+      "first_chapter": 75,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "гора",
+        "уезд-драконьего-родника",
+        "помост-для-рубки-драконов",
+        "оселок",
+        "ветер-и-снег"
+      ],
+      "path": "wiki/locations/longji-mountain.md",
+      "links_to": [
+        "char.master-ruan",
+        "char.wei-jin",
+        "concept.cloud-root-stone",
+        "cult.sword-cultivator",
+        "fac.wind-snow-temple",
+        "loc.dragon-spring-prefecture",
+        "loc.mountains-near-town"
+      ],
+      "referenced_by": [
+        "char.master-ruan",
+        "loc.mountains-near-town"
+      ]
+    },
     "loc.lotus-root-blessed-land": {
       "id": "loc.lotus-root-blessed-land",
       "type": "location",
@@ -11730,12 +12062,14 @@
       "links_to": [
         "char.aliang",
         "char.chen-pingan",
+        "char.chessboard-earth-god",
         "char.gu-can",
         "char.li-baoping",
         "char.liu-xianyang",
         "char.master-ruan",
         "char.ning-yao",
         "char.old-man-yang",
+        "char.river-hag",
         "char.ruan-xiu",
         "char.wei-bo",
         "concept.currency",
@@ -11743,12 +12077,16 @@
         "concept.qiyun",
         "faction.imperial-court",
         "loc.lizhu-grotto-heaven",
+        "loc.longji-mountain",
         "loc.luopo-mountain",
         "loc.piyun-mountain",
         "loc.small-town"
       ],
       "referenced_by": [
+        "art.zhen-yao-bell",
+        "char.black-snake-and-white-python",
         "char.chen-pingan",
+        "char.chessboard-earth-god",
         "char.lady-chu",
         "char.master-ruan",
         "char.wei-bo",
@@ -11756,9 +12094,12 @@
         "char.wu-yuan",
         "char.yang-hua",
         "char.zhu-he",
+        "concept.mountain-and-river-gods",
         "concept.mountain-seals",
+        "loc.longji-mountain",
         "loc.luopo-mountain",
         "loc.piyun-mountain",
+        "loc.red-candle-town",
         "loc.small-town"
       ]
     },
@@ -12238,6 +12579,7 @@
         "char.aliang",
         "fac.great-li-empire",
         "loc.lizhu-grotto-heaven",
+        "loc.mountains-near-town",
         "loc.small-town"
       ],
       "referenced_by": []
@@ -12423,6 +12765,7 @@
         "concept.dharma-ending-land",
         "concept.entry-thresholds",
         "concept.imperial-kilns",
+        "concept.mountain-and-river-gods",
         "concept.snake-gall-stones",
         "cult.buddhism",
         "cult.confucianism",
@@ -12976,6 +13319,12 @@
     "天下第一手": [
       "char.zhong-qiu"
     ],
+    "撮壤成山诀": [
+      "concept.mountain-opening-talismans"
+    ],
+    "棋墩山土地": [
+      "char.chessboard-earth-god"
+    ],
     "武疯子朱敛": [
       "char.zhu-lian"
     ],
@@ -13072,6 +13421,9 @@
     "叠嶂姑娘": [
       "char.die-zhang"
     ],
+    "土地老翁": [
+      "char.chessboard-earth-god"
+    ],
     "大泉王朝": [
       "fac.great-quan-empire"
     ],
@@ -13126,8 +13478,14 @@
     "山水大印": [
       "concept.mountain-seals"
     ],
+    "山水正神": [
+      "concept.mountain-and-river-gods"
+    ],
     "山水神灵": [
       "concept.qiyun"
+    ],
+    "山水神祇": [
+      "concept.mountain-and-river-gods"
     ],
     "山泽野修": [
       "cult.qi-refinement"
@@ -13149,6 +13507,9 @@
     ],
     "搬山倒海": [
       "idiom.one-sword-credo"
+    ],
+    "撵土造山": [
+      "concept.mountain-opening-talismans"
     ],
     "文圣老爷": [
       "char.scholarly-sage"
@@ -13213,6 +13574,9 @@
     "白衣女子": [
       "char.sword-spirit"
     ],
+    "白衣老翁": [
+      "char.chessboard-earth-god"
+    ],
     "监造大人": [
       "concept.imperial-kilns"
     ],
@@ -13234,6 +13598,12 @@
     "竹刀少年": [
       "char.zeng-ye"
     ],
+    "篆文铜铃": [
+      "art.zhen-yao-bell"
+    ],
+    "红色铃铛": [
+      "art.zhen-yao-bell"
+    ],
     "纯粹武夫": [
       "cult.martial-arts"
     ],
@@ -13242,6 +13612,9 @@
     ],
     "纳兰爷爷": [
       "char.nalan-yexing"
+    ],
+    "绿杖男子": [
+      "char.chessboard-earth-god"
     ],
     "老龙布雨": [
       "art.old-dragon-rain-pendant"
@@ -13321,6 +13694,9 @@
     "高大女子": [
       "char.sword-spirit"
     ],
+    "黑蛇白蟒": [
+      "char.black-snake-and-white-python"
+    ],
     "龙泉剑宗": [
       "fac.dragon-spring-sword-sect"
     ],
@@ -13371,6 +13747,9 @@
     ],
     "倒悬山": [
       "loc.daoxuan-mountain"
+    ],
+    "入山箓": [
+      "concept.mountain-opening-talismans"
     ],
     "养剑葫": [
       "art.sword-nurturing-gourd"
@@ -13446,6 +13825,9 @@
     ],
     "天外天": [
       "loc.heavens-beyond"
+    ],
+    "太山符": [
+      "concept.mountain-opening-talismans"
     ],
     "姚师傅": [
       "char.old-man-yao"
@@ -13531,6 +13913,9 @@
     "庞元济": [
       "char.pang-yuanji"
     ],
+    "开山篇": [
+      "concept.mountain-opening-talismans"
+    ],
     "张山峰": [
       "char.zhang-shanfeng"
     ],
@@ -13575,6 +13960,9 @@
     ],
     "斋醮钱": [
       "concept.currency"
+    ],
+    "斩龙台": [
+      "loc.longji-mountain"
     ],
     "晏胖子": [
       "char.yan-zhuo"
@@ -13689,6 +14077,9 @@
     ],
     "琼林宗": [
       "fac.qionglin-sect"
+    ],
+    "甲六山": [
+      "loc.longji-mountain"
     ],
     "白姥姥": [
       "char.bai-lianshuang"
@@ -13864,6 +14255,9 @@
     "贺小凉": [
       "char.he-xiaoliang"
     ],
+    "走水篇": [
+      "concept.mountain-opening-talismans"
+    ],
     "跳-刀": [
       "concept.imperial-kilns"
     ],
@@ -13966,6 +14360,9 @@
     "雪花钱": [
       "concept.currency"
     ],
+    "震妖铃": [
+      "art.zhen-yao-bell"
+    ],
     "青峡岛": [
       "loc.qingxia-island"
     ],
@@ -14034,6 +14431,9 @@
     ],
     "龙泉郡": [
       "loc.dragon-spring-prefecture"
+    ],
+    "龙脊山": [
+      "loc.longji-mountain"
     ],
     "龙虎山": [
       "loc.dragon-tiger-mountain"
@@ -14152,6 +14552,9 @@
     "周肥": [
       "char.jiang-shangzhen"
     ],
+    "土地": [
+      "concept.mountain-and-river-gods"
+    ],
     "圣人": [
       "cult.confucianism"
     ],
@@ -14160,6 +14563,9 @@
     ],
     "墨家": [
       "cult.hundred-schools"
+    ],
+    "墨蛟": [
+      "char.black-snake-and-white-python"
     ],
     "大妖": [
       "cult.demon-tribe"
@@ -14190,6 +14596,9 @@
     ],
     "娘娘": [
       "char.great-li-empress"
+    ],
+    "孽畜": [
+      "char.black-snake-and-white-python"
     ],
     "宁姚": [
       "char.ning-yao.cultivation",
@@ -14239,11 +14648,20 @@
     "山根": [
       "concept.mountain-seals"
     ],
+    "山神": [
+      "concept.mountain-and-river-gods"
+    ],
+    "岳字": [
+      "concept.mountain-opening-talismans"
+    ],
     "崔瀺": [
       "char.cui-chan"
     ],
     "崔诚": [
       "char.cui-cheng"
+    ],
+    "嶽字": [
+      "concept.mountain-opening-talismans"
     ],
     "左右": [
       "char.zuo-you"
@@ -14274,6 +14692,9 @@
     ],
     "拳意": [
       "cult.martial-arts"
+    ],
+    "敕封": [
+      "concept.mountain-and-river-gods"
     ],
     "文圣": [
       "char.scholarly-sage"
@@ -14434,6 +14855,9 @@
     "白碗": [
       "art.white-bowl"
     ],
+    "白蟒": [
+      "char.black-snake-and-white-python"
+    ],
     "白首": [
       "char.bai-shou"
     ],
@@ -14586,6 +15010,9 @@
     ],
     "钱儿": [
       "char.pei-qian"
+    ],
+    "铜铃": [
+      "art.zhen-yao-bell"
     ],
     "门槛": [
       "concept.entry-thresholds"
