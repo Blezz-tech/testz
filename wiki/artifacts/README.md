@@ -23,6 +23,7 @@
 | [Пилюля «Желчь героя»](hero-gall.md) | 英雄胆 | [Чжу Хэ](../characters/zhu-he.md) → [Чжу Лу](../characters/zhu-lu.md) |
 | [«Книга звона над облаками»](cloud-ringing-book.md) | 云上琅琅书 | [Линь Шоуи](../characters/lin-shouyi.md) |
 | [«Книга пурпурного дыхания»](purple-qi-book.md) | 紫气书 | [Чжу Лу](../characters/zhu-lu.md) |
+| [«Рассекающая воду круча»](shuduan-cliff.md) | 断水大崖 | [Ли Хуай](../characters/li-huai.md) |
 
 ## Правила создания карточек
 
