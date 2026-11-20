@@ -1,9 +1,9 @@
 {
   "schema_version": "2.0",
-  "total_entities": 268,
+  "total_entities": 270,
   "counts_by_type": {
     "artifact": 9,
-    "character": 142,
+    "character": 144,
     "concept": 12,
     "cultivation": 11,
     "faction": 34,
@@ -1078,6 +1078,7 @@
         "char.qi-jingchun",
         "char.ruan-xiu",
         "char.scholarly-sage",
+        "char.shi-chunjia",
         "char.song-changjing",
         "char.song-jixin",
         "char.wei-bo",
@@ -1173,8 +1174,10 @@
         "char.qi-jingchun",
         "char.qi-jinglong",
         "char.qi-shou",
+        "char.river-hag",
         "char.ruan-xiu",
         "char.scholarly-sage",
+        "char.shi-chunjia",
         "char.shi-rou",
         "char.song-changjing",
         "char.song-jixin",
@@ -1825,6 +1828,7 @@
         "char.lin-shouyi",
         "char.liu-baqiao",
         "char.ma-kuxuan",
+        "char.old-man-yang",
         "char.qi-jingchun",
         "char.song-changjing",
         "cult.confucianism",
@@ -2029,6 +2033,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.shi-chunjia",
         "loc.apricot-blossom-alley"
       ]
     },
@@ -2655,6 +2660,7 @@
         "char.li-huai",
         "char.lin-shouyi",
         "char.qi-jingchun",
+        "char.shi-chunjia",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
         "loc.eastern-treasured-vial-continent",
@@ -2671,6 +2677,7 @@
         "char.ma-zhan",
         "char.mao-xiaodong",
         "char.qi-jingchun",
+        "char.shi-chunjia",
         "char.zhu-lu",
         "concept.natal-porcelain",
         "fac.clans-compendium",
@@ -2803,6 +2810,7 @@
         "char.li-liu",
         "char.lin-shouyi",
         "char.qi-jingchun",
+        "char.shi-chunjia",
         "fac.mountain-cliff-academy",
         "loc.small-town"
       ],
@@ -2816,6 +2824,7 @@
         "char.lin-shouyi",
         "char.ma-zhan",
         "char.qi-jingchun",
+        "char.shi-chunjia",
         "char.xie-lingyue",
         "char.zhu-he",
         "char.zhu-lu",
@@ -3025,6 +3034,7 @@
         "char.li-baoping",
         "char.li-huai",
         "char.qi-jingchun",
+        "char.shi-chunjia",
         "cult.qi-refinement",
         "fac.mountain-cliff-academy"
       ],
@@ -3037,6 +3047,7 @@
         "char.li-baoping",
         "char.li-huai",
         "char.qi-jingchun",
+        "char.shi-chunjia",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy"
       ]
@@ -3961,6 +3972,7 @@
         "cult.sword-cultivator",
         "fac.sects-compendium",
         "loc.daoxuan-mountain",
+        "loc.lizhu-grotto-heaven",
         "loc.small-town",
         "loc.sword-qi-great-wall"
       ],
@@ -4003,6 +4015,7 @@
         "idiom.bu-ping-ze-ming",
         "loc.ascension-city",
         "loc.daoxuan-mountain",
+        "loc.lizhu-grotto-heaven",
         "loc.sword-qi-great-wall"
       ]
     },
@@ -4223,11 +4236,13 @@
       ],
       "referenced_by": [
         "char.chen-pingan",
+        "char.cui-minghuang",
         "char.li-er",
         "char.li-liu",
         "char.ma-kuxuan",
         "char.ma-lanhua",
         "char.ning-yao",
+        "char.river-hag",
         "char.song-changjing",
         "char.yin-god",
         "char.zheng-dafeng",
@@ -4457,6 +4472,7 @@
         "char.ning-yao",
         "char.ning-yao.relationships",
         "char.scholarly-sage",
+        "char.shi-chunjia",
         "char.song-yuzhang",
         "char.zhao-yao",
         "char.zuo-you",
@@ -4586,6 +4602,44 @@
         "fac.dragon-elephant-sword-sect"
       ]
     },
+    "char.river-hag": {
+      "id": "char.river-hag",
+      "type": "character",
+      "zh": "河婆",
+      "zh_aliases": [
+        "河神"
+      ],
+      "pinyin": "Hepo",
+      "palladius": "Хэпо",
+      "ru": "речная хозяйка",
+      "ru_aliases": [
+        "речная старуха",
+        "речная хозяйка"
+      ],
+      "first_chapter": 63,
+      "gender": "female",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "личжу",
+        "ручей",
+        "речные божества",
+        "инь-дух"
+      ],
+      "path": "wiki/characters/river-hag.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.old-man-yang",
+        "char.ruan-xiu",
+        "loc.apricot-blossom-alley",
+        "loc.lizhu-grotto-heaven",
+        "loc.small-town"
+      ],
+      "referenced_by": []
+    },
     "char.ruan-xiu": {
       "id": "char.ruan-xiu",
       "type": "character",
@@ -4630,6 +4684,7 @@
         "char.chen-songfeng",
         "char.master-ruan",
         "char.ning-yao",
+        "char.river-hag",
         "fac.dragon-spring-sword-sect"
       ]
     },
@@ -4718,6 +4773,53 @@
         "loc.sword-qi-great-wall"
       ],
       "referenced_by": []
+    },
+    "char.shi-chunjia": {
+      "id": "char.shi-chunjia",
+      "type": "character",
+      "zh": "石春嘉",
+      "zh_aliases": [
+        "小石头"
+      ],
+      "pinyin": "Shi Chunjia",
+      "palladius": "Ши Чуньцзя",
+      "ru": "Ши Чуньцзя",
+      "ru_aliases": [
+        "Камешек"
+      ],
+      "first_chapter": 71,
+      "gender": "female",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "дети",
+        "骑龙巷",
+        "压岁铺子",
+        "学塾",
+        "академия"
+      ],
+      "path": "wiki/characters/shi-chunjia.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.dong-shuijing",
+        "char.li-baoping",
+        "char.li-huai",
+        "char.lin-shouyi",
+        "char.qi-jingchun",
+        "fac.mountain-cliff-academy",
+        "loc.niping-alley",
+        "loc.qilong-alley",
+        "loc.small-town"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.li-baoping",
+        "char.li-huai",
+        "char.lin-shouyi"
+      ]
     },
     "char.shi-rou": {
       "id": "char.shi-rou",
@@ -8625,6 +8727,7 @@
         "char.lin-shouyi",
         "char.ma-zhan",
         "char.mao-xiaodong",
+        "char.shi-chunjia",
         "cult.confucianism",
         "fac.great-li-empire",
         "fac.great-sui-nation",
@@ -9632,6 +9735,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.river-hag",
         "char.ruan-xiu",
         "loc.peach-leaf-alley",
         "loc.small-town"
@@ -10091,6 +10195,7 @@
         "char.liu-xianyang",
         "char.song-changjing",
         "fac.clans-compendium",
+        "loc.lizhu-grotto-heaven",
         "loc.peach-leaf-alley",
         "loc.small-town",
         "loc.twelve-legged-archway"
@@ -10363,6 +10468,7 @@
       "links_to": [
         "char.chen-pingan",
         "char.master-ruan",
+        "char.ning-yao",
         "char.old-man-yang",
         "char.qi-jingchun",
         "char.song-changjing",
@@ -10373,6 +10479,7 @@
         "fac.great-li-empire",
         "fac.sects-compendium",
         "faction.imperial-court",
+        "loc.fortune-street",
         "loc.niping-alley",
         "loc.old-locust-tree",
         "loc.qilong-alley"
@@ -10388,9 +10495,11 @@
         "char.fu-nanhua",
         "char.li-er",
         "char.master-ruan",
+        "char.ning-yao",
         "char.ning-yao.history",
         "char.old-man-yang",
         "char.qi-jingchun",
+        "char.river-hag",
         "char.ruan-xiu",
         "char.wu-yuan",
         "char.zhigui",
@@ -10857,6 +10966,7 @@
         "char.chen-pingan.history",
         "char.gu-can",
         "char.gu-shi",
+        "char.shi-chunjia",
         "char.song-changjing",
         "char.song-jixin",
         "char.zhigui",
@@ -11137,6 +11247,7 @@
         "char.liu-xianyang",
         "char.master-ruan",
         "char.ruan-xiu",
+        "char.shi-chunjia",
         "loc.lizhu-grotto-heaven",
         "loc.niping-alley",
         "loc.small-town"
@@ -11395,6 +11506,8 @@
         "char.old-man-yang",
         "char.old-man-yao",
         "char.qi-jingchun",
+        "char.river-hag",
+        "char.shi-chunjia",
         "char.song-jixin",
         "char.song-yuzhang",
         "char.xie-shi",
@@ -12430,6 +12543,9 @@
     "小洞天": [
       "loc.small-grotto-heavens"
     ],
+    "小石头": [
+      "char.shi-chunjia"
+    ],
     "小米粒": [
       "char.zhou-mili"
     ],
@@ -12627,6 +12743,9 @@
     ],
     "真境宗": [
       "fac.true-realm-sect"
+    ],
+    "石春嘉": [
+      "char.shi-chunjia"
     ],
     "碎瓷山": [
       "concept.natal-porcelain"
@@ -13278,6 +13397,12 @@
     ],
     "水蛇": [
       "char.chen-lingjun"
+    ],
+    "河婆": [
+      "char.river-hag"
+    ],
+    "河神": [
+      "char.river-hag"
     ],
     "法家": [
       "cult.hundred-schools"
