@@ -209,6 +209,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "art.jade-hairpin-and-seals",
         "char.aliang",
         "char.chen-pingan",
         "char.chen-pingan.history",
@@ -1856,6 +1857,7 @@
       "links_to": [
         "char.chen-pingan",
         "char.gu-can",
+        "char.liu-zhimao",
         "concept.natal-porcelain",
         "loc.bamboo-scroll-lake",
         "loc.niping-alley"
@@ -2774,7 +2776,8 @@
         "char.zhao-yao",
         "char.zhu-lu",
         "concept.mountain-seals",
-        "cult.confucianism"
+        "cult.confucianism",
+        "fac.mountain-cliff-academy"
       ],
       "referenced_by": [
         "art.old-dragon-rain-pendant",
@@ -4281,6 +4284,7 @@
         "char.chen-pingan.relationships",
         "char.fu-nanhua",
         "char.gu-can",
+        "char.gu-shi",
         "char.liu-laocheng",
         "char.qi-jingchun",
         "char.zeng-ye",
@@ -6802,6 +6806,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.zhigui",
         "cult.daoism",
         "fac.clans-compendium",
         "loc.peach-leaf-alley"
@@ -10116,6 +10121,7 @@
         "char.chen-pingan",
         "char.old-man-yang",
         "char.song-jixin",
+        "char.xie-shi",
         "concept.qiyun",
         "cult.demon-tribe",
         "loc.lizhu-grotto-heaven",
