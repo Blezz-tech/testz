@@ -17,6 +17,7 @@
 | [Чайник с клеймом «Горный демон»](shanxiao-pot.md) | 山魈壶 / 养心壶 | [Сун Цзисинь](../characters/song-jixin.md) → [Фу Наньхуа](../characters/fu-nanhua.md) |
 | [Нефритовый кулон «Старый дракон проливает дождь»](old-dragon-rain-pendant.md) | 老龙布雨 / 老龙佩 | [Фу Наньхуа](../characters/fu-nanhua.md) |
 | [Фляга для выращивания мечей](sword-nurturing-gourd.md) | 养剑葫 | [Чэнь Пинъань](../characters/chen-pingan.md) |
+| [Белая чаша](white-bowl.md) | 白碗 | [Лю Чжимао](../characters/liu-zhimao.md) |
 
 ## Правила создания карточек
 

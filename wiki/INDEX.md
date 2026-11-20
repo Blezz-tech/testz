@@ -5,7 +5,7 @@
 > Файл генерируется автоматически командой `python3 scripts/wiki_tool.py index`.
 > Не редактируйте его вручную: после правки карточек просто перегенерируйте указатель.
 
-**Всего статей: 261.**
+**Всего статей: 264.**
 
 ## Персонажи (141)
 
@@ -54,7 +54,7 @@
 | [Лю Бацяо](characters/liu-baqiao.md) | `刘灞桥 / 灞桥` | 45 |
 | [Лю Лаочэн](characters/liu-laocheng.md) | `刘老成 / 蜂尾渡刘老成` | 416 |
 | [Лю Сяньян](characters/liu-xianyang.md) | `刘羡阳 / 羡阳` | 1 |
-| [Лю Чжимао](characters/liu-zhimao.md) | `刘志茂 / 截江真君 / 刘真君 / 说书先生` | 18 |
+| [Лю Чжимао](characters/liu-zhimao.md) | `刘志茂 / 截江真君 / 刘真君 / 说书先生` | 17 |
 | [Лю Чичэн](characters/liu-chicheng.md) | `柳赤诚` | 226 |
 | [Лю Шилю](characters/liu-shiliu.md) | `刘十六` | 708 |
 | [Люй Янь](characters/lu-yan.md) | `吕喦` | 925 |
@@ -261,24 +261,27 @@
 | [Фуяо](locations/fuyao-continent.md) | `扶摇洲` | 259 |
 | [Южный Посо](locations/southern-posha-continent.md) | `南婆娑洲` | 184 |
 
-## Концепты и устройство мира (8)
+## Концепты и устройство мира (10)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
 | [Денежная система и монеты бессмертных](concepts/currency.md) | `神仙钱 / 谷雨钱 / 小暑钱 / 雪花钱` | 12 |
 | [Земля конца Дхармы](concepts/dharma-ending-land.md) | `末法之地 / 末法` | 17 |
 | [Казённые гончарные печи](concepts/imperial-kilns.md) | `官窑 / 奉诏监烧献陵祭器 / 督造大人 / 监造大人` | 1 |
+| [Камни облачного корня](concepts/cloud-root-stone.md) | `云根石 / 云根` | 9 |
 | [Мост Бессмертия, горные корни и печати гор и вод](concepts/mountain-seals-and-bridges.md) | `长生桥 / 山水大印 / 山水印 / 山根` | 15 |
 | [Натальный фарфор](concepts/natal-porcelain.md) | `本命瓷 / 买瓷人 / 碎瓷山` | 17 |
+| [Пороги вхождения и три ступени](concepts/entry-thresholds.md) | `门槛 / 开门 / 登堂 / 入室` | 18 |
 | [Река Времени](concepts/river-of-time.md) | `光阴长河` | 24 |
 | [Судьбоносная удача и благовония веры](concepts/qiyun.md) | `气运 / 香火 / 山水神灵 / 金身` | 0 |
 | [Яшэн](concepts/yasheng.md) | `压胜` | 15 |
 
-## Артефакты и снаряжение (8)
+## Артефакты и снаряжение (9)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
 | [«Небесная Истина»](artifacts/heavenly-truths-swords.md) | `天真 / 宁姚的剑` | 600 |
+| [Белая чаша](artifacts/white-bowl.md) | `白碗 / 大白碗` | 18 |
 | [Зелёная нефритовая шпилька и печати](artifacts/jade-hairpin-and-seals.md) | `碧玉簪 / 簪子 / 印章` | 24 |
 | [Мечи «Птаха в Клетке» и «Луна в Колодце»](artifacts/chen-pingans-swords.md) | `笼中雀 / 井中月 / 笼中雀 / 井中月` | 273 |
 | [Нефритовый кулон «Старый дракон проливает дождь»](artifacts/old-dragon-rain-pendant.md) | `老龙布雨 / 老龙佩` | 9 |
