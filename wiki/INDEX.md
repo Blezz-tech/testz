@@ -5,7 +5,7 @@
 > Файл генерируется автоматически командой `python3 scripts/wiki_tool.py index`.
 > Не редактируйте его вручную: после правки карточек просто перегенерируйте указатель.
 
-**Всего статей: 270.**
+**Всего статей: 271.**
 
 ## Персонажи (144)
 
@@ -91,7 +91,7 @@
 | [Сюй Юанься](characters/xu-yuanxia.md) | `徐远霞 / 徐大侠` | 216 |
 | [Тао Цзы](characters/tao-zi.md) | `陶紫 / 紫衣` | 48 |
 | [У Шуанцзян](characters/wu-shuangjiang.md) | `吴霜降` | 682 |
-| [У Юань](characters/wu-yuan.md) | `吴鸢 / 吴大人` | 75 |
+| [У Юань](characters/wu-yuan.md) | `吴鸢 / 小吴大人 / 督造官` | 75 |
 | [Фан Эр](characters/fan-er.md) | `范二 / 范二郎` | 256 |
 | [Фань Цзюньмао](characters/fan-junmao.md) | `范峻茂 / 范大小姐` | 257 |
 | [Фу Наньхуа](characters/fu-nanhua.md) | `苻南华 / 苻公子` | 9 |
@@ -211,7 +211,7 @@
 | [Школа Озёрных Гор](factions/lake-mountain-school.md) | `湖山派` | 308 |
 | [Школа Хуанлян](factions/yellow-millet-school.md) | `黄粱派` | 926 |
 
-## Миры, континенты и локации (49)
+## Миры, континенты и локации (50)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -222,6 +222,7 @@
 | [Гора Даосюань](locations/daoxuan-mountain.md) | `倒悬山` | 16 |
 | [Гора Дракона и Тигра](locations/dragon-tiger-mountain.md) | `龙虎山` | 96 |
 | [Гора Лопо](locations/luopo-mountain.md) | `落魄山 / 落落魄山` | 80 |
+| [Гора Пиюнь](locations/piyun-mountain.md) | `披云山 / 披云峰` | 66 |
 | [Гора, Подпирающая Луну](locations/moon-supporting-mountain.md) | `托月山` | 614 |
 | [Город Белого Императора](locations/white-emperor-city.md) | `白帝城` | 152 |
 | [Город Вознесения](locations/ascension-city.md) | `飞升城` | 704 |

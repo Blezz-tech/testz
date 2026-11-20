@@ -3,7 +3,7 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 270,
+  "total_entries": 271,
   "counts_by_type": {
     "artifact": 9,
     "character": 144,
@@ -11,7 +11,7 @@
     "cultivation": 11,
     "faction": 34,
     "idiom": 9,
-    "location": 49,
+    "location": 50,
     "media": 2
   },
   "entries": [
@@ -225,7 +225,8 @@
         "fac.great-sui-nation",
         "fac.lake-view-academy",
         "loc.bamboo-scroll-lake",
-        "loc.middle-earth-continent"
+        "loc.middle-earth-continent",
+        "loc.piyun-mountain"
       ],
       "card": "wiki/factions/mountain-cliff-academy.md"
     },
@@ -1432,7 +1433,8 @@
         "char.liu-baqiao",
         "char.qi-jingchun",
         "fac.bamboo-branch-school",
-        "fac.wind-thunder-garden"
+        "fac.wind-thunder-garden",
+        "loc.piyun-mountain"
       ],
       "card": "wiki/factions/zhengyang-mountain.md"
     },
@@ -1505,6 +1507,55 @@
         "loc.old-dragon-city"
       ],
       "card": "wiki/locations/luopo-mountain.md"
+    },
+    {
+      "id": "loc.piyun-mountain",
+      "type": "location",
+      "zh": "披云山",
+      "zh_aliases": [
+        "披云峰"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Piyun Shan",
+      "palladius": "Пиюнь шань",
+      "ru": "Гора Пиюнь",
+      "ru_aliases": [
+        "Пиюнь",
+        "гора Пиюнь"
+      ],
+      "first_chapter": 66,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "гора",
+        "личжу",
+        "академия",
+        "святое место"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **Передача:** `披云` — «накинувшая облака», «одетая тучами»; **Гора Пиюнь**, название не переводится.\n- **Не путать** с [Горой Завесы Облаков](mountains-near-town.md) (`云遮山`) — это другая вершина.",
+      "links_to": [
+        "char.cui-minghuang",
+        "char.master-ruan",
+        "char.old-man-yang",
+        "char.qi-jingchun",
+        "char.song-changjing",
+        "fac.mountain-cliff-academy",
+        "fac.zhengyang-mountain",
+        "loc.dragon-spring-prefecture",
+        "loc.lizhu-grotto-heaven",
+        "loc.mountains-near-town"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.cui-minghuang",
+        "loc.lizhu-grotto-heaven",
+        "loc.mountains-near-town"
+      ],
+      "card": "wiki/locations/piyun-mountain.md"
     },
     {
       "id": "loc.moon-supporting-mountain",
@@ -1716,6 +1767,8 @@
         "char.chen-pingan",
         "char.ma-kuxuan",
         "char.master-ruan",
+        "char.wu-yuan",
+        "char.zheng-dafeng",
         "concept.imperial-kilns",
         "concept.natal-porcelain",
         "concept.qiyun",
@@ -1758,6 +1811,7 @@
         "char.shi-chunjia",
         "char.song-jixin",
         "char.song-yuzhang",
+        "char.wu-yuan",
         "char.xie-shi",
         "char.yin-god",
         "char.zhao-yao",
@@ -1860,20 +1914,25 @@
       "translation_rule": "## Правила перевода\n\n- **Передача:** описательно — **горы близ городка**. Конкретные вершины — по отдельности: `棋墩山` **Гора Шашечной Доски**, `云遮山` **Гора Завесы Облаков**, `龙头山` **Гора Драконьей Головы**, `神仙坟` **Могилы Бессмертных**.\n- **Не путать** `云遮山` (Гора Завесы Облаков) с `云霞山` (Гора Облачной Зари) — это **разные** горы, и в романе они обе важны.",
       "links_to": [
         "char.chen-pingan",
+        "char.master-ruan",
+        "char.old-man-yang",
         "char.wei-bo",
         "concept.currency",
         "concept.mountain-seals",
         "concept.qiyun",
         "loc.lizhu-grotto-heaven",
         "loc.luopo-mountain",
+        "loc.piyun-mountain",
         "loc.small-town"
       ],
       "referenced_by": [
         "char.lady-chu",
         "char.wei-bo",
+        "char.wu-yuan",
         "char.yang-hua",
         "concept.mountain-seals",
         "loc.luopo-mountain",
+        "loc.piyun-mountain",
         "loc.small-town"
       ],
       "card": "wiki/locations/mountains-near-town.md"
@@ -2049,6 +2108,7 @@
         "loc.fortune-street",
         "loc.niping-alley",
         "loc.old-locust-tree",
+        "loc.piyun-mountain",
         "loc.qilong-alley"
       ],
       "referenced_by": [
@@ -2068,8 +2128,8 @@
         "char.qi-jingchun",
         "char.river-hag",
         "char.ruan-xiu",
-        "char.wu-yuan",
         "char.zhigui",
+        "concept.currency",
         "concept.imperial-kilns",
         "concept.natal-porcelain",
         "concept.qiyun",
@@ -2083,6 +2143,7 @@
         "loc.majestic-world",
         "loc.mountains-near-town",
         "loc.niping-alley",
+        "loc.piyun-mountain",
         "loc.qilong-alley",
         "loc.red-candle-town",
         "loc.small-grotto-heavens",
@@ -2274,10 +2335,12 @@
         "char.cai-jinjian",
         "char.chen-pingan",
         "char.fu-nanhua",
+        "char.master-ruan",
         "char.song-jixin",
         "char.sun-jiashu",
         "concept.qiyun",
         "cult.qi-refinement",
+        "loc.lizhu-grotto-heaven",
         "loc.luopo-mountain",
         "loc.old-dragon-city"
       ],
@@ -2779,8 +2842,10 @@
         "char.chen-pingan",
         "char.liu-xianyang",
         "char.ning-yao",
+        "char.old-man-yang",
         "char.qi-jingchun",
         "char.ruan-xiu",
+        "char.wu-yuan",
         "cult.militarians",
         "cult.sword-cultivator",
         "fac.sects-compendium",
@@ -2797,16 +2862,20 @@
         "char.liu-xianyang",
         "char.ning-yao",
         "char.ning-yao.cultivation",
+        "char.old-man-yang",
         "char.qi-jingchun",
         "char.ruan-xiu",
         "char.wei-jin",
         "char.wu-yuan",
+        "concept.currency",
         "concept.imperial-kilns",
         "cult.militarians",
         "fac.dragon-spring-sword-sect",
         "fac.sects-compendium",
         "fac.wind-snow-temple",
         "loc.lizhu-grotto-heaven",
+        "loc.mountains-near-town",
+        "loc.piyun-mountain",
         "loc.qilong-alley",
         "loc.small-town"
       ],
@@ -3247,6 +3316,7 @@
         "char.liu-xianyang",
         "char.old-man-yao",
         "char.song-yuzhang",
+        "char.wu-yuan",
         "concept.natal-porcelain",
         "faction.imperial-court",
         "idiom.clay-bodhisattva-crossing-river",
@@ -6243,7 +6313,8 @@
         "fac.dragon-spring-sword-sect",
         "fac.great-li-empire",
         "loc.blusher-prefecture",
-        "loc.luopo-mountain"
+        "loc.luopo-mountain",
+        "loc.piyun-mountain"
       ],
       "card": "wiki/locations/dragon-spring-prefecture.md"
     },
@@ -7715,6 +7786,7 @@
         "char.li-er",
         "char.ma-kuxuan",
         "char.ma-lanhua",
+        "char.master-ruan",
         "char.ning-yao",
         "char.zheng-dafeng",
         "char.zhigui",
@@ -7731,13 +7803,17 @@
         "char.li-liu",
         "char.ma-kuxuan",
         "char.ma-lanhua",
+        "char.master-ruan",
         "char.ning-yao",
         "char.river-hag",
         "char.song-changjing",
+        "char.wu-yuan",
         "char.yin-god",
         "char.zheng-dafeng",
         "char.zhigui",
-        "loc.lizhu-grotto-heaven"
+        "loc.lizhu-grotto-heaven",
+        "loc.mountains-near-town",
+        "loc.piyun-mountain"
       ],
       "card": "wiki/characters/old-man-yang.md"
     },
@@ -8364,7 +8440,6 @@
         "char.qi-jingchun",
         "char.song-he",
         "char.song-jixin",
-        "char.wu-yuan",
         "char.xu-yuanxia",
         "char.yao-zhen",
         "char.zheng-dafeng",
@@ -8376,7 +8451,8 @@
         "fac.great-li-empire",
         "loc.dragon-spring-prefecture",
         "loc.great-li-capital",
-        "loc.lizhu-grotto-heaven"
+        "loc.lizhu-grotto-heaven",
+        "loc.piyun-mountain"
       ],
       "card": "wiki/characters/song-changjing.md"
     },
@@ -8415,7 +8491,6 @@
         "loc.small-town"
       ],
       "referenced_by": [
-        "char.wu-yuan",
         "concept.imperial-kilns",
         "fac.great-li-empire"
       ],
@@ -8752,13 +8827,17 @@
       "type": "character",
       "zh": "吴鸢",
       "zh_aliases": [
-        "吴大人"
+        "小吴大人",
+        "督造官"
       ],
       "unindexed_zh_aliases": [],
       "pinyin": "Wu Yuan",
       "palladius": "У Юань",
       "ru": "У Юань",
-      "ru_aliases": [],
+      "ru_aliases": [
+        "господин У",
+        "уездный начальник У"
+      ],
       "first_chapter": 75,
       "gender": "male",
       "subtype": null,
@@ -8767,23 +8846,31 @@
       "scan_skip": false,
       "scan_hints": [],
       "tags": [
-        "чиновник",
-        "уезд",
-        "великая-ли"
+        "大骊",
+        "龙泉县",
+        "督造官",
+        "县令",
+        "чиновник"
       ],
-      "translation_rule": "## Правила перевода\n\n- **Передача:** **У Юань** — имя склоняется (*У Юаня, У Юаню*).\n\n## Правило для переводчика\n\nЕго речь — **канцелярская**, но без вычурности: он чиновник-практик, а не книжник. Формулы — короткие, деловые.",
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **У Юань** — фамилия *У* и имя *Юань* не склоняются (*с У Юанем, к У Юаню*).\n- **Этимология:** `鸢` — «коршун»; имя книжное, «ястреб-бумажный змей», намёк на чиновника, что взлетает на чужой нити.\n- **Титулы:** `督造官` — **надзиратель за печными делами**; `县令` — **уездный начальник**; жители городка зовут его просто «господин У» или «наш уездный».\n- **Речь:** простая, с шутками и грубоватой поговоркой; с подчинёнными — на «ты», с вышестоящими — почтительно, но без робости.",
       "links_to": [
+        "char.chen-pingan",
+        "char.cui-chan",
         "char.master-ruan",
-        "char.song-changjing",
+        "char.old-man-yang",
+        "concept.imperial-kilns",
+        "fac.great-li-empire",
+        "loc.dragon-spring-prefecture",
+        "loc.mountains-near-town",
+        "loc.small-town"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.master-ruan",
         "char.song-yuzhang",
         "fac.great-li-empire",
         "loc.dragon-spring-prefecture",
-        "loc.lizhu-grotto-heaven"
-      ],
-      "referenced_by": [
-        "char.song-yuzhang",
-        "fac.great-li-empire",
-        "loc.dragon-spring-prefecture"
+        "loc.small-town"
       ],
       "card": "wiki/characters/wu-yuan.md"
     },
@@ -9938,7 +10025,8 @@
         "idiom.hengqu-four-sentences",
         "idiom.yan-sheng-yu-kuan",
         "loc.lizhu-grotto-heaven",
-        "loc.old-locust-tree"
+        "loc.old-locust-tree",
+        "loc.piyun-mountain"
       ],
       "card": "wiki/characters/qi-jingchun.md"
     },
@@ -10065,13 +10153,15 @@
         "char.song-changjing",
         "cult.confucianism",
         "fac.mountain-cliff-academy",
-        "loc.lizhu-grotto-heaven"
+        "loc.lizhu-grotto-heaven",
+        "loc.piyun-mountain"
       ],
       "referenced_by": [
         "char.chen-dui",
         "char.chen-songfeng",
         "char.liu-baqiao",
-        "fac.lake-view-academy"
+        "fac.lake-view-academy",
+        "loc.piyun-mountain"
       ],
       "card": "wiki/characters/cui-minghuang.md"
     },
@@ -10129,6 +10219,7 @@
         "char.qi-jingchun",
         "char.scholarly-sage",
         "char.song-he",
+        "char.wu-yuan",
         "char.xie-lingyue",
         "char.yu-lu",
         "char.zuo-you",
@@ -10782,13 +10873,15 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.chen-pingan",
         "char.fan-er",
         "char.li-er",
         "char.old-man-yang",
         "char.zhu-lian",
         "cult.martial-arts",
         "cult.realms-overview",
-        "loc.luopo-mountain"
+        "loc.luopo-mountain",
+        "loc.small-town"
       ],
       "card": "wiki/characters/zheng-dafeng.md"
     },
@@ -11165,6 +11258,8 @@
         "char.song-changjing",
         "char.song-jixin",
         "char.wei-bo",
+        "char.wu-yuan",
+        "char.zheng-dafeng",
         "char.zhigui",
         "char.zhou-mili",
         "concept.ancestral-shade-leaves",
@@ -11184,6 +11279,7 @@
         "loc.luopo-mountain",
         "loc.niping-alley",
         "loc.old-locust-tree",
+        "loc.piyun-mountain",
         "loc.qilong-alley",
         "loc.sword-qi-great-wall"
       ],
@@ -11270,6 +11366,7 @@
         "char.sun-jiashu",
         "char.wei-bo",
         "char.wei-jin",
+        "char.wu-yuan",
         "char.xie-lingyue",
         "char.xie-shi",
         "char.xu-yuanxia",
