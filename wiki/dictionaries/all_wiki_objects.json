@@ -3,9 +3,9 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 307,
+  "total_entries": 309,
   "counts_by_type": {
-    "artifact": 15,
+    "artifact": 17,
     "character": 158,
     "concept": 18,
     "cultivation": 11,
@@ -347,6 +347,7 @@
       "referenced_by": [
         "art.shuduan-cliff",
         "art.sword-nurturing-gourd",
+        "art.twelve-flying-swords",
         "art.xiangfu-blade",
         "char.bai-lianshuang",
         "char.black-snake-and-white-python",
@@ -373,6 +374,7 @@
         "char.pang-yuanji",
         "char.river-hag",
         "char.scholarly-sage",
+        "char.song-changjing",
         "char.song-jixin",
         "char.song-zhengchun",
         "char.wei-bo",
@@ -383,6 +385,7 @@
         "cult.qi-refinement",
         "cult.realms-overview",
         "cult.sword-cultivator",
+        "fac.bamboo-leaf-pavilion",
         "fac.great-li-empire",
         "fac.great-sui-nation",
         "idiom.daoli-and-benxin",
@@ -789,14 +792,18 @@
       ],
       "translation_rule": "## Правила перевода\n\n- **Передача:** `竹叶亭` — **Беседка Бамбукового Листа**; в дальнейшем тексте допустимо коротко — **Беседка**.\n- **Разряды:** `甲字高手` — **мастер класса «цзя»** (первый из десяти стволов); не «первосортный убийца».\n- **`谍子`** — **соглядатай**, **тайный дозорный**; это же слово в главе 94 обозначает великолиских лазутчиков в городке.\n\n## Правило для переводчика\n\nСлово `亭` здесь — не «павильон для отдыха», а название ведомства; потому в тексте не «Бамбуковый павильон». Рядом стоят другие ведомства двора: [Палата астрономических наблюдений](../factions/imperial-court.md), Министерство обрядов.",
       "links_to": [
+        "char.aliang",
+        "char.cui-chan",
         "char.great-li-empress",
         "char.wang-yifu",
         "char.xu-hunran",
         "char.ye-qing",
         "fac.great-li-empire",
+        "fac.sects-compendium",
         "faction.imperial-court"
       ],
       "referenced_by": [
+        "char.cui-chan",
         "char.great-li-empress",
         "char.ye-qing",
         "fac.great-li-empire"
@@ -1064,7 +1071,7 @@
         "военные",
         "экспансия"
       ],
-      "translation_rule": "## Правила перевода\n\n- **Передача:** `大骊` — **Великая Ли** (`骊` — «вороной конь», входит в имя династии). Не «Дали»: транслитерация «Дали» создаёт ложную ассоциацию с южнокитайским городом.\n- **Титулы:** `国师` — **государственный наставник**; `督造官` — **надзиратель за печами** (не «инспектор»); `山君` — **горный бог/владыка горы**.\n- **Слово `大`:** в названии державы **не переводить** как «великий» отдельно — «Великая Ли» уже включает его.\n\n## Правило для переводчика\n\nРечь имперских чиновников — **канцелярская**, с формулами («по докладу», «согласно уложению»). Речь военных — короткая и грубая. Не смешивать эти два регистра: в романе они чётко разделены и характеризуют персонажей.\n\n### Главы 112–114\n- Глава 112: тайный указ государя — все боги гор и вод в тысяче ли вокруг [Городка Красных Свечей](../locations/red-candle-town.md) обязаны перехватить и убить [А-Ляна](../characters/aliang.md); ослушавшихся ждут разбитое золотое тело и вычеркивание из уездных хроник. За дело берутся начальник Управления жертвоприношений, начальник Управления отбора военных и [первейшая старейшина Дворца Вечной Весны](../factions/sects-compendium.md).\n- Глава 113: государь поднимается по ярусам [Столицы Белого Нефрита](../locations/white-jade-capital.md) — двенадцать мечей, по одному на ярус; говорит, что все доходы рода Сун с грот-неба вложены в эту башню, и напоминает о притче «за тысячу золота купить кости коня».\n- Глава 114: формула, которой держава объявляет себя всему [Восточному Драгоценному Сосуду](../locations/eastern-treasured-vial-continent.md): **«Всё, что ниже тринадцатого предела, можно убить»**.",
+      "translation_rule": "## Правила перевода\n\n- **Передача:** `大骊` — **Великая Ли** (`骊` — «вороной конь», входит в имя династии). Не «Дали»: транслитерация «Дали» создаёт ложную ассоциацию с южнокитайским городом.\n- **Титулы:** `国师` — **государственный наставник**; `督造官` — **надзиратель за печами** (не «инспектор»); `山君` — **горный бог/владыка горы**.\n- **Слово `大`:** в названии державы **не переводить** как «великий» отдельно — «Великая Ли» уже включает его.\n\n## Правило для переводчика\n\nРечь имперских чиновников — **канцелярская**, с формулами («по докладу», «согласно уложению»). Речь военных — короткая и грубая. Не смешивать эти два регистра: в романе они чётко разделены и характеризуют персонажей.\n\n### Главы 112–114\n- Глава 112: тайный указ государя — все боги гор и вод в тысяче ли вокруг [Городка Красных Свечей](../locations/red-candle-town.md) обязаны перехватить и убить [А-Ляна](../characters/aliang.md); ослушавшихся ждут разбитое золотое тело и вычеркивание из уездных хроник. За дело берутся начальник Управления жертвоприношений, начальник Управления отбора военных и [первейшая старейшина Дворца Вечной Весны](../factions/sects-compendium.md).\n- Глава 113: государь поднимается по ярусам [Столицы Белого Нефрита](../locations/white-jade-capital.md) — двенадцать мечей, по одному на ярус; говорит, что все доходы рода Сун с грот-неба вложены в эту башню, и напоминает о притче «за тысячу золота купить кости коня».\n- Глава 114: формула, которой держава объявляет себя всему [Восточному Драгоценному Сосуду](../locations/eastern-treasured-vial-continent.md): **«Всё, что ниже тринадцатого предела, можно убить»**.\n\n### Главы 115–118\n- Глава 115: подсчёт потерь — двадцать лет удачи державы, шесть мечей, жизнь государя (десять, от силы пятнадцать лет). Право **надзирать за державой** отдано [Сун Чанцзину](../characters/song-changjing.md).\n- Глава 116: государственная линия [Сун Чжэнчуня](../characters/song-zhengchun.md) в его собственных словах: «люди с гор, добрые или злые, должны быть заперты в клетку», а держава обязана уметь вернуть справедливость даже за последнего человека с рынка.\n- Глава 117: выясняется, что облава была нужна ещё и для того, чтобы горные небожители «сами попробовали, остёр ли великолиский тесак»; [Беседка Бамбукового Листа](../factions/bamboo-leaf-pavilion.md) переходит к [Цуй Чаню](../characters/cui-chan.md), а госпожа Великой Ли уходит в [Дворец Вечной Весны](sects-compendium.md).\n- Глава 118: разделение рек и «золотая голова» горного бога на горе Лопо — Сун Юйчжан, «умерший от болезни» и пожалованный посмертно.",
       "links_to": [
         "char.aliang",
         "char.cao-xi",
@@ -1076,6 +1083,7 @@
         "char.song-changjing",
         "char.song-he",
         "char.song-yuzhang",
+        "char.song-zhengchun",
         "char.wang-yifu",
         "char.wu-yuan",
         "char.xu-hunran",
@@ -1101,6 +1109,7 @@
         "loc.white-jade-capital"
       ],
       "referenced_by": [
+        "art.twelve-flying-swords",
         "art.xiangfu-blade",
         "char.aliang",
         "char.cao-gengxin",
@@ -1397,6 +1406,7 @@
       ],
       "referenced_by": [
         "art.osmanthus-island-ferry",
+        "art.talisman-sword",
         "char.cao-fu",
         "char.cui-cheng",
         "char.he-xiaoliang",
@@ -1961,6 +1971,7 @@
         "loc.mountains-near-town"
       ],
       "referenced_by": [
+        "art.talisman-sword",
         "char.master-ruan",
         "loc.mountains-near-town"
       ],
@@ -3237,6 +3248,48 @@
       "card": "wiki/cultivation/daoism.md"
     },
     {
+      "id": "art.twelve-flying-swords",
+      "type": "artifact",
+      "zh": "十二柄飞剑",
+      "zh_aliases": [
+        "白玉京飞剑",
+        "镇国重器"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Shí'èr bǐng fēijiàn",
+      "palladius": "Шиэр бин фэйцзянь",
+      "ru": "Двенадцать летающих мечей Столицы Белого Нефрита",
+      "ru_aliases": [
+        "двенадцать мечей",
+        "летающие мечи столицы"
+      ],
+      "first_chapter": 113,
+      "gender": null,
+      "subtype": "sword",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "меч",
+        "великая-ли",
+        "столица-белого-нефрита",
+        "сокровище",
+        "потеря"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **Передача имён:** Курения (`香火`), Оплот (`砥柱`), Усмиряющая вершины (`镇嶽`), Горы и моря (`山海`), Персиковая ветвь (`桃枝`), Гром небес (`雷霄`), Пурпурная молния (`紫电`), Книга канонов (`经书`), Буддийский напев (`梵音`), Дыхание Хаожань (`浩然气`), Алый убор (`红妆`), Облачный узор (`云纹`). Имена даются без кавычек в перечне и в кавычках при отдельном упоминании.\n- **`飞剑`** — **летающий меч**; не «летающий клинок» и не «меч-снаряд».\n- **`镇国重器`** — **главное сокровище державы**, «опора государства».",
+      "links_to": [
+        "char.aliang",
+        "char.luan-changye",
+        "char.song-jixin",
+        "char.song-zhengchun",
+        "fac.great-li-empire",
+        "loc.white-jade-capital"
+      ],
+      "referenced_by": [],
+      "card": "wiki/artifacts/twelve-flying-swords.md"
+    },
+    {
       "id": "concept.currency",
       "type": "concept",
       "zh": "神仙钱",
@@ -3965,6 +4018,7 @@
         "art.chen-pingans-swords",
         "art.heavenly-truths-swords",
         "art.sword-nurturing-gourd",
+        "art.talisman-sword",
         "char.aliang",
         "char.chen-pingan",
         "char.chen-pingan.cultivation",
@@ -5427,6 +5481,7 @@
       "referenced_by": [
         "art.cloud-ringing-book",
         "art.shuduan-cliff",
+        "art.talisman-sword",
         "art.xiangfu-blade",
         "char.aliang",
         "char.cao-gengxin",
@@ -5772,6 +5827,8 @@
         "loc.white-jade-capital"
       ],
       "referenced_by": [
+        "art.talisman-sword",
+        "art.twelve-flying-swords",
         "char.aliang",
         "char.song-jixin",
         "cult.hundred-schools",
@@ -6498,6 +6555,52 @@
         "loc.mirage-city"
       ],
       "card": "wiki/locations/parasol-leaf-continent.md"
+    },
+    {
+      "id": "art.talisman-sword",
+      "type": "artifact",
+      "zh": "符箓",
+      "zh_aliases": [
+        "京城符剑",
+        "符箓剑"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Fulü",
+      "palladius": "Фулу",
+      "ru": "Меч «Талисман»",
+      "ru_aliases": [
+        "«Талисман»",
+        "столичный меч-талисман"
+      ],
+      "first_chapter": 117,
+      "gender": null,
+      "subtype": "sword",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "меч",
+        "великая-ли",
+        "сокровище",
+        "ян-хуа",
+        "прочность"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **Передача:** `符箓` как имя меча — **«Талисман»** (в кавычках). Не «Фулу» в тексте романа: китайское чтение оставлено только для справки.\n- **`符剑`** — **меч-талисман**, **даосский меч-талисман**; не «меч с талисманами».\n- Не путать с бумажными талисманами (`符箓`) в стопке [Линь Шоуи](../characters/lin-shouyi.md) — там это обычные «жёлтые бумажные талисманы».",
+      "links_to": [
+        "char.lin-shouyi",
+        "char.luan-changye",
+        "char.master-ruan",
+        "char.yang-hua",
+        "loc.eastern-treasured-vial-continent",
+        "loc.great-li-capital",
+        "loc.longji-mountain",
+        "loc.white-jade-capital"
+      ],
+      "referenced_by": [
+        "char.yang-hua"
+      ],
+      "card": "wiki/artifacts/talisman-sword.md"
     },
     {
       "id": "art.chen-pingans-swords",
@@ -8721,6 +8824,7 @@
         "cult.daoism",
         "cult.militarians",
         "cult.three-teachings",
+        "fac.bamboo-leaf-pavilion",
         "fac.fuji-sect",
         "fac.golden-gate-school",
         "fac.great-li-empire",
@@ -9995,11 +10099,15 @@
         "loc.heavenly-world"
       ],
       "referenced_by": [
+        "art.talisman-sword",
+        "art.twelve-flying-swords",
         "art.xiangfu-blade",
         "char.aliang",
         "char.luan-changye",
+        "char.song-changjing",
         "char.song-jixin",
         "char.song-zhengchun",
+        "char.zhigui",
         "cult.hundred-schools",
         "cult.qi-refinement",
         "fac.great-li-empire",
@@ -10038,6 +10146,7 @@
         "faction.imperial-court"
       ],
       "referenced_by": [
+        "art.talisman-sword",
         "char.song-zhengchun",
         "cult.qi-refinement",
         "loc.white-jade-capital"
@@ -10218,7 +10327,8 @@
       "palladius": "Сун Хэ",
       "ru": "Сун Хэ",
       "ru_aliases": [
-        "наследный принц"
+        "наследный принц",
+        "Хэ-эр"
       ],
       "first_chapter": 117,
       "gender": "male",
@@ -10238,6 +10348,8 @@
         "char.cao-xi",
         "char.cui-chan",
         "char.song-changjing",
+        "char.song-jixin",
+        "char.song-zhengchun",
         "fac.great-li-empire",
         "faction.imperial-court"
       ],
@@ -10302,6 +10414,7 @@
       ],
       "referenced_by": [
         "art.shanxiao-pot",
+        "art.twelve-flying-swords",
         "char.cao-xi",
         "char.chen-dui",
         "char.chen-pingan",
@@ -10311,6 +10424,7 @@
         "char.ning-yao",
         "char.qi-jingchun",
         "char.song-changjing",
+        "char.song-he",
         "char.song-yuzhang",
         "char.song-zhengchun",
         "char.tao-zi",
@@ -10359,6 +10473,8 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Сун Чанцзин** — имя склоняется (*Сун Чанцзина, Сун Чанцзину*).",
       "links_to": [
+        "art.xiangfu-blade",
+        "char.aliang",
         "char.cao-ci",
         "char.cao-xi",
         "char.chen-dui",
@@ -10374,7 +10490,8 @@
         "fac.great-li-empire",
         "faction.imperial-court",
         "loc.fortune-street",
-        "loc.niping-alley"
+        "loc.niping-alley",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
         "art.xiangfu-blade",
@@ -10458,9 +10575,12 @@
         "loc.white-jade-capital"
       ],
       "referenced_by": [
+        "art.twelve-flying-swords",
         "char.aliang",
         "char.luan-changye",
+        "char.song-he",
         "cult.qi-refinement",
+        "fac.great-li-empire",
         "fac.wind-snow-temple"
       ],
       "card": "wiki/characters/song-zhengchun.md"
@@ -10766,6 +10886,7 @@
       ],
       "referenced_by": [
         "char.li-baoping",
+        "char.song-changjing",
         "char.song-zhengchun",
         "char.wei-bo"
       ],
@@ -12321,6 +12442,7 @@
         "cult.confucianism",
         "cult.hundred-schools",
         "cult.qi-refinement",
+        "fac.bamboo-leaf-pavilion",
         "fac.great-li-empire",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
@@ -12352,6 +12474,7 @@
         "char.zuo-you",
         "cult.confucianism",
         "cult.hundred-schools",
+        "fac.bamboo-leaf-pavilion",
         "fac.great-li-empire",
         "fac.lake-view-academy",
         "fac.mountain-cliff-academy",
@@ -12690,7 +12813,8 @@
         "concept.qiyun",
         "cult.demon-tribe",
         "loc.lizhu-grotto-heaven",
-        "loc.niping-alley"
+        "loc.niping-alley",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
         "char.chen-pingan",
@@ -14781,6 +14905,7 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Ян Хуа** — в проекте **не склоняется** (*у Ян Хуа, к Ян Хуа*); допустимы титулования *«богиня Ян Хуа»*, *«госпожа Ян Хуа»*.\n- **Речь:** надменная, ледяная, торжественная; она почти никогда не показывается людям и говорит с ними как с червями.",
       "links_to": [
+        "art.talisman-sword",
         "char.chen-pingan",
         "char.great-li-empress",
         "char.ma-lanhua",
@@ -14791,6 +14916,7 @@
         "loc.niping-alley"
       ],
       "referenced_by": [
+        "art.talisman-sword",
         "char.great-li-empress",
         "char.wang-yifu",
         "char.wei-bo",
