@@ -64,10 +64,10 @@
 
 ## Даосы, божества, духи
 
-[Лу Чэнь](lu-chen.md) · [Чжан Шаньфэн](zhang-shanfeng.md) · [Ян Хуа](yang-hua.md) · [Иньский бог Гу Тао](yin-god.md) · [Госпожа Чу](lady-chu.md) · [Госпожа Сюй](madam-xu.md) · [Ма Ланьхуа](ma-lanhua.md) · [Вэй Бо](wei-bo.md)
+[Дух меча](sword-spirit.md) · [Лу Чэнь](lu-chen.md) · [Чжан Шаньфэн](zhang-shanfeng.md) · [Ян Хуа](yang-hua.md) · [Иньский бог Гу Тао](yin-god.md) · [Госпожа Чу](lady-chu.md) · [Госпожа Сюй](madam-xu.md) · [Ма Ланьхуа](ma-lanhua.md) · [Вэй Бо](wei-bo.md)
 
 ## Держава и двор
 
-[Сун Чанцзин](song-changjing.md) · [Сун Хэ](song-he.md) · [Цао Си](cao-xi.md) · [Гао Сюань](gao-xuan.md) · [Яо Чжэнь](yao-zhen.md) · [Сюй Юанься](xu-yuanxia.md) · [Тао Цзы](tao-zi.md) · [Бай Юань](mountain-moving-ape.md) · [Вэй Цзинь](wei-jin.md) · [Ци Цзинлун](qi-jinglong.md) · [Вэй Сянь](wei-xian.md) · [Се Линъюэ](xie-lingyue.md) · [Юй Лу](yu-lu.md) · [Лу Тай](lu-tai.md) · [Чэнь Сунфэн](chen-songfeng.md)
+[Сун Чанцзин](song-changjing.md) · [Сун Хэ](song-he.md) · [Цао Си](cao-xi.md) · [Гао Сюань](gao-xuan.md) · [Яо Чжэнь](yao-zhen.md) · [Сюй Юанься](xu-yuanxia.md) · [Тао Цзы](tao-zi.md) · [Дун Ху](dong-hu.md) · [Сун Юйчжан](song-yuzhang.md) · [Бай Юань](mountain-moving-ape.md) · [Вэй Цзинь](wei-jin.md) · [Ци Цзинлун](qi-jinglong.md) · [Вэй Сянь](wei-xian.md) · [Се Линъюэ](xie-lingyue.md) · [Юй Лу](yu-lu.md) · [Лу Тай](lu-tai.md) · [Чэнь Сунфэн](chen-songfeng.md)
 
 > **Проверить полноту всегда можно командой:** `python3 scripts/wiki_tool.py index` — указатель генерируется из карточек, а не пишется руками.
