@@ -19,6 +19,10 @@
 | [Фляга для выращивания мечей](sword-nurturing-gourd.md) | 养剑葫 | [Чэнь Пинъань](../characters/chen-pingan.md) |
 | [Белая чаша](white-bowl.md) | 白碗 | [Лю Чжимао](../characters/liu-zhimao.md) |
 | [Колокольчик, что отпугивает нечисть](zhen-yao-bell.md) | 震妖铃 | [Чжу Хэ](../characters/zhu-he.md) |
+| [Тесак «Благой знак»](xiangfu-blade.md) | 祥符 | [Ли Баопинг](../characters/li-baoping.md) |
+| [Пилюля «Желчь героя»](hero-gall.md) | 英雄胆 | [Чжу Хэ](../characters/zhu-he.md) → [Чжу Лу](../characters/zhu-lu.md) |
+| [«Книга звона над облаками»](cloud-ringing-book.md) | 云上琅琅书 | [Линь Шоуи](../characters/lin-shouyi.md) |
+| [«Книга пурпурного дыхания»](purple-qi-book.md) | 紫气书 | [Чжу Лу](../characters/zhu-lu.md) |
 
 ## Правила создания карточек
 

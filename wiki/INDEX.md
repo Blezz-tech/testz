@@ -5,9 +5,9 @@
 > Файл генерируется автоматически командой `python3 scripts/wiki_tool.py index`.
 > Не редактируйте его вручную: после правки карточек просто перегенерируйте указатель.
 
-**Всего статей: 288.**
+**Всего статей: 293.**
 
-## Персонажи (152)
+## Персонажи (151)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -18,7 +18,7 @@
 | [Бай Юань](characters/mountain-moving-ape.md) | `搬山猿 / 老畜生` | 43 |
 | [Ван Ифу](characters/wang-yifu.md) | `王毅甫 / 卢氏王朝头号猛将 / 上柱国` | 89 |
 | [Высший Святой — Первый Учитель](characters/zhisheng-xianshi.md) | `至圣先师` | 11 |
-| [Вэй Бо](characters/wei-bo.md) | `魏檗 / 魏山神 / 老魏` | 102 |
+| [Вэй Бо](characters/wei-bo.md) | `魏檗 / 魏山神 / 老魏 / 棋墩山土地` | 98 |
 | [Вэй Сянь](characters/wei-xian.md) | `魏羡 / 南苑国开国皇帝` | 315 |
 | [Вэй Цзинь](characters/wei-jin.md) | `魏晋 / 剑仙魏晋` | 88 |
 | [Гао Сюань](characters/gao-xuan.md) | `高煊 / 高公子` | 159 |
@@ -34,7 +34,6 @@
 | [Дун Ху](characters/dong-hu.md) | `董湖 / 董侍郎 / 礼部右侍郎` | 83 |
 | [Дун Хуафу](characters/dong-huafu.md) | `董画符 / 董炭 / 炭儿` | 575 |
 | [Дун Шуйцзин](characters/dong-shuijing.md) | `董水井 / 水井` | 72 |
-| [Дух земли Горы Шашечной Доски](characters/chessboard-earth-god.md) | `棋墩山土地 / 白衣老翁 / 土地老翁 / 绿杖男子` | 98 |
 | [Дух меча](characters/sword-spirit.md) | `剑灵 / 白衣女子 / 高大女子 / 前任主人` | 78 |
 | [Дэ Чжан](characters/die-zhang.md) | `叠嶂 / 叠嶂姑娘` | 487 |
 | [Е Цин](characters/ye-qing.md) | `叶庆 / 大将军叶庆 / 边关砥柱` | 93 |
@@ -180,7 +179,7 @@
 | [Чистые мастера боевых искусств](cultivation/martial-arts.md) | `纯粹武夫 / 武夫 / 武道 / 一口真气` | 13 |
 | [Школа Военных (Бинцзя)](cultivation/militarians.md) | `兵家 / 兵家祖庭 / 兵家修士 / 杀力` | 11 |
 
-## Фракции, империи и секты (36)
+## Фракции, империи и секты (37)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -191,6 +190,7 @@
 | [Великая Суй](factions/great-sui-nation.md) | `大隋 / 大隋王朝` | 132 |
 | [Великая Цюань](factions/great-quan-empire.md) | `大泉王朝 / 大泉` | 331 |
 | [Гора Истинного Солнца](factions/zhengyang-mountain.md) | `正阳山` | 7 |
+| [Гора Чжэньу](factions/zhenwu-mountain.md) | `真武山 / 真武` | 88 |
 | [Гора Яолин](factions/mount-yaoling.md) | `摇铃山 / 丰城楚家` | 94 |
 | [Жёлтый Двор](factions/yellow-court-nation.md) | `黄庭国` | 133 |
 | [Императорский двор (Нынешняя династия)](factions/imperial-court.md) | `朝廷 / 本朝 / 言官 / 清流` | 1 |
@@ -221,7 +221,7 @@
 | [Школа Озёрных Гор](factions/lake-mountain-school.md) | `湖山派` | 308 |
 | [Школа Хуанлян](factions/yellow-millet-school.md) | `黄粱派` | 926 |
 
-## Миры, континенты и локации (52)
+## Миры, континенты и локации (53)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -242,6 +242,7 @@
 | [Городок](locations/small-town.md) | `小镇` | 1 |
 | [Городок Красных Свечей](locations/red-candle-town.md) | `红烛镇` | 97 |
 | [Горы близ городка](locations/mountains-near-town.md) | `小镇附近的山 / 群山 / 棋墩山 / 云遮山` | 43 |
+| [Грот-небеса Бамбукового моря](locations/bamboo-sea-grotto-heaven.md) | `竹海洞天 / 竹海 / 青神山 / 道德林` | 102 |
 | [Грот-небеса Личжу](locations/lizhu-grotto-heaven.md) | `骊珠洞天` | 1 |
 | [Десять больших грот-небес](locations/ten-great-grotto-heavens.md) | `十大洞天 / 大洞天` | 70 |
 | [Долина Призрачных Тварей](locations/ghost-devils-valley.md) | `鬼蜮谷` | 488 |
@@ -299,10 +300,12 @@
 | [Судьбоносная удача и благовония веры](concepts/qiyun.md) | `气运 / 香火 / 山水神灵 / 金身` | 0 |
 | [Яшэн](concepts/yasheng.md) | `压胜` | 15 |
 
-## Артефакты и снаряжение (10)
+## Артефакты и снаряжение (14)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
+| [«Книга звона над облаками»](artifacts/cloud-ringing-book.md) | `云上琅琅书 / 道家古籍 / 泛黄古籍` | 104 |
+| [«Книга пурпурного дыхания»](artifacts/purple-qi-book.md) | `紫气书 / 仙家秘籍 / 武学秘籍` | 104 |
 | [«Небесная Истина»](artifacts/heavenly-truths-swords.md) | `天真 / 宁姚的剑` | 600 |
 | [Белая чаша](artifacts/white-bowl.md) | `白碗 / 大白碗` | 18 |
 | [Горлянка для взращивания меча](artifacts/sword-nurturing-gourd.md) | `养剑葫 / 葫芦` | 57 |
@@ -311,6 +314,8 @@
 | [Мечи «Птаха в Клетке» и «Луна в Колодце»](artifacts/chen-pingans-swords.md) | `笼中雀 / 井中月 / 笼中雀 / 井中月` | 273 |
 | [Нефритовый кулон «Старый дракон проливает дождь»](artifacts/old-dragon-rain-pendant.md) | `老龙布雨 / 老龙佩` | 9 |
 | [Переправа «Остров Османтуса»](artifacts/osmanthus-island-ferry.md) | `桂花岛` | 253 |
+| [Пилюля «Желчь героя»](artifacts/hero-gall.md) | `英雄胆 / 英雄胆` | 104 |
+| [Тесак «Благой знак»](artifacts/xiangfu-blade.md) | `祥符 / 狭刀 / 白色刀鞘` | 104 |
 | [Чайник с клеймом «Горный демон»](artifacts/shanxiao-pot.md) | `山魈壶 / 养心壶` | 17 |
 | [Чуи и Шиу](artifacts/chuyi-and-shiwu.md) | `初一 / 十五 / 初一 / 十五 / 飞剑初一十五` | 273 |
 

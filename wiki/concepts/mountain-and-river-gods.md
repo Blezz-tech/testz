@@ -48,4 +48,4 @@ tags: ["божества", "чины", "великая-ли", "яшмовые-г
 
 ## Перекрёстные ссылки
 - Места: [Городок](../locations/small-town.md) · [Гора Шашечной Доски](../locations/mountains-near-town.md)
-- Связанные: [Речная хозяйка](../characters/river-hag.md) · [Дух земли Горы Шашечной Доски](../characters/chessboard-earth-god.md) · [Великая Ли](../factions/great-li-empire.md)
+- Связанные: [Речная хозяйка](../characters/river-hag.md) · [Вэй Бо](../characters/wei-bo.md) · [Великая Ли](../factions/great-li-empire.md)
