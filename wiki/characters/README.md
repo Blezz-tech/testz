@@ -1,6 +1,6 @@
 # Персонажи (`wiki/characters/`)
 
-Здесь живут все люди, духи, божества и демоны романа — **161 карточка**, включая 9 подстраниц главных героев.
+Здесь живут все люди, духи, божества и демоны романа — **166 карточек**, включая 9 подстраниц главных героев.
 
 [← Портал Вики](../README.md) · [Полный указатель](../INDEX.md)
 
@@ -48,7 +48,7 @@
 
 ## Великая стена мечевой ци
 
-[Чэнь Цинду](chen-qingdu.md) · [А-Лян](aliang.md) · [Бай Ляньшуан](bai-lianshuang.md) · [Налань Есин](nalan-yexing.md) · [Чэнь Саньцю](chen-sanqiu.md) · [Дэ Чжан](die-zhang.md) · [Янь Чжо](yan-zhuo.md) · [Дун Хуафу](dong-huafu.md) · [Пан Юаньцзи](pang-yuanji.md) · [Ци Шоу](qi-shou.md) · [Ми Юй](mi-yu.md) · [Инь Чэнь](yin-chen.md) · [Го Чжуцзю](guo-zhujiu.md) · [Бай Шоу](bai-shou.md) · [Бай Цзин](bai-jing.md)
+[Чэнь Цинду](chen-qingdu.md) · [А-Лян](aliang.md) · [Бай Ляньшуан](bai-lianshuang.md) · [Налань Есин](nalan-yexing.md) · [Чэнь Саньцю](chen-sanqiu.md) · [Дэ Чжан](die-zhang.md) · [Янь Чжо](yan-zhuo.md) · [Дун Хуафу](dong-huafu.md) · [Пан Юаньцзи](pang-yuanji.md) · [Ци Шоу](qi-shou.md) · [Ми Юй](mi-yu.md) · [Инь Чэнь](yin-chen.md) · [Го Чжуцзю](guo-zhujiu.md) · [Бай Шоу](bai-shou.md) · [Бай Цзин](bai-jing.md) · [Лю Юй](liu-yu.md) · [Мечник-моист](mohist-gatekeeper.md)
 
 ## Гора Лопо
 
@@ -64,10 +64,10 @@
 
 ## Даосы, божества, духи
 
-[Дух меча](sword-spirit.md) · [Лу Чэнь](lu-chen.md) · [Чжан Шаньфэн](zhang-shanfeng.md) · [Ян Хуа](yang-hua.md) · [Иньский бог Гу Тао](yin-god.md) · [Госпожа Чу](lady-chu.md) · [Госпожа Сюй](madam-xu.md) · [Ма Ланьхуа](ma-lanhua.md) · [Вэй Бо](wei-bo.md) · [Слепой даос](blind-daoist.md) · [Цзюэр](jiu-er.md)
+[Дух меча](sword-spirit.md) · [Лу Чэнь](lu-chen.md) · [Чжан Шаньфэн](zhang-shanfeng.md) · [Ян Хуа](yang-hua.md) · [Иньский бог Гу Тао](yin-god.md) · [Госпожа Чу](lady-chu.md) · [Госпожа Сюй](madam-xu.md) · [Ма Ланьхуа](ma-lanhua.md) · [Вэй Бо](wei-bo.md) · [Слепой даос](blind-daoist.md) · [Цзюэр](jiu-er.md) · [Водяной бог Вышитого Цветка](xuhua-river-god.md)
 
 ## Держава и двор
 
-[Сун Чанцзин](song-changjing.md) · [Сун Хэ](song-he.md) · [Цао Си](cao-xi.md) · [Гао Сюань](gao-xuan.md) · [Яо Чжэнь](yao-zhen.md) · [Сюй Юанься](xu-yuanxia.md) · [Тао Цзы](tao-zi.md) · [Дун Ху](dong-hu.md) · [Сун Юйчжан](song-yuzhang.md) · [Бай Юань](mountain-moving-ape.md) · [Вэй Цзинь](wei-jin.md) · [Ци Цзинлун](qi-jinglong.md) · [Вэй Сянь](wei-xian.md) · [Се Линъюэ](xie-lingyue.md) · [Юй Лу](yu-lu.md) · [Лу Тай](lu-tai.md) · [Чэнь Сунфэн](chen-songfeng.md) · [Госпожа Великой Ли](great-li-empress.md) · [Ван Ифу](wang-yifu.md) · [Сюй Хуньжань](xu-hunran.md)
+[Сун Чанцзин](song-changjing.md) · [Сун Хэ](song-he.md) · [Цао Си](cao-xi.md) · [Гао Сюань](gao-xuan.md) · [Яо Чжэнь](yao-zhen.md) · [Сюй Юанься](xu-yuanxia.md) · [Тао Цзы](tao-zi.md) · [Дун Ху](dong-hu.md) · [Сун Юйчжан](song-yuzhang.md) · [Бай Юань](mountain-moving-ape.md) · [Вэй Цзинь](wei-jin.md) · [Ци Цзинлун](qi-jinglong.md) · [Вэй Сянь](wei-xian.md) · [Се Линъюэ](xie-lingyue.md) · [Юй Лу](yu-lu.md) · [Лу Тай](lu-tai.md) · [Чэнь Сунфэн](chen-songfeng.md) · [Госпожа Великой Ли](great-li-empress.md) · [Ван Ифу](wang-yifu.md) · [Сюй Хуньжань](xu-hunran.md) · [Ланчжун Хань](han-langzhong.md) · [Ли Хун](li-hun.md) · [Ли Сишэн](li-xisheng.md) · [Ли Баочжэнь](li-baozhen.md)
 
 > **Проверить полноту всегда можно командой:** `python3 scripts/wiki_tool.py index` — указатель генерируется из карточек, а не пишется руками.

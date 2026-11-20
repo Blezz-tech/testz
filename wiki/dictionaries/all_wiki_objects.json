@@ -3,10 +3,10 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 316,
+  "total_entries": 321,
   "counts_by_type": {
     "artifact": 18,
-    "character": 161,
+    "character": 166,
     "concept": 19,
     "cultivation": 12,
     "faction": 37,
@@ -1004,6 +1004,7 @@
         "char.black-snake-and-white-python",
         "char.scarlet-censer-boy",
         "char.wei-bo",
+        "char.xuhua-river-god",
         "concept.mountain-opening-talismans",
         "idiom.ghost-wall",
         "loc.chundan-river"
@@ -1195,15 +1196,18 @@
         "char.eternal-spring-elder",
         "char.gao-xuan",
         "char.great-li-empress",
+        "char.han-langzhong",
         "char.lady-chu",
         "char.li-baoping",
         "char.li-baozhen",
+        "char.li-hun",
         "char.li-xisheng",
         "char.lin-junbi",
         "char.luan-changye",
         "char.ma-zhan",
         "char.mao-xiaodong",
         "char.master-ruan",
+        "char.mohist-gatekeeper",
         "char.qi-jingchun",
         "char.song-changjing",
         "char.song-he",
@@ -1213,6 +1217,7 @@
         "char.wei-bo",
         "char.wu-yuan",
         "char.xu-hunran",
+        "char.xuhua-river-god",
         "char.yang-hua",
         "char.ye-qing",
         "char.yin-god",
@@ -1321,6 +1326,7 @@
         "char.qi-tingji",
         "char.shao-yunyan",
         "char.sun-jiashu",
+        "char.wei-jin",
         "char.yan-zhuo",
         "char.yin-chen",
         "char.zuo-you",
@@ -1435,6 +1441,50 @@
         "loc.mirage-city"
       ],
       "card": "wiki/factions/great-quan-empire.md"
+    },
+    {
+      "id": "char.xuhua-river-god",
+      "type": "character",
+      "zh": "绣花江水神",
+      "zh_aliases": [
+        "江水正神",
+        "江神"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Xiuhua jiang shen",
+      "palladius": "Сюхуа цзян шэнь",
+      "ru": "Водяной бог Вышитого Цветка",
+      "ru_aliases": [
+        "бог реки Вышитого Цветка",
+        "водяной бог"
+      ],
+      "first_chapter": 126,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "божество",
+        "река",
+        "великая-ли",
+        "служба"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **водяной бог Вышитого Цветка**, короче — **водяной бог**. Не «речной хозяйкой»: `河婆` — это другое, женское божество.\n- **Речь:** грубоватая, прямая, по-солдатски; он сам зовёт себя «грубым воякой» и знает, что госпожа Чу его презирает.\n- **⚠️ Сноска:** `正神` — «истинный бог»: божество, утверждённое державой в Реестре гор и вод, с узаконенным местом и жертвами.",
+      "links_to": [
+        "char.han-langzhong",
+        "char.lady-chu",
+        "char.mohist-gatekeeper",
+        "concept.mountain-and-river-gods",
+        "fac.great-li-empire",
+        "loc.chundan-river"
+      ],
+      "referenced_by": [
+        "char.han-langzhong",
+        "char.lady-chu"
+      ],
+      "card": "wiki/characters/xuhua-river-god.md"
     },
     {
       "id": "loc.eastern-treasured-vial-continent",
@@ -1594,6 +1644,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.li-hun",
         "concept.mean-households"
       ],
       "card": "wiki/characters/li-second-master.md"
@@ -1677,6 +1728,8 @@
         "char.aliang",
         "char.black-snake-and-white-python",
         "char.chen-pingan",
+        "char.liu-yu",
+        "char.mohist-gatekeeper",
         "char.yang-hua",
         "char.zhu-he",
         "char.zhu-lu",
@@ -1698,6 +1751,7 @@
         "char.chen-pingan.history",
         "char.chen-pingan.relationships",
         "char.lady-chu",
+        "char.liu-yu",
         "char.ma-lanhua",
         "char.scarlet-censer-boy",
         "char.wei-jin",
@@ -1794,18 +1848,23 @@
       "links_to": [
         "char.chen-pingan",
         "char.he-xiaoliang",
+        "char.lady-chu",
         "char.liu-xianyang",
         "char.master-ruan",
+        "char.mohist-gatekeeper",
         "char.wei-bo",
         "char.wei-xian",
         "fac.sects-compendium",
-        "loc.mountains-near-town"
+        "loc.mountains-near-town",
+        "loc.sword-qi-great-wall"
       ],
       "referenced_by": [
         "art.sword-nurturing-gourd",
         "char.aliang",
         "char.he-xiaoliang",
+        "char.liu-yu",
         "char.master-ruan",
+        "char.mohist-gatekeeper",
         "cult.militarians",
         "cult.sword-cultivator",
         "fac.wind-snow-temple",
@@ -2274,6 +2333,7 @@
       ],
       "referenced_by": [
         "art.hero-gall",
+        "char.liu-yu",
         "char.ma-kuxuan",
         "cult.militarians"
       ],
@@ -2623,6 +2683,7 @@
         "char.li-baozhen",
         "char.li-er",
         "char.li-huai",
+        "char.li-hun",
         "char.li-second-master",
         "char.li-xisheng",
         "char.liu-zhimao",
@@ -2789,6 +2850,7 @@
         "char.black-snake-and-white-python",
         "char.chen-pingan",
         "char.lady-chu",
+        "char.liu-yu",
         "char.master-ruan",
         "char.wei-bo",
         "char.wei-jin",
@@ -3026,12 +3088,13 @@
         "гордость",
         "богиня"
       ],
-      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **госпожа Чу**. Она — призрак в **свадебном платье** (`嫁衣`), и это не деталь декора: платье — знак брака, которого не было.\n- **⚠️ Сноска:** на её вратах висит доска с надписью **`秀水高风`** — «чистые воды, высокий нрав», а во дворце хранится **Железная грамота золотыми знаками** (`金书铁券`) с надписью **`山水永睦`** — «горы и воды в вечном мире». Это знаки признания её власти империей; без сноски читатель не поймёт, почему её территорию не трогают.\n- **Речь:** гордая, вспыльчивая, страшная в гневе. К даосу, назвавшему её «барышней», она рычит: **«Госпожой зови!»** — потому что она в свадебном платье.",
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **госпожа Чу**. Она — призрак в **свадебном платье** (`嫁衣`), и это не деталь декора: платье — знак брака, которого не было.\n- **⚠️ Сноска:** на её вратах висит доска с надписью **`秀水高风`** — «чистые воды, высокий нрав», а во дворце хранится **Железная грамота золотыми знаками** (`金书铁券`) с надписью **`山水永睦`** — «горы и воды в вечном мире». Это знаки признания её власти империей; без сноски читатель не поймёт, почему её территорию не трогают.\n- **Речь:** гордая, вспыльчивая, страшная в гневе. К даосу, назвавшему её «барышней», она рычит: **«Госпожой зови!»** — потому что она в свадебном платье.\n- **Угроза:** мечник-моист обещает ей великолискую водяную тюрьму (`水牢`), если она ещё раз погубит книжника, — и она верит, что он это сделает.",
       "links_to": [
         "char.blind-daoist",
         "char.chen-pingan",
         "char.cui-chan",
         "char.wei-bo",
+        "char.xuhua-river-god",
         "char.yin-god",
         "char.zhigui",
         "concept.qiyun",
@@ -3042,7 +3105,11 @@
       "referenced_by": [
         "art.barrier-breaking-talisman",
         "char.blind-daoist",
+        "char.han-langzhong",
         "char.jiu-er",
+        "char.mohist-gatekeeper",
+        "char.wei-jin",
+        "char.xuhua-river-god",
         "concept.reading-seed",
         "cultivation.thunder-magic",
         "fac.mount-yaoling",
@@ -5215,6 +5282,49 @@
       "card": "wiki/locations/heavenly-world.md"
     },
     {
+      "id": "char.han-langzhong",
+      "type": "character",
+      "zh": "韩郎中",
+      "zh_aliases": [
+        "老灯笼",
+        "青衫老人",
+        "礼部郎中"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Han Langzhong",
+      "palladius": "Хань ланчжун",
+      "ru": "Ланчжун Хань",
+      "ru_aliases": [
+        "Старый фонарь",
+        "старик в синем халате"
+      ],
+      "first_chapter": 124,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "ведомство-обрядов",
+        "чиновник",
+        "фонарь"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **ланчжун Хань**; в устах врагов и друзей — прозвище **Старый фонарь** (`老灯笼`), потому что он всюду ходит со своим большим красным фонарём.\n- **Речь:** книжная и сдержанная, но с ядовитой усмешкой; с госпожой Чу он говорит ровно до той черты, за которой начинается крик.\n- **⚠️ Сноска:** `郎中` — не лекарь, а чин пятого разряда: начальник управления в ведомстве. Пояснять один раз, при первом появлении.",
+      "links_to": [
+        "char.lady-chu",
+        "char.mohist-gatekeeper",
+        "char.xuhua-river-god",
+        "fac.great-li-empire"
+      ],
+      "referenced_by": [
+        "char.mohist-gatekeeper",
+        "char.xuhua-river-god"
+      ],
+      "card": "wiki/characters/han-langzhong.md"
+    },
+    {
       "id": "char.li-baoping",
       "type": "character",
       "zh": "李宝瓶",
@@ -5273,6 +5383,7 @@
         "char.jiu-er",
         "char.li-baozhen",
         "char.li-huai",
+        "char.li-hun",
         "char.li-second-master",
         "char.li-xisheng",
         "char.lin-shouyi",
@@ -5329,6 +5440,7 @@
       "links_to": [
         "char.cao-xi",
         "char.li-baoping",
+        "char.li-hun",
         "char.li-xisheng",
         "fac.chen-clan",
         "fac.clans-compendium",
@@ -5337,6 +5449,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.li-hun",
         "char.li-xisheng",
         "fac.clans-compendium",
         "loc.fortune-street"
@@ -5411,6 +5524,7 @@
       "links_to": [
         "char.li-baoping",
         "char.li-baozhen",
+        "char.li-hun",
         "char.qi-jingchun",
         "fac.clans-compendium",
         "fac.great-li-empire",
@@ -5418,6 +5532,7 @@
       ],
       "referenced_by": [
         "char.li-baozhen",
+        "char.li-hun",
         "char.zhu-he",
         "fac.clans-compendium",
         "loc.fortune-street"
@@ -5491,6 +5606,44 @@
         "loc.fortune-street"
       ],
       "card": "wiki/characters/li-huai.md"
+    },
+    {
+      "id": "char.li-hun",
+      "type": "character",
+      "zh": "李虹",
+      "zh_aliases": [],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Li Hong",
+      "palladius": "Ли Хун",
+      "ru": "Ли Хун",
+      "ru_aliases": [],
+      "first_chapter": 127,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "фортуна-стрит",
+        "род-ли",
+        "глава-рода",
+        "расчёт"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Ли Хун** — имя склоняется (*Ли Хуна, Ли Хуну*). Не путать с [Ли Хуном-старейшиной](../characters/li-second-master.md) из других линий.\n- **Речь:** деловая, ровная; он не кричит, а взвешивает. В гневе — не повышая голоса, но с нажимом на главное.\n- **⚠️ Сноска:** различие `嫡长子` (старший сын от главной жены) и `庶子` важно: наследник — Ли Сишэн, а не более бойкий Ли Баочжэнь.",
+      "links_to": [
+        "char.li-baoping",
+        "char.li-baozhen",
+        "char.li-second-master",
+        "char.li-xisheng",
+        "fac.great-li-empire",
+        "loc.small-town"
+      ],
+      "referenced_by": [
+        "char.li-baozhen",
+        "char.li-xisheng"
+      ],
+      "card": "wiki/characters/li-hun.md"
     },
     {
       "id": "char.li-jin",
@@ -6352,6 +6505,49 @@
       "card": "wiki/characters/liu-shiliu.md"
     },
     {
+      "id": "char.liu-yu",
+      "type": "character",
+      "zh": "刘狱",
+      "zh_aliases": [
+        "刘彧"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Liu Yu",
+      "palladius": "Лю Юй",
+      "ru": "Лю Юй",
+      "ru_aliases": [
+        "великолиский мастер Лю"
+      ],
+      "first_chapter": 119,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "воинский-храм",
+        "грубость",
+        "долг"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Лю Юй** — имя склоняется (*Лю Юя, Лю Юю*). Встречающееся в оригинале написание `刘彧` — то же лицо.\n- **Речь:** грубая, с матерком в подтексте, без придворных околичностей. Зовёт Вэй Бо «стариной-духом земли» и «камнем из нужника», а небожителей — без почтения.\n- **⚠️ Сноска:** его «табличка мира и покоя» (`太平无事牌`) — знак воинских горных храмов; по ней Вэй Бо и угадывает его школу.",
+      "links_to": [
+        "char.mohist-gatekeeper",
+        "char.wei-bo",
+        "char.wei-jin",
+        "fac.sects-compendium",
+        "fac.zhenwu-mountain",
+        "loc.chundan-river",
+        "loc.mountains-near-town"
+      ],
+      "referenced_by": [
+        "char.wei-bo",
+        "char.yang-hua"
+      ],
+      "card": "wiki/characters/liu-yu.md"
+    },
+    {
       "id": "char.lu-yan",
       "type": "character",
       "zh": "吕喦",
@@ -6966,6 +7162,52 @@
         "loc.sword-qi-great-wall"
       ],
       "card": "wiki/cultivation/sword-cultivator.md"
+    },
+    {
+      "id": "char.mohist-gatekeeper",
+      "type": "character",
+      "zh": "墨家游侠",
+      "zh_aliases": [
+        "年轻剑客",
+        "京城守门人"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Mojia youxia",
+      "palladius": "Моцзя юся",
+      "ru": "Мечник-моист",
+      "ru_aliases": [
+        "молодой мечник",
+        "страж столичных ворот"
+      ],
+      "first_chapter": 119,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "школа-мо",
+        "меч",
+        "страж"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **мечник-моист** (в тексте — «молодой мечник», «страж ворот»). Имя до поры не даётся — так и переводить, без домыслов.\n- **Речь:** ровная, вежливая, с лёгкой насмешкой; он не угрожает, а ставит условия. Знает придворную меру и цену каждому слову.\n- **⚠️ Сноска:** **школа Мо** (`墨家`) — учение Мо-цзы о всеобщей любви и защите слабых; из его «мечников-странников» в Великой Ли выходят стражи и тайные служители двора.",
+      "links_to": [
+        "char.han-langzhong",
+        "char.lady-chu",
+        "char.wei-jin",
+        "cult.hundred-schools",
+        "fac.great-li-empire"
+      ],
+      "referenced_by": [
+        "char.han-langzhong",
+        "char.liu-yu",
+        "char.wei-bo",
+        "char.wei-jin",
+        "char.xuhua-river-god"
+      ],
+      "card": "wiki/characters/mohist-gatekeeper.md"
     },
     {
       "id": "char.mi-yu",
@@ -8768,7 +9010,9 @@
         "char.bai-jing",
         "char.lady-chu",
         "char.li-jin",
+        "char.liu-yu",
         "char.scarlet-censer-boy",
+        "char.xuhua-river-god",
         "loc.fushui-bay",
         "loc.post-station-pillow"
       ],
@@ -9039,6 +9283,7 @@
         "char.he-xiaoliang",
         "char.jiang-shangzhen",
         "char.liu-baqiao",
+        "char.liu-yu",
         "char.luan-changye",
         "char.master-ruan",
         "char.mountain-moving-ape",
@@ -9895,7 +10140,9 @@
       "zh_aliases": [
         "目盲道人",
         "老道人",
-        "牛鼻子老道"
+        "牛鼻子老道",
+        "徐莹震",
+        "玄谷子"
       ],
       "unindexed_zh_aliases": [],
       "pinyin": "Mumang laodao",
@@ -10332,6 +10579,7 @@
         "char.cui-chan",
         "char.lu-tai",
         "char.luan-changye",
+        "char.mohist-gatekeeper",
         "char.zhong-kui",
         "concept.mountain-and-river-gods",
         "cult.confucianism",
@@ -15350,6 +15598,7 @@
         "art.talisman-sword",
         "char.chen-pingan",
         "char.great-li-empress",
+        "char.liu-yu",
         "char.ma-lanhua",
         "char.wei-bo",
         "concept.qiyun",

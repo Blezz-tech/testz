@@ -5,9 +5,9 @@
 > Файл генерируется автоматически командой `python3 scripts/wiki_tool.py index`.
 > Не редактируйте его вручную: после правки карточек просто перегенерируйте указатель.
 
-**Всего статей: 316.**
+**Всего статей: 321.**
 
-## Персонажи (161)
+## Персонажи (166)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -18,6 +18,7 @@
 | [Бай Шоу](characters/bai-shou.md) | `白首 / 小剑仙` | 539 |
 | [Бай Юань](characters/mountain-moving-ape.md) | `搬山猿 / 老畜生` | 43 |
 | [Ван Ифу](characters/wang-yifu.md) | `王毅甫 / 卢氏王朝头号猛将 / 上柱国` | 89 |
+| [Водяной бог Вышитого Цветка](characters/xuhua-river-god.md) | `绣花江水神 / 江水正神 / 江神` | 126 |
 | [Второй господин рода Ли](characters/li-second-master.md) | `李家二公子 / 二公子 / 李家二公子` | 105 |
 | [Высший Святой — Первый Учитель](characters/zhisheng-xianshi.md) | `至圣先师` | 11 |
 | [Вэй Бо](characters/wei-bo.md) | `魏檗 / 魏山神 / 老魏 / 棋墩山土地` | 98 |
@@ -45,11 +46,13 @@
 | [Инь Чэнь](characters/yin-chen.md) | `殷沉 / 殷老哥 / 元婴老剑修` | 653 |
 | [Иньский бог Гу Тао](characters/yin-god.md) | `阴神 / 顾韬 / 阴神顾韬` | 56 |
 | [Истинный человек Огненный Дракон](characters/fire-dragon-zhiren.md) | `火龙真人` | 219 |
+| [Ланчжун Хань](characters/han-langzhong.md) | `韩郎中 / 老灯笼 / 青衫老人 / 礼部郎中` | 124 |
 | [Ли Баопин](characters/li-baoping.md) | `李宝瓶 / 宝瓶` | 71 |
 | [Ли Баочжэнь](characters/li-baozhen.md) | `李宝箴 / 宝箴` | 127 |
 | [Ли Лю](characters/li-liu.md) | `李柳 / 柳儿` | 73 |
 | [Ли Сишэн](characters/li-xisheng.md) | `李希圣 / 希圣` | 127 |
 | [Ли Хуай](characters/li-huai.md) | `李槐 / 槐儿` | 67 |
+| [Ли Хун](characters/li-hun.md) | `李虹` | 127 |
 | [Ли Цзинь](characters/li-jin.md) | `李锦 / 年轻店主 / 年轻公子哥 / 书铺主人` | 106 |
 | [Ли Эр](characters/li-er.md) | `李二` | 50 |
 | [Линь Цзюньби](characters/lin-junbi.md) | `林君璧` | 594 |
@@ -66,12 +69,14 @@
 | [Лю Чжимао](characters/liu-zhimao.md) | `刘志茂 / 截江真君 / 刘真君 / 说书先生` | 17 |
 | [Лю Чичэн](characters/liu-chicheng.md) | `柳赤诚` | 226 |
 | [Лю Шилю](characters/liu-shiliu.md) | `刘十六` | 708 |
+| [Лю Юй](characters/liu-yu.md) | `刘狱 / 刘彧` | 119 |
 | [Люй Янь](characters/lu-yan.md) | `吕喦` | 925 |
 | [Ма Кусюань](characters/ma-kuxuan.md) | `马苦玄 / 苦玄` | 40 |
 | [Ма Ланьхуа](characters/ma-lanhua.md) | `马兰花 / 马婆婆` | 59 |
 | [Ма Чжань](characters/ma-zhan.md) | `马瞻 / 马老先生` | 82 |
 | [Мальчик в алом](characters/scarlet-censer-boy.md) | `朱衣童子 / 香火童子 / 小家伙 / 小童子` | 108 |
 | [Мао Сяодун](characters/mao-xiaodong.md) | `茅小冬 / 茅先生` | 160 |
+| [Мечник-моист](characters/mohist-gatekeeper.md) | `墨家游侠 / 年轻剑客 / 京城守门人` | 119 |
 | [Ми Юй](characters/mi-yu.md) | `米裕 / 泥瓶巷米裕` | 610 |
 | [Налань Есин](characters/nalan-yexing.md) | `纳兰夜行 / 纳兰爷爷 / 老管事` | 576 |
 | [Нин Яо](characters/ning-yao.md) | `宁姚 / 宁姑娘 / 小宁 / 宁小姐` | 15 |
