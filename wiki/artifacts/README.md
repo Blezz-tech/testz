@@ -24,6 +24,8 @@
 | [«Книга звона над облаками»](cloud-ringing-book.md) | 云上琅琅书 | [Линь Шоуи](../characters/lin-shouyi.md) |
 | [«Книга пурпурного дыхания»](purple-qi-book.md) | 紫气书 | [Чжу Лу](../characters/zhu-lu.md) |
 | [«Рассекающая воду круча»](shuduan-cliff.md) | 断水大崖 | [Ли Хуай](../characters/li-huai.md) |
+| [Меч «Талисман»](talisman-sword.md) | 符箓 | [Ян Хуа](../characters/yang-hua.md) (прежде — [Великая Ли](../factions/great-li-empire.md)) |
+| [Двенадцать летающих мечей](twelve-flying-swords.md) | 十二柄飞剑 | [Сун Му](../characters/song-jixin.md) |
 
 ## Правила создания карточек
 

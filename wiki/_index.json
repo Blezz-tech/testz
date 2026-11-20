@@ -1,8 +1,8 @@
 {
   "schema_version": "2.0",
-  "total_entities": 307,
+  "total_entities": 309,
   "counts_by_type": {
-    "artifact": 15,
+    "artifact": 17,
     "character": 158,
     "concept": 18,
     "cultivation": 11,
@@ -510,6 +510,90 @@
         "cult.sword-cultivator"
       ]
     },
+    "art.talisman-sword": {
+      "id": "art.talisman-sword",
+      "type": "artifact",
+      "zh": "符箓",
+      "zh_aliases": [
+        "京城符剑",
+        "符箓剑"
+      ],
+      "pinyin": "Fulü",
+      "palladius": "Фулу",
+      "ru": "Меч «Талисман»",
+      "ru_aliases": [
+        "«Талисман»",
+        "столичный меч-талисман"
+      ],
+      "first_chapter": 117,
+      "gender": null,
+      "subtype": "sword",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "меч",
+        "великая-ли",
+        "сокровище",
+        "ян-хуа",
+        "прочность"
+      ],
+      "path": "wiki/artifacts/talisman-sword.md",
+      "links_to": [
+        "char.lin-shouyi",
+        "char.luan-changye",
+        "char.master-ruan",
+        "char.yang-hua",
+        "loc.eastern-treasured-vial-continent",
+        "loc.great-li-capital",
+        "loc.longji-mountain",
+        "loc.white-jade-capital"
+      ],
+      "referenced_by": [
+        "char.yang-hua"
+      ]
+    },
+    "art.twelve-flying-swords": {
+      "id": "art.twelve-flying-swords",
+      "type": "artifact",
+      "zh": "十二柄飞剑",
+      "zh_aliases": [
+        "白玉京飞剑",
+        "镇国重器"
+      ],
+      "pinyin": "Shí'èr bǐng fēijiàn",
+      "palladius": "Шиэр бин фэйцзянь",
+      "ru": "Двенадцать летающих мечей Столицы Белого Нефрита",
+      "ru_aliases": [
+        "двенадцать мечей",
+        "летающие мечи столицы"
+      ],
+      "first_chapter": 113,
+      "gender": null,
+      "subtype": "sword",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "меч",
+        "великая-ли",
+        "столица-белого-нефрита",
+        "сокровище",
+        "потеря"
+      ],
+      "path": "wiki/artifacts/twelve-flying-swords.md",
+      "links_to": [
+        "char.aliang",
+        "char.luan-changye",
+        "char.song-jixin",
+        "char.song-zhengchun",
+        "fac.great-li-empire",
+        "loc.white-jade-capital"
+      ],
+      "referenced_by": []
+    },
     "art.white-bowl": {
       "id": "art.white-bowl",
       "type": "artifact",
@@ -593,6 +677,7 @@
       ],
       "referenced_by": [
         "char.li-baoping",
+        "char.song-changjing",
         "char.song-zhengchun",
         "char.wei-bo"
       ]
@@ -699,6 +784,7 @@
       "referenced_by": [
         "art.shuduan-cliff",
         "art.sword-nurturing-gourd",
+        "art.twelve-flying-swords",
         "art.xiangfu-blade",
         "char.bai-lianshuang",
         "char.black-snake-and-white-python",
@@ -725,6 +811,7 @@
         "char.pang-yuanji",
         "char.river-hag",
         "char.scholarly-sage",
+        "char.song-changjing",
         "char.song-jixin",
         "char.song-zhengchun",
         "char.wei-bo",
@@ -735,6 +822,7 @@
         "cult.qi-refinement",
         "cult.realms-overview",
         "cult.sword-cultivator",
+        "fac.bamboo-leaf-pavilion",
         "fac.great-li-empire",
         "fac.great-sui-nation",
         "idiom.daoli-and-benxin",
@@ -2128,6 +2216,7 @@
         "cult.confucianism",
         "cult.hundred-schools",
         "cult.qi-refinement",
+        "fac.bamboo-leaf-pavilion",
         "fac.great-li-empire",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
@@ -2159,6 +2248,7 @@
         "char.zuo-you",
         "cult.confucianism",
         "cult.hundred-schools",
+        "fac.bamboo-leaf-pavilion",
         "fac.great-li-empire",
         "fac.lake-view-academy",
         "fac.mountain-cliff-academy",
@@ -3810,6 +3900,7 @@
       "referenced_by": [
         "art.cloud-ringing-book",
         "art.shuduan-cliff",
+        "art.talisman-sword",
         "art.xiangfu-blade",
         "char.aliang",
         "char.cao-gengxin",
@@ -4331,6 +4422,8 @@
         "loc.white-jade-capital"
       ],
       "referenced_by": [
+        "art.talisman-sword",
+        "art.twelve-flying-swords",
         "char.aliang",
         "char.song-jixin",
         "cult.hundred-schools",
@@ -4624,6 +4717,7 @@
         "art.chen-pingans-swords",
         "art.heavenly-truths-swords",
         "art.sword-nurturing-gourd",
+        "art.talisman-sword",
         "char.aliang",
         "char.chen-pingan",
         "char.chen-pingan.cultivation",
@@ -5840,6 +5934,8 @@
       ],
       "path": "wiki/characters/song-changjing.md",
       "links_to": [
+        "art.xiangfu-blade",
+        "char.aliang",
         "char.cao-ci",
         "char.cao-xi",
         "char.chen-dui",
@@ -5855,7 +5951,8 @@
         "fac.great-li-empire",
         "faction.imperial-court",
         "loc.fortune-street",
-        "loc.niping-alley"
+        "loc.niping-alley",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
         "art.xiangfu-blade",
@@ -5902,7 +5999,8 @@
       "palladius": "Сун Хэ",
       "ru": "Сун Хэ",
       "ru_aliases": [
-        "наследный принц"
+        "наследный принц",
+        "Хэ-эр"
       ],
       "first_chapter": 117,
       "gender": "male",
@@ -5922,6 +6020,8 @@
         "char.cao-xi",
         "char.cui-chan",
         "char.song-changjing",
+        "char.song-jixin",
+        "char.song-zhengchun",
         "fac.great-li-empire",
         "faction.imperial-court"
       ],
@@ -5984,6 +6084,7 @@
       ],
       "referenced_by": [
         "art.shanxiao-pot",
+        "art.twelve-flying-swords",
         "char.cao-xi",
         "char.chen-dui",
         "char.chen-pingan",
@@ -5993,6 +6094,7 @@
         "char.ning-yao",
         "char.qi-jingchun",
         "char.song-changjing",
+        "char.song-he",
         "char.song-yuzhang",
         "char.song-zhengchun",
         "char.tao-zi",
@@ -6134,9 +6236,12 @@
         "loc.white-jade-capital"
       ],
       "referenced_by": [
+        "art.twelve-flying-swords",
         "char.aliang",
         "char.luan-changye",
+        "char.song-he",
         "cult.qi-refinement",
+        "fac.great-li-empire",
         "fac.wind-snow-temple"
       ]
     },
@@ -6922,6 +7027,7 @@
       ],
       "path": "wiki/characters/yang-hua.md",
       "links_to": [
+        "art.talisman-sword",
         "char.chen-pingan",
         "char.great-li-empress",
         "char.ma-lanhua",
@@ -6932,6 +7038,7 @@
         "loc.niping-alley"
       ],
       "referenced_by": [
+        "art.talisman-sword",
         "char.great-li-empress",
         "char.wang-yifu",
         "char.wei-bo",
@@ -7542,7 +7649,8 @@
         "concept.qiyun",
         "cult.demon-tribe",
         "loc.lizhu-grotto-heaven",
-        "loc.niping-alley"
+        "loc.niping-alley",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
         "char.chen-pingan",
@@ -9774,14 +9882,18 @@
       ],
       "path": "wiki/factions/bamboo-leaf-pavilion.md",
       "links_to": [
+        "char.aliang",
+        "char.cui-chan",
         "char.great-li-empress",
         "char.wang-yifu",
         "char.xu-hunran",
         "char.ye-qing",
         "fac.great-li-empire",
+        "fac.sects-compendium",
         "faction.imperial-court"
       ],
       "referenced_by": [
+        "char.cui-chan",
         "char.great-li-empress",
         "char.ye-qing",
         "fac.great-li-empire"
@@ -10100,6 +10212,7 @@
         "char.song-changjing",
         "char.song-he",
         "char.song-yuzhang",
+        "char.song-zhengchun",
         "char.wang-yifu",
         "char.wu-yuan",
         "char.xu-hunran",
@@ -10125,6 +10238,7 @@
         "loc.white-jade-capital"
       ],
       "referenced_by": [
+        "art.twelve-flying-swords",
         "art.xiangfu-blade",
         "char.aliang",
         "char.cao-gengxin",
@@ -10743,6 +10857,7 @@
         "cult.daoism",
         "cult.militarians",
         "cult.three-teachings",
+        "fac.bamboo-leaf-pavilion",
         "fac.fuji-sect",
         "fac.golden-gate-school",
         "fac.great-li-empire",
@@ -12072,6 +12187,7 @@
       ],
       "referenced_by": [
         "art.osmanthus-island-ferry",
+        "art.talisman-sword",
         "char.cao-fu",
         "char.cui-cheng",
         "char.he-xiaoliang",
@@ -12452,6 +12568,7 @@
         "faction.imperial-court"
       ],
       "referenced_by": [
+        "art.talisman-sword",
         "char.song-zhengchun",
         "cult.qi-refinement",
         "loc.white-jade-capital"
@@ -12663,6 +12780,7 @@
         "loc.mountains-near-town"
       ],
       "referenced_by": [
+        "art.talisman-sword",
         "char.master-ruan",
         "loc.mountains-near-town"
       ]
@@ -14205,11 +14323,15 @@
         "loc.heavenly-world"
       ],
       "referenced_by": [
+        "art.talisman-sword",
+        "art.twelve-flying-swords",
         "art.xiangfu-blade",
         "char.aliang",
         "char.luan-changye",
+        "char.song-changjing",
         "char.song-jixin",
         "char.song-zhengchun",
+        "char.zhigui",
         "cult.hundred-schools",
         "cult.qi-refinement",
         "fac.great-li-empire",
@@ -14408,6 +14530,9 @@
     "元婴老剑修": [
       "char.yin-chen"
     ],
+    "十二柄飞剑": [
+      "art.twelve-flying-swords"
+    ],
     "卖报小姑娘": [
       "char.zhou-mili"
     ],
@@ -14452,6 +14577,9 @@
     ],
     "烽火戏诸侯": [
       "media.author"
+    ],
+    "白玉京飞剑": [
+      "art.twelve-flying-swords"
     ],
     "礼部右侍郎": [
       "char.dong-hu"
@@ -14500,6 +14628,9 @@
     ],
     "五彩天下": [
       "loc.five-colored-world"
+    ],
+    "京城符剑": [
+      "art.talisman-sword"
     ],
     "仙家秘籍": [
       "art.purple-qi-book"
@@ -14830,6 +14961,9 @@
     ],
     "铁符江神": [
       "char.yang-hua"
+    ],
+    "镇国重器": [
+      "art.twelve-flying-swords"
     ],
     "阴神顾韬": [
       "char.yin-god"
@@ -15358,6 +15492,9 @@
     ],
     "竹枝派": [
       "fac.bamboo-branch-school"
+    ],
+    "符箓剑": [
+      "art.talisman-sword"
     ],
     "笼中雀": [
       "art.chen-pingans-swords"
@@ -16171,6 +16308,9 @@
     ],
     "竹酒": [
       "char.guo-zhujiu"
+    ],
+    "符箓": [
+      "art.talisman-sword"
     ],
     "簪子": [
       "art.jade-hairpin-and-seals"
