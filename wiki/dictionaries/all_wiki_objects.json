@@ -9038,6 +9038,7 @@
         "loc.eastern-treasured-vial-continent"
       ],
       "referenced_by": [
+        "char.chen-pingan",
         "char.lu-chen",
         "char.yu-xuan",
         "cult.daoism",
@@ -10911,6 +10912,7 @@
         "char.cui-dongshan",
         "char.fu-nanhua",
         "char.gu-can",
+        "char.he-xiaoliang",
         "char.li-baoping",
         "char.li-huai",
         "char.lin-shouyi",
