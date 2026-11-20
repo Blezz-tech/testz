@@ -5,9 +5,9 @@
 > Файл генерируется автоматически командой `python3 scripts/wiki_tool.py index`.
 > Не редактируйте его вручную: после правки карточек просто перегенерируйте указатель.
 
-**Всего статей: 278.**
+**Всего статей: 282.**
 
-## Персонажи (149)
+## Персонажи (150)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -36,6 +36,7 @@
 | [Дун Шуйцзин](characters/dong-shuijing.md) | `董水井 / 水井` | 72 |
 | [Дух меча](characters/sword-spirit.md) | `剑灵 / 白衣女子 / 高大女子 / 前任主人` | 78 |
 | [Дэ Чжан](characters/die-zhang.md) | `叠嶂 / 叠嶂姑娘` | 487 |
+| [Е Цин](characters/ye-qing.md) | `叶庆 / 大将军叶庆 / 边关砥柱` | 93 |
 | [Е Юнь-юнь](characters/ye-yunyun.md) | `叶芸芸 / 黄衣芸` | 754 |
 | [Жуань Сю](characters/ruan-xiu.md) | `阮秀 / 阮姑娘 / 秀秀` | 24 |
 | [Жуань Цюн](characters/master-ruan.md) | `阮邛 / 阮师傅 / 姓阮的外乡老铁匠 / 阮铁匠` | 13 |
@@ -177,16 +178,18 @@
 | [Чистые мастера боевых искусств](cultivation/martial-arts.md) | `纯粹武夫 / 武夫 / 武道 / 一口真气` | 13 |
 | [Школа Военных (Бинцзя)](cultivation/militarians.md) | `兵家 / 兵家祖庭 / 兵家修士 / 杀力` | 11 |
 
-## Фракции, империи и секты (34)
+## Фракции, империи и секты (36)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
 | [Академия Горного Обрыва](factions/mountain-cliff-academy.md) | `山崖书院` | 13 |
 | [Академия Созерцания Озера](factions/lake-view-academy.md) | `观湖书院` | 41 |
+| [Беседка Бамбукового Листа](factions/bamboo-leaf-pavilion.md) | `竹叶亭 / 甲字高手 / 谍子` | 93 |
 | [Великая Ли](factions/great-li-empire.md) | `大骊王朝 / 大骊` | 13 |
 | [Великая Суй](factions/great-sui-nation.md) | `大隋 / 大隋王朝` | 132 |
 | [Великая Цюань](factions/great-quan-empire.md) | `大泉王朝 / 大泉` | 331 |
 | [Гора Истинного Солнца](factions/zhengyang-mountain.md) | `正阳山` | 7 |
+| [Гора Яолин](factions/mount-yaoling.md) | `摇铃山 / 丰城楚家` | 94 |
 | [Жёлтый Двор](factions/yellow-court-nation.md) | `黄庭国` | 133 |
 | [Императорский двор (Нынешняя династия)](factions/imperial-court.md) | `朝廷 / 本朝 / 言官 / 清流` | 1 |
 | [Кланы и великие роды](factions/clans-compendium.md) | `世家 / 家族` | 5 |
@@ -272,7 +275,7 @@
 | [Фуяо](locations/fuyao-continent.md) | `扶摇洲` | 259 |
 | [Южный Посо](locations/southern-posha-continent.md) | `南婆娑洲` | 184 |
 
-## Концепты и устройство мира (13)
+## Концепты и устройство мира (14)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -284,6 +287,7 @@
 | [Камни облачного корня](concepts/cloud-root-stone.md) | `云根石 / 云根` | 9 |
 | [Листья благодати предков](concepts/ancestral-shade-leaves.md) | `祖荫槐叶 / 槐叶 / 祖荫` | 23 |
 | [Мост Бессмертия, горные корни и печати гор и вод](concepts/mountain-seals-and-bridges.md) | `长生桥 / 山水大印 / 山水印 / 山根` | 15 |
+| [Наследственные слуги](concepts/house-born-servants.md) | `家生子 / 扈从 / 世仆` | 92 |
 | [Натальный фарфор](concepts/natal-porcelain.md) | `本命瓷 / 买瓷人 / 碎瓷山` | 17 |
 | [Пороги вхождения и три ступени](concepts/entry-thresholds.md) | `门槛 / 开门 / 登堂 / 入室` | 18 |
 | [Река Времени](concepts/river-of-time.md) | `光阴长河` | 24 |
@@ -296,11 +300,11 @@
 | :--- | :--- | :---: |
 | [«Небесная Истина»](artifacts/heavenly-truths-swords.md) | `天真 / 宁姚的剑` | 600 |
 | [Белая чаша](artifacts/white-bowl.md) | `白碗 / 大白碗` | 18 |
+| [Горлянка для взращивания меча](artifacts/sword-nurturing-gourd.md) | `养剑葫 / 葫芦` | 57 |
 | [Зелёная нефритовая шпилька и печати](artifacts/jade-hairpin-and-seals.md) | `碧玉簪 / 簪子 / 印章` | 24 |
 | [Мечи «Птаха в Клетке» и «Луна в Колодце»](artifacts/chen-pingans-swords.md) | `笼中雀 / 井中月 / 笼中雀 / 井中月` | 273 |
 | [Нефритовый кулон «Старый дракон проливает дождь»](artifacts/old-dragon-rain-pendant.md) | `老龙布雨 / 老龙佩` | 9 |
 | [Переправа «Остров Османтуса»](artifacts/osmanthus-island-ferry.md) | `桂花岛` | 253 |
-| [Фляга для выращивания мечей](artifacts/sword-nurturing-gourd.md) | `养剑葫 / 葫芦` | 57 |
 | [Чайник с клеймом «Горный демон»](artifacts/shanxiao-pot.md) | `山魈壶 / 养心壶` | 17 |
 | [Чуи и Шиу](artifacts/chuyi-and-shiwu.md) | `初一 / 十五 / 初一 / 十五 / 飞剑初一十五` | 273 |
 

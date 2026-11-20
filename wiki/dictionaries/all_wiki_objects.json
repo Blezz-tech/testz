@@ -3,13 +3,13 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 278,
+  "total_entries": 282,
   "counts_by_type": {
     "artifact": 9,
-    "character": 149,
-    "concept": 13,
+    "character": 150,
+    "concept": 14,
     "cultivation": 11,
-    "faction": 34,
+    "faction": 36,
     "idiom": 9,
     "location": 51,
     "media": 2
@@ -128,9 +128,11 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **А-Лян** — дефис обязателен, вторая часть склоняется (*А-Ляна, А-Ляну, с А-Ляном*). Форма «Алян» без дефиса недопустима.\n- **Этимология:** `阿良` — дружески-простонародное «Лян» с уменьшительным префиксом `阿`; по-русски лучше не «А-Лян», а сама интонация фамильярности должна передаваться речью.\n- **Речь:** хвастливая, ленивая, полная прибауток и подколов. Он постоянно врёт о своих подвигах, но никогда — о своих обещаниях.\n- **Обращения:** к [Чэнь Пинъаню](chen-pingan.md) — *«малой»*, *«парень»*, *«братец»*; к [Нин Яо](ning-yao.md) — *«девчонка»*; к [Святому Словесности](scholarly-sage.md) — *«старик»*, *«старый плут»*.",
       "links_to": [
+        "art.sword-nurturing-gourd",
         "char.chen-pingan",
         "char.chen-qingdu",
         "char.cui-chan",
+        "char.li-baoping",
         "char.li-huai",
         "char.master-ruan",
         "char.ning-yao",
@@ -138,11 +140,13 @@
         "char.wei-jin",
         "char.zuo-you",
         "cult.sword-cultivator",
+        "fac.great-li-empire",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
         "loc.sword-qi-great-wall"
       ],
       "referenced_by": [
+        "art.sword-nurturing-gourd",
         "char.bai-lianshuang",
         "char.chen-pingan",
         "char.chen-pingan.cultivation",
@@ -155,6 +159,7 @@
         "char.dong-huafu",
         "char.li-baoping",
         "char.li-huai",
+        "char.lin-shouyi",
         "char.ning-yao",
         "char.ning-yao.history",
         "char.ning-yao.relationships",
@@ -536,6 +541,51 @@
       "card": "wiki/artifacts/white-bowl.md"
     },
     {
+      "id": "fac.bamboo-leaf-pavilion",
+      "type": "faction",
+      "zh": "竹叶亭",
+      "zh_aliases": [
+        "甲字高手",
+        "谍子"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Zhuye Ting",
+      "palladius": "Чжуе тин",
+      "ru": "Беседка Бамбукового Листа",
+      "ru_aliases": [
+        "Беседка Бамбукового листа"
+      ],
+      "first_chapter": 93,
+      "gender": null,
+      "subtype": "agency",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "тайная-служба",
+        "госпожа",
+        "убийцы",
+        "разряды"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **Передача:** `竹叶亭` — **Беседка Бамбукового Листа**; в дальнейшем тексте допустимо коротко — **Беседка**.\n- **Разряды:** `甲字高手` — **мастер класса «цзя»** (первый из десяти стволов); не «первосортный убийца».\n- **`谍子`** — **соглядатай**, **тайный дозорный**; это же слово в главе 94 обозначает великолиских лазутчиков в городке.\n\n## Правило для переводчика\n\nСлово `亭` здесь — не «павильон для отдыха», а название ведомства; потому в тексте не «Бамбуковый павильон». Рядом стоят другие ведомства двора: [Палата астрономических наблюдений](../factions/imperial-court.md), Министерство обрядов.",
+      "links_to": [
+        "char.great-li-empress",
+        "char.wang-yifu",
+        "char.xu-hunran",
+        "char.ye-qing",
+        "fac.great-li-empire",
+        "faction.imperial-court"
+      ],
+      "referenced_by": [
+        "char.great-li-empress",
+        "char.ye-qing",
+        "fac.great-li-empire"
+      ],
+      "card": "wiki/factions/bamboo-leaf-pavilion.md"
+    },
+    {
       "id": "loc.lotus-root-blessed-land",
       "type": "location",
       "zh": "藕花福地",
@@ -706,6 +756,8 @@
         "char.great-li-empress",
         "char.song-yuzhang",
         "char.xu-hunran",
+        "char.ye-qing",
+        "fac.bamboo-leaf-pavilion",
         "fac.great-li-empire"
       ],
       "card": "wiki/characters/wang-yifu.md"
@@ -756,8 +808,10 @@
         "concept.natal-porcelain",
         "concept.qiyun",
         "cult.militarians",
+        "fac.bamboo-leaf-pavilion",
         "fac.great-sui-nation",
         "fac.lake-view-academy",
+        "fac.mount-yaoling",
         "fac.mountain-cliff-academy",
         "faction.imperial-court",
         "loc.dragon-spring-prefecture",
@@ -769,8 +823,10 @@
         "loc.twelve-legged-archway"
       ],
       "referenced_by": [
+        "char.aliang",
         "char.cao-gengxin",
         "char.cao-xi",
+        "char.chen-pingan",
         "char.cui-chan",
         "char.dong-hu",
         "char.gao-xuan",
@@ -791,16 +847,21 @@
         "char.wu-yuan",
         "char.xu-hunran",
         "char.yang-hua",
+        "char.ye-qing",
         "char.yin-god",
         "char.yu-lu",
         "char.zhu-he",
+        "concept.house-born-servants",
+        "concept.imperial-kilns",
         "concept.natal-porcelain",
         "concept.qiyun",
         "cult.demon-tribe",
         "cult.hundred-schools",
         "cult.militarians",
         "cult.qi-refinement",
+        "fac.bamboo-leaf-pavilion",
         "fac.great-sui-nation",
+        "fac.mount-yaoling",
         "fac.mountain-cliff-academy",
         "fac.northern-jin-nation",
         "loc.bamboo-scroll-lake",
@@ -1294,6 +1355,7 @@
         "loc.mountains-near-town"
       ],
       "referenced_by": [
+        "art.sword-nurturing-gourd",
         "char.aliang",
         "char.master-ruan",
         "cult.militarians",
@@ -1671,6 +1733,52 @@
       "card": "wiki/locations/piyun-mountain.md"
     },
     {
+      "id": "fac.mount-yaoling",
+      "type": "faction",
+      "zh": "摇铃山",
+      "zh_aliases": [
+        "丰城楚家"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Yaoling Shan",
+      "palladius": "Яолин шань",
+      "ru": "Гора Яолин",
+      "ru_aliases": [
+        "Звонящая гора",
+        "род Чу из Фэнчэна"
+      ],
+      "first_chapter": 94,
+      "gender": null,
+      "subtype": "mountain-sect",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "горная-сила",
+        "великая-ли",
+        "покупка-гор",
+        "род-чу"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **`摇铃山`** — **гора Яолин** («Звонящая гора»); в разговоре допустимо «Звонящая».\n- **`丰城楚家`** — **род Чу из Фэнчэна**; Фэнчэн — город в [Великой Ли](../factions/great-li-empire.md), не переводить как «Город Изобилия».\n- **Должности:** `副宗主` — **заместитель главы**; `供奉` — **служитель**, приглашённый родом на содержание боец.\n\n## Правило для переводчика\n\nРод Чу — не путать с родом Чу из [Переулка Цветущего Абрикоса](../locations/apricot-blossom-alley.md) (там своя карточка `lady-chu`). Это разные семьи с одинаковой фамилией.",
+      "links_to": [
+        "char.lady-chu",
+        "char.master-ruan",
+        "char.ruan-xiu",
+        "fac.great-li-empire",
+        "loc.apricot-blossom-alley",
+        "loc.qilong-alley",
+        "loc.small-town"
+      ],
+      "referenced_by": [
+        "char.ruan-xiu",
+        "fac.great-li-empire",
+        "loc.qilong-alley",
+        "loc.small-town"
+      ],
+      "card": "wiki/factions/mount-yaoling.md"
+    },
+    {
       "id": "loc.moon-supporting-mountain",
       "type": "location",
       "zh": "托月山",
@@ -1703,6 +1811,56 @@
         "char.zhou-mi"
       ],
       "card": "wiki/locations/moon-supporting-mountain.md"
+    },
+    {
+      "id": "art.sword-nurturing-gourd",
+      "type": "artifact",
+      "zh": "养剑葫",
+      "zh_aliases": [
+        "葫芦"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Yangjian Hu",
+      "palladius": "Янцзянь ху",
+      "ru": "Горлянка для взращивания меча",
+      "ru_aliases": [
+        "горлянка для взращивания меча",
+        "фляга для выращивания мечей",
+        "винная горлянка"
+      ],
+      "first_chapter": 57,
+      "gender": null,
+      "subtype": "container",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "артефакт",
+        "сосуд",
+        "мечи",
+        "горлянка"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **Передача (принято в переводе):** `养剑葫` — **горлянка для взращивания меча**; в абзаце дальше — **горлянка**. Прежний вариант «фляга для выращивания мечей» оставлен как синоним для поиска, но в главах не используется.\n- **Не «тыква»:** `葫` — горлянка, но в романе это **сосуд**, и «тыква» в русском звучит как овощ. Допустимо «горлянка» там, где важна форма.\n\n## Почему это важно для перевода\n\n`养` — «выращивать, питать». В русском «фляга для мечей» теряет этот смысл, а «фляга для выращивания» — громоздко, но точно. Компромисс: при первом появлении — **фляга для выращивания мечей**, дальше — **фляга**.\n\n## Правило\n\nНикогда не называйте её «мечом в бутылке» и не описывайте как «магический инвентарь». Это **сосуд-сад**.",
+      "links_to": [
+        "art.chen-pingans-swords",
+        "art.chuyi-and-shiwu",
+        "char.aliang",
+        "char.chen-pingan",
+        "char.master-ruan",
+        "char.qi-jingchun",
+        "char.wei-jin",
+        "cult.sword-cultivator"
+      ],
+      "referenced_by": [
+        "art.chen-pingans-swords",
+        "art.chuyi-and-shiwu",
+        "char.aliang",
+        "char.chen-pingan",
+        "char.qi-jingchun",
+        "cult.sword-cultivator"
+      ],
+      "card": "wiki/artifacts/sword-nurturing-gourd.md"
     },
     {
       "id": "loc.white-emperor-city",
@@ -1883,6 +2041,7 @@
         "char.ma-kuxuan",
         "char.master-ruan",
         "char.old-man-yang",
+        "char.ruan-xiu",
         "char.song-jixin",
         "char.wu-yuan",
         "char.zheng-dafeng",
@@ -1890,6 +2049,7 @@
         "concept.natal-porcelain",
         "concept.qiyun",
         "fac.great-li-empire",
+        "fac.mount-yaoling",
         "loc.apricot-blossom-alley",
         "loc.baoxi-stream",
         "loc.fortune-street",
@@ -1948,6 +2108,7 @@
         "fac.chen-clan",
         "fac.clans-compendium",
         "fac.great-li-empire",
+        "fac.mount-yaoling",
         "fac.mountain-cliff-academy",
         "idiom.good-things-fragile",
         "loc.apricot-blossom-alley",
@@ -2052,12 +2213,14 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.chen-pingan",
         "char.lady-chu",
         "char.master-ruan",
         "char.wei-bo",
         "char.wei-jin",
         "char.wu-yuan",
         "char.yang-hua",
+        "char.zhu-he",
         "concept.mountain-seals",
         "loc.luopo-mountain",
         "loc.piyun-mountain",
@@ -2137,6 +2300,7 @@
         "char.cui-chan",
         "char.fu-nanhua",
         "char.liu-xianyang",
+        "char.master-ruan",
         "char.qi-jingchun",
         "char.song-jixin",
         "char.song-yuzhang",
@@ -2145,6 +2309,7 @@
         "char.yang-hua",
         "concept.imperial-kilns",
         "concept.natal-porcelain",
+        "fac.bamboo-leaf-pavilion",
         "fac.great-li-empire",
         "faction.imperial-court",
         "loc.niping-alley"
@@ -2156,8 +2321,10 @@
         "char.wang-yifu",
         "char.xu-hunran",
         "char.yang-hua",
+        "char.ye-qing",
         "concept.imperial-kilns",
         "concept.three-mountains-nine-lords",
+        "fac.bamboo-leaf-pavilion",
         "loc.small-town"
       ],
       "card": "wiki/characters/great-li-empress.md"
@@ -2287,7 +2454,9 @@
         "fac.great-li-empire",
         "loc.mountains-near-town"
       ],
-      "referenced_by": [],
+      "referenced_by": [
+        "fac.mount-yaoling"
+      ],
       "card": "wiki/characters/lady-chu.md"
     },
     {
@@ -2422,6 +2591,7 @@
         "char.chen-pingan.history",
         "char.chen-pingan.relationships",
         "char.gu-shi",
+        "char.li-baoping",
         "char.liu-chicheng",
         "char.liu-laocheng",
         "char.liu-zhimao",
@@ -3015,6 +3185,48 @@
       "card": "wiki/characters/die-zhang.md"
     },
     {
+      "id": "char.ye-qing",
+      "type": "character",
+      "zh": "叶庆",
+      "zh_aliases": [
+        "大将军叶庆",
+        "边关砥柱"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Ye Qing",
+      "palladius": "Е Цин",
+      "ru": "Е Цин",
+      "ru_aliases": [
+        "Е Цин"
+      ],
+      "first_chapter": 93,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "держава-лу",
+        "полководец",
+        "граница",
+        "посмертно",
+        "великая-ли"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Е Цин**; имя склоняется (*Е Цина, Е Цину*).\n- **Титул:** `大将军` — **великий полководец**; `边关砥柱` — **опора границы** (не «столп»: `砥柱` — скала посреди течения, о которую разбивается поток).\n- **Речь:** в главе 93 он только цитируется через чужие уста; своих реплик нет.",
+      "links_to": [
+        "char.great-li-empress",
+        "char.song-changjing",
+        "char.wang-yifu",
+        "fac.bamboo-leaf-pavilion",
+        "fac.great-li-empire"
+      ],
+      "referenced_by": [
+        "fac.bamboo-leaf-pavilion"
+      ],
+      "card": "wiki/characters/ye-qing.md"
+    },
+    {
       "id": "char.ye-yunyun",
       "type": "character",
       "zh": "叶芸芸",
@@ -3121,6 +3333,7 @@
         "char.master-ruan",
         "char.ning-yao",
         "char.wu-yuan",
+        "fac.mount-yaoling",
         "fac.sects-compendium",
         "faction.imperial-court",
         "loc.apricot-blossom-alley",
@@ -3139,8 +3352,11 @@
         "char.river-hag",
         "char.wu-yuan",
         "fac.dragon-spring-sword-sect",
+        "fac.mount-yaoling",
         "loc.luopo-mountain",
-        "loc.mountains-near-town"
+        "loc.mountains-near-town",
+        "loc.qilong-alley",
+        "loc.small-town"
       ],
       "card": "wiki/characters/ruan-xiu.md"
     },
@@ -3198,6 +3414,7 @@
       "referenced_by": [
         "art.chen-pingans-swords",
         "art.heavenly-truths-swords",
+        "art.sword-nurturing-gourd",
         "char.aliang",
         "char.chen-pingan",
         "char.chen-pingan.cultivation",
@@ -3205,6 +3422,7 @@
         "char.cui-chan",
         "char.cui-minghuang",
         "char.dong-hu",
+        "char.great-li-empress",
         "char.liu-xianyang",
         "char.ning-yao",
         "char.ning-yao.cultivation",
@@ -3218,6 +3436,7 @@
         "cult.militarians",
         "fac.dragon-spring-sword-sect",
         "fac.great-li-empire",
+        "fac.mount-yaoling",
         "fac.sects-compendium",
         "fac.wind-snow-temple",
         "loc.efuguan-pass",
@@ -3523,6 +3742,7 @@
         "char.xu-hunran",
         "char.yao-zhen",
         "concept.imperial-kilns",
+        "fac.bamboo-leaf-pavilion",
         "fac.clans-compendium",
         "fac.great-li-empire",
         "fac.great-quan-empire",
@@ -3696,11 +3916,14 @@
         "char.old-man-yao",
         "char.song-changjing",
         "char.song-yuzhang",
+        "char.wu-yuan",
         "concept.natal-porcelain",
         "fac.clans-compendium",
+        "fac.great-li-empire",
         "faction.imperial-court",
         "loc.dragon-spring-prefecture",
         "loc.lizhu-grotto-heaven",
+        "loc.qilong-alley",
         "loc.small-town"
       ],
       "referenced_by": [
@@ -3761,7 +3984,9 @@
         "loc.baoxi-stream",
         "loc.small-town"
       ],
-      "referenced_by": [],
+      "referenced_by": [
+        "char.li-baoping"
+      ],
       "card": "wiki/concepts/snake-gall-stones.md"
     },
     {
@@ -4037,6 +4262,7 @@
         "char.aliang",
         "char.chen-pingan",
         "char.cui-minghuang",
+        "char.gu-can",
         "char.li-huai",
         "char.lin-shouyi",
         "char.ma-zhan",
@@ -4044,6 +4270,7 @@
         "char.shi-chunjia",
         "char.zhu-he",
         "char.zhu-lu",
+        "concept.snake-gall-stones",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
         "loc.apricot-blossom-alley",
@@ -4052,6 +4279,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.aliang",
         "char.chen-pingan",
         "char.chen-pingan.history",
         "char.dong-shuijing",
@@ -4067,6 +4295,7 @@
         "char.zhu-he",
         "char.zhu-lu",
         "concept.ancestral-shade-leaves",
+        "concept.house-born-servants",
         "concept.natal-porcelain",
         "fac.clans-compendium",
         "fac.great-sui-nation",
@@ -4405,6 +4634,7 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Линь Шоуи** — имя *Шоуи* не склоняется (*с Линь Шоуи, к Линь Шоуи*).\n- **Речь:** холодная, скупая, гордая; он не любит быть обязанным кому-либо, особенно тем, кому не доверяет.",
       "links_to": [
+        "char.aliang",
         "char.chen-pingan",
         "char.cui-minghuang",
         "char.dong-shuijing",
@@ -5676,6 +5906,49 @@
       "card": "wiki/characters/nalan-yexing.md"
     },
     {
+      "id": "concept.house-born-servants",
+      "type": "concept",
+      "zh": "家生子",
+      "zh_aliases": [
+        "扈从",
+        "世仆"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Jiashengzi",
+      "palladius": "Цзяшэнцзы",
+      "ru": "Наследственные слуги",
+      "ru_aliases": [
+        "наследственные слуги",
+        "родовые слуги"
+      ],
+      "first_chapter": 92,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "сословия",
+        "великая-ли",
+        "род-ли",
+        "служба"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **`家生子`** → **наследственные слуги**; в разговоре — **родовые слуги**. Не «рабы»: они не собственность, а сословие служилых при роде, с долгом и правами.\n- **`扈从`** — **слуга-телохранитель**, **сопровождающий**; так в главах 87–93 называют [Чжу Хэ](../characters/zhu-he.md).",
+      "links_to": [
+        "char.chen-pingan",
+        "char.li-baoping",
+        "char.zhu-he",
+        "char.zhu-lu",
+        "fac.great-li-empire",
+        "loc.dragon-spring-prefecture"
+      ],
+      "referenced_by": [
+        "char.zhu-he"
+      ],
+      "card": "wiki/concepts/house-born-servants.md"
+    },
+    {
       "id": "concept.natal-porcelain",
       "type": "concept",
       "zh": "本命瓷",
@@ -6350,6 +6623,7 @@
         "char.lin-shouyi",
         "char.river-hag",
         "char.ruan-xiu",
+        "fac.mount-yaoling",
         "loc.peach-leaf-alley",
         "loc.small-town"
       ],
@@ -6436,6 +6710,8 @@
       "links_to": [
         "char.chen-pingan",
         "char.master-ruan",
+        "char.ruan-xiu",
+        "fac.mount-yaoling",
         "loc.lizhu-grotto-heaven",
         "loc.niping-alley"
       ],
@@ -6446,6 +6722,8 @@
         "char.master-ruan",
         "char.ruan-xiu",
         "char.shi-chunjia",
+        "concept.imperial-kilns",
+        "fac.mount-yaoling",
         "loc.lizhu-grotto-heaven",
         "loc.niping-alley",
         "loc.small-town"
@@ -6757,6 +7035,7 @@
         "char.chen-songfeng",
         "char.song-jixin",
         "char.wu-yuan",
+        "concept.house-born-servants",
         "concept.imperial-kilns",
         "fac.dragon-spring-sword-sect",
         "fac.great-li-empire",
@@ -8911,6 +9190,7 @@
         "char.xu-hunran",
         "char.xu-yuanxia",
         "char.yao-zhen",
+        "char.ye-qing",
         "char.zheng-dafeng",
         "char.zhigui",
         "concept.imperial-kilns",
@@ -9093,6 +9373,7 @@
       "referenced_by": [
         "char.great-li-empress",
         "char.wang-yifu",
+        "fac.bamboo-leaf-pavilion",
         "fac.great-li-empire"
       ],
       "card": "wiki/characters/xu-hunran.md"
@@ -9399,6 +9680,7 @@
         "char.master-ruan",
         "char.ruan-xiu",
         "char.song-yuzhang",
+        "concept.imperial-kilns",
         "fac.great-li-empire",
         "fac.mountain-cliff-academy",
         "loc.dragon-spring-prefecture",
@@ -9518,50 +9800,6 @@
         "loc.old-dragon-city"
       ],
       "card": "wiki/characters/fan-junmao.md"
-    },
-    {
-      "id": "art.sword-nurturing-gourd",
-      "type": "artifact",
-      "zh": "养剑葫",
-      "zh_aliases": [
-        "葫芦"
-      ],
-      "unindexed_zh_aliases": [],
-      "pinyin": "Yangjian Hu",
-      "palladius": "Янцзянь ху",
-      "ru": "Фляга для выращивания мечей",
-      "ru_aliases": [
-        "тыква-горлянка для мечей"
-      ],
-      "first_chapter": 57,
-      "gender": null,
-      "subtype": "container",
-      "parent": null,
-      "needs_endnote": null,
-      "scan_skip": false,
-      "scan_hints": [],
-      "tags": [
-        "артефакт",
-        "сосуд",
-        "мечи",
-        "горлянка"
-      ],
-      "translation_rule": "## Правила перевода\n\n- **Передача:** `养剑葫` — **фляга для выращивания мечей**. При первом упоминании лучше именно так, затем можно сокращать до **фляга**.\n- **Не «тыква»:** `葫` — горлянка, но в романе это **сосуд**, и «тыква» в русском звучит как овощ. Допустимо «горлянка» там, где важна форма.\n\n## Почему это важно для перевода\n\n`养` — «выращивать, питать». В русском «фляга для мечей» теряет этот смысл, а «фляга для выращивания» — громоздко, но точно. Компромисс: при первом появлении — **фляга для выращивания мечей**, дальше — **фляга**.\n\n## Правило\n\nНикогда не называйте её «мечом в бутылке» и не описывайте как «магический инвентарь». Это **сосуд-сад**.",
-      "links_to": [
-        "art.chen-pingans-swords",
-        "art.chuyi-and-shiwu",
-        "char.chen-pingan",
-        "char.qi-jingchun",
-        "cult.sword-cultivator"
-      ],
-      "referenced_by": [
-        "art.chen-pingans-swords",
-        "art.chuyi-and-shiwu",
-        "char.chen-pingan",
-        "char.qi-jingchun",
-        "cult.sword-cultivator"
-      ],
-      "card": "wiki/artifacts/sword-nurturing-gourd.md"
     },
     {
       "id": "char.fu-nanhua",
@@ -11221,7 +11459,8 @@
       "referenced_by": [
         "art.jade-hairpin-and-seals",
         "char.li-baoping",
-        "char.zhu-he"
+        "char.zhu-he",
+        "concept.house-born-servants"
       ],
       "card": "wiki/characters/zhu-lu.md"
     },
@@ -11318,12 +11557,15 @@
         "char.li-huai",
         "char.li-xisheng",
         "char.zhu-lu",
+        "concept.house-born-servants",
         "fac.great-li-empire",
+        "loc.mountains-near-town",
         "loc.small-town"
       ],
       "referenced_by": [
         "char.li-baoping",
-        "char.zhu-lu"
+        "char.zhu-lu",
+        "concept.house-born-servants"
       ],
       "card": "wiki/characters/zhu-he.md"
     },
@@ -11843,6 +12085,7 @@
         "cult.martial-arts",
         "cult.realms-overview",
         "cult.sword-cultivator",
+        "fac.great-li-empire",
         "fac.mountain-cliff-academy",
         "idiom.jingzhe-dragon-raises-head",
         "idiom.suisui-pingan",
@@ -11852,6 +12095,7 @@
         "loc.lizhu-grotto-heaven",
         "loc.lotus-root-blessed-land",
         "loc.luopo-mountain",
+        "loc.mountains-near-town",
         "loc.niping-alley",
         "loc.old-locust-tree",
         "loc.piyun-mountain",
@@ -11968,6 +12212,7 @@
         "char.zuo-you",
         "concept.ancestral-shade-leaves",
         "concept.currency",
+        "concept.house-born-servants",
         "concept.imperial-kilns",
         "concept.mountain-seals",
         "concept.natal-porcelain",

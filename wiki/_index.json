@@ -1,12 +1,12 @@
 {
   "schema_version": "2.0",
-  "total_entities": 278,
+  "total_entities": 282,
   "counts_by_type": {
     "artifact": 9,
-    "character": 149,
-    "concept": 13,
+    "character": 150,
+    "concept": 14,
     "cultivation": 11,
-    "faction": 34,
+    "faction": 36,
     "idiom": 9,
     "location": 51,
     "media": 2
@@ -297,9 +297,11 @@
       ],
       "pinyin": "Yangjian Hu",
       "palladius": "Янцзянь ху",
-      "ru": "Фляга для выращивания мечей",
+      "ru": "Горлянка для взращивания меча",
       "ru_aliases": [
-        "тыква-горлянка для мечей"
+        "горлянка для взращивания меча",
+        "фляга для выращивания мечей",
+        "винная горлянка"
       ],
       "first_chapter": 57,
       "gender": null,
@@ -318,13 +320,17 @@
       "links_to": [
         "art.chen-pingans-swords",
         "art.chuyi-and-shiwu",
+        "char.aliang",
         "char.chen-pingan",
+        "char.master-ruan",
         "char.qi-jingchun",
+        "char.wei-jin",
         "cult.sword-cultivator"
       ],
       "referenced_by": [
         "art.chen-pingans-swords",
         "art.chuyi-and-shiwu",
+        "char.aliang",
         "char.chen-pingan",
         "char.qi-jingchun",
         "cult.sword-cultivator"
@@ -396,9 +402,11 @@
       ],
       "path": "wiki/characters/aliang.md",
       "links_to": [
+        "art.sword-nurturing-gourd",
         "char.chen-pingan",
         "char.chen-qingdu",
         "char.cui-chan",
+        "char.li-baoping",
         "char.li-huai",
         "char.master-ruan",
         "char.ning-yao",
@@ -406,11 +414,13 @@
         "char.wei-jin",
         "char.zuo-you",
         "cult.sword-cultivator",
+        "fac.great-li-empire",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
         "loc.sword-qi-great-wall"
       ],
       "referenced_by": [
+        "art.sword-nurturing-gourd",
         "char.bai-lianshuang",
         "char.chen-pingan",
         "char.chen-pingan.cultivation",
@@ -423,6 +433,7 @@
         "char.dong-huafu",
         "char.li-baoping",
         "char.li-huai",
+        "char.lin-shouyi",
         "char.ning-yao",
         "char.ning-yao.history",
         "char.ning-yao.relationships",
@@ -1106,6 +1117,7 @@
         "cult.martial-arts",
         "cult.realms-overview",
         "cult.sword-cultivator",
+        "fac.great-li-empire",
         "fac.mountain-cliff-academy",
         "idiom.jingzhe-dragon-raises-head",
         "idiom.suisui-pingan",
@@ -1115,6 +1127,7 @@
         "loc.lizhu-grotto-heaven",
         "loc.lotus-root-blessed-land",
         "loc.luopo-mountain",
+        "loc.mountains-near-town",
         "loc.niping-alley",
         "loc.old-locust-tree",
         "loc.piyun-mountain",
@@ -1231,6 +1244,7 @@
         "char.zuo-you",
         "concept.ancestral-shade-leaves",
         "concept.currency",
+        "concept.house-born-servants",
         "concept.imperial-kilns",
         "concept.mountain-seals",
         "concept.natal-porcelain",
@@ -2437,6 +2451,7 @@
         "char.cui-chan",
         "char.fu-nanhua",
         "char.liu-xianyang",
+        "char.master-ruan",
         "char.qi-jingchun",
         "char.song-jixin",
         "char.song-yuzhang",
@@ -2445,6 +2460,7 @@
         "char.yang-hua",
         "concept.imperial-kilns",
         "concept.natal-porcelain",
+        "fac.bamboo-leaf-pavilion",
         "fac.great-li-empire",
         "faction.imperial-court",
         "loc.niping-alley"
@@ -2456,8 +2472,10 @@
         "char.wang-yifu",
         "char.xu-hunran",
         "char.yang-hua",
+        "char.ye-qing",
         "concept.imperial-kilns",
         "concept.three-mountains-nine-lords",
+        "fac.bamboo-leaf-pavilion",
         "loc.small-town"
       ]
     },
@@ -2504,6 +2522,7 @@
         "char.chen-pingan.history",
         "char.chen-pingan.relationships",
         "char.gu-shi",
+        "char.li-baoping",
         "char.liu-chicheng",
         "char.liu-laocheng",
         "char.liu-zhimao",
@@ -2787,7 +2806,9 @@
         "fac.great-li-empire",
         "loc.mountains-near-town"
       ],
-      "referenced_by": []
+      "referenced_by": [
+        "fac.mount-yaoling"
+      ]
     },
     "char.li-baoping": {
       "id": "char.li-baoping",
@@ -2818,6 +2839,7 @@
         "char.aliang",
         "char.chen-pingan",
         "char.cui-minghuang",
+        "char.gu-can",
         "char.li-huai",
         "char.lin-shouyi",
         "char.ma-zhan",
@@ -2825,6 +2847,7 @@
         "char.shi-chunjia",
         "char.zhu-he",
         "char.zhu-lu",
+        "concept.snake-gall-stones",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
         "loc.apricot-blossom-alley",
@@ -2833,6 +2856,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.aliang",
         "char.chen-pingan",
         "char.chen-pingan.history",
         "char.dong-shuijing",
@@ -2848,6 +2872,7 @@
         "char.zhu-he",
         "char.zhu-lu",
         "concept.ancestral-shade-leaves",
+        "concept.house-born-servants",
         "concept.natal-porcelain",
         "fac.clans-compendium",
         "fac.great-sui-nation",
@@ -3205,6 +3230,7 @@
       ],
       "path": "wiki/characters/lin-shouyi.md",
       "links_to": [
+        "char.aliang",
         "char.chen-pingan",
         "char.cui-minghuang",
         "char.dong-shuijing",
@@ -3978,6 +4004,7 @@
       "referenced_by": [
         "art.chen-pingans-swords",
         "art.heavenly-truths-swords",
+        "art.sword-nurturing-gourd",
         "char.aliang",
         "char.chen-pingan",
         "char.chen-pingan.cultivation",
@@ -3985,6 +4012,7 @@
         "char.cui-chan",
         "char.cui-minghuang",
         "char.dong-hu",
+        "char.great-li-empress",
         "char.liu-xianyang",
         "char.ning-yao",
         "char.ning-yao.cultivation",
@@ -3998,6 +4026,7 @@
         "cult.militarians",
         "fac.dragon-spring-sword-sect",
         "fac.great-li-empire",
+        "fac.mount-yaoling",
         "fac.sects-compendium",
         "fac.wind-snow-temple",
         "loc.efuguan-pass",
@@ -4913,6 +4942,7 @@
         "char.master-ruan",
         "char.ning-yao",
         "char.wu-yuan",
+        "fac.mount-yaoling",
         "fac.sects-compendium",
         "faction.imperial-court",
         "loc.apricot-blossom-alley",
@@ -4931,8 +4961,11 @@
         "char.river-hag",
         "char.wu-yuan",
         "fac.dragon-spring-sword-sect",
+        "fac.mount-yaoling",
         "loc.luopo-mountain",
-        "loc.mountains-near-town"
+        "loc.mountains-near-town",
+        "loc.qilong-alley",
+        "loc.small-town"
       ]
     },
     "char.scholarly-sage": {
@@ -5167,6 +5200,7 @@
         "char.xu-hunran",
         "char.xu-yuanxia",
         "char.yao-zhen",
+        "char.ye-qing",
         "char.zheng-dafeng",
         "char.zhigui",
         "concept.imperial-kilns",
@@ -5619,6 +5653,8 @@
         "char.great-li-empress",
         "char.song-yuzhang",
         "char.xu-hunran",
+        "char.ye-qing",
+        "fac.bamboo-leaf-pavilion",
         "fac.great-li-empire"
       ]
     },
@@ -5711,6 +5747,7 @@
         "loc.mountains-near-town"
       ],
       "referenced_by": [
+        "art.sword-nurturing-gourd",
         "char.aliang",
         "char.master-ruan",
         "cult.militarians",
@@ -5844,6 +5881,7 @@
         "char.master-ruan",
         "char.ruan-xiu",
         "char.song-yuzhang",
+        "concept.imperial-kilns",
         "fac.great-li-empire",
         "fac.mountain-cliff-academy",
         "loc.dragon-spring-prefecture",
@@ -6010,6 +6048,7 @@
       "referenced_by": [
         "char.great-li-empress",
         "char.wang-yifu",
+        "fac.bamboo-leaf-pavilion",
         "fac.great-li-empire"
       ]
     },
@@ -6167,6 +6206,46 @@
       ],
       "referenced_by": [
         "char.xu-yuanxia"
+      ]
+    },
+    "char.ye-qing": {
+      "id": "char.ye-qing",
+      "type": "character",
+      "zh": "叶庆",
+      "zh_aliases": [
+        "大将军叶庆",
+        "边关砥柱"
+      ],
+      "pinyin": "Ye Qing",
+      "palladius": "Е Цин",
+      "ru": "Е Цин",
+      "ru_aliases": [
+        "Е Цин"
+      ],
+      "first_chapter": 93,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "держава-лу",
+        "полководец",
+        "граница",
+        "посмертно",
+        "великая-ли"
+      ],
+      "path": "wiki/characters/ye-qing.md",
+      "links_to": [
+        "char.great-li-empress",
+        "char.song-changjing",
+        "char.wang-yifu",
+        "fac.bamboo-leaf-pavilion",
+        "fac.great-li-empire"
+      ],
+      "referenced_by": [
+        "fac.bamboo-leaf-pavilion"
       ]
     },
     "char.ye-yunyun": {
@@ -6940,12 +7019,15 @@
         "char.li-huai",
         "char.li-xisheng",
         "char.zhu-lu",
+        "concept.house-born-servants",
         "fac.great-li-empire",
+        "loc.mountains-near-town",
         "loc.small-town"
       ],
       "referenced_by": [
         "char.li-baoping",
-        "char.zhu-lu"
+        "char.zhu-lu",
+        "concept.house-born-servants"
       ]
     },
     "char.zhu-lian": {
@@ -7043,7 +7125,8 @@
       "referenced_by": [
         "art.jade-hairpin-and-seals",
         "char.li-baoping",
-        "char.zhu-he"
+        "char.zhu-he",
+        "concept.house-born-servants"
       ]
     },
     "char.zuo-you": {
@@ -7367,6 +7450,47 @@
         "char.qi-jingchun"
       ]
     },
+    "concept.house-born-servants": {
+      "id": "concept.house-born-servants",
+      "type": "concept",
+      "zh": "家生子",
+      "zh_aliases": [
+        "扈从",
+        "世仆"
+      ],
+      "pinyin": "Jiashengzi",
+      "palladius": "Цзяшэнцзы",
+      "ru": "Наследственные слуги",
+      "ru_aliases": [
+        "наследственные слуги",
+        "родовые слуги"
+      ],
+      "first_chapter": 92,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "сословия",
+        "великая-ли",
+        "род-ли",
+        "служба"
+      ],
+      "path": "wiki/concepts/house-born-servants.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.li-baoping",
+        "char.zhu-he",
+        "char.zhu-lu",
+        "fac.great-li-empire",
+        "loc.dragon-spring-prefecture"
+      ],
+      "referenced_by": [
+        "char.zhu-he"
+      ]
+    },
     "concept.imperial-kilns": {
       "id": "concept.imperial-kilns",
       "type": "concept",
@@ -7413,11 +7537,14 @@
         "char.old-man-yao",
         "char.song-changjing",
         "char.song-yuzhang",
+        "char.wu-yuan",
         "concept.natal-porcelain",
         "fac.clans-compendium",
+        "fac.great-li-empire",
         "faction.imperial-court",
         "loc.dragon-spring-prefecture",
         "loc.lizhu-grotto-heaven",
+        "loc.qilong-alley",
         "loc.small-town"
       ],
       "referenced_by": [
@@ -7677,7 +7804,9 @@
         "loc.baoxi-stream",
         "loc.small-town"
       ],
-      "referenced_by": []
+      "referenced_by": [
+        "char.li-baoping"
+      ]
     },
     "concept.three-mountains-nine-lords": {
       "id": "concept.three-mountains-nine-lords",
@@ -8583,6 +8712,49 @@
       ],
       "referenced_by": []
     },
+    "fac.bamboo-leaf-pavilion": {
+      "id": "fac.bamboo-leaf-pavilion",
+      "type": "faction",
+      "zh": "竹叶亭",
+      "zh_aliases": [
+        "甲字高手",
+        "谍子"
+      ],
+      "pinyin": "Zhuye Ting",
+      "palladius": "Чжуе тин",
+      "ru": "Беседка Бамбукового Листа",
+      "ru_aliases": [
+        "Беседка Бамбукового листа"
+      ],
+      "first_chapter": 93,
+      "gender": null,
+      "subtype": "agency",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "тайная-служба",
+        "госпожа",
+        "убийцы",
+        "разряды"
+      ],
+      "path": "wiki/factions/bamboo-leaf-pavilion.md",
+      "links_to": [
+        "char.great-li-empress",
+        "char.wang-yifu",
+        "char.xu-hunran",
+        "char.ye-qing",
+        "fac.great-li-empire",
+        "faction.imperial-court"
+      ],
+      "referenced_by": [
+        "char.great-li-empress",
+        "char.ye-qing",
+        "fac.great-li-empire"
+      ]
+    },
     "fac.chen-clan": {
       "id": "fac.chen-clan",
       "type": "faction",
@@ -8901,8 +9073,10 @@
         "concept.natal-porcelain",
         "concept.qiyun",
         "cult.militarians",
+        "fac.bamboo-leaf-pavilion",
         "fac.great-sui-nation",
         "fac.lake-view-academy",
+        "fac.mount-yaoling",
         "fac.mountain-cliff-academy",
         "faction.imperial-court",
         "loc.dragon-spring-prefecture",
@@ -8914,8 +9088,10 @@
         "loc.twelve-legged-archway"
       ],
       "referenced_by": [
+        "char.aliang",
         "char.cao-gengxin",
         "char.cao-xi",
+        "char.chen-pingan",
         "char.cui-chan",
         "char.dong-hu",
         "char.gao-xuan",
@@ -8936,16 +9112,21 @@
         "char.wu-yuan",
         "char.xu-hunran",
         "char.yang-hua",
+        "char.ye-qing",
         "char.yin-god",
         "char.yu-lu",
         "char.zhu-he",
+        "concept.house-born-servants",
+        "concept.imperial-kilns",
         "concept.natal-porcelain",
         "concept.qiyun",
         "cult.demon-tribe",
         "cult.hundred-schools",
         "cult.militarians",
         "cult.qi-refinement",
+        "fac.bamboo-leaf-pavilion",
         "fac.great-sui-nation",
+        "fac.mount-yaoling",
         "fac.mountain-cliff-academy",
         "fac.northern-jin-nation",
         "loc.bamboo-scroll-lake",
@@ -9190,6 +9371,50 @@
         "char.ma-zhan",
         "fac.great-li-empire",
         "fac.mountain-cliff-academy"
+      ]
+    },
+    "fac.mount-yaoling": {
+      "id": "fac.mount-yaoling",
+      "type": "faction",
+      "zh": "摇铃山",
+      "zh_aliases": [
+        "丰城楚家"
+      ],
+      "pinyin": "Yaoling Shan",
+      "palladius": "Яолин шань",
+      "ru": "Гора Яолин",
+      "ru_aliases": [
+        "Звонящая гора",
+        "род Чу из Фэнчэна"
+      ],
+      "first_chapter": 94,
+      "gender": null,
+      "subtype": "mountain-sect",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "горная-сила",
+        "великая-ли",
+        "покупка-гор",
+        "род-чу"
+      ],
+      "path": "wiki/factions/mount-yaoling.md",
+      "links_to": [
+        "char.lady-chu",
+        "char.master-ruan",
+        "char.ruan-xiu",
+        "fac.great-li-empire",
+        "loc.apricot-blossom-alley",
+        "loc.qilong-alley",
+        "loc.small-town"
+      ],
+      "referenced_by": [
+        "char.ruan-xiu",
+        "fac.great-li-empire",
+        "loc.qilong-alley",
+        "loc.small-town"
       ]
     },
     "fac.mountain-cliff-academy": {
@@ -9905,6 +10130,7 @@
         "char.xu-hunran",
         "char.yao-zhen",
         "concept.imperial-kilns",
+        "fac.bamboo-leaf-pavilion",
         "fac.clans-compendium",
         "fac.great-li-empire",
         "fac.great-quan-empire",
@@ -10272,6 +10498,7 @@
         "char.lin-shouyi",
         "char.river-hag",
         "char.ruan-xiu",
+        "fac.mount-yaoling",
         "loc.peach-leaf-alley",
         "loc.small-town"
       ]
@@ -10515,6 +10742,7 @@
         "char.chen-songfeng",
         "char.song-jixin",
         "char.wu-yuan",
+        "concept.house-born-servants",
         "concept.imperial-kilns",
         "fac.dragon-spring-sword-sect",
         "fac.great-li-empire",
@@ -11520,12 +11748,14 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.chen-pingan",
         "char.lady-chu",
         "char.master-ruan",
         "char.wei-bo",
         "char.wei-jin",
         "char.wu-yuan",
         "char.yang-hua",
+        "char.zhu-he",
         "concept.mountain-seals",
         "loc.luopo-mountain",
         "loc.piyun-mountain",
@@ -11896,6 +12126,8 @@
       "links_to": [
         "char.chen-pingan",
         "char.master-ruan",
+        "char.ruan-xiu",
+        "fac.mount-yaoling",
         "loc.lizhu-grotto-heaven",
         "loc.niping-alley"
       ],
@@ -11906,6 +12138,8 @@
         "char.master-ruan",
         "char.ruan-xiu",
         "char.shi-chunjia",
+        "concept.imperial-kilns",
+        "fac.mount-yaoling",
         "loc.lizhu-grotto-heaven",
         "loc.niping-alley",
         "loc.small-town"
@@ -12129,6 +12363,7 @@
         "char.ma-kuxuan",
         "char.master-ruan",
         "char.old-man-yang",
+        "char.ruan-xiu",
         "char.song-jixin",
         "char.wu-yuan",
         "char.zheng-dafeng",
@@ -12136,6 +12371,7 @@
         "concept.natal-porcelain",
         "concept.qiyun",
         "fac.great-li-empire",
+        "fac.mount-yaoling",
         "loc.apricot-blossom-alley",
         "loc.baoxi-stream",
         "loc.fortune-street",
@@ -12194,6 +12430,7 @@
         "fac.chen-clan",
         "fac.clans-compendium",
         "fac.great-li-empire",
+        "fac.mount-yaoling",
         "fac.mountain-cliff-academy",
         "idiom.good-things-fragile",
         "loc.apricot-blossom-alley",
@@ -12733,6 +12970,9 @@
     "南苑国国师": [
       "char.zhong-qiu"
     ],
+    "大将军叶庆": [
+      "char.ye-qing"
+    ],
     "天下第一手": [
       "char.zhong-qiu"
     ],
@@ -12786,6 +13026,9 @@
     ],
     "中土神洲": [
       "loc.middle-earth-continent"
+    ],
+    "丰城楚家": [
+      "fac.mount-yaoling"
     ],
     "五彩天下": [
       "loc.five-colored-world"
@@ -12961,6 +13204,9 @@
     "王座大妖": [
       "cult.demon-tribe"
     ],
+    "甲字高手": [
+      "fac.bamboo-leaf-pavilion"
+    ],
     "登山五境": [
       "cult.realms-overview"
     ],
@@ -13032,6 +13278,9 @@
     ],
     "谱牒仙师": [
       "cult.qi-refinement"
+    ],
+    "边关砥柱": [
+      "char.ye-qing"
     ],
     "金精铜钱": [
       "concept.currency"
@@ -13237,6 +13486,9 @@
     "宝瓶洲": [
       "loc.eastern-treasured-vial-continent"
     ],
+    "家生子": [
+      "concept.house-born-servants"
+    ],
     "小剑仙": [
       "char.bai-shou"
     ],
@@ -13317,6 +13569,9 @@
     ],
     "搬山猿": [
       "char.mountain-moving-ape"
+    ],
+    "摇铃山": [
+      "fac.mount-yaoling"
     ],
     "斋醮钱": [
       "concept.currency"
@@ -13485,6 +13740,9 @@
     ],
     "福鹿街": [
       "loc.fortune-street"
+    ],
+    "竹叶亭": [
+      "fac.bamboo-leaf-pavilion"
     ],
     "竹枝派": [
       "fac.bamboo-branch-school"
@@ -13789,6 +14047,9 @@
     "三秋": [
       "char.chen-sanqiu"
     ],
+    "世仆": [
+      "concept.house-born-servants"
+    ],
     "世家": [
       "fac.clans-compendium"
     ],
@@ -13872,6 +14133,9 @@
     ],
     "台儿": [
       "char.lu-tai"
+    ],
+    "叶庆": [
+      "char.ye-qing"
     ],
     "吕喦": [
       "char.lu-yan"
@@ -14001,6 +14265,9 @@
     ],
     "惊蛰": [
       "idiom.jingzhe-dragon-raises-head"
+    ],
+    "扈从": [
+      "concept.house-born-servants"
     ],
     "拉坯": [
       "concept.imperial-kilns"
@@ -14268,6 +14535,9 @@
     ],
     "言官": [
       "faction.imperial-court"
+    ],
+    "谍子": [
+      "fac.bamboo-leaf-pavilion"
     ],
     "谢实": [
       "char.xie-shi"
