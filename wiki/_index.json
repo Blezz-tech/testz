@@ -829,6 +829,7 @@
         "char.chen-pingan",
         "char.chen-songfeng",
         "char.cui-minghuang",
+        "char.liu-baqiao",
         "char.liu-xianyang",
         "char.ning-yao",
         "char.ruan-xiu",
@@ -1056,6 +1057,7 @@
         "char.chen-pingan.items",
         "char.chen-pingan.relationships",
         "char.chen-pingan.techniques",
+        "char.chen-songfeng",
         "char.cui-chan",
         "char.cui-cheng",
         "char.cui-dongshan",
@@ -1065,6 +1067,7 @@
         "char.li-baoping",
         "char.li-huai",
         "char.lin-shouyi",
+        "char.liu-baqiao",
         "char.liu-xianyang",
         "char.ma-kuxuan",
         "char.master-ruan",
@@ -1630,6 +1633,7 @@
       ],
       "referenced_by": [
         "char.chen-dui",
+        "char.chen-pingan",
         "char.cui-minghuang",
         "char.liu-baqiao",
         "char.ruan-xiu"
@@ -3063,20 +3067,25 @@
       ],
       "path": "wiki/characters/liu-baqiao.md",
       "links_to": [
+        "char.chen-dui",
         "char.chen-pingan",
         "char.chen-songfeng",
         "char.cui-minghuang",
         "char.liu-xianyang",
         "char.mountain-moving-ape",
+        "char.ning-yao",
         "char.song-changjing",
-        "fac.sects-compendium"
+        "fac.sects-compendium",
+        "fac.zhengyang-mountain"
       ],
       "referenced_by": [
         "char.chen-dui",
+        "char.chen-pingan",
         "char.chen-songfeng",
         "char.cui-chan",
         "char.cui-minghuang",
         "char.mountain-moving-ape",
+        "char.ning-yao",
         "char.song-changjing",
         "char.tao-zi",
         "fac.wind-thunder-garden"
@@ -3935,6 +3944,7 @@
         "char.chen-pingan",
         "char.chen-qingdu",
         "char.dong-huafu",
+        "char.liu-baqiao",
         "char.liu-zhimao",
         "char.lu-chen",
         "char.ma-kuxuan",
@@ -3969,6 +3979,7 @@
         "char.dong-bude",
         "char.dong-huafu",
         "char.guo-zhujiu",
+        "char.liu-baqiao",
         "char.lu-chen",
         "char.lu-zhi",
         "char.ma-kuxuan",
@@ -4220,7 +4231,8 @@
         "char.song-changjing",
         "char.yin-god",
         "char.zheng-dafeng",
-        "char.zhigui"
+        "char.zhigui",
+        "loc.lizhu-grotto-heaven"
       ]
     },
     "char.old-man-yao": {
@@ -4805,13 +4817,15 @@
         "char.xu-yuanxia",
         "char.yao-zhen",
         "char.zheng-dafeng",
+        "char.zhigui",
         "concept.imperial-kilns",
         "cult.martial-arts",
         "cult.militarians",
         "cult.realms-overview",
         "fac.great-li-empire",
         "loc.dragon-spring-prefecture",
-        "loc.great-li-capital"
+        "loc.great-li-capital",
+        "loc.lizhu-grotto-heaven"
       ]
     },
     "char.song-he": {
@@ -6139,6 +6153,7 @@
         "char.liu-xianyang",
         "char.ma-kuxuan",
         "char.old-man-yang",
+        "char.song-changjing",
         "char.song-jixin",
         "char.xie-shi",
         "concept.qiyun",
@@ -9211,6 +9226,7 @@
         "loc.eastern-treasured-vial-continent"
       ],
       "referenced_by": [
+        "char.liu-baqiao",
         "char.qi-jingchun",
         "fac.bamboo-branch-school",
         "fac.wind-thunder-garden"
@@ -10347,7 +10363,9 @@
       "links_to": [
         "char.chen-pingan",
         "char.master-ruan",
+        "char.old-man-yang",
         "char.qi-jingchun",
+        "char.song-changjing",
         "char.song-jixin",
         "char.zhigui",
         "concept.imperial-kilns",

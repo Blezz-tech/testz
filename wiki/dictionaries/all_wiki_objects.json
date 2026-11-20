@@ -1428,6 +1428,7 @@
         "loc.eastern-treasured-vial-continent"
       ],
       "referenced_by": [
+        "char.liu-baqiao",
         "char.qi-jingchun",
         "fac.bamboo-branch-school",
         "fac.wind-thunder-garden"
@@ -2031,7 +2032,9 @@
       "links_to": [
         "char.chen-pingan",
         "char.master-ruan",
+        "char.old-man-yang",
         "char.qi-jingchun",
+        "char.song-changjing",
         "char.song-jixin",
         "char.zhigui",
         "concept.imperial-kilns",
@@ -4236,20 +4239,25 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Лю Бацяо**. `灞桥` — «мост Ба» (знаменитый в танской поэзии мост расставаний); имя не склоняется.\n- **Речь:** громкая, задиристая, с матерком и хохотом. Он рубит сплеча и не умеет держать язык за зубами.",
       "links_to": [
+        "char.chen-dui",
         "char.chen-pingan",
         "char.chen-songfeng",
         "char.cui-minghuang",
         "char.liu-xianyang",
         "char.mountain-moving-ape",
+        "char.ning-yao",
         "char.song-changjing",
-        "fac.sects-compendium"
+        "fac.sects-compendium",
+        "fac.zhengyang-mountain"
       ],
       "referenced_by": [
         "char.chen-dui",
+        "char.chen-pingan",
         "char.chen-songfeng",
         "char.cui-chan",
         "char.cui-minghuang",
         "char.mountain-moving-ape",
+        "char.ning-yao",
         "char.song-changjing",
         "char.tao-zi",
         "fac.wind-thunder-garden"
@@ -5384,6 +5392,7 @@
         "char.chen-pingan",
         "char.chen-qingdu",
         "char.dong-huafu",
+        "char.liu-baqiao",
         "char.liu-zhimao",
         "char.lu-chen",
         "char.ma-kuxuan",
@@ -5418,6 +5427,7 @@
         "char.dong-bude",
         "char.dong-huafu",
         "char.guo-zhujiu",
+        "char.liu-baqiao",
         "char.lu-chen",
         "char.lu-zhi",
         "char.ma-kuxuan",
@@ -7663,7 +7673,8 @@
         "char.song-changjing",
         "char.yin-god",
         "char.zheng-dafeng",
-        "char.zhigui"
+        "char.zhigui",
+        "loc.lizhu-grotto-heaven"
       ],
       "card": "wiki/characters/old-man-yang.md"
     },
@@ -8294,13 +8305,15 @@
         "char.xu-yuanxia",
         "char.yao-zhen",
         "char.zheng-dafeng",
+        "char.zhigui",
         "concept.imperial-kilns",
         "cult.martial-arts",
         "cult.militarians",
         "cult.realms-overview",
         "fac.great-li-empire",
         "loc.dragon-spring-prefecture",
-        "loc.great-li-capital"
+        "loc.great-li-capital",
+        "loc.lizhu-grotto-heaven"
       ],
       "card": "wiki/characters/song-changjing.md"
     },
@@ -10334,6 +10347,7 @@
         "char.liu-xianyang",
         "char.ma-kuxuan",
         "char.old-man-yang",
+        "char.song-changjing",
         "char.song-jixin",
         "char.xie-shi",
         "concept.qiyun",
@@ -10915,6 +10929,7 @@
         "char.chen-pingan",
         "char.chen-songfeng",
         "char.cui-minghuang",
+        "char.liu-baqiao",
         "char.liu-xianyang",
         "char.ning-yao",
         "char.ruan-xiu",
@@ -11060,6 +11075,7 @@
         "char.chen-pingan.items",
         "char.chen-pingan.relationships",
         "char.chen-pingan.techniques",
+        "char.chen-songfeng",
         "char.cui-chan",
         "char.cui-cheng",
         "char.cui-dongshan",
@@ -11069,6 +11085,7 @@
         "char.li-baoping",
         "char.li-huai",
         "char.lin-shouyi",
+        "char.liu-baqiao",
         "char.liu-xianyang",
         "char.ma-kuxuan",
         "char.master-ruan",
@@ -11555,7 +11572,7 @@
         "столица",
         "род-чэнь-стены"
       ],
-      "translation_rule": "## Правила перевода\n\n- **Передача:** **Чэнь Сунфэн** — имя склоняется (*Чэнь Сунфэна, Чэнь Сунфэну*).\n\n## Правило для переводчика\n\nВ его репликах важна **учёная игра цитатами**: он говорит формулами из классиков. Если в китайском тексте цитата — в русском её нужно либо дать точным эквивалентом, либо пересказать с пометкой.\n\n### Главы 50–59\n- Глава 50: вместе с [Чэнь Дуй](chen-dui.md) находит [Лю Бацяо](liu-baqiao.md); вернувшись от старой софоры с листьями предков, просит [Сун Чанцзина](song-changjing.md) пощадить девушку, потому что она не с Восточного материка Драгоценного Сосуда.\n- Глава 57: перебирает в управе старые книги рода Чэнь и молча сносит холодные слова [Чэнь Дуй](chen-dui.md).\n\n### Главы 60–64\n- Глава 64: [Жуань Сю](ruan-xiu.md) представляет его старшим внуком от законной жены рода Чэнь [уезда Драконьего Родника](../locations/dragon-spring-prefecture.md) и дальней роднёй Чэнь Пинъаня: ветви разошлись несколько сотен лет назад.",
+      "translation_rule": "## Правила перевода\n\n- **Передача:** **Чэнь Сунфэн** — имя склоняется (*Чэнь Сунфэна, Чэнь Сунфэну*).\n\n## Правило для переводчика\n\nВ его репликах важна **учёная игра цитатами**: он говорит формулами из классиков. Если в китайском тексте цитата — в русском её нужно либо дать точным эквивалентом, либо пересказать с пометкой.\n\n### Главы 50–59\n- Глава 50: вместе с [Чэнь Дуй](chen-dui.md) находит [Лю Бацяо](liu-baqiao.md); вернувшись от старой софоры с листьями предков, просит [Сун Чанцзина](song-changjing.md) пощадить девушку, потому что она не с Восточного материка Драгоценного Сосуда.\n- Глава 57: перебирает в управе старые книги рода Чэнь и молча сносит холодные слова [Чэнь Дуй](chen-dui.md).\n\n### Главы 60–64\n- Глава 64: [Жуань Сю](ruan-xiu.md) представляет его старшим внуком от законной жены рода Чэнь [уезда Драконьего Родника](../locations/dragon-spring-prefecture.md) и дальней роднёй Чэнь Пинъаня: ветви разошлись несколько сотен лет назад.\n\n### Главы 65–69\n- Глава 65: с трудом идёт по горной дороге, падает в ручей; [Чэнь Дуй](chen-dui.md) отправляет его назад, и Лю Бацяо уходит с ним.\n- Глава 67: возвращается с [Лю Бацяо](liu-baqiao.md); решает, что род Чэнь уезда Драконьего Родника должен поддержать Великую Ли; объясняет, почему существование Чэнь Пинъаня ставит род в неловкое положение, и краснеет, когда Лю Бацяо называет это бессилием.",
       "links_to": [
         "char.chen-dui",
         "char.chen-pingan",
@@ -11569,6 +11586,7 @@
       ],
       "referenced_by": [
         "char.chen-dui",
+        "char.chen-pingan",
         "char.cui-minghuang",
         "char.liu-baqiao",
         "char.ruan-xiu"
