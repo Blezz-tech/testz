@@ -3,15 +3,15 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 265,
+  "total_entries": 267,
   "counts_by_type": {
     "artifact": 9,
     "character": 141,
-    "concept": 11,
+    "concept": 12,
     "cultivation": 11,
     "faction": 34,
     "idiom": 9,
-    "location": 48,
+    "location": 49,
     "media": 2
   },
   "entries": [
@@ -264,6 +264,46 @@
         "fac.mountain-cliff-academy"
       ],
       "card": "wiki/factions/lake-view-academy.md"
+    },
+    {
+      "id": "loc.twelve-legged-archway",
+      "type": "location",
+      "zh": "十二脚牌坊楼",
+      "zh_aliases": [
+        "牌坊楼",
+        "牌坊"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Shi'er Jiao Paifang Lou",
+      "palladius": "Шиэр цзяо пайфан лоу",
+      "ru": "Арка на двенадцати опорах",
+      "ru_aliases": [
+        "двенадцатиногая арка"
+      ],
+      "first_chapter": 23,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "ориентир",
+        "городок",
+        "роды",
+        "таблицы"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **`牌坊`** — *пайфан*, парадная арка в честь добродетели или заслуг рода; по-русски — **арка** (не «ворота» и не «обелиск»).\n- **`十二脚`** — «двенадцать ног», то есть двенадцать каменных столпов; в тексте — **арка на двенадцати опорах**.\n- Таблицы с надписями (`匾额`) — **таблицы** или **доски с надписями**, не «вывески».",
+      "links_to": [
+        "char.song-jixin",
+        "char.zhao-yao",
+        "char.zhigui",
+        "loc.fortune-street",
+        "loc.niping-alley",
+        "loc.small-town"
+      ],
+      "referenced_by": [],
+      "card": "wiki/locations/twelve-legged-archway.md"
     },
     {
       "id": "char.bai-lianshuang",
@@ -1718,6 +1758,7 @@
         "concept.dharma-ending-land",
         "concept.entry-thresholds",
         "concept.imperial-kilns",
+        "concept.snake-gall-stones",
         "cult.buddhism",
         "cult.confucianism",
         "cult.daoism",
@@ -1738,7 +1779,8 @@
         "loc.peach-leaf-alley",
         "loc.qingfeng-city",
         "loc.red-candle-town",
-        "loc.southern-posha-continent"
+        "loc.southern-posha-continent",
+        "loc.twelve-legged-archway"
       ],
       "card": "wiki/locations/small-town.md"
     },
@@ -2063,6 +2105,7 @@
         "char.chen-pingan",
         "char.gu-shi",
         "char.liu-zhimao",
+        "concept.ancestral-shade-leaves",
         "loc.bamboo-scroll-lake",
         "loc.niping-alley"
       ],
@@ -3185,6 +3228,48 @@
       "card": "wiki/concepts/imperial-kilns.md"
     },
     {
+      "id": "concept.snake-gall-stones",
+      "type": "concept",
+      "zh": "蛇胆石",
+      "zh_aliases": [
+        "溪中石子",
+        "石子"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Shedan shi",
+      "palladius": "Шэдань ши",
+      "ru": "Камни «змеиной желчи»",
+      "ru_aliases": [
+        "змеиная желчь",
+        "речные камешки"
+      ],
+      "first_chapter": 28,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "материалы",
+        "личжу",
+        "торговля",
+        "ручей"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **`蛇胆石`** → **камень «змеиной желчи»** (местное, деревенское название) или **речной камешек**, когда так короче; не «змеиный камень» и не «галька».\n- **`石板鱼`** → **«каменная плита»** — мелкая речная рыбка, что прячется под камнями; название не переводить как «рыба-плита» в описаниях еды.\n- Не путать с [камнями облачного корня](cloud-root-stone.md): те — сырьё сект, эти — местная речная галька.",
+      "links_to": [
+        "char.chen-pingan",
+        "char.liu-xianyang",
+        "char.ning-yao",
+        "char.zhigui",
+        "concept.cloud-root-stone",
+        "loc.baoxi-stream",
+        "loc.small-town"
+      ],
+      "referenced_by": [],
+      "card": "wiki/concepts/snake-gall-stones.md"
+    },
+    {
       "id": "concept.cloud-root-stone",
       "type": "concept",
       "zh": "云根石",
@@ -3223,7 +3308,8 @@
         "loc.old-dragon-city"
       ],
       "referenced_by": [
-        "char.cai-jinjian"
+        "char.cai-jinjian",
+        "concept.snake-gall-stones"
       ],
       "card": "wiki/concepts/cloud-root-stone.md"
     },
@@ -3864,6 +3950,7 @@
       ],
       "referenced_by": [
         "char.chen-pingan",
+        "char.gu-can",
         "char.qi-jingchun",
         "concept.natal-porcelain",
         "loc.old-locust-tree"
@@ -4216,6 +4303,7 @@
         "concept.imperial-kilns",
         "cult.sword-cultivator",
         "loc.baoxi-stream",
+        "loc.fortune-street",
         "loc.northern-juilu-continent",
         "loc.old-locust-tree",
         "loc.qilong-alley",
@@ -4232,6 +4320,7 @@
         "char.tao-zi",
         "char.wei-jin",
         "concept.imperial-kilns",
+        "concept.snake-gall-stones",
         "fac.zhengyang-mountain",
         "loc.baoxi-stream",
         "loc.old-locust-tree"
@@ -4286,6 +4375,7 @@
         "char.gu-can",
         "char.gu-shi",
         "char.liu-laocheng",
+        "char.ning-yao",
         "char.qi-jingchun",
         "char.zeng-ye",
         "concept.cloud-root-stone",
@@ -5245,6 +5335,7 @@
         "char.chen-pingan",
         "char.chen-qingdu",
         "char.dong-huafu",
+        "char.liu-zhimao",
         "char.lu-chen",
         "char.master-ruan",
         "char.mountain-moving-ape",
@@ -5253,6 +5344,7 @@
         "char.ning-yao.history",
         "char.ning-yao.relationships",
         "cult.sword-cultivator",
+        "fac.sects-compendium",
         "loc.daoxuan-mountain",
         "loc.small-town",
         "loc.sword-qi-great-wall"
@@ -5287,6 +5379,7 @@
         "char.ruan-xiu",
         "char.yan-zhuo",
         "concept.dharma-ending-land",
+        "concept.snake-gall-stones",
         "cult.daoism",
         "cult.sword-cultivator",
         "fac.clans-compendium",
@@ -5709,7 +5802,8 @@
         "loc.old-locust-tree",
         "loc.peach-leaf-alley",
         "loc.qilong-alley",
-        "loc.small-town"
+        "loc.small-town",
+        "loc.twelve-legged-archway"
       ],
       "card": "wiki/locations/niping-alley.md"
     },
@@ -6180,9 +6274,11 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.liu-xianyang",
         "fac.clans-compendium",
         "loc.peach-leaf-alley",
-        "loc.small-town"
+        "loc.small-town",
+        "loc.twelve-legged-archway"
       ],
       "card": "wiki/locations/fortune-street.md"
     },
@@ -6456,6 +6552,7 @@
       ],
       "referenced_by": [
         "char.liu-xianyang",
+        "concept.snake-gall-stones",
         "loc.small-town"
       ],
       "card": "wiki/locations/baoxi-stream.md"
@@ -6559,6 +6656,7 @@
         "char.ma-kuxuan",
         "char.master-ruan",
         "char.mountain-moving-ape",
+        "char.ning-yao",
         "char.qi-jinglong",
         "char.ruan-xiu",
         "char.sui-jingcheng",
@@ -8048,7 +8146,8 @@
         "idiom.clay-bodhisattva-crossing-river",
         "loc.fortune-street",
         "loc.lizhu-grotto-heaven",
-        "loc.niping-alley"
+        "loc.niping-alley",
+        "loc.twelve-legged-archway"
       ],
       "card": "wiki/characters/song-jixin.md"
     },
@@ -10084,7 +10183,8 @@
       "referenced_by": [
         "art.jade-hairpin-and-seals",
         "fac.clans-compendium",
-        "loc.fortune-street"
+        "loc.fortune-street",
+        "loc.twelve-legged-archway"
       ],
       "card": "wiki/characters/zhao-yao.md"
     },
@@ -10138,11 +10238,13 @@
         "char.old-man-yang",
         "char.song-jixin",
         "char.xie-shi",
+        "concept.snake-gall-stones",
         "concept.yasheng",
         "cult.demon-tribe",
         "idiom.jingzhe-dragon-raises-head",
         "loc.lizhu-grotto-heaven",
-        "loc.niping-alley"
+        "loc.niping-alley",
+        "loc.twelve-legged-archway"
       ],
       "card": "wiki/characters/zhigui.md"
     },
@@ -10930,6 +11032,7 @@
         "concept.mountain-seals",
         "concept.natal-porcelain",
         "concept.qiyun",
+        "concept.snake-gall-stones",
         "cult.confucianism",
         "cult.daoism",
         "cult.martial-arts",
