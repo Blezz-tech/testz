@@ -26,6 +26,7 @@
 | [«Рассекающая воду круча»](shuduan-cliff.md) | 断水大崖 | [Ли Хуай](../characters/li-huai.md) |
 | [Меч «Талисман»](talisman-sword.md) | 符箓 | [Ян Хуа](../characters/yang-hua.md) (прежде — [Великая Ли](../factions/great-li-empire.md)) |
 | [Двенадцать летающих мечей](twelve-flying-swords.md) | 十二柄飞剑 | [Сун Му](../characters/song-jixin.md) |
+| [Талисман прорыва преград](barrier-breaking-talisman.md) | 破障符 / 山水符 | [Линь Шоуи](../characters/lin-shouyi.md) |
 
 ## Правила создания карточек
 
