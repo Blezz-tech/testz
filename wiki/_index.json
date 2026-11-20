@@ -1,17 +1,98 @@
 {
   "schema_version": "2.0",
-  "total_entities": 309,
+  "total_entities": 316,
   "counts_by_type": {
-    "artifact": 17,
-    "character": 158,
-    "concept": 18,
-    "cultivation": 11,
+    "artifact": 18,
+    "character": 161,
+    "concept": 19,
+    "cultivation": 12,
     "faction": 37,
-    "idiom": 10,
+    "idiom": 11,
     "location": 56,
     "media": 2
   },
   "entities": {
+    "art.barrier-breaking-talisman": {
+      "id": "art.barrier-breaking-talisman",
+      "type": "artifact",
+      "zh": "破障符",
+      "zh_aliases": [
+        "山水符",
+        "五岳破障符"
+      ],
+      "pinyin": "Pozhang fu",
+      "palladius": "Почжан фу",
+      "ru": "Талисман прорыва преград",
+      "ru_aliases": [
+        "талисман прорыва преград",
+        "горный талисман",
+        "山水符"
+      ],
+      "first_chapter": 119,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "[",
+        "т",
+        "а",
+        "л",
+        "и",
+        "с",
+        "м",
+        "а",
+        "н",
+        ",",
+        " ",
+        "г",
+        "о",
+        "р",
+        "ы",
+        "-",
+        "и",
+        "-",
+        "в",
+        "о",
+        "д",
+        "ы",
+        ",",
+        " ",
+        "д",
+        "о",
+        "р",
+        "о",
+        "г",
+        "а",
+        ",",
+        " ",
+        "л",
+        "о",
+        "в",
+        "у",
+        "ш",
+        "к",
+        "а",
+        "]"
+      ],
+      "path": "wiki/artifacts/barrier-breaking-talisman.md",
+      "links_to": [
+        "art.xiangfu-blade",
+        "char.lady-chu",
+        "char.lin-shouyi",
+        "char.yin-god",
+        "concept.mountain-and-river-gods",
+        "cult.qi-refinement",
+        "idiom.ghost-wall"
+      ],
+      "referenced_by": [
+        "char.blind-daoist",
+        "cultivation.thunder-magic",
+        "idiom.ghost-wall"
+      ]
+    },
     "art.chen-pingans-swords": {
       "id": "art.chen-pingans-swords",
       "type": "artifact",
@@ -134,7 +215,8 @@
         "cult.daoism"
       ],
       "referenced_by": [
-        "char.lin-shouyi"
+        "char.lin-shouyi",
+        "cultivation.thunder-magic"
       ]
     },
     "art.heavenly-truths-swords": {
@@ -676,6 +758,7 @@
         "loc.white-jade-capital"
       ],
       "referenced_by": [
+        "art.barrier-breaking-talisman",
         "char.li-baoping",
         "char.song-changjing",
         "char.song-zhengchun",
@@ -835,6 +918,75 @@
         "media.novel"
       ]
     },
+    "char.bai-jing": {
+      "id": "char.bai-jing",
+      "type": "character",
+      "zh": "白鲸",
+      "zh_aliases": [],
+      "pinyin": "Bai Jing",
+      "palladius": "Бай Цзин",
+      "ru": "Бай Цзин",
+      "ru_aliases": [
+        "Белый кит",
+        "мечник в белом"
+      ],
+      "first_chapter": 120,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "[",
+        "м",
+        "е",
+        "ч",
+        "н",
+        "и",
+        "к",
+        ",",
+        " ",
+        "в",
+        "о",
+        "л",
+        "ь",
+        "н",
+        "ы",
+        "й",
+        "-",
+        "п",
+        "р",
+        "а",
+        "к",
+        "т",
+        "и",
+        "к",
+        ",",
+        " ",
+        "р",
+        "е",
+        "к",
+        "а",
+        ",",
+        " ",
+        "с",
+        "м",
+        "е",
+        "р",
+        "т",
+        "ь",
+        "]"
+      ],
+      "path": "wiki/characters/bai-jing.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.yin-god",
+        "fac.great-li-empire",
+        "loc.chundan-river"
+      ],
+      "referenced_by": []
+    },
     "char.bai-lianshuang": {
       "id": "char.bai-lianshuang",
       "type": "character",
@@ -993,6 +1145,50 @@
       ],
       "referenced_by": [
         "char.wei-bo"
+      ]
+    },
+    "char.blind-daoist": {
+      "id": "char.blind-daoist",
+      "type": "character",
+      "zh": "目盲老道",
+      "zh_aliases": [
+        "目盲道人",
+        "老道人",
+        "牛鼻子老道"
+      ],
+      "pinyin": "Mumang laodao",
+      "palladius": "Ман лаодао",
+      "ru": "Слепой даос",
+      "ru_aliases": [
+        "слепой старик",
+        "даос с бычьим носом"
+      ],
+      "first_chapter": 122,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "даос",
+        "бродяга",
+        "громовое-искусство",
+        "жестокость"
+      ],
+      "path": "wiki/characters/blind-daoist.md",
+      "links_to": [
+        "art.barrier-breaking-talisman",
+        "char.chen-pingan",
+        "char.jiu-er",
+        "char.lady-chu",
+        "char.lin-shouyi",
+        "cultivation.thunder-magic"
+      ],
+      "referenced_by": [
+        "char.jiu-er",
+        "char.lady-chu",
+        "cultivation.thunder-magic"
       ]
     },
     "char.cai-jinjian": {
@@ -1579,9 +1775,11 @@
         "art.sword-nurturing-gourd",
         "art.zhen-yao-bell",
         "char.aliang",
+        "char.bai-jing",
         "char.bai-lianshuang",
         "char.bai-shou",
         "char.black-snake-and-white-python",
+        "char.blind-daoist",
         "char.cai-jinjian",
         "char.cao-ci",
         "char.cao-qinglang",
@@ -1690,6 +1888,7 @@
         "concept.mountain-seals",
         "concept.natal-porcelain",
         "concept.qiyun",
+        "concept.reading-seed",
         "concept.snake-gall-stones",
         "cult.confucianism",
         "cult.daoism",
@@ -3314,6 +3513,44 @@
       ],
       "referenced_by": []
     },
+    "char.jiu-er": {
+      "id": "char.jiu-er",
+      "type": "character",
+      "zh": "酒儿",
+      "zh_aliases": [
+        "小酒儿",
+        "圆脸小姑娘"
+      ],
+      "pinyin": "Jiuer",
+      "palladius": "Цзюэр",
+      "ru": "Цзюэр",
+      "ru_aliases": [
+        "круглолицая девчушка",
+        "маленькая Цзюэр"
+      ],
+      "first_chapter": 122,
+      "gender": "female",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "даос",
+        "ученица",
+        "кровь",
+        "жалость"
+      ],
+      "path": "wiki/characters/jiu-er.md",
+      "links_to": [
+        "char.blind-daoist",
+        "char.lady-chu",
+        "char.li-baoping"
+      ],
+      "referenced_by": [
+        "char.blind-daoist"
+      ]
+    },
     "char.lady-chu": {
       "id": "char.lady-chu",
       "type": "character",
@@ -3342,16 +3579,25 @@
       ],
       "path": "wiki/characters/lady-chu.md",
       "links_to": [
+        "char.blind-daoist",
         "char.chen-pingan",
         "char.cui-chan",
         "char.wei-bo",
+        "char.yin-god",
         "char.zhigui",
         "concept.qiyun",
         "fac.great-li-empire",
+        "loc.chundan-river",
         "loc.mountains-near-town"
       ],
       "referenced_by": [
-        "fac.mount-yaoling"
+        "art.barrier-breaking-talisman",
+        "char.blind-daoist",
+        "char.jiu-er",
+        "concept.reading-seed",
+        "cultivation.thunder-magic",
+        "fac.mount-yaoling",
+        "idiom.ghost-wall"
       ]
     },
     "char.li-baoping": {
@@ -3409,6 +3655,7 @@
         "char.chen-pingan",
         "char.chen-pingan.history",
         "char.dong-shuijing",
+        "char.jiu-er",
         "char.li-baozhen",
         "char.li-huai",
         "char.li-second-master",
@@ -3425,6 +3672,7 @@
         "concept.ancestral-shade-leaves",
         "concept.house-born-servants",
         "concept.natal-porcelain",
+        "concept.reading-seed",
         "concept.seasonal-hunts",
         "fac.clans-compendium",
         "fac.great-sui-nation",
@@ -3898,11 +4146,13 @@
         "loc.apricot-blossom-alley"
       ],
       "referenced_by": [
+        "art.barrier-breaking-talisman",
         "art.cloud-ringing-book",
         "art.shuduan-cliff",
         "art.talisman-sword",
         "art.xiangfu-blade",
         "char.aliang",
+        "char.blind-daoist",
         "char.cao-gengxin",
         "char.chen-pingan",
         "char.chen-pingan.history",
@@ -3917,8 +4167,10 @@
         "char.qi-jingchun",
         "char.shi-chunjia",
         "char.zhu-lu",
+        "concept.reading-seed",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
+        "idiom.ghost-wall",
         "loc.fushui-bay",
         "loc.post-station-pillow"
       ]
@@ -7227,9 +7479,13 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "art.barrier-breaking-talisman",
         "char.aliang",
+        "char.bai-jing",
         "char.chen-pingan",
-        "concept.qiyun"
+        "char.lady-chu",
+        "concept.qiyun",
+        "idiom.ghost-wall"
       ]
     },
     "char.yu-juanfu": {
@@ -8577,10 +8833,12 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "art.barrier-breaking-talisman",
         "char.black-snake-and-white-python",
         "char.scarlet-censer-boy",
         "char.wei-bo",
         "concept.mountain-opening-talismans",
+        "idiom.ghost-wall",
         "loc.chundan-river"
       ]
     },
@@ -8835,6 +9093,88 @@
         "loc.small-town",
         "loc.ten-great-grotto-heavens"
       ]
+    },
+    "concept.reading-seed": {
+      "id": "concept.reading-seed",
+      "type": "concept",
+      "zh": "读书种子",
+      "zh_aliases": [
+        "读书人",
+        "君子贤人"
+      ],
+      "pinyin": "Dushu zhongzi",
+      "palladius": "Душу чжунцзы",
+      "ru": "Книжное семя",
+      "ru_aliases": [
+        "книжное семя",
+        "книжники",
+        "благородные мужи и достойные"
+      ],
+      "first_chapter": 123,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "[",
+        "к",
+        "о",
+        "н",
+        "ф",
+        "у",
+        "ц",
+        "и",
+        "а",
+        "н",
+        "с",
+        "т",
+        "в",
+        "о",
+        ",",
+        " ",
+        "к",
+        "н",
+        "и",
+        "г",
+        "и",
+        ",",
+        " ",
+        "н",
+        "р",
+        "а",
+        "в",
+        "с",
+        "т",
+        "в",
+        "е",
+        "н",
+        "н",
+        "о",
+        "с",
+        "т",
+        "ь",
+        ",",
+        " ",
+        "о",
+        "б",
+        "и",
+        "д",
+        "а",
+        "]"
+      ],
+      "path": "wiki/concepts/reading-seed.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.lady-chu",
+        "char.li-baoping",
+        "char.lin-shouyi",
+        "cult.confucianism",
+        "cult.three-teachings",
+        "idiom.daoli-and-benxin"
+      ],
+      "referenced_by": []
     },
     "concept.seasonal-hunts": {
       "id": "concept.seasonal-hunts",
@@ -9116,6 +9456,7 @@
         "char.zhao-yao",
         "char.zhisheng-xianshi",
         "char.zhong-kui",
+        "concept.reading-seed",
         "concept.yasheng",
         "cult.buddhism",
         "cult.daoism",
@@ -9202,6 +9543,7 @@
         "cult.hundred-schools",
         "cult.realms-overview",
         "cult.three-teachings",
+        "cultivation.thunder-magic",
         "fac.azure-phoenix-nation",
         "fac.divine-edict-sect",
         "fac.southern-stream-nation",
@@ -9525,6 +9867,7 @@
         "loc.white-jade-capital"
       ],
       "referenced_by": [
+        "art.barrier-breaking-talisman",
         "char.cai-jinjian",
         "char.chen-pingan.cultivation",
         "char.cui-chan",
@@ -9537,6 +9880,7 @@
         "concept.mountain-seals",
         "cult.martial-arts",
         "cult.realms-overview",
+        "cultivation.thunder-magic",
         "fac.bamboo-branch-school",
         "fac.golden-gate-school",
         "fac.pima-sect",
@@ -9767,6 +10111,7 @@
         "char.wu-shuangjiang",
         "char.zhisheng-xianshi",
         "concept.qiyun",
+        "concept.reading-seed",
         "concept.yasheng",
         "cult.buddhism",
         "cult.confucianism",
@@ -9777,6 +10122,49 @@
         "loc.majestic-world",
         "loc.ten-great-grotto-heavens",
         "loc.white-jade-capital"
+      ]
+    },
+    "cultivation.thunder-magic": {
+      "id": "cultivation.thunder-magic",
+      "type": "cultivation",
+      "zh": "雷法",
+      "zh_aliases": [
+        "五雷正法",
+        "五雷轰顶"
+      ],
+      "pinyin": "Leifa",
+      "palladius": "Лэйфа",
+      "ru": "Громовое искусство",
+      "ru_aliases": [
+        "громовое искусство",
+        "истинный закон пяти громов",
+        "удар пяти громов"
+      ],
+      "first_chapter": 122,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "даосизм",
+        "гром",
+        "талисманы",
+        "расплата"
+      ],
+      "path": "wiki/cultivation/thunder-magic.md",
+      "links_to": [
+        "art.barrier-breaking-talisman",
+        "art.cloud-ringing-book",
+        "char.blind-daoist",
+        "char.lady-chu",
+        "cult.daoism",
+        "cult.qi-refinement",
+        "loc.eastern-treasured-vial-continent"
+      ],
+      "referenced_by": [
+        "char.blind-daoist"
       ]
     },
     "fac.azure-phoenix-nation": {
@@ -10241,6 +10629,7 @@
         "art.twelve-flying-swords",
         "art.xiangfu-blade",
         "char.aliang",
+        "char.bai-jing",
         "char.cao-gengxin",
         "char.cao-xi",
         "char.chen-pingan",
@@ -11468,9 +11857,45 @@
         "cult.confucianism"
       ],
       "referenced_by": [
+        "concept.reading-seed",
         "cult.confucianism",
         "idiom.strength-and-freedom",
         "media.author"
+      ]
+    },
+    "idiom.ghost-wall": {
+      "id": "idiom.ghost-wall",
+      "type": "idiom",
+      "zh": "鬼打墙",
+      "zh_aliases": [
+        "鬼蜮伎俩"
+      ],
+      "pinyin": "Gui da qiang",
+      "palladius": "Гуй да цян",
+      "ru": "Чёртова стена",
+      "ru_aliases": [],
+      "first_chapter": 124,
+      "gender": null,
+      "subtype": "suyu",
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "нечисть",
+        "дорога",
+        "ловушка"
+      ],
+      "path": "wiki/idioms/ghost-wall.md",
+      "links_to": [
+        "art.barrier-breaking-talisman",
+        "char.lady-chu",
+        "char.lin-shouyi",
+        "char.yin-god",
+        "concept.mountain-and-river-gods"
+      ],
+      "referenced_by": [
+        "art.barrier-breaking-talisman"
       ]
     },
     "idiom.good-things-fragile": {
@@ -12010,6 +12435,8 @@
         "loc.red-candle-town"
       ],
       "referenced_by": [
+        "char.bai-jing",
+        "char.lady-chu",
         "char.li-jin",
         "char.scarlet-censer-boy",
         "loc.fushui-bay",
@@ -12201,6 +12628,7 @@
         "cult.buddhism",
         "cult.confucianism",
         "cult.daoism",
+        "cultivation.thunder-magic",
         "fac.azure-phoenix-nation",
         "fac.bamboo-branch-school",
         "fac.divine-edict-sect",
@@ -14527,6 +14955,9 @@
     "云上琅琅书": [
       "art.cloud-ringing-book"
     ],
+    "五岳破障符": [
+      "art.barrier-breaking-talisman"
+    ],
     "元婴老剑修": [
       "char.yin-chen"
     ],
@@ -14538,6 +14969,9 @@
     ],
     "南苑国国师": [
       "char.zhong-qiu"
+    ],
+    "圆脸小姑娘": [
+      "char.jiu-er"
     ],
     "大将军叶庆": [
       "char.ye-qing"
@@ -14577,6 +15011,9 @@
     ],
     "烽火戏诸侯": [
       "media.author"
+    ],
+    "牛鼻子老道": [
+      "char.blind-daoist"
     ],
     "白玉京飞剑": [
       "art.twelve-flying-swords"
@@ -14629,6 +15066,12 @@
     "五彩天下": [
       "loc.five-colored-world"
     ],
+    "五雷正法": [
+      "cultivation.thunder-magic"
+    ],
+    "五雷轰顶": [
+      "cultivation.thunder-magic"
+    ],
     "京城符剑": [
       "art.talisman-sword"
     ],
@@ -14673,6 +15116,9 @@
     ],
     "叠嶂姑娘": [
       "char.die-zhang"
+    ],
+    "君子贤人": [
+      "concept.reading-seed"
     ],
     "土地老翁": [
       "char.wei-bo"
@@ -14866,6 +15312,12 @@
     "监造大人": [
       "concept.imperial-kilns"
     ],
+    "目盲老道": [
+      "char.blind-daoist"
+    ],
+    "目盲道人": [
+      "char.blind-daoist"
+    ],
     "督造大人": [
       "concept.imperial-kilns"
     ],
@@ -14944,6 +15396,9 @@
     "诸子百家": [
       "cult.hundred-schools"
     ],
+    "读书种子": [
+      "concept.reading-seed"
+    ],
     "谱牒仙师": [
       "cult.qi-refinement"
     ],
@@ -14997,6 +15452,9 @@
     ],
     "高大女子": [
       "char.sword-spirit"
+    ],
+    "鬼蜮伎俩": [
+      "idiom.ghost-wall"
     ],
     "黑蛇白蟒": [
       "char.black-snake-and-white-python"
@@ -15217,8 +15675,14 @@
     "小说家": [
       "cult.hundred-schools"
     ],
+    "小酒儿": [
+      "char.jiu-er"
+    ],
     "山水印": [
       "concept.mountain-seals"
+    ],
+    "山水符": [
+      "art.barrier-breaking-talisman"
     ],
     "山魈壶": [
       "art.shanxiao-pot"
@@ -15460,6 +15924,9 @@
     "石春嘉": [
       "char.shi-chunjia"
     ],
+    "破障符": [
+      "art.barrier-breaking-talisman"
+    ],
     "碎瓷山": [
       "concept.natal-porcelain"
     ],
@@ -15541,6 +16008,9 @@
     "老聋儿": [
       "char.old-deaf-sword-immortal"
     ],
+    "老道人": [
+      "char.blind-daoist"
+    ],
     "老龙佩": [
       "art.old-dragon-rain-pendant"
     ],
@@ -15606,6 +16076,9 @@
     ],
     "许夫人": [
       "char.madam-xu"
+    ],
+    "读书人": [
+      "concept.reading-seed"
     ],
     "谢姑娘": [
       "char.xie-lingyue"
@@ -15771,6 +16244,9 @@
     ],
     "高公子": [
       "char.gao-xuan"
+    ],
+    "鬼打墙": [
+      "idiom.ghost-wall"
     ],
     "鬼蜮谷": [
       "loc.ghost-devils-valley"
@@ -16258,6 +16734,9 @@
     "白首": [
       "char.bai-shou"
     ],
+    "白鲸": [
+      "char.bai-jing"
+    ],
     "百家": [
       "cult.hundred-schools"
     ],
@@ -16426,6 +16905,9 @@
     "道祖": [
       "cult.daoism"
     ],
+    "酒儿": [
+      "char.jiu-er"
+    ],
     "金刚": [
       "cult.buddhism"
     ],
@@ -16491,6 +16973,9 @@
     ],
     "集薪": [
       "char.song-jixin"
+    ],
+    "雷法": [
+      "cultivation.thunder-magic"
     ],
     "青冥": [
       "loc.heavenly-world"

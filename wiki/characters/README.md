@@ -1,6 +1,6 @@
 # Персонажи (`wiki/characters/`)
 
-Здесь живут все люди, духи, божества и демоны романа — **158 карточек**, включая 9 подстраниц главных героев.
+Здесь живут все люди, духи, божества и демоны романа — **161 карточка**, включая 9 подстраниц главных героев.
 
 [← Портал Вики](../README.md) · [Полный указатель](../INDEX.md)
 
@@ -48,7 +48,7 @@
 
 ## Великая стена мечевой ци
 
-[Чэнь Цинду](chen-qingdu.md) · [А-Лян](aliang.md) · [Бай Ляньшуан](bai-lianshuang.md) · [Налань Есин](nalan-yexing.md) · [Чэнь Саньцю](chen-sanqiu.md) · [Дэ Чжан](die-zhang.md) · [Янь Чжо](yan-zhuo.md) · [Дун Хуафу](dong-huafu.md) · [Пан Юаньцзи](pang-yuanji.md) · [Ци Шоу](qi-shou.md) · [Ми Юй](mi-yu.md) · [Инь Чэнь](yin-chen.md) · [Го Чжуцзю](guo-zhujiu.md) · [Бай Шоу](bai-shou.md)
+[Чэнь Цинду](chen-qingdu.md) · [А-Лян](aliang.md) · [Бай Ляньшуан](bai-lianshuang.md) · [Налань Есин](nalan-yexing.md) · [Чэнь Саньцю](chen-sanqiu.md) · [Дэ Чжан](die-zhang.md) · [Янь Чжо](yan-zhuo.md) · [Дун Хуафу](dong-huafu.md) · [Пан Юаньцзи](pang-yuanji.md) · [Ци Шоу](qi-shou.md) · [Ми Юй](mi-yu.md) · [Инь Чэнь](yin-chen.md) · [Го Чжуцзю](guo-zhujiu.md) · [Бай Шоу](bai-shou.md) · [Бай Цзин](bai-jing.md)
 
 ## Гора Лопо
 
@@ -64,7 +64,7 @@
 
 ## Даосы, божества, духи
 
-[Дух меча](sword-spirit.md) · [Лу Чэнь](lu-chen.md) · [Чжан Шаньфэн](zhang-shanfeng.md) · [Ян Хуа](yang-hua.md) · [Иньский бог Гу Тао](yin-god.md) · [Госпожа Чу](lady-chu.md) · [Госпожа Сюй](madam-xu.md) · [Ма Ланьхуа](ma-lanhua.md) · [Вэй Бо](wei-bo.md)
+[Дух меча](sword-spirit.md) · [Лу Чэнь](lu-chen.md) · [Чжан Шаньфэн](zhang-shanfeng.md) · [Ян Хуа](yang-hua.md) · [Иньский бог Гу Тао](yin-god.md) · [Госпожа Чу](lady-chu.md) · [Госпожа Сюй](madam-xu.md) · [Ма Ланьхуа](ma-lanhua.md) · [Вэй Бо](wei-bo.md) · [Слепой даос](blind-daoist.md) · [Цзюэр](jiu-er.md)
 
 ## Держава и двор
 
