@@ -3,11 +3,11 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 264,
+  "total_entries": 265,
   "counts_by_type": {
     "artifact": 9,
     "character": 141,
-    "concept": 10,
+    "concept": 11,
     "cultivation": 11,
     "faction": 34,
     "idiom": 9,
@@ -679,6 +679,7 @@
         "loc.eastern-treasured-vial-continent",
         "loc.fortune-street",
         "loc.great-li-capital",
+        "loc.lizhu-grotto-heaven",
         "loc.red-candle-town",
         "loc.small-town",
         "loc.sword-water-manor"
@@ -1712,6 +1713,7 @@
         "char.zheng-dafeng",
         "char.zhu-he",
         "char.zhu-lu",
+        "concept.ancestral-shade-leaves",
         "concept.dharma-ending-land",
         "concept.entry-thresholds",
         "concept.imperial-kilns",
@@ -1979,11 +1981,16 @@
       "links_to": [
         "char.chen-pingan",
         "char.master-ruan",
+        "char.qi-jingchun",
         "char.song-jixin",
         "char.zhigui",
         "concept.imperial-kilns",
+        "concept.qiyun",
+        "fac.great-li-empire",
+        "fac.sects-compendium",
         "faction.imperial-court",
         "loc.niping-alley",
+        "loc.old-locust-tree",
         "loc.qilong-alley"
       ],
       "referenced_by": [
@@ -2716,6 +2723,7 @@
         "char.chen-pingan.items",
         "char.ning-yao",
         "char.ning-yao.cultivation",
+        "char.qi-jingchun",
         "char.ruan-xiu",
         "char.wei-jin",
         "char.wu-yuan",
@@ -3812,6 +3820,54 @@
       "card": "wiki/characters/lin-shouyi.md"
     },
     {
+      "id": "concept.ancestral-shade-leaves",
+      "type": "concept",
+      "zh": "祖荫槐叶",
+      "zh_aliases": [
+        "槐叶",
+        "祖荫"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Zuyin Huaiye",
+      "palladius": "Цзуинь хуайе",
+      "ru": "Листья благодати предков",
+      "ru_aliases": [
+        "лист софоры",
+        "благодать предков"
+      ],
+      "first_chapter": 23,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "фарфор",
+        "судьба",
+        "личжу",
+        "род",
+        "софора"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **`祖荫`** — *благодать предков*, *родовая тень* (не «семейное древо» и не «наследство»): речь именно о защите, которую предки-покровители простирают над потомками.\n- **`槐叶`** — *лист софоры*; в сценах у дерева не переводить как «акация» или «липа».\n- **`十二脚牌坊楼`** — *арка на двенадцати опорах* (парадные ворота-пайфан в честь добродетели или заслуг рода).",
+      "links_to": [
+        "char.chen-pingan",
+        "char.old-man-yao",
+        "char.qi-jingchun",
+        "concept.natal-porcelain",
+        "concept.qiyun",
+        "loc.old-locust-tree",
+        "loc.small-town"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.qi-jingchun",
+        "concept.natal-porcelain",
+        "loc.old-locust-tree"
+      ],
+      "card": "wiki/concepts/ancestral-shade-leaves.md"
+    },
+    {
       "id": "loc.fox-town",
       "type": "location",
       "zh": "狐儿镇",
@@ -4226,6 +4282,7 @@
         "char.fu-nanhua",
         "char.gu-can",
         "char.liu-laocheng",
+        "char.qi-jingchun",
         "char.zeng-ye",
         "concept.cloud-root-stone",
         "concept.entry-thresholds",
@@ -4980,6 +5037,7 @@
         "char.chen-mu",
         "char.chen-pingan",
         "char.li-baoping",
+        "concept.ancestral-shade-leaves",
         "concept.imperial-kilns",
         "concept.qiyun",
         "fac.great-li-empire",
@@ -4997,6 +5055,7 @@
         "char.ma-lanhua",
         "char.old-man-yang",
         "char.old-man-yao",
+        "concept.ancestral-shade-leaves",
         "concept.entry-thresholds",
         "concept.imperial-kilns",
         "concept.mountain-seals",
@@ -5906,7 +5965,8 @@
         "loc.small-town"
       ],
       "referenced_by": [
-        "art.white-bowl"
+        "art.white-bowl",
+        "char.qi-jingchun"
       ],
       "card": "wiki/concepts/entry-thresholds.md"
     },
@@ -6520,6 +6580,7 @@
         "fac.zhengyang-mountain",
         "loc.bamboo-scroll-lake",
         "loc.dragon-spring-prefecture",
+        "loc.lizhu-grotto-heaven",
         "loc.parasol-leaf-continent",
         "loc.qingfeng-city"
       ],
@@ -7364,12 +7425,20 @@
       ],
       "translation_rule": "## Правила перевода\n\n- `老槐树` — **старая софора**; это один и тот же заметный ориентир в ранних главах.\n- `槐树` в таком контексте — софора, не акация.",
       "links_to": [
+        "char.chen-pingan",
         "char.liu-xianyang",
+        "char.old-man-yao",
+        "char.qi-jingchun",
+        "concept.ancestral-shade-leaves",
         "loc.niping-alley",
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.chen-pingan",
         "char.liu-xianyang",
+        "char.qi-jingchun",
+        "concept.ancestral-shade-leaves",
+        "loc.lizhu-grotto-heaven",
         "loc.small-town"
       ],
       "card": "wiki/locations/old-locust-tree.md"
@@ -7464,8 +7533,10 @@
         "char.chen-pingan.history",
         "char.chen-pingan.relationships",
         "char.liu-xianyang",
+        "concept.ancestral-shade-leaves",
         "concept.imperial-kilns",
-        "fac.chen-clan"
+        "fac.chen-clan",
+        "loc.old-locust-tree"
       ],
       "card": "wiki/characters/old-man-yao.md"
     },
@@ -7775,6 +7846,7 @@
         "char.yang-hua",
         "char.yin-god",
         "char.zhigui",
+        "concept.ancestral-shade-leaves",
         "concept.currency",
         "concept.entry-thresholds",
         "concept.mountain-seals",
@@ -7784,6 +7856,7 @@
         "cult.three-teachings",
         "fac.great-li-empire",
         "fac.yellow-court-nation",
+        "loc.lizhu-grotto-heaven",
         "loc.luopo-mountain",
         "loc.mountains-near-town",
         "loc.qingfeng-city",
@@ -8619,6 +8692,7 @@
         "char.cai-jinjian",
         "char.chen-pingan",
         "char.liu-zhimao",
+        "char.qi-jingchun",
         "char.sun-jiashu",
         "concept.natal-porcelain",
         "fac.clans-compendium",
@@ -8884,6 +8958,7 @@
         "char.fu-nanhua",
         "char.gu-shi",
         "char.liu-zhimao",
+        "char.qi-jingchun",
         "concept.cloud-root-stone",
         "concept.mountain-seals",
         "concept.natal-porcelain",
@@ -8898,6 +8973,7 @@
         "char.chen-pingan.history",
         "char.fu-nanhua",
         "char.liu-zhimao",
+        "char.qi-jingchun",
         "concept.cloud-root-stone",
         "concept.currency",
         "concept.mountain-seals",
@@ -9516,31 +9592,39 @@
       "links_to": [
         "art.jade-hairpin-and-seals",
         "art.sword-nurturing-gourd",
+        "char.cai-jinjian",
         "char.chen-pingan",
         "char.cui-chan",
         "char.li-baoping",
         "char.li-huai",
         "char.lin-shouyi",
+        "char.liu-zhimao",
         "char.mao-xiaodong",
+        "char.master-ruan",
         "char.mountain-moving-ape",
         "char.scholarly-sage",
         "char.song-jixin",
         "char.zuo-you",
+        "concept.ancestral-shade-leaves",
+        "concept.entry-thresholds",
         "cult.confucianism",
         "fac.great-li-empire",
         "idiom.hengqu-four-sentences",
         "loc.lizhu-grotto-heaven",
+        "loc.old-locust-tree",
         "loc.small-town"
       ],
       "referenced_by": [
         "art.jade-hairpin-and-seals",
         "art.sword-nurturing-gourd",
+        "char.cai-jinjian",
         "char.chen-pingan",
         "char.chen-pingan.history",
         "char.chen-pingan.items",
         "char.chen-pingan.relationships",
         "char.cui-chan",
         "char.cui-minghuang",
+        "char.fu-nanhua",
         "char.he-xiaoliang",
         "char.li-baoping",
         "char.li-huai",
@@ -9555,6 +9639,7 @@
         "char.zhao-yao",
         "char.zuo-you",
         "con.river-of-time",
+        "concept.ancestral-shade-leaves",
         "concept.yasheng",
         "cult.confucianism",
         "cult.qi-refinement",
@@ -9562,7 +9647,9 @@
         "fac.mountain-cliff-academy",
         "idiom.daoli-and-benxin",
         "idiom.hengqu-four-sentences",
-        "idiom.yan-sheng-yu-kuan"
+        "idiom.yan-sheng-yu-kuan",
+        "loc.lizhu-grotto-heaven",
+        "loc.old-locust-tree"
       ],
       "card": "wiki/characters/qi-jingchun.md"
     },
@@ -10711,6 +10798,7 @@
         "char.wei-bo",
         "char.zhigui",
         "char.zhou-mili",
+        "concept.ancestral-shade-leaves",
         "concept.imperial-kilns",
         "concept.mountain-seals",
         "concept.natal-porcelain",
@@ -10726,6 +10814,7 @@
         "loc.lotus-root-blessed-land",
         "loc.luopo-mountain",
         "loc.niping-alley",
+        "loc.old-locust-tree",
         "loc.qilong-alley",
         "loc.sword-qi-great-wall"
       ],
@@ -10829,6 +10918,7 @@
         "char.zhu-lian",
         "char.zhu-lu",
         "char.zuo-you",
+        "concept.ancestral-shade-leaves",
         "concept.currency",
         "concept.imperial-kilns",
         "concept.mountain-seals",
@@ -10862,6 +10952,7 @@
         "loc.mountains-near-town",
         "loc.niping-alley",
         "loc.northern-juilu-continent",
+        "loc.old-locust-tree",
         "loc.parasol-leaf-continent",
         "loc.qilong-alley",
         "loc.small-town",
