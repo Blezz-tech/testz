@@ -3,14 +3,14 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 303,
+  "total_entries": 307,
   "counts_by_type": {
     "artifact": 15,
-    "character": 155,
+    "character": 158,
     "concept": 18,
     "cultivation": 11,
     "faction": 37,
-    "idiom": 9,
+    "idiom": 10,
     "location": 56,
     "media": 2
   },
@@ -322,19 +322,27 @@
         "char.cui-chan",
         "char.li-baoping",
         "char.li-huai",
+        "char.li-jin",
         "char.lin-shouyi",
+        "char.luan-changye",
         "char.master-ruan",
         "char.ning-yao",
         "char.scholarly-sage",
+        "char.song-changjing",
+        "char.song-zhengchun",
         "char.wei-bo",
         "char.wei-jin",
+        "char.yin-god",
         "char.zhu-he",
+        "char.zhu-lu",
         "char.zuo-you",
         "cult.sword-cultivator",
         "fac.great-li-empire",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
-        "loc.sword-qi-great-wall"
+        "loc.red-candle-town",
+        "loc.sword-qi-great-wall",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
         "art.shuduan-cliff",
@@ -350,27 +358,35 @@
         "char.chen-qingdu",
         "char.chen-qingliu",
         "char.chen-sanqiu",
+        "char.cui-chan",
         "char.dong-huafu",
+        "char.eternal-spring-elder",
         "char.li-baoping",
         "char.li-er",
         "char.li-huai",
         "char.li-jin",
         "char.lin-shouyi",
+        "char.luan-changye",
         "char.ning-yao",
         "char.ning-yao.history",
         "char.ning-yao.relationships",
         "char.pang-yuanji",
         "char.river-hag",
         "char.scholarly-sage",
+        "char.song-jixin",
+        "char.song-zhengchun",
         "char.wei-bo",
         "char.zhu-he",
         "char.zhu-lu",
         "concept.mountain-and-river-gods",
         "concept.mountain-opening-talismans",
+        "cult.qi-refinement",
         "cult.realms-overview",
         "cult.sword-cultivator",
+        "fac.great-li-empire",
         "fac.great-sui-nation",
         "idiom.daoli-and-benxin",
+        "idiom.strength-and-freedom",
         "loc.bamboo-sea-grotto-heaven",
         "loc.fushui-bay",
         "loc.mountains-near-town",
@@ -430,6 +446,7 @@
         "char.aliang",
         "char.chen-pingan",
         "char.chen-pingan.history",
+        "char.cui-chan",
         "char.cui-minghuang",
         "char.li-baoping",
         "char.li-huai",
@@ -898,6 +915,7 @@
         "char.river-hag",
         "char.ruan-xiu",
         "char.wei-bo",
+        "cult.hundred-schools",
         "fac.great-li-empire",
         "loc.mountains-near-town",
         "loc.small-town"
@@ -1046,8 +1064,9 @@
         "военные",
         "экспансия"
       ],
-      "translation_rule": "## Правила перевода\n\n- **Передача:** `大骊` — **Великая Ли** (`骊` — «вороной конь», входит в имя династии). Не «Дали»: транслитерация «Дали» создаёт ложную ассоциацию с южнокитайским городом.\n- **Титулы:** `国师` — **государственный наставник**; `督造官` — **надзиратель за печами** (не «инспектор»); `山君` — **горный бог/владыка горы**.\n- **Слово `大`:** в названии державы **не переводить** как «великий» отдельно — «Великая Ли» уже включает его.\n\n## Правило для переводчика\n\nРечь имперских чиновников — **канцелярская**, с формулами («по докладу», «согласно уложению»). Речь военных — короткая и грубая. Не смешивать эти два регистра: в романе они чётко разделены и характеризуют персонажей.",
+      "translation_rule": "## Правила перевода\n\n- **Передача:** `大骊` — **Великая Ли** (`骊` — «вороной конь», входит в имя династии). Не «Дали»: транслитерация «Дали» создаёт ложную ассоциацию с южнокитайским городом.\n- **Титулы:** `国师` — **государственный наставник**; `督造官` — **надзиратель за печами** (не «инспектор»); `山君` — **горный бог/владыка горы**.\n- **Слово `大`:** в названии державы **не переводить** как «великий» отдельно — «Великая Ли» уже включает его.\n\n## Правило для переводчика\n\nРечь имперских чиновников — **канцелярская**, с формулами («по докладу», «согласно уложению»). Речь военных — короткая и грубая. Не смешивать эти два регистра: в романе они чётко разделены и характеризуют персонажей.\n\n### Главы 112–114\n- Глава 112: тайный указ государя — все боги гор и вод в тысяче ли вокруг [Городка Красных Свечей](../locations/red-candle-town.md) обязаны перехватить и убить [А-Ляна](../characters/aliang.md); ослушавшихся ждут разбитое золотое тело и вычеркивание из уездных хроник. За дело берутся начальник Управления жертвоприношений, начальник Управления отбора военных и [первейшая старейшина Дворца Вечной Весны](../factions/sects-compendium.md).\n- Глава 113: государь поднимается по ярусам [Столицы Белого Нефрита](../locations/white-jade-capital.md) — двенадцать мечей, по одному на ярус; говорит, что все доходы рода Сун с грот-неба вложены в эту башню, и напоминает о притче «за тысячу золота купить кости коня».\n- Глава 114: формула, которой держава объявляет себя всему [Восточному Драгоценному Сосуду](../locations/eastern-treasured-vial-continent.md): **«Всё, что ниже тринадцатого предела, можно убить»**.",
       "links_to": [
+        "char.aliang",
         "char.cao-xi",
         "char.chen-pingan",
         "char.cui-chan",
@@ -1069,28 +1088,35 @@
         "fac.lake-view-academy",
         "fac.mount-yaoling",
         "fac.mountain-cliff-academy",
+        "fac.sects-compendium",
         "faction.imperial-court",
         "loc.dragon-spring-prefecture",
         "loc.eastern-treasured-vial-continent",
         "loc.majestic-world",
         "loc.piyun-mountain",
+        "loc.red-candle-town",
         "loc.savage-world",
         "loc.small-town",
-        "loc.twelve-legged-archway"
+        "loc.twelve-legged-archway",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
+        "art.xiangfu-blade",
         "char.aliang",
         "char.cao-gengxin",
         "char.cao-xi",
         "char.chen-pingan",
         "char.cui-chan",
         "char.dong-hu",
+        "char.eternal-spring-elder",
         "char.gao-xuan",
         "char.great-li-empress",
         "char.lady-chu",
+        "char.li-baoping",
         "char.li-baozhen",
         "char.li-xisheng",
         "char.lin-junbi",
+        "char.luan-changye",
         "char.ma-zhan",
         "char.mao-xiaodong",
         "char.master-ruan",
@@ -1098,6 +1124,7 @@
         "char.song-changjing",
         "char.song-he",
         "char.song-jixin",
+        "char.song-zhengchun",
         "char.wang-yifu",
         "char.wei-bo",
         "char.wu-yuan",
@@ -1274,6 +1301,7 @@
         "char.cui-minghuang",
         "char.li-baoping",
         "char.mao-xiaodong",
+        "char.song-zhengchun",
         "char.xie-lingyue",
         "cult.militarians",
         "fac.great-li-empire",
@@ -1768,7 +1796,8 @@
       "referenced_by": [
         "cult.buddhism",
         "cult.martial-arts",
-        "cult.realms-overview"
+        "cult.realms-overview",
+        "idiom.strength-and-freedom"
       ],
       "card": "wiki/idioms/clay-bodhisattva-crossing-river.md"
     },
@@ -2289,6 +2318,7 @@
         "art.xiangfu-blade",
         "char.aliang",
         "char.chen-pingan",
+        "char.li-baoping",
         "char.qi-jingchun",
         "cult.sword-cultivator"
       ],
@@ -2597,10 +2627,13 @@
       ],
       "referenced_by": [
         "art.shuduan-cliff",
+        "art.xiangfu-blade",
+        "char.aliang",
         "char.cheng-sheng",
         "char.li-jin",
         "concept.mean-households",
         "concept.seasonal-hunts",
+        "fac.great-li-empire",
         "loc.chundan-river",
         "loc.fushui-bay",
         "loc.mountains-near-town",
@@ -3034,6 +3067,7 @@
         "char.qi-jingchun",
         "char.river-hag",
         "char.ruan-xiu",
+        "char.song-zhengchun",
         "char.sword-spirit",
         "char.zhigui",
         "concept.currency",
@@ -3171,6 +3205,7 @@
       ],
       "referenced_by": [
         "art.cloud-ringing-book",
+        "char.eternal-spring-elder",
         "char.fire-dragon-zhiren",
         "char.he-xiaoliang",
         "char.huan-yun",
@@ -4357,6 +4392,7 @@
         "char.song-changjing",
         "char.song-he",
         "char.song-yuzhang",
+        "char.song-zhengchun",
         "char.wang-yifu",
         "char.xu-hunran",
         "char.yao-zhen",
@@ -4452,6 +4488,8 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.aliang",
+        "char.chen-pingan",
         "concept.qiyun"
       ],
       "card": "wiki/characters/yin-god.md"
@@ -4929,6 +4967,7 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Ли Баопин** — фамилия *Ли* неизменяема, имя *Баопин* склоняется (*Ли Баопин, Ли Баопин… — не изменяется*, так как оканчивается на согласный: *с Ли Баопин, к Ли Баопин*).\n- **Этимология:** `宝瓶` — «драгоценный сосуд-кувшин»; в романе перекликается с названием материка [Драгоценного Сосуда](../locations/eastern-treasured-vial-continent.md).\n- **Речь:** быстрая, любопытная, бесконечные вопросы; она не отпускает неудовлетворительный ответ и переспрашивает, пока не поймёт.\n- **Обращения:** к [Чэнь Пинъаню](chen-pingan.md) — *«малый дядюшка»* (`小师叔`) — так она зовёт его с первой встречи, и это обращение надо сохранять всегда.",
       "links_to": [
+        "art.sword-nurturing-gourd",
         "art.xiangfu-blade",
         "char.aliang",
         "char.chen-pingan",
@@ -4939,9 +4978,11 @@
         "char.ma-zhan",
         "char.qi-jingchun",
         "char.shi-chunjia",
+        "char.song-changjing",
         "char.zhu-he",
         "char.zhu-lu",
         "concept.snake-gall-stones",
+        "fac.great-li-empire",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
         "loc.apricot-blossom-alley",
@@ -4965,6 +5006,7 @@
         "char.qi-jingchun",
         "char.ruan-xiu",
         "char.shi-chunjia",
+        "char.song-zhengchun",
         "char.zhu-he",
         "char.zhu-lu",
         "concept.ancestral-shade-leaves",
@@ -5216,6 +5258,7 @@
       ],
       "referenced_by": [
         "art.shuduan-cliff",
+        "char.aliang",
         "char.chen-pingan",
         "char.cheng-sheng",
         "loc.chundan-river",
@@ -5392,6 +5435,7 @@
         "char.cheng-sheng",
         "char.cui-minghuang",
         "char.dong-shuijing",
+        "char.eternal-spring-elder",
         "char.li-baoping",
         "char.li-er",
         "char.li-huai",
@@ -5687,6 +5731,53 @@
         "loc.white-jade-capital"
       ],
       "card": "wiki/characters/lu-chen.md"
+    },
+    {
+      "id": "char.luan-changye",
+      "type": "character",
+      "zh": "栾长野",
+      "zh_aliases": [
+        "栾巨子",
+        "巨子栾"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Luan Changye",
+      "palladius": "Луань Чанъе",
+      "ru": "Луань Чанъе",
+      "ru_aliases": [
+        "цзюйцзы Луань"
+      ],
+      "first_chapter": 113,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "моисты",
+        "строитель",
+        "великая-ли",
+        "столица-белого-нефрита",
+        "изгнанник"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Луань Чанъе** — фамилия *Луань* неизменяема, имя склоняется (*Луань Чанъе, Луань Чанъе* — форма на *-е* не меняется).\n- **Титул:** `巨子` → **цзюйцзы** («великий мастер»), глава школы моистов; не «патриарх» и не «мастер».\n- **Речь:** тихая, вежливая, с горькой усмешкой над собой; к [А-Ляну](aliang.md) — *«старший А-Лян»*, на «вы».",
+      "links_to": [
+        "char.aliang",
+        "char.qi-jingchun",
+        "char.song-zhengchun",
+        "cult.hundred-schools",
+        "fac.great-li-empire",
+        "fac.sects-compendium",
+        "loc.white-jade-capital"
+      ],
+      "referenced_by": [
+        "char.aliang",
+        "char.song-jixin",
+        "cult.hundred-schools",
+        "loc.white-jade-capital"
+      ],
+      "card": "wiki/characters/luan-changye.md"
     },
     {
       "id": "char.liu-baqiao",
@@ -7292,6 +7383,51 @@
       "card": "wiki/characters/pang-yuanji.md"
     },
     {
+      "id": "char.eternal-spring-elder",
+      "type": "character",
+      "zh": "长春宫太上长老",
+      "zh_aliases": [
+        "太上长老",
+        "妇人"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Changchun Gong Taishang ZhangLao",
+      "palladius": "Чанчуньгун Тайшан чжанлао",
+      "ru": "Первейшая старейшина Дворца Вечной Весны",
+      "ru_aliases": [
+        "старейшина Дворца Вечной Весны",
+        "женщина из Дворца Вечной Весны"
+      ],
+      "first_chapter": 110,
+      "gender": "female",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "дворец-вечной-весны",
+        "даосизм",
+        "наставница",
+        "великая-ли",
+        "пять-громов"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** раз имя не названо — **первейшая старейшина Дворца Вечной Весны**; в сцене до знакомства — *женщина*, *женщина из Дворца Вечной Весны*.\n- **Титул:** `太上长老` → **первейшая старейшина** (не «верховная жрица» и не «патриархиня»).\n- **Речь:** ровная, снисходительно-добрая, без нажима; с ученицей — на «ты», с чужими — вежливо и твёрдо.",
+      "links_to": [
+        "char.aliang",
+        "char.lin-shouyi",
+        "char.zhigui",
+        "cult.daoism",
+        "cult.qi-refinement",
+        "fac.great-li-empire",
+        "fac.sects-compendium"
+      ],
+      "referenced_by": [
+        "fac.sects-compendium"
+      ],
+      "card": "wiki/characters/eternal-spring-elder.md"
+    },
+    {
       "id": "loc.savage-world",
       "type": "location",
       "zh": "蛮荒天下",
@@ -7869,6 +8005,7 @@
       ],
       "referenced_by": [
         "cult.confucianism",
+        "idiom.strength-and-freedom",
         "media.author"
       ],
       "card": "wiki/idioms/daoli-and-benxin.md"
@@ -8088,11 +8225,13 @@
       ],
       "translation_rule": "## Правила перевода и ключевая терминология\n\n- **`练气士` → культиватор ци** (множ. *культиваторы ци*; в торжественной речи допустимо *практик ци*, но **не** калька «очиститель ци» из англ. *Qi refiner*).\n- **`山上神仙` / `山上人` → небожители с гор / люди с гор** — идиоматическое обозначение мира культиваторов в противовес `山下` — миру смертных и светских держав «у подножия гор».\n- **`谱牒仙师` → реестровый наставник бессмертных** — член официально признанной секты с родословной записью, пользующийся покровительством династий и [Храма Культуры](confucianism.md).\n- **`山泽野修` → дикий культиватор гор и болот** — вольный практик-одиночка без секты и родословной (как [Лю Чжимао](../characters/liu-zhimao.md) или [Лю Лаочэн](../characters/liu-laocheng.md)).\n- **`地仙` → земной бессмертный** — почётный рубеж девятой–десятой ступени: Золотого ядра и Зарождающейся души.",
       "links_to": [
+        "char.aliang",
         "char.cai-jinjian",
         "char.chen-pingan",
         "char.liu-laocheng",
         "char.liu-zhimao",
         "char.qi-jingchun",
+        "char.song-zhengchun",
         "concept.currency",
         "concept.mountain-seals",
         "concept.qiyun",
@@ -8101,13 +8240,16 @@
         "cult.realms-overview",
         "cult.sword-cultivator",
         "fac.great-li-empire",
+        "loc.great-li-capital",
         "loc.lizhu-grotto-heaven",
-        "loc.small-grotto-heavens"
+        "loc.small-grotto-heavens",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
         "char.cai-jinjian",
         "char.chen-pingan.cultivation",
         "char.cui-chan",
+        "char.eternal-spring-elder",
         "char.huan-yun",
         "char.lin-shouyi",
         "char.liu-zhimao",
@@ -8463,6 +8605,44 @@
       "card": "wiki/factions/wind-thunder-garden.md"
     },
     {
+      "id": "idiom.strength-and-freedom",
+      "type": "idiom",
+      "zh": "每一个强者的自由，都应该以弱者的自由作为边界",
+      "zh_aliases": [
+        "强者的自由",
+        "以弱者的自由作为边界"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Měi yīgè qiángzhě de zìyóu, dōu yīnggāi yǐ ruòzhě de zìyóu zuòwéi biānjiè",
+      "palladius": "",
+      "ru": "Свобода каждого сильного должна граничить со свободой слабого",
+      "ru_aliases": [],
+      "first_chapter": 112,
+      "gender": null,
+      "subtype": "credo",
+      "parent": null,
+      "needs_endnote": false,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "кредо",
+        "сила",
+        "нравственный-закон",
+        "а-лян"
+      ],
+      "translation_rule": "## Классификация и переводческое решение\n\n- **Тип:** авторское кредо, произнесённое как наставление; не цитата из канона.\n- **Голос:** [А-Лян](../characters/aliang.md) — на прощание, четверым детям, в главе 112.\n- **Передача:** `边界` — **граница**, а не «предел» и не «рамка»: сильный не ограничен слабым, его свобода **кончается там, где начинается чужая**. Глагол «должна» обязателен.\n\n## Эталонный перевод\n\n> **Оригинал:** `每一个强者的自由，都应该以弱者的自由作为边界！真正的强者，他的对手，是天地间无形的规矩，世俗力量的强大惯性，是人皆有生老病死的铁律，是这些看不见的存在。从来没有一个强者，因为践踏弱者而强大，必然是遇强则强，愈挫愈勇。`\n>\n> **Перевод:** *«Свобода каждого сильного должна граничить со свободой слабого! Настоящий сильный — его противник не люди, а незримые законы неба и земли, тяжкая косность мирских сил, железное правило, что всякий рождается, стареет, болеет и умирает. Вот эти незримые вещи. Ещё не было сильного, что стал силён, попирая слабых; сильным становятся, встречая сильного, — и от препятствий лишь крепнут».*",
+      "links_to": [
+        "char.aliang",
+        "char.chen-pingan",
+        "cult.martial-arts",
+        "idiom.clay-bodhisattva-crossing-river",
+        "idiom.daoli-and-benxin",
+        "idiom.one-sword-credo"
+      ],
+      "referenced_by": [],
+      "card": "wiki/idioms/strength-and-freedom.md"
+    },
+    {
       "id": "fac.sects-compendium",
       "type": "faction",
       "zh": "山上仙家",
@@ -8496,6 +8676,7 @@
         "char.cai-jinjian",
         "char.ding-ying",
         "char.du-mao",
+        "char.eternal-spring-elder",
         "char.he-xiaoliang",
         "char.jiang-shangzhen",
         "char.li-er",
@@ -8518,11 +8699,13 @@
       "referenced_by": [
         "char.cai-jinjian",
         "char.du-mao",
+        "char.eternal-spring-elder",
         "char.fan-junmao",
         "char.fire-dragon-zhiren",
         "char.he-xiaoliang",
         "char.jiang-shangzhen",
         "char.liu-baqiao",
+        "char.luan-changye",
         "char.master-ruan",
         "char.mountain-moving-ape",
         "char.ning-yao",
@@ -8540,6 +8723,7 @@
         "cult.three-teachings",
         "fac.fuji-sect",
         "fac.golden-gate-school",
+        "fac.great-li-empire",
         "fac.jade-token-sect",
         "fac.pima-sect",
         "fac.qionglin-sect",
@@ -9752,6 +9936,7 @@
       "links_to": [
         "char.cui-chan",
         "char.lu-tai",
+        "char.luan-changye",
         "char.pang-yuanji",
         "cult.buddhism",
         "cult.confucianism",
@@ -9759,12 +9944,15 @@
         "cult.militarians",
         "cult.three-teachings",
         "fac.great-li-empire",
-        "loc.majestic-world"
+        "loc.majestic-world",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
         "char.cui-chan",
         "char.lu-tai",
+        "char.luan-changye",
         "char.zhong-kui",
+        "concept.mountain-and-river-gods",
         "cult.confucianism",
         "cult.militarians",
         "cult.three-teachings"
@@ -9799,11 +9987,23 @@
       "translation_rule": "## Правила перевода\n\n- **Передача:** `白玉京` — **Столица Белого Нефрита**. Не «Белая Нефритовая Столица»: `京` здесь — столица-твердыня, и порядок слов важен.\n- **Три Владыки Учения:** `掌教` — **Владыка Учения**, их трое. Не «патриарх».\n\n## Правило для переводчика\n\nНе описывайте башню «магической»: у автора это **архитектура**, слои, ярусы, счёт. Если сказано «над четвёртым ярусом», значит, читатель должен уметь этот ярус представить.",
       "links_to": [
         "char.lu-chen",
+        "char.luan-changye",
+        "char.song-jixin",
         "cult.daoism",
         "cult.three-teachings",
+        "loc.great-li-capital",
         "loc.heavenly-world"
       ],
       "referenced_by": [
+        "art.xiangfu-blade",
+        "char.aliang",
+        "char.luan-changye",
+        "char.song-jixin",
+        "char.song-zhengchun",
+        "cult.hundred-schools",
+        "cult.qi-refinement",
+        "fac.great-li-empire",
+        "fac.wind-snow-temple",
         "loc.heavenly-world"
       ],
       "card": "wiki/locations/white-jade-capital.md"
@@ -9837,7 +10037,11 @@
         "fac.great-li-empire",
         "faction.imperial-court"
       ],
-      "referenced_by": [],
+      "referenced_by": [
+        "char.song-zhengchun",
+        "cult.qi-refinement",
+        "loc.white-jade-capital"
+      ],
       "card": "wiki/locations/great-li-capital.md"
     },
     {
@@ -10052,13 +10256,17 @@
       "zh": "宋集薪",
       "zh_aliases": [
         "宋公子",
-        "集薪"
+        "集薪",
+        "宋睦"
       ],
       "unindexed_zh_aliases": [],
       "pinyin": "Song Jixin",
       "palladius": "Сун Цзисинь",
       "ru": "Сун Цзисинь",
-      "ru_aliases": [],
+      "ru_aliases": [
+        "Сун Му",
+        "княжич Сун"
+      ],
       "first_chapter": 1,
       "gender": "male",
       "subtype": null,
@@ -10074,10 +10282,12 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Сун Цзисинь** — фамилия *Сун* неизменяема, имя *Цзисинь* склоняется (*Сун Цзисиня, Сун Цзисиню, Сун Цзисинем*).\n- **Этимология (требует сноски в Главе 1):** `集薪` буквально «собирать хворост» — прямая аллюзия на чэнъюй `卧薪尝胆` (*«спать на хворосте и вкушать желчь»*, то есть затаиться в унижении и копить силы ради возвышения или мести). В конце Главы 1 автор специально подчёркивает контраст между его благородно-книжным именем и простонародным именем [Чэнь Пинъаня](chen-pingan.md).\n- **Речь:** насмешливая, высокомерная, провокационная; любит сидеть на корточках на глинобитной ограде и смотреть на соседа сверху вниз.\n- **Обращения:** к [Чэнь Пинъаню](chen-pingan.md) — *«нищий»*, *«глиняный»*, по фамилии с пренебрежением; к [Чжигуй](zhigui.md) — повелительно, как к прислуге.",
       "links_to": [
+        "char.aliang",
         "char.chen-dui",
         "char.chen-pingan",
         "char.great-li-empress",
         "char.liu-xianyang",
+        "char.luan-changye",
         "char.ma-kuxuan",
         "char.song-changjing",
         "char.song-he",
@@ -10087,7 +10297,8 @@
         "fac.great-li-empire",
         "loc.dragon-spring-prefecture",
         "loc.niping-alley",
-        "loc.small-town"
+        "loc.small-town",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
         "art.shanxiao-pot",
@@ -10101,6 +10312,7 @@
         "char.qi-jingchun",
         "char.song-changjing",
         "char.song-yuzhang",
+        "char.song-zhengchun",
         "char.tao-zi",
         "char.zhao-yao",
         "char.zhigui",
@@ -10113,7 +10325,8 @@
         "loc.lizhu-grotto-heaven",
         "loc.niping-alley",
         "loc.small-town",
-        "loc.twelve-legged-archway"
+        "loc.twelve-legged-archway",
+        "loc.white-jade-capital"
       ],
       "card": "wiki/characters/song-jixin.md"
     },
@@ -10164,17 +10377,21 @@
         "loc.niping-alley"
       ],
       "referenced_by": [
+        "art.xiangfu-blade",
+        "char.aliang",
         "char.chen-dui",
         "char.chen-pingan",
         "char.chen-songfeng",
         "char.cui-chan",
         "char.cui-minghuang",
+        "char.li-baoping",
         "char.li-er",
         "char.liu-baqiao",
         "char.liu-xianyang",
         "char.qi-jingchun",
         "char.song-he",
         "char.song-jixin",
+        "char.song-zhengchun",
         "char.wang-yifu",
         "char.xu-hunran",
         "char.xu-yuanxia",
@@ -10193,6 +10410,60 @@
         "loc.piyun-mountain"
       ],
       "card": "wiki/characters/song-changjing.md"
+    },
+    {
+      "id": "char.song-zhengchun",
+      "type": "character",
+      "zh": "宋正醇",
+      "zh_aliases": [
+        "大骊皇帝",
+        "大骊天子",
+        "衮服男子"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Song Zhengchun",
+      "palladius": "Сун Чжэнчунь",
+      "ru": "Сун Чжэнчунь",
+      "ru_aliases": [
+        "великолиский государь",
+        "император Великой Ли"
+      ],
+      "first_chapter": 113,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "государь",
+        "интрига",
+        "амбиции",
+        "юг"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Сун Чжэнчунь**; до того, как имя названо (главы 112–113), — *великолиский государь*, *мужчина в парадном одеянии с драконами*, *Сын Неба*.\n- **Одеяние:** `衮服` — **парадное одеяние с драконами** (не «халат»): на нём вытканы свернувшийся дракон и «морские волны и прибрежные скалы».\n- **Речь:** лёгкая, шутливая, с внезапными провалами в холодную твёрдость. Он нарочно говорит о петардах и наложницах, прежде чем сказать о войне.\n- **Самоназвание:** не `寡人` («одинокий»), а обычное «я» — и он сам объясняет почему.",
+      "links_to": [
+        "art.xiangfu-blade",
+        "char.aliang",
+        "char.cui-chan",
+        "char.li-baoping",
+        "char.song-changjing",
+        "char.song-jixin",
+        "fac.great-li-empire",
+        "fac.great-sui-nation",
+        "faction.imperial-court",
+        "loc.great-li-capital",
+        "loc.lizhu-grotto-heaven",
+        "loc.white-jade-capital"
+      ],
+      "referenced_by": [
+        "char.aliang",
+        "char.luan-changye",
+        "cult.qi-refinement",
+        "fac.wind-snow-temple"
+      ],
+      "card": "wiki/characters/song-zhengchun.md"
     },
     {
       "id": "char.song-yuzhang",
@@ -10486,11 +10757,16 @@
         "char.li-baoping",
         "char.li-huai",
         "char.lin-shouyi",
+        "char.song-changjing",
         "char.wei-bo",
-        "cult.sword-cultivator"
+        "cult.sword-cultivator",
+        "fac.great-li-empire",
+        "loc.red-candle-town",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
         "char.li-baoping",
+        "char.song-zhengchun",
         "char.wei-bo"
       ],
       "card": "wiki/artifacts/xiangfu-blade.md"
@@ -10633,7 +10909,8 @@
       ],
       "referenced_by": [
         "char.sword-spirit",
-        "cult.sword-cultivator"
+        "cult.sword-cultivator",
+        "idiom.strength-and-freedom"
       ],
       "card": "wiki/idioms/one-sword-credo.md"
     },
@@ -11023,10 +11300,12 @@
       "links_to": [
         "char.master-ruan",
         "char.ruan-xiu",
+        "char.song-zhengchun",
         "char.wei-jin",
         "cult.qi-refinement",
         "fac.dragon-spring-sword-sect",
-        "fac.sects-compendium"
+        "fac.sects-compendium",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
         "fac.dragon-spring-sword-sect",
@@ -11823,6 +12102,7 @@
         "char.li-huai",
         "char.li-xisheng",
         "char.lin-shouyi",
+        "char.luan-changye",
         "char.ma-zhan",
         "char.mao-xiaodong",
         "char.master-ruan",
@@ -12024,6 +12304,7 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Цуй Чань**; фамилия *Цуй* склоняется в мужском роде (*Цуй Чаня, Цуй Чаню*).\n- **Не путать с [Цуй Чэном](cui-cheng.md)** (дед, кулачный патриарх) и **[Цуй Дуншанем](cui-dongshan.md)** (отделённая половина души). В русском тексте всегда указывайте, о ком речь, если контекст допускает двусмысленность.\n- **Речь:** блестящая, быстрая, язвительная. Он говорит длинно, но каждое слово работает; в диалогах любит задавать вопросы, на которые уже знает ответ.\n- **Обращения:** к [Чэнь Пинъаню](chen-pingan.md) — *«малой»*, *«мой младший брат по учению»* (с издевательской теплотой); к [Цуй Чэну](cui-cheng.md) — *«дед»*.",
       "links_to": [
+        "char.aliang",
         "char.chen-pingan",
         "char.cui-cheng",
         "char.cui-dongshan",
@@ -12042,6 +12323,7 @@
         "cult.qi-refinement",
         "fac.great-li-empire",
         "fac.great-sui-nation",
+        "fac.mountain-cliff-academy",
         "loc.lizhu-grotto-heaven",
         "loc.piyun-mountain",
         "loc.savage-world"
@@ -12062,6 +12344,7 @@
         "char.qi-jingchun",
         "char.scholarly-sage",
         "char.song-he",
+        "char.song-zhengchun",
         "char.sword-spirit",
         "char.wu-yuan",
         "char.xie-lingyue",
@@ -12412,6 +12695,7 @@
       "referenced_by": [
         "char.chen-pingan",
         "char.chen-pingan.history",
+        "char.eternal-spring-elder",
         "char.gao-xuan",
         "char.lady-chu",
         "char.liu-xianyang",
@@ -12556,6 +12840,7 @@
         "art.hero-gall",
         "art.jade-hairpin-and-seals",
         "art.purple-qi-book",
+        "char.aliang",
         "char.black-snake-and-white-python",
         "char.chen-pingan",
         "char.li-baoping",
@@ -12931,6 +13216,7 @@
         "cult.qi-refinement",
         "cult.realms-overview",
         "idiom.clay-bodhisattva-crossing-river",
+        "idiom.strength-and-freedom",
         "loc.ghost-devils-valley",
         "loc.sword-water-manor"
       ],
@@ -13253,6 +13539,7 @@
         "char.sword-spirit",
         "char.wei-bo",
         "char.wu-yuan",
+        "char.yin-god",
         "char.zheng-dafeng",
         "char.zhigui",
         "char.zhou-mili",
@@ -13422,6 +13709,7 @@
         "idiom.hengqu-four-sentences",
         "idiom.jingzhe-dragon-raises-head",
         "idiom.one-sword-credo",
+        "idiom.strength-and-freedom",
         "idiom.suisui-pingan",
         "idiom.yan-sheng-yu-kuan",
         "loc.bamboo-scroll-lake",
