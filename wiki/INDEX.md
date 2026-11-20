@@ -5,9 +5,9 @@
 > Файл генерируется автоматически командой `python3 scripts/wiki_tool.py index`.
 > Не редактируйте его вручную: после правки карточек просто перегенерируйте указатель.
 
-**Всего статей: 282.**
+**Всего статей: 288.**
 
-## Персонажи (150)
+## Персонажи (152)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -34,6 +34,7 @@
 | [Дун Ху](characters/dong-hu.md) | `董湖 / 董侍郎 / 礼部右侍郎` | 83 |
 | [Дун Хуафу](characters/dong-huafu.md) | `董画符 / 董炭 / 炭儿` | 575 |
 | [Дун Шуйцзин](characters/dong-shuijing.md) | `董水井 / 水井` | 72 |
+| [Дух земли Горы Шашечной Доски](characters/chessboard-earth-god.md) | `棋墩山土地 / 白衣老翁 / 土地老翁 / 绿杖男子` | 98 |
 | [Дух меча](characters/sword-spirit.md) | `剑灵 / 白衣女子 / 高大女子 / 前任主人` | 78 |
 | [Дэ Чжан](characters/die-zhang.md) | `叠嶂 / 叠嶂姑娘` | 487 |
 | [Е Цин](characters/ye-qing.md) | `叶庆 / 大将军叶庆 / 边关砥柱` | 93 |
@@ -122,6 +123,7 @@
 | [Цуй Минхуан](characters/cui-minghuang.md) | `崔明皇 / 崔先生` | 45 |
 | [Цуй Чань](characters/cui-chan.md) | `崔瀺` | 81 |
 | [Цуй Чэн](characters/cui-cheng.md) | `崔诚 / 崔老爷子 / 武疯子` | 467 |
+| [Чёрная змея и белая питонша](characters/black-snake-and-white-python.md) | `黑蛇白蟒 / 墨蛟 / 白蟒 / 孽畜` | 98 |
 | [Чжан Шаньфэн](characters/zhang-shanfeng.md) | `张山峰 / 张道人` | 218 |
 | [Чжао Луань](characters/zhao-luan.md) | `赵鸾` | 471 |
 | [Чжао Яо](characters/zhao-yao.md) | `赵繇 / 繇儿` | 6 |
@@ -219,7 +221,7 @@
 | [Школа Озёрных Гор](factions/lake-mountain-school.md) | `湖山派` | 308 |
 | [Школа Хуанлян](factions/yellow-millet-school.md) | `黄粱派` | 926 |
 
-## Миры, континенты и локации (51)
+## Миры, континенты и локации (52)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -229,6 +231,7 @@
 | [Восточный материк Драгоценного Сосуда](locations/eastern-treasured-vial-continent.md) | `东宝瓶洲 / 宝瓶洲` | 13 |
 | [Гора Даосюань](locations/daoxuan-mountain.md) | `倒悬山` | 16 |
 | [Гора Дракона и Тигра](locations/dragon-tiger-mountain.md) | `龙虎山` | 96 |
+| [Гора Драконьего Хребта](locations/longji-mountain.md) | `龙脊山 / 甲六山 / 斩龙台` | 75 |
 | [Гора Лопо](locations/luopo-mountain.md) | `落魄山 / 落落魄山` | 80 |
 | [Гора Пиюнь](locations/piyun-mountain.md) | `披云山 / 披云峰` | 66 |
 | [Гора, Подпирающая Луну](locations/moon-supporting-mountain.md) | `托月山` | 614 |
@@ -275,12 +278,14 @@
 | [Фуяо](locations/fuyao-continent.md) | `扶摇洲` | 259 |
 | [Южный Посо](locations/southern-posha-continent.md) | `南婆娑洲` | 184 |
 
-## Концепты и устройство мира (14)
+## Концепты и устройство мира (16)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
+| [Боги гор и вод](concepts/mountain-and-river-gods.md) | `山水神祇 / 土地 / 山神 / 山水正神` | 63 |
 | [Господин Трёх гор и Девяти князей](concepts/three-mountains-nine-lords.md) | `三山九侯先生 / 三山九侯` | 89 |
 | [Денежная система и монеты бессмертных](concepts/currency.md) | `神仙钱 / 谷雨钱 / 小暑钱 / 雪花钱` | 12 |
+| [Заклятия вскрытия гор](concepts/mountain-opening-talismans.md) | `开山篇 / 撮壤成山诀 / 撵土造山 / 太山符` | 97 |
 | [Земля конца Дхармы](concepts/dharma-ending-land.md) | `末法之地 / 末法` | 17 |
 | [Казённые гончарные печи](concepts/imperial-kilns.md) | `官窑 / 奉诏监烧献陵祭器 / 督造大人 / 监造大人` | 1 |
 | [Камни «змеиной желчи»](concepts/snake-gall-stones.md) | `蛇胆石 / 溪中石子 / 石子` | 28 |
@@ -294,7 +299,7 @@
 | [Судьбоносная удача и благовония веры](concepts/qiyun.md) | `气运 / 香火 / 山水神灵 / 金身` | 0 |
 | [Яшэн](concepts/yasheng.md) | `压胜` | 15 |
 
-## Артефакты и снаряжение (9)
+## Артефакты и снаряжение (10)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -302,6 +307,7 @@
 | [Белая чаша](artifacts/white-bowl.md) | `白碗 / 大白碗` | 18 |
 | [Горлянка для взращивания меча](artifacts/sword-nurturing-gourd.md) | `养剑葫 / 葫芦` | 57 |
 | [Зелёная нефритовая шпилька и печати](artifacts/jade-hairpin-and-seals.md) | `碧玉簪 / 簪子 / 印章` | 24 |
+| [Колокольчик, что отпугивает нечисть](artifacts/zhen-yao-bell.md) | `震妖铃 / 铜铃 / 红色铃铛 / 篆文铜铃` | 93 |
 | [Мечи «Птаха в Клетке» и «Луна в Колодце»](artifacts/chen-pingans-swords.md) | `笼中雀 / 井中月 / 笼中雀 / 井中月` | 273 |
 | [Нефритовый кулон «Старый дракон проливает дождь»](artifacts/old-dragon-rain-pendant.md) | `老龙布雨 / 老龙佩` | 9 |
 | [Переправа «Остров Османтуса»](artifacts/osmanthus-island-ferry.md) | `桂花岛` | 253 |
