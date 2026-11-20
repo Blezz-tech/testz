@@ -1567,7 +1567,8 @@
         "loc.small-town"
       ],
       "referenced_by": [
-        "char.cui-minghuang"
+        "char.cui-minghuang",
+        "char.liu-baqiao"
       ]
     },
     "char.cui-chan": {
@@ -2989,6 +2990,7 @@
       "path": "wiki/characters/liu-baqiao.md",
       "links_to": [
         "char.chen-pingan",
+        "char.chen-songfeng",
         "char.cui-minghuang",
         "char.liu-xianyang",
         "char.mountain-moving-ape",

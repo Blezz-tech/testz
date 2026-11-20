@@ -4217,6 +4217,7 @@
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Лю Бацяо**. `灞桥` — «мост Ба» (знаменитый в танской поэзии мост расставаний); имя не склоняется.\n- **Речь:** громкая, задиристая, с матерком и хохотом. Он рубит сплеча и не умеет держать язык за зубами.",
       "links_to": [
         "char.chen-pingan",
+        "char.chen-songfeng",
         "char.cui-minghuang",
         "char.liu-xianyang",
         "char.mountain-moving-ape",
@@ -11405,7 +11406,8 @@
         "loc.small-town"
       ],
       "referenced_by": [
-        "char.cui-minghuang"
+        "char.cui-minghuang",
+        "char.liu-baqiao"
       ],
       "card": "wiki/characters/chen-songfeng.md"
     },
