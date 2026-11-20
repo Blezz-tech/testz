@@ -5,9 +5,9 @@
 > Файл генерируется автоматически командой `python3 scripts/wiki_tool.py index`.
 > Не редактируйте его вручную: после правки карточек просто перегенерируйте указатель.
 
-**Всего статей: 268.**
+**Всего статей: 270.**
 
-## Персонажи (142)
+## Персонажи (144)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -70,6 +70,7 @@
 | [Нин Яо](characters/ning-yao/relationships.md) | `宁姚` | 15 |
 | [Пан Юаньцзи](characters/pang-yuanji.md) | `庞元济` | 578 |
 | [Пэй Цянь](characters/pei-qian.md) | `裴钱 / 裴丫头 / 钱儿 / 大师姐` | 328 |
+| [речная хозяйка](characters/river-hag.md) | `河婆 / 河神` | 63 |
 | [Святой Ритуала](characters/li-sheng.md) | `礼圣 / 礼圣老爷` | 147 |
 | [Святой Словесности](characters/scholarly-sage.md) | `文圣 / 老秀才 / 文圣老爷` | 82 |
 | [Се Гоу](characters/xie-gou.md) | `谢狗 / 白景 / 朝晕 / 耀灵` | 928 |
@@ -146,6 +147,7 @@
 | [Чэнь Шу](characters/chen-mu.md) | `陈淑 / 陈平安他娘` | 1 |
 | [Шао Юньянь](characters/shao-yunyan.md) | `邵云岩` | 599 |
 | [Ши Жоу](characters/shi-rou.md) | `石柔 / 石柔姐姐` | 386 |
+| [Ши Чуньцзя](characters/shi-chunjia.md) | `石春嘉 / 小石头` | 71 |
 | [Юй Лу](characters/yu-lu.md) | `于禄 / 余士禄 / 卢氏太子` | 131 |
 | [Юй Сюань](characters/yu-xuan.md) | `于玄 / 玄符真人` | 176 |
 | [Юй Цзюаньфу](characters/yu-juanfu.md) | `郁狷夫` | 600 |
