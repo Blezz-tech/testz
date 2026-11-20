@@ -3,10 +3,10 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 271,
+  "total_entries": 273,
   "counts_by_type": {
     "artifact": 9,
-    "character": 144,
+    "character": 146,
     "concept": 12,
     "cultivation": 11,
     "faction": 34,
@@ -196,12 +196,17 @@
       "translation_rule": "## Правила перевода\n\n- **Передача:** `山崖书院` — **Академия Горного Обрыва**. Не «Школа на утёсе»: `书院` в этом романе — именно **академия** конфуцианского типа.\n- **Должности:** `山主` — **горный глава** (ректор), `副山主` — **заместитель горного главы**.\n- **Не путать:** `观湖书院` — **[Академия Созерцания Озера](lake-view-academy.md)**, другой конфуцианский центр; и `林鹿书院` — **Академия Лесного Оленя**, основанная на Горе Завесы Облаков.\n\n## Правило для переводчика\n\nСцены в академии — это **школьные сцены**, а не «храмовые». Ученики спорят, зубрят, ябедничают, влюбляются. Не превращайте их в послушников.",
       "links_to": [
         "char.chen-pingan",
+        "char.cui-chan",
+        "char.cui-minghuang",
         "char.li-baoping",
         "char.li-huai",
         "char.lin-shouyi",
         "char.ma-zhan",
         "char.mao-xiaodong",
         "char.qi-jingchun",
+        "char.song-jixin",
+        "char.wu-yuan",
+        "char.zhao-yao",
         "cult.confucianism",
         "fac.great-li-empire",
         "fac.great-sui-nation",
@@ -256,13 +261,19 @@
       ],
       "translation_rule": "## Правила перевода\n\n- **Передача:** `观湖书院` — **Академия Созерцания Озера**. `观湖` — «созерцать озеро», отсюда и связь с регионом [Озера Бамбуковых Свитков](../locations/bamboo-scroll-lake.md).\n\n## Правило для переводчика\n\nНазвания академий — **топографические**: «Горного Обрыва», «Созерцания Озера», «Лесного Оленя». Не переводите их как абстрактные («Академия Мудрости»).",
       "links_to": [
+        "char.cui-chan",
         "char.cui-minghuang",
+        "char.li-baoping",
+        "char.ma-zhan",
         "cult.confucianism",
         "fac.mountain-cliff-academy",
         "loc.bamboo-scroll-lake",
-        "loc.eastern-treasured-vial-continent"
+        "loc.eastern-treasured-vial-continent",
+        "loc.piyun-mountain"
       ],
       "referenced_by": [
+        "char.ma-zhan",
+        "fac.great-li-empire",
         "fac.mountain-cliff-academy"
       ],
       "card": "wiki/factions/lake-view-academy.md"
@@ -304,7 +315,10 @@
         "loc.niping-alley",
         "loc.small-town"
       ],
-      "referenced_by": [],
+      "referenced_by": [
+        "char.dong-hu",
+        "fac.great-li-empire"
+      ],
       "card": "wiki/locations/twelve-legged-archway.md"
     },
     {
@@ -673,6 +687,7 @@
       "links_to": [
         "char.cao-xi",
         "char.cui-chan",
+        "char.dong-hu",
         "char.qi-jingchun",
         "char.song-changjing",
         "char.song-he",
@@ -681,18 +696,22 @@
         "concept.natal-porcelain",
         "concept.qiyun",
         "fac.great-sui-nation",
+        "fac.lake-view-academy",
         "fac.mountain-cliff-academy",
         "faction.imperial-court",
         "loc.dragon-spring-prefecture",
         "loc.eastern-treasured-vial-continent",
         "loc.majestic-world",
+        "loc.piyun-mountain",
         "loc.savage-world",
-        "loc.small-town"
+        "loc.small-town",
+        "loc.twelve-legged-archway"
       ],
       "referenced_by": [
         "char.cao-gengxin",
         "char.cao-xi",
         "char.cui-chan",
+        "char.dong-hu",
         "char.gao-xuan",
         "char.lady-chu",
         "char.li-baozhen",
@@ -700,6 +719,7 @@
         "char.lin-junbi",
         "char.ma-zhan",
         "char.mao-xiaodong",
+        "char.master-ruan",
         "char.qi-jingchun",
         "char.song-changjing",
         "char.song-he",
@@ -725,6 +745,7 @@
         "loc.fortune-street",
         "loc.great-li-capital",
         "loc.lizhu-grotto-heaven",
+        "loc.luopo-mountain",
         "loc.red-candle-town",
         "loc.small-town",
         "loc.sword-water-manor"
@@ -851,6 +872,7 @@
       "links_to": [
         "char.aliang",
         "char.chen-pingan",
+        "char.cui-minghuang",
         "char.li-baoping",
         "char.li-huai",
         "char.lin-shouyi",
@@ -862,6 +884,8 @@
       "referenced_by": [
         "char.aliang",
         "char.chen-pingan.history",
+        "char.cui-chan",
+        "char.cui-minghuang",
         "char.li-baoping",
         "char.mao-xiaodong",
         "char.xie-lingyue",
@@ -1359,7 +1383,9 @@
       ],
       "referenced_by": [
         "art.osmanthus-island-ferry",
+        "char.chen-pingan",
         "char.ning-yao",
+        "char.old-man-yang",
         "fac.fuji-sect",
         "loc.eastern-treasured-vial-continent",
         "loc.sword-qi-great-wall"
@@ -1471,7 +1497,12 @@
         "char.chen-lingjun",
         "char.chen-nuanshu",
         "char.chen-pingan",
+        "char.liu-xianyang",
+        "char.master-ruan",
+        "char.old-man-yang",
+        "char.old-man-yao",
         "char.pei-qian",
+        "char.ruan-xiu",
         "char.sun-jiashu",
         "char.wei-bo",
         "char.zheng-dafeng",
@@ -1479,9 +1510,11 @@
         "char.zhu-lian",
         "concept.currency",
         "concept.qiyun",
+        "fac.great-li-empire",
         "loc.dragon-spring-prefecture",
         "loc.lizhu-grotto-heaven",
-        "loc.mountains-near-town"
+        "loc.mountains-near-town",
+        "loc.piyun-mountain"
       ],
       "referenced_by": [
         "char.chen-lingjun",
@@ -1493,7 +1526,9 @@
         "char.du-mao",
         "char.fan-er",
         "char.li-baoping",
+        "char.old-man-yang",
         "char.pei-qian",
+        "char.ruan-xiu",
         "char.sun-jiashu",
         "char.wei-bo",
         "char.zhou-mili",
@@ -1551,8 +1586,15 @@
       ],
       "referenced_by": [
         "char.chen-pingan",
+        "char.cui-chan",
         "char.cui-minghuang",
+        "char.master-ruan",
+        "char.old-man-yang",
+        "char.ruan-xiu",
+        "fac.great-li-empire",
+        "fac.lake-view-academy",
         "loc.lizhu-grotto-heaven",
+        "loc.luopo-mountain",
         "loc.mountains-near-town"
       ],
       "card": "wiki/locations/piyun-mountain.md"
@@ -1765,6 +1807,7 @@
       "translation_rule": "## Правила перевода\n\n- **Передача:** до Главы 63 — только **городок** (строчными, как нарицательное). После раскрытия — [Грот-небеса Личжу](lizhu-grotto-heaven.md). **Это правило защиты от спойлеров, нарушать нельзя.**\n- **Названия улиц:** [Переулок Глиняных Кувшинов](niping-alley.md) (`泥瓶巷`), [Переулок Оседлавшего Дракона](qilong-alley.md) (`骑龙巷`), [Переулок Абрикосовых Цветов](apricot-blossom-alley.md) (`杏花巷`), [Переулок Персиковых Листьев](peach-leaf-alley.md) (`桃叶巷`), [Проспект Фортуны](fortune-street.md) (`福禄街`). Все — смысловые.\n- **Числа:** «менее семисот родов, около пяти тысяч человек с прислугой» — численность даётся один раз, но её нельзя менять на «несколько тысяч».",
       "links_to": [
         "char.chen-pingan",
+        "char.li-baoping",
         "char.ma-kuxuan",
         "char.master-ruan",
         "char.wu-yuan",
@@ -1790,6 +1833,7 @@
         "char.chen-mu",
         "char.chen-pingan.history",
         "char.chen-songfeng",
+        "char.dong-hu",
         "char.dong-shuijing",
         "char.gao-xuan",
         "char.li-baoping",
@@ -1811,6 +1855,7 @@
         "char.shi-chunjia",
         "char.song-jixin",
         "char.song-yuzhang",
+        "char.sword-spirit",
         "char.wu-yuan",
         "char.xie-shi",
         "char.yin-god",
@@ -1914,12 +1959,17 @@
       "translation_rule": "## Правила перевода\n\n- **Передача:** описательно — **горы близ городка**. Конкретные вершины — по отдельности: `棋墩山` **Гора Шашечной Доски**, `云遮山` **Гора Завесы Облаков**, `龙头山` **Гора Драконьей Головы**, `神仙坟` **Могилы Бессмертных**.\n- **Не путать** `云遮山` (Гора Завесы Облаков) с `云霞山` (Гора Облачной Зари) — это **разные** горы, и в романе они обе важны.",
       "links_to": [
         "char.chen-pingan",
+        "char.gu-can",
+        "char.liu-xianyang",
         "char.master-ruan",
+        "char.ning-yao",
         "char.old-man-yang",
+        "char.ruan-xiu",
         "char.wei-bo",
         "concept.currency",
         "concept.mountain-seals",
         "concept.qiyun",
+        "faction.imperial-court",
         "loc.lizhu-grotto-heaven",
         "loc.luopo-mountain",
         "loc.piyun-mountain",
@@ -1927,6 +1977,7 @@
       ],
       "referenced_by": [
         "char.lady-chu",
+        "char.master-ruan",
         "char.wei-bo",
         "char.wu-yuan",
         "char.yang-hua",
@@ -2113,6 +2164,7 @@
       ],
       "referenced_by": [
         "art.chen-pingans-swords",
+        "art.jade-hairpin-and-seals",
         "char.cai-jinjian",
         "char.chen-pingan",
         "char.chen-pingan.history",
@@ -2128,6 +2180,7 @@
         "char.qi-jingchun",
         "char.river-hag",
         "char.ruan-xiu",
+        "char.sword-spirit",
         "char.zhigui",
         "concept.currency",
         "concept.imperial-kilns",
@@ -2203,6 +2256,7 @@
         "char.zheng-juzhong",
         "concept.entry-thresholds",
         "loc.bamboo-scroll-lake",
+        "loc.mountains-near-town",
         "loc.qingxia-island",
         "loc.white-emperor-city"
       ],
@@ -2562,6 +2616,53 @@
       "card": "wiki/characters/dong-bude.md"
     },
     {
+      "id": "char.dong-hu",
+      "type": "character",
+      "zh": "董湖",
+      "zh_aliases": [
+        "董侍郎",
+        "礼部右侍郎"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Dǒng Hú",
+      "palladius": "Дун Ху",
+      "ru": "Дун Ху",
+      "ru_aliases": [
+        "заместитель министра Дун",
+        "господин Дун"
+      ],
+      "first_chapter": 83,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "大骊",
+        "礼部",
+        "侍郎",
+        "чиновник"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Дун Ху** — фамилия *Дун* и имя *Ху* не склоняются (*с Дун Ху, к Дун Ху*).\n- **Титулы:** `侍郎` — **заместитель министра**; `右侍郎` — **правый** заместитель, то есть один из двух первых заместителей главы ведомства. В разговоре — «заместитель министра Дун», «старый заместитель министра».\n- **Речь:** цветистая казённая вежливость «образцового наречия» (`雅言`), с присказками и прибаутками; в разговоре с деревенским юношей невольно переходит на снисходительное добродушие. Про себя считает мгновенно — как старый лис, полжизни карабкавшийся по одной чиновной лестнице.",
+      "links_to": [
+        "char.chen-pingan",
+        "char.master-ruan",
+        "char.ruan-xiu",
+        "char.song-yuzhang",
+        "char.wu-yuan",
+        "fac.great-li-empire",
+        "faction.imperial-court",
+        "loc.small-town",
+        "loc.twelve-legged-archway"
+      ],
+      "referenced_by": [
+        "char.song-yuzhang",
+        "fac.great-li-empire"
+      ],
+      "card": "wiki/characters/dong-hu.md"
+    },
+    {
       "id": "char.dong-huafu",
       "type": "character",
       "zh": "董画符",
@@ -2632,10 +2733,12 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Дун Шуйцзин** — имя склоняется (*Дун Шуйцзина, Дун Шуйцзину*). Буквально `水井` — «колодец»; имя дано потому, что мать родила его у колодца.",
       "links_to": [
+        "char.li-baoping",
         "char.li-er",
         "char.li-huai",
         "char.li-liu",
         "char.lin-shouyi",
+        "loc.apricot-blossom-alley",
         "loc.small-town"
       ],
       "referenced_by": [
@@ -2643,6 +2746,54 @@
         "loc.apricot-blossom-alley"
       ],
       "card": "wiki/characters/dong-shuijing.md"
+    },
+    {
+      "id": "char.sword-spirit",
+      "type": "character",
+      "zh": "剑灵",
+      "zh_aliases": [
+        "白衣女子",
+        "高大女子",
+        "前任主人"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Jiàn líng",
+      "palladius": "Цзянь лин",
+      "ru": "Дух меча",
+      "ru_aliases": [
+        "высокая женщина в белом",
+        "та женщина"
+      ],
+      "first_chapter": 78,
+      "gender": "female",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [
+        "`剑灵` — буквально «дух меча»; в главах 78–84 имя не названо, в тексте она — «тот человек», «высокая женщина»."
+      ],
+      "tags": [
+        "меч",
+        "剑灵",
+        "дух",
+        "древний",
+        "загадка"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Дух меча** — нарицательное описание, не имя. В тексте романа до поры она — «тот человек», «высокая женщина в белом»; имён у неё в главах 78–84 нет.\n- **Речь:** спокойная, мягкая, чуть насмешливая; говорит короткими фразами, без чиновной и книжной цветистости. В клятве — чеканный ритм, который нельзя размывать.\n- **Важно:** до Главы 84 повествование держит её пол загадкой — «тот человек» описывается как мужчина; разоблачение («и этот человек оказался женщиной») должно быть неожиданным и для читателя.",
+      "links_to": [
+        "char.chen-pingan",
+        "char.cui-chan",
+        "char.ma-zhan",
+        "cult.sword-cultivator",
+        "idiom.one-sword-credo",
+        "loc.lizhu-grotto-heaven",
+        "loc.small-town"
+      ],
+      "referenced_by": [
+        "idiom.one-sword-credo"
+      ],
+      "card": "wiki/characters/sword-spirit.md"
     },
     {
       "id": "char.die-zhang",
@@ -2788,22 +2939,31 @@
         "char.chen-dui",
         "char.chen-pingan",
         "char.chen-songfeng",
+        "char.li-baoping",
         "char.liu-xianyang",
         "char.master-ruan",
         "char.ning-yao",
+        "char.wu-yuan",
         "fac.sects-compendium",
+        "faction.imperial-court",
         "loc.apricot-blossom-alley",
         "loc.lizhu-grotto-heaven",
+        "loc.luopo-mountain",
+        "loc.piyun-mountain",
         "loc.qilong-alley"
       ],
       "referenced_by": [
         "char.chen-dui",
         "char.chen-pingan",
         "char.chen-songfeng",
+        "char.dong-hu",
         "char.master-ruan",
         "char.ning-yao",
         "char.river-hag",
-        "fac.dragon-spring-sword-sect"
+        "char.wu-yuan",
+        "fac.dragon-spring-sword-sect",
+        "loc.luopo-mountain",
+        "loc.mountains-near-town"
       ],
       "card": "wiki/characters/ruan-xiu.md"
     },
@@ -2840,6 +3000,7 @@
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Жуань Цюн**; в обращении — **кузнец Жуань** / **мастер Жуань**. Внимание к транскрипции Палладия: слог `ruan` всегда **Жуань**, никогда «Руань».\n- **Склонение:** фамилия *Жуань* в мужском роде склоняется (*у кузнеца Жуаня, к мастеру Жуаню*).\n- **Речь:** отрывистая, суровая, без лишних слов. Он не объясняет своих решений и не терпит возражений.",
       "links_to": [
         "char.chen-pingan",
+        "char.cui-chan",
         "char.liu-xianyang",
         "char.ning-yao",
         "char.old-man-yang",
@@ -2848,8 +3009,11 @@
         "char.wu-yuan",
         "cult.militarians",
         "cult.sword-cultivator",
+        "fac.great-li-empire",
         "fac.sects-compendium",
         "loc.lizhu-grotto-heaven",
+        "loc.mountains-near-town",
+        "loc.piyun-mountain",
         "loc.qilong-alley",
         "loc.sword-qi-great-wall"
       ],
@@ -2859,6 +3023,9 @@
         "char.chen-pingan",
         "char.chen-pingan.cultivation",
         "char.chen-pingan.items",
+        "char.cui-chan",
+        "char.cui-minghuang",
+        "char.dong-hu",
         "char.liu-xianyang",
         "char.ning-yao",
         "char.ning-yao.cultivation",
@@ -2874,6 +3041,7 @@
         "fac.sects-compendium",
         "fac.wind-snow-temple",
         "loc.lizhu-grotto-heaven",
+        "loc.luopo-mountain",
         "loc.mountains-near-town",
         "loc.piyun-mountain",
         "loc.qilong-alley",
@@ -2913,12 +3081,16 @@
       "translation_rule": "## Правила перевода\n\n- **Передача:** `碧玉簪` — **зелёная нефритовая шпилька**; в тексте часто просто «шпилька». Не «заколка»: это именно мужская/учёная шпилька для волос, знак конфуцианского достоинства.\n- **Печати:** `印章` — **печать**; `春字印` — **весенняя печать** (на ней иероглиф `春`, «весна»). `齐` в печати — родовой знак [Ци Цзинчуня](../characters/qi-jingchun.md), и его давали ученикам.\n\n## Правило для переводчика\n\n- `簪` — **шпилька**, не «заколка» и не «булавка».\n- `印` — **печать** (оттиск, знак власти), не «штамп».\n- В сцене передачи печати **не смягчайте торжественность**: это юридический и духовный акт.",
       "links_to": [
         "char.chen-pingan",
+        "char.cui-chan",
+        "char.ma-zhan",
+        "char.old-man-yang",
         "char.qi-jingchun",
         "char.zhao-yao",
         "char.zhu-lu",
         "concept.mountain-seals",
         "cult.confucianism",
-        "fac.mountain-cliff-academy"
+        "fac.mountain-cliff-academy",
+        "loc.lizhu-grotto-heaven"
       ],
       "referenced_by": [
         "art.old-dragon-rain-pendant",
@@ -3124,7 +3296,9 @@
       ],
       "referenced_by": [
         "char.cao-xi",
+        "char.dong-hu",
         "char.li-baozhen",
+        "char.ruan-xiu",
         "char.song-changjing",
         "char.song-he",
         "char.song-yuzhang",
@@ -3139,7 +3313,8 @@
         "loc.dragon-spring-prefecture",
         "loc.great-li-capital",
         "loc.lizhu-grotto-heaven",
-        "loc.mirage-city"
+        "loc.mirage-city",
+        "loc.mountains-near-town"
       ],
       "card": "wiki/factions/imperial-court.md"
     },
@@ -3640,12 +3815,15 @@
       "links_to": [
         "char.aliang",
         "char.chen-pingan",
+        "char.cui-minghuang",
         "char.li-huai",
         "char.lin-shouyi",
+        "char.ma-zhan",
         "char.qi-jingchun",
         "char.shi-chunjia",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
+        "loc.apricot-blossom-alley",
         "loc.eastern-treasured-vial-continent",
         "loc.luopo-mountain",
         "loc.small-town"
@@ -3653,6 +3831,7 @@
       "referenced_by": [
         "char.chen-pingan",
         "char.chen-pingan.history",
+        "char.dong-shuijing",
         "char.li-baozhen",
         "char.li-huai",
         "char.li-xisheng",
@@ -3660,14 +3839,18 @@
         "char.ma-zhan",
         "char.mao-xiaodong",
         "char.qi-jingchun",
+        "char.ruan-xiu",
         "char.shi-chunjia",
         "char.zhu-lu",
+        "concept.ancestral-shade-leaves",
         "concept.natal-porcelain",
         "fac.clans-compendium",
         "fac.great-sui-nation",
+        "fac.lake-view-academy",
         "fac.mountain-cliff-academy",
         "loc.eastern-treasured-vial-continent",
-        "loc.fortune-street"
+        "loc.fortune-street",
+        "loc.small-town"
       ],
       "card": "wiki/characters/li-baoping.md"
     },
@@ -3826,6 +4009,7 @@
         "char.li-er",
         "char.li-liu",
         "char.lin-shouyi",
+        "char.ma-zhan",
         "char.qi-jingchun",
         "char.shi-chunjia",
         "fac.mountain-cliff-academy",
@@ -3995,12 +4179,15 @@
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Линь Шоуи** — имя *Шоуи* не склоняется (*с Линь Шоуи, к Линь Шоуи*).\n- **Речь:** холодная, скупая, гордая; он не любит быть обязанным кому-либо, особенно тем, кому не доверяет.",
       "links_to": [
         "char.chen-pingan",
+        "char.cui-minghuang",
         "char.li-baoping",
         "char.li-huai",
+        "char.ma-zhan",
         "char.qi-jingchun",
         "char.shi-chunjia",
         "cult.qi-refinement",
-        "fac.mountain-cliff-academy"
+        "fac.mountain-cliff-academy",
+        "loc.apricot-blossom-alley"
       ],
       "referenced_by": [
         "char.cao-gengxin",
@@ -4010,6 +4197,7 @@
         "char.dong-shuijing",
         "char.li-baoping",
         "char.li-huai",
+        "char.ma-zhan",
         "char.qi-jingchun",
         "char.shi-chunjia",
         "fac.great-sui-nation",
@@ -4050,6 +4238,8 @@
       "translation_rule": "## Правила перевода\n\n- **`祖荫`** — *благодать предков*, *родовая тень* (не «семейное древо» и не «наследство»): речь именно о защите, которую предки-покровители простирают над потомками.\n- **`槐叶`** — *лист софоры*; в сценах у дерева не переводить как «акация» или «липа».\n- **`十二脚牌坊楼`** — *арка на двенадцати опорах* (парадные ворота-пайфан в честь добродетели или заслуг рода).",
       "links_to": [
         "char.chen-pingan",
+        "char.li-baoping",
+        "char.ma-zhan",
         "char.old-man-yao",
         "char.qi-jingchun",
         "concept.natal-porcelain",
@@ -4452,6 +4642,8 @@
         "concept.snake-gall-stones",
         "fac.zhengyang-mountain",
         "loc.baoxi-stream",
+        "loc.luopo-mountain",
+        "loc.mountains-near-town",
         "loc.old-locust-tree"
       ],
       "card": "wiki/characters/liu-xianyang.md"
@@ -4743,17 +4935,31 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Ма Чжань** — имя склоняется (*Ма Чжаня, Ма Чжаню*).\n- **Речь:** в школе — мягкая, терпеливая, по-стариковски добродушная; после смерти Ци Цзинчуня — сухая, повелительная, без улыбки.",
       "links_to": [
+        "char.cui-minghuang",
         "char.li-baoping",
         "char.li-huai",
+        "char.lin-shouyi",
         "char.mao-xiaodong",
         "char.qi-jingchun",
         "char.zuo-you",
         "cult.confucianism",
         "fac.great-li-empire",
+        "fac.lake-view-academy",
         "fac.mountain-cliff-academy",
         "loc.small-town"
       ],
       "referenced_by": [
+        "art.jade-hairpin-and-seals",
+        "char.chen-pingan",
+        "char.cui-chan",
+        "char.cui-minghuang",
+        "char.li-baoping",
+        "char.li-huai",
+        "char.lin-shouyi",
+        "char.shi-chunjia",
+        "char.sword-spirit",
+        "concept.ancestral-shade-leaves",
+        "fac.lake-view-academy",
         "fac.mountain-cliff-academy"
       ],
       "card": "wiki/characters/ma-zhan.md"
@@ -5073,6 +5279,7 @@
         "char.qi-shou",
         "char.qi-tingji",
         "char.sui-youbian",
+        "char.sword-spirit",
         "char.xie-gou",
         "char.zuo-you",
         "cult.qi-refinement",
@@ -5538,6 +5745,7 @@
         "loc.ascension-city",
         "loc.daoxuan-mountain",
         "loc.lizhu-grotto-heaven",
+        "loc.mountains-near-town",
         "loc.sword-qi-great-wall"
       ],
       "card": "wiki/characters/ning-yao.md"
@@ -5904,6 +6112,9 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.dong-shuijing",
+        "char.li-baoping",
+        "char.lin-shouyi",
         "char.river-hag",
         "char.ruan-xiu",
         "loc.peach-leaf-alley",
@@ -7788,16 +7999,22 @@
         "char.ma-lanhua",
         "char.master-ruan",
         "char.ning-yao",
+        "char.qi-jingchun",
         "char.zheng-dafeng",
         "char.zhigui",
         "concept.natal-porcelain",
         "concept.qiyun",
+        "loc.daoxuan-mountain",
         "loc.lizhu-grotto-heaven",
+        "loc.luopo-mountain",
         "loc.old-dragon-city",
+        "loc.piyun-mountain",
         "loc.small-town"
       ],
       "referenced_by": [
+        "art.jade-hairpin-and-seals",
         "char.chen-pingan",
+        "char.cui-chan",
         "char.cui-minghuang",
         "char.li-er",
         "char.li-liu",
@@ -7812,6 +8029,7 @@
         "char.zheng-dafeng",
         "char.zhigui",
         "loc.lizhu-grotto-heaven",
+        "loc.luopo-mountain",
         "loc.mountains-near-town",
         "loc.piyun-mountain"
       ],
@@ -7861,6 +8079,7 @@
         "concept.ancestral-shade-leaves",
         "concept.imperial-kilns",
         "fac.chen-clan",
+        "loc.luopo-mountain",
         "loc.old-locust-tree"
       ],
       "card": "wiki/characters/old-man-yao.md"
@@ -8373,6 +8592,7 @@
         "char.zhigui",
         "concept.currency",
         "fac.clans-compendium",
+        "fac.mountain-cliff-academy",
         "faction.imperial-court",
         "idiom.clay-bodhisattva-crossing-river",
         "loc.fortune-street",
@@ -8484,6 +8704,7 @@
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Сун Юйчжан** — имя склоняется (*Сун Юйчжана, Сун Юйчжану*).",
       "links_to": [
         "char.chen-pingan",
+        "char.dong-hu",
         "char.qi-jingchun",
         "char.wu-yuan",
         "concept.imperial-kilns",
@@ -8491,6 +8712,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.dong-hu",
         "concept.imperial-kilns",
         "fac.great-li-empire"
       ],
@@ -8784,9 +9006,11 @@
         "char.chen-pingan",
         "char.liu-zhimao",
         "char.mountain-moving-ape",
+        "char.sword-spirit",
         "cult.sword-cultivator"
       ],
       "referenced_by": [
+        "char.sword-spirit",
         "cult.sword-cultivator"
       ],
       "card": "wiki/idioms/one-sword-credo.md"
@@ -8856,8 +9080,10 @@
       "links_to": [
         "char.chen-pingan",
         "char.cui-chan",
+        "char.cui-minghuang",
         "char.master-ruan",
         "char.old-man-yang",
+        "char.ruan-xiu",
         "concept.imperial-kilns",
         "fac.great-li-empire",
         "loc.dragon-spring-prefecture",
@@ -8866,9 +9092,14 @@
       ],
       "referenced_by": [
         "char.chen-pingan",
+        "char.cui-chan",
+        "char.cui-minghuang",
+        "char.dong-hu",
         "char.master-ruan",
+        "char.ruan-xiu",
         "char.song-yuzhang",
         "fac.great-li-empire",
+        "fac.mountain-cliff-academy",
         "loc.dragon-spring-prefecture",
         "loc.small-town"
       ],
@@ -10009,6 +10240,7 @@
         "char.mountain-moving-ape",
         "char.ning-yao",
         "char.ning-yao.relationships",
+        "char.old-man-yang",
         "char.scholarly-sage",
         "char.shi-chunjia",
         "char.song-yuzhang",
@@ -10148,10 +10380,14 @@
         "char.lin-shouyi",
         "char.liu-baqiao",
         "char.ma-kuxuan",
+        "char.ma-zhan",
+        "char.master-ruan",
         "char.old-man-yang",
         "char.qi-jingchun",
         "char.song-changjing",
+        "char.wu-yuan",
         "cult.confucianism",
+        "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
         "loc.lizhu-grotto-heaven",
         "loc.piyun-mountain"
@@ -10159,8 +10395,15 @@
       "referenced_by": [
         "char.chen-dui",
         "char.chen-songfeng",
+        "char.cui-chan",
+        "char.li-baoping",
+        "char.lin-shouyi",
         "char.liu-baqiao",
+        "char.ma-zhan",
+        "char.wu-yuan",
+        "fac.great-sui-nation",
         "fac.lake-view-academy",
+        "fac.mountain-cliff-academy",
         "loc.piyun-mountain"
       ],
       "card": "wiki/characters/cui-minghuang.md"
@@ -10195,18 +10438,27 @@
         "char.chen-pingan",
         "char.cui-cheng",
         "char.cui-dongshan",
+        "char.cui-minghuang",
         "char.liu-baqiao",
+        "char.ma-zhan",
+        "char.master-ruan",
+        "char.old-man-yang",
         "char.qi-jingchun",
         "char.scholarly-sage",
         "char.song-changjing",
+        "char.wu-yuan",
+        "char.zhao-yao",
         "cult.confucianism",
         "cult.hundred-schools",
         "cult.qi-refinement",
         "fac.great-li-empire",
+        "fac.great-sui-nation",
         "loc.lizhu-grotto-heaven",
+        "loc.piyun-mountain",
         "loc.savage-world"
       ],
       "referenced_by": [
+        "art.jade-hairpin-and-seals",
         "char.aliang",
         "char.cao-xi",
         "char.chen-pingan",
@@ -10215,10 +10467,12 @@
         "char.cui-minghuang",
         "char.lady-chu",
         "char.liu-laocheng",
+        "char.master-ruan",
         "char.old-man-yang",
         "char.qi-jingchun",
         "char.scholarly-sage",
         "char.song-he",
+        "char.sword-spirit",
         "char.wu-yuan",
         "char.xie-lingyue",
         "char.yu-lu",
@@ -10226,6 +10480,8 @@
         "cult.confucianism",
         "cult.hundred-schools",
         "fac.great-li-empire",
+        "fac.lake-view-academy",
+        "fac.mountain-cliff-academy",
         "fac.northern-jin-nation"
       ],
       "card": "wiki/characters/cui-chan.md"
@@ -10463,7 +10719,9 @@
       ],
       "referenced_by": [
         "art.jade-hairpin-and-seals",
+        "char.cui-chan",
         "fac.clans-compendium",
+        "fac.mountain-cliff-academy",
         "loc.fortune-street",
         "loc.twelve-legged-archway"
       ],
@@ -11246,6 +11504,7 @@
         "char.liu-baqiao",
         "char.liu-xianyang",
         "char.ma-kuxuan",
+        "char.ma-zhan",
         "char.master-ruan",
         "char.ning-yao",
         "char.old-man-yang",
@@ -11273,6 +11532,7 @@
         "idiom.jingzhe-dragon-raises-head",
         "idiom.suisui-pingan",
         "loc.bamboo-scroll-lake",
+        "loc.daoxuan-mountain",
         "loc.dragon-spring-prefecture",
         "loc.lizhu-grotto-heaven",
         "loc.lotus-root-blessed-land",
@@ -11313,6 +11573,7 @@
         "char.cui-dongshan",
         "char.die-zhang",
         "char.ding-ying",
+        "char.dong-hu",
         "char.du-mao",
         "char.fan-er",
         "char.fan-junmao",
@@ -11364,6 +11625,7 @@
         "char.song-yuzhang",
         "char.sui-jingcheng",
         "char.sun-jiashu",
+        "char.sword-spirit",
         "char.wei-bo",
         "char.wei-jin",
         "char.wu-yuan",
@@ -12040,6 +12302,7 @@
         "char.li-baoping",
         "char.li-huai",
         "char.lin-shouyi",
+        "char.ma-zhan",
         "char.qi-jingchun",
         "fac.mountain-cliff-academy",
         "loc.niping-alley",
