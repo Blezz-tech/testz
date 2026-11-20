@@ -1,13 +1,13 @@
 {
   "schema_version": "2.0",
-  "total_entities": 303,
+  "total_entities": 307,
   "counts_by_type": {
     "artifact": 15,
-    "character": 155,
+    "character": 158,
     "concept": 18,
     "cultivation": 11,
     "faction": 37,
-    "idiom": 9,
+    "idiom": 10,
     "location": 56,
     "media": 2
   },
@@ -505,6 +505,7 @@
         "art.xiangfu-blade",
         "char.aliang",
         "char.chen-pingan",
+        "char.li-baoping",
         "char.qi-jingchun",
         "cult.sword-cultivator"
       ]
@@ -583,11 +584,16 @@
         "char.li-baoping",
         "char.li-huai",
         "char.lin-shouyi",
+        "char.song-changjing",
         "char.wei-bo",
-        "cult.sword-cultivator"
+        "cult.sword-cultivator",
+        "fac.great-li-empire",
+        "loc.red-candle-town",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
         "char.li-baoping",
+        "char.song-zhengchun",
         "char.wei-bo"
       ]
     },
@@ -668,19 +674,27 @@
         "char.cui-chan",
         "char.li-baoping",
         "char.li-huai",
+        "char.li-jin",
         "char.lin-shouyi",
+        "char.luan-changye",
         "char.master-ruan",
         "char.ning-yao",
         "char.scholarly-sage",
+        "char.song-changjing",
+        "char.song-zhengchun",
         "char.wei-bo",
         "char.wei-jin",
+        "char.yin-god",
         "char.zhu-he",
+        "char.zhu-lu",
         "char.zuo-you",
         "cult.sword-cultivator",
         "fac.great-li-empire",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
-        "loc.sword-qi-great-wall"
+        "loc.red-candle-town",
+        "loc.sword-qi-great-wall",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
         "art.shuduan-cliff",
@@ -696,27 +710,35 @@
         "char.chen-qingdu",
         "char.chen-qingliu",
         "char.chen-sanqiu",
+        "char.cui-chan",
         "char.dong-huafu",
+        "char.eternal-spring-elder",
         "char.li-baoping",
         "char.li-er",
         "char.li-huai",
         "char.li-jin",
         "char.lin-shouyi",
+        "char.luan-changye",
         "char.ning-yao",
         "char.ning-yao.history",
         "char.ning-yao.relationships",
         "char.pang-yuanji",
         "char.river-hag",
         "char.scholarly-sage",
+        "char.song-jixin",
+        "char.song-zhengchun",
         "char.wei-bo",
         "char.zhu-he",
         "char.zhu-lu",
         "concept.mountain-and-river-gods",
         "concept.mountain-opening-talismans",
+        "cult.qi-refinement",
         "cult.realms-overview",
         "cult.sword-cultivator",
+        "fac.great-li-empire",
         "fac.great-sui-nation",
         "idiom.daoli-and-benxin",
+        "idiom.strength-and-freedom",
         "loc.bamboo-sea-grotto-heaven",
         "loc.fushui-bay",
         "loc.mountains-near-town",
@@ -1430,6 +1452,7 @@
         "char.sword-spirit",
         "char.wei-bo",
         "char.wu-yuan",
+        "char.yin-god",
         "char.zheng-dafeng",
         "char.zhigui",
         "char.zhou-mili",
@@ -1599,6 +1622,7 @@
         "idiom.hengqu-four-sentences",
         "idiom.jingzhe-dragon-raises-head",
         "idiom.one-sword-credo",
+        "idiom.strength-and-freedom",
         "idiom.suisui-pingan",
         "idiom.yan-sheng-yu-kuan",
         "loc.bamboo-scroll-lake",
@@ -2087,6 +2111,7 @@
       ],
       "path": "wiki/characters/cui-chan.md",
       "links_to": [
+        "char.aliang",
         "char.chen-pingan",
         "char.cui-cheng",
         "char.cui-dongshan",
@@ -2105,6 +2130,7 @@
         "cult.qi-refinement",
         "fac.great-li-empire",
         "fac.great-sui-nation",
+        "fac.mountain-cliff-academy",
         "loc.lizhu-grotto-heaven",
         "loc.piyun-mountain",
         "loc.savage-world"
@@ -2125,6 +2151,7 @@
         "char.qi-jingchun",
         "char.scholarly-sage",
         "char.song-he",
+        "char.song-zhengchun",
         "char.sword-spirit",
         "char.wu-yuan",
         "char.xie-lingyue",
@@ -2574,6 +2601,49 @@
         "char.jiang-shangzhen",
         "fac.sects-compendium",
         "fac.tongye-sect"
+      ]
+    },
+    "char.eternal-spring-elder": {
+      "id": "char.eternal-spring-elder",
+      "type": "character",
+      "zh": "长春宫太上长老",
+      "zh_aliases": [
+        "太上长老",
+        "妇人"
+      ],
+      "pinyin": "Changchun Gong Taishang ZhangLao",
+      "palladius": "Чанчуньгун Тайшан чжанлао",
+      "ru": "Первейшая старейшина Дворца Вечной Весны",
+      "ru_aliases": [
+        "старейшина Дворца Вечной Весны",
+        "женщина из Дворца Вечной Весны"
+      ],
+      "first_chapter": 110,
+      "gender": "female",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "дворец-вечной-весны",
+        "даосизм",
+        "наставница",
+        "великая-ли",
+        "пять-громов"
+      ],
+      "path": "wiki/characters/eternal-spring-elder.md",
+      "links_to": [
+        "char.aliang",
+        "char.lin-shouyi",
+        "char.zhigui",
+        "cult.daoism",
+        "cult.qi-refinement",
+        "fac.great-li-empire",
+        "fac.sects-compendium"
+      ],
+      "referenced_by": [
+        "fac.sects-compendium"
       ]
     },
     "char.fan-er": {
@@ -3220,6 +3290,7 @@
       ],
       "path": "wiki/characters/li-baoping.md",
       "links_to": [
+        "art.sword-nurturing-gourd",
         "art.xiangfu-blade",
         "char.aliang",
         "char.chen-pingan",
@@ -3230,9 +3301,11 @@
         "char.ma-zhan",
         "char.qi-jingchun",
         "char.shi-chunjia",
+        "char.song-changjing",
         "char.zhu-he",
         "char.zhu-lu",
         "concept.snake-gall-stones",
+        "fac.great-li-empire",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
         "loc.apricot-blossom-alley",
@@ -3256,6 +3329,7 @@
         "char.qi-jingchun",
         "char.ruan-xiu",
         "char.shi-chunjia",
+        "char.song-zhengchun",
         "char.zhu-he",
         "char.zhu-lu",
         "concept.ancestral-shade-leaves",
@@ -3473,6 +3547,7 @@
       ],
       "referenced_by": [
         "art.shuduan-cliff",
+        "char.aliang",
         "char.chen-pingan",
         "char.cheng-sheng",
         "loc.chundan-river",
@@ -3743,6 +3818,7 @@
         "char.cheng-sheng",
         "char.cui-minghuang",
         "char.dong-shuijing",
+        "char.eternal-spring-elder",
         "char.li-baoping",
         "char.li-er",
         "char.li-huai",
@@ -4215,6 +4291,51 @@
         "loc.sword-qi-great-wall"
       ],
       "referenced_by": []
+    },
+    "char.luan-changye": {
+      "id": "char.luan-changye",
+      "type": "character",
+      "zh": "栾长野",
+      "zh_aliases": [
+        "栾巨子",
+        "巨子栾"
+      ],
+      "pinyin": "Luan Changye",
+      "palladius": "Луань Чанъе",
+      "ru": "Луань Чанъе",
+      "ru_aliases": [
+        "цзюйцзы Луань"
+      ],
+      "first_chapter": 113,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "моисты",
+        "строитель",
+        "великая-ли",
+        "столица-белого-нефрита",
+        "изгнанник"
+      ],
+      "path": "wiki/characters/luan-changye.md",
+      "links_to": [
+        "char.aliang",
+        "char.qi-jingchun",
+        "char.song-zhengchun",
+        "cult.hundred-schools",
+        "fac.great-li-empire",
+        "fac.sects-compendium",
+        "loc.white-jade-capital"
+      ],
+      "referenced_by": [
+        "char.aliang",
+        "char.song-jixin",
+        "cult.hundred-schools",
+        "loc.white-jade-capital"
+      ]
     },
     "char.ma-kuxuan": {
       "id": "char.ma-kuxuan",
@@ -5232,6 +5353,7 @@
         "char.li-huai",
         "char.li-xisheng",
         "char.lin-shouyi",
+        "char.luan-changye",
         "char.ma-zhan",
         "char.mao-xiaodong",
         "char.master-ruan",
@@ -5736,17 +5858,21 @@
         "loc.niping-alley"
       ],
       "referenced_by": [
+        "art.xiangfu-blade",
+        "char.aliang",
         "char.chen-dui",
         "char.chen-pingan",
         "char.chen-songfeng",
         "char.cui-chan",
         "char.cui-minghuang",
+        "char.li-baoping",
         "char.li-er",
         "char.liu-baqiao",
         "char.liu-xianyang",
         "char.qi-jingchun",
         "char.song-he",
         "char.song-jixin",
+        "char.song-zhengchun",
         "char.wang-yifu",
         "char.xu-hunran",
         "char.xu-yuanxia",
@@ -5813,12 +5939,16 @@
       "zh": "宋集薪",
       "zh_aliases": [
         "宋公子",
-        "集薪"
+        "集薪",
+        "宋睦"
       ],
       "pinyin": "Song Jixin",
       "palladius": "Сун Цзисинь",
       "ru": "Сун Цзисинь",
-      "ru_aliases": [],
+      "ru_aliases": [
+        "Сун Му",
+        "княжич Сун"
+      ],
       "first_chapter": 1,
       "gender": "male",
       "subtype": null,
@@ -5834,10 +5964,12 @@
       ],
       "path": "wiki/characters/song-jixin.md",
       "links_to": [
+        "char.aliang",
         "char.chen-dui",
         "char.chen-pingan",
         "char.great-li-empress",
         "char.liu-xianyang",
+        "char.luan-changye",
         "char.ma-kuxuan",
         "char.song-changjing",
         "char.song-he",
@@ -5847,7 +5979,8 @@
         "fac.great-li-empire",
         "loc.dragon-spring-prefecture",
         "loc.niping-alley",
-        "loc.small-town"
+        "loc.small-town",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
         "art.shanxiao-pot",
@@ -5861,6 +5994,7 @@
         "char.qi-jingchun",
         "char.song-changjing",
         "char.song-yuzhang",
+        "char.song-zhengchun",
         "char.tao-zi",
         "char.zhao-yao",
         "char.zhigui",
@@ -5873,7 +6007,8 @@
         "loc.lizhu-grotto-heaven",
         "loc.niping-alley",
         "loc.small-town",
-        "loc.twelve-legged-archway"
+        "loc.twelve-legged-archway",
+        "loc.white-jade-capital"
       ]
     },
     "char.song-yushao": {
@@ -5951,6 +6086,58 @@
         "char.wang-yifu",
         "concept.imperial-kilns",
         "fac.great-li-empire"
+      ]
+    },
+    "char.song-zhengchun": {
+      "id": "char.song-zhengchun",
+      "type": "character",
+      "zh": "宋正醇",
+      "zh_aliases": [
+        "大骊皇帝",
+        "大骊天子",
+        "衮服男子"
+      ],
+      "pinyin": "Song Zhengchun",
+      "palladius": "Сун Чжэнчунь",
+      "ru": "Сун Чжэнчунь",
+      "ru_aliases": [
+        "великолиский государь",
+        "император Великой Ли"
+      ],
+      "first_chapter": 113,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "государь",
+        "интрига",
+        "амбиции",
+        "юг"
+      ],
+      "path": "wiki/characters/song-zhengchun.md",
+      "links_to": [
+        "art.xiangfu-blade",
+        "char.aliang",
+        "char.cui-chan",
+        "char.li-baoping",
+        "char.song-changjing",
+        "char.song-jixin",
+        "fac.great-li-empire",
+        "fac.great-sui-nation",
+        "faction.imperial-court",
+        "loc.great-li-capital",
+        "loc.lizhu-grotto-heaven",
+        "loc.white-jade-capital"
+      ],
+      "referenced_by": [
+        "char.aliang",
+        "char.luan-changye",
+        "cult.qi-refinement",
+        "fac.wind-snow-temple"
       ]
     },
     "char.sui-jingcheng": {
@@ -6933,6 +7120,8 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.aliang",
+        "char.chen-pingan",
         "concept.qiyun"
       ]
     },
@@ -7358,6 +7547,7 @@
       "referenced_by": [
         "char.chen-pingan",
         "char.chen-pingan.history",
+        "char.eternal-spring-elder",
         "char.gao-xuan",
         "char.lady-chu",
         "char.liu-xianyang",
@@ -7724,6 +7914,7 @@
         "art.hero-gall",
         "art.jade-hairpin-and-seals",
         "art.purple-qi-book",
+        "char.aliang",
         "char.black-snake-and-white-python",
         "char.chen-pingan",
         "char.li-baoping",
@@ -8272,6 +8463,7 @@
         "char.river-hag",
         "char.ruan-xiu",
         "char.wei-bo",
+        "cult.hundred-schools",
         "fac.great-li-empire",
         "loc.mountains-near-town",
         "loc.small-town"
@@ -8885,6 +9077,7 @@
       ],
       "referenced_by": [
         "art.cloud-ringing-book",
+        "char.eternal-spring-elder",
         "char.fire-dragon-zhiren",
         "char.he-xiaoliang",
         "char.huan-yun",
@@ -9008,6 +9201,7 @@
       "links_to": [
         "char.cui-chan",
         "char.lu-tai",
+        "char.luan-changye",
         "char.pang-yuanji",
         "cult.buddhism",
         "cult.confucianism",
@@ -9015,12 +9209,15 @@
         "cult.militarians",
         "cult.three-teachings",
         "fac.great-li-empire",
-        "loc.majestic-world"
+        "loc.majestic-world",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
         "char.cui-chan",
         "char.lu-tai",
+        "char.luan-changye",
         "char.zhong-kui",
+        "concept.mountain-and-river-gods",
         "cult.confucianism",
         "cult.militarians",
         "cult.three-teachings"
@@ -9098,6 +9295,7 @@
         "cult.qi-refinement",
         "cult.realms-overview",
         "idiom.clay-bodhisattva-crossing-river",
+        "idiom.strength-and-freedom",
         "loc.ghost-devils-valley",
         "loc.sword-water-manor"
       ]
@@ -9198,11 +9396,13 @@
       ],
       "path": "wiki/cultivation/qi-refinement.md",
       "links_to": [
+        "char.aliang",
         "char.cai-jinjian",
         "char.chen-pingan",
         "char.liu-laocheng",
         "char.liu-zhimao",
         "char.qi-jingchun",
+        "char.song-zhengchun",
         "concept.currency",
         "concept.mountain-seals",
         "concept.qiyun",
@@ -9211,13 +9411,16 @@
         "cult.realms-overview",
         "cult.sword-cultivator",
         "fac.great-li-empire",
+        "loc.great-li-capital",
         "loc.lizhu-grotto-heaven",
-        "loc.small-grotto-heavens"
+        "loc.small-grotto-heavens",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
         "char.cai-jinjian",
         "char.chen-pingan.cultivation",
         "char.cui-chan",
+        "char.eternal-spring-elder",
         "char.huan-yun",
         "char.lin-shouyi",
         "char.liu-zhimao",
@@ -9887,6 +10090,7 @@
       ],
       "path": "wiki/factions/great-li-empire.md",
       "links_to": [
+        "char.aliang",
         "char.cao-xi",
         "char.chen-pingan",
         "char.cui-chan",
@@ -9908,28 +10112,35 @@
         "fac.lake-view-academy",
         "fac.mount-yaoling",
         "fac.mountain-cliff-academy",
+        "fac.sects-compendium",
         "faction.imperial-court",
         "loc.dragon-spring-prefecture",
         "loc.eastern-treasured-vial-continent",
         "loc.majestic-world",
         "loc.piyun-mountain",
+        "loc.red-candle-town",
         "loc.savage-world",
         "loc.small-town",
-        "loc.twelve-legged-archway"
+        "loc.twelve-legged-archway",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
+        "art.xiangfu-blade",
         "char.aliang",
         "char.cao-gengxin",
         "char.cao-xi",
         "char.chen-pingan",
         "char.cui-chan",
         "char.dong-hu",
+        "char.eternal-spring-elder",
         "char.gao-xuan",
         "char.great-li-empress",
         "char.lady-chu",
+        "char.li-baoping",
         "char.li-baozhen",
         "char.li-xisheng",
         "char.lin-junbi",
+        "char.luan-changye",
         "char.ma-zhan",
         "char.mao-xiaodong",
         "char.master-ruan",
@@ -9937,6 +10148,7 @@
         "char.song-changjing",
         "char.song-he",
         "char.song-jixin",
+        "char.song-zhengchun",
         "char.wang-yifu",
         "char.wei-bo",
         "char.wu-yuan",
@@ -10058,6 +10270,7 @@
         "char.cui-minghuang",
         "char.li-baoping",
         "char.mao-xiaodong",
+        "char.song-zhengchun",
         "char.xie-lingyue",
         "cult.militarians",
         "fac.great-li-empire",
@@ -10301,6 +10514,7 @@
         "char.aliang",
         "char.chen-pingan",
         "char.chen-pingan.history",
+        "char.cui-chan",
         "char.cui-minghuang",
         "char.li-baoping",
         "char.li-huai",
@@ -10484,6 +10698,7 @@
         "char.cai-jinjian",
         "char.ding-ying",
         "char.du-mao",
+        "char.eternal-spring-elder",
         "char.he-xiaoliang",
         "char.jiang-shangzhen",
         "char.li-er",
@@ -10506,11 +10721,13 @@
       "referenced_by": [
         "char.cai-jinjian",
         "char.du-mao",
+        "char.eternal-spring-elder",
         "char.fan-junmao",
         "char.fire-dragon-zhiren",
         "char.he-xiaoliang",
         "char.jiang-shangzhen",
         "char.liu-baqiao",
+        "char.luan-changye",
         "char.master-ruan",
         "char.mountain-moving-ape",
         "char.ning-yao",
@@ -10528,6 +10745,7 @@
         "cult.three-teachings",
         "fac.fuji-sect",
         "fac.golden-gate-school",
+        "fac.great-li-empire",
         "fac.jade-token-sect",
         "fac.pima-sect",
         "fac.qionglin-sect",
@@ -10773,10 +10991,12 @@
       "links_to": [
         "char.master-ruan",
         "char.ruan-xiu",
+        "char.song-zhengchun",
         "char.wei-jin",
         "cult.qi-refinement",
         "fac.dragon-spring-sword-sect",
-        "fac.sects-compendium"
+        "fac.sects-compendium",
+        "loc.white-jade-capital"
       ],
       "referenced_by": [
         "fac.dragon-spring-sword-sect",
@@ -11012,6 +11232,7 @@
         "char.song-changjing",
         "char.song-he",
         "char.song-yuzhang",
+        "char.song-zhengchun",
         "char.wang-yifu",
         "char.xu-hunran",
         "char.yao-zhen",
@@ -11093,7 +11314,8 @@
       "referenced_by": [
         "cult.buddhism",
         "cult.martial-arts",
-        "cult.realms-overview"
+        "cult.realms-overview",
+        "idiom.strength-and-freedom"
       ]
     },
     "idiom.daoli-and-benxin": {
@@ -11132,6 +11354,7 @@
       ],
       "referenced_by": [
         "cult.confucianism",
+        "idiom.strength-and-freedom",
         "media.author"
       ]
     },
@@ -11280,8 +11503,45 @@
       ],
       "referenced_by": [
         "char.sword-spirit",
-        "cult.sword-cultivator"
+        "cult.sword-cultivator",
+        "idiom.strength-and-freedom"
       ]
+    },
+    "idiom.strength-and-freedom": {
+      "id": "idiom.strength-and-freedom",
+      "type": "idiom",
+      "zh": "每一个强者的自由，都应该以弱者的自由作为边界",
+      "zh_aliases": [
+        "强者的自由",
+        "以弱者的自由作为边界"
+      ],
+      "pinyin": "Měi yīgè qiángzhě de zìyóu, dōu yīnggāi yǐ ruòzhě de zìyóu zuòwéi biānjiè",
+      "palladius": "",
+      "ru": "Свобода каждого сильного должна граничить со свободой слабого",
+      "ru_aliases": [],
+      "first_chapter": 112,
+      "gender": null,
+      "subtype": "credo",
+      "parent": null,
+      "needs_endnote": false,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "кредо",
+        "сила",
+        "нравственный-закон",
+        "а-лян"
+      ],
+      "path": "wiki/idioms/strength-and-freedom.md",
+      "links_to": [
+        "char.aliang",
+        "char.chen-pingan",
+        "cult.martial-arts",
+        "idiom.clay-bodhisattva-crossing-river",
+        "idiom.daoli-and-benxin",
+        "idiom.one-sword-credo"
+      ],
+      "referenced_by": []
     },
     "idiom.suisui-pingan": {
       "id": "idiom.suisui-pingan",
@@ -12191,7 +12451,11 @@
         "fac.great-li-empire",
         "faction.imperial-court"
       ],
-      "referenced_by": []
+      "referenced_by": [
+        "char.song-zhengchun",
+        "cult.qi-refinement",
+        "loc.white-jade-capital"
+      ]
     },
     "loc.heavenly-world": {
       "id": "loc.heavenly-world",
@@ -12336,6 +12600,7 @@
         "char.qi-jingchun",
         "char.river-hag",
         "char.ruan-xiu",
+        "char.song-zhengchun",
         "char.sword-spirit",
         "char.zhigui",
         "concept.currency",
@@ -13377,10 +13642,13 @@
       ],
       "referenced_by": [
         "art.shuduan-cliff",
+        "art.xiangfu-blade",
+        "char.aliang",
         "char.cheng-sheng",
         "char.li-jin",
         "concept.mean-households",
         "concept.seasonal-hunts",
+        "fac.great-li-empire",
         "loc.chundan-river",
         "loc.fushui-bay",
         "loc.mountains-near-town",
@@ -13929,11 +14197,23 @@
       "path": "wiki/locations/white-jade-capital.md",
       "links_to": [
         "char.lu-chen",
+        "char.luan-changye",
+        "char.song-jixin",
         "cult.daoism",
         "cult.three-teachings",
+        "loc.great-li-capital",
         "loc.heavenly-world"
       ],
       "referenced_by": [
+        "art.xiangfu-blade",
+        "char.aliang",
+        "char.luan-changye",
+        "char.song-jixin",
+        "char.song-zhengchun",
+        "cult.hundred-schools",
+        "cult.qi-refinement",
+        "fac.great-li-empire",
+        "fac.wind-snow-temple",
         "loc.heavenly-world"
       ]
     },
@@ -14020,11 +14300,17 @@
     "为天地立心，为生民立命，为往圣继绝学，为万世开太平": [
       "idiom.hengqu-four-sentences"
     ],
+    "每一个强者的自由，都应该以弱者的自由作为边界": [
+      "idiom.strength-and-freedom"
+    ],
     "二月二，烛照梁，桃打墙，人间蛇虫无处藏": [
       "idiom.jingzhe-dragon-raises-head"
     ],
     "世间好物不坚牢，彩云易散琉璃脆": [
       "idiom.good-things-fragile"
+    ],
+    "以弱者的自由作为边界": [
+      "idiom.strength-and-freedom"
     ],
     "我陈平安，唯有一剑": [
       "idiom.one-sword-credo"
@@ -14067,6 +14353,9 @@
     ],
     "清风城算计夫人": [
       "char.madam-xu"
+    ],
+    "长春宫太上长老": [
+      "char.eternal-spring-elder"
     ],
     "三十六小洞天": [
       "loc.small-grotto-heavens"
@@ -14133,6 +14422,9 @@
     ],
     "年轻公子哥": [
       "char.li-jin"
+    ],
+    "强者的自由": [
+      "idiom.strength-and-freedom"
     ],
     "撮壤成山诀": [
       "concept.mountain-opening-talismans"
@@ -14263,6 +14555,9 @@
     "大骊京城": [
       "loc.great-li-capital"
     ],
+    "大骊天子": [
+      "char.song-zhengchun"
+    ],
     "大骊太子": [
       "char.song-he"
     ],
@@ -14274,6 +14569,12 @@
     ],
     "大骊王朝": [
       "fac.great-li-empire"
+    ],
+    "大骊皇帝": [
+      "char.song-zhengchun"
+    ],
+    "太上长老": [
+      "char.eternal-spring-elder"
     ],
     "太徽剑宗": [
       "fac.taihui-sword-sect"
@@ -14496,6 +14797,9 @@
     ],
     "蛮荒天下": [
       "loc.savage-world"
+    ],
+    "衮服男子": [
+      "char.song-zhengchun"
     ],
     "观湖书院": [
       "fac.lake-view-academy"
@@ -14734,6 +15038,9 @@
     "宋公子": [
       "char.song-jixin"
     ],
+    "宋正醇": [
+      "char.song-zhengchun"
+    ],
     "宋煜章": [
       "char.song-yuzhang"
     ],
@@ -14796,6 +15103,9 @@
     ],
     "左师兄": [
       "char.zuo-you"
+    ],
+    "巨子栾": [
+      "char.luan-changye"
     ],
     "庞元济": [
       "char.pang-yuanji"
@@ -14910,6 +15220,12 @@
     ],
     "柳赤诚": [
       "char.liu-chicheng"
+    ],
+    "栾巨子": [
+      "char.luan-changye"
+    ],
+    "栾长野": [
+      "char.luan-changye"
     ],
     "桂花岛": [
       "art.osmanthus-island-ferry"
@@ -15508,6 +15824,9 @@
     "天真": [
       "art.heavenly-truths-swords"
     ],
+    "妇人": [
+      "char.eternal-spring-elder"
+    ],
     "妖族": [
       "cult.demon-tribe"
     ],
@@ -15534,6 +15853,9 @@
     ],
     "宋和": [
       "char.song-he"
+    ],
+    "宋睦": [
+      "char.song-jixin"
     ],
     "宗门": [
       "fac.sects-compendium"
