@@ -45,4 +45,4 @@ tags: ["талисманы", "обряды", "горные-боги", "чжу-х
 
 ## Перекрёстные ссылки
 - Понятия: [Боги гор и вод](mountain-and-river-gods.md) · [Господин Трёх гор и Девяти князей](three-mountains-nine-lords.md)
-- Связанные: [Чжу Хэ](../characters/zhu-he.md) · [А-Лян](../characters/aliang.md) · [Дух земли Горы Шашечной Доски](../characters/chessboard-earth-god.md)
+- Связанные: [Чжу Хэ](../characters/zhu-he.md) · [А-Лян](../characters/aliang.md) · [Вэй Бо](../characters/wei-bo.md)
