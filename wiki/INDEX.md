@@ -33,7 +33,7 @@
 | [Дун Шуйцзин](characters/dong-shuijing.md) | `董水井 / 水井` | 72 |
 | [Дэ Чжан](characters/die-zhang.md) | `叠嶂 / 叠嶂姑娘` | 487 |
 | [Е Юнь-юнь](characters/ye-yunyun.md) | `叶芸芸 / 黄衣芸` | 754 |
-| [Жуань Сю](characters/ruan-xiu.md) | `阮秀 / 阮姑娘 / 秀秀` | 40 |
+| [Жуань Сю](characters/ruan-xiu.md) | `阮秀 / 阮姑娘 / 秀秀` | 24 |
 | [Жуань Цюн](characters/master-ruan.md) | `阮邛 / 阮师傅 / 姓阮的外乡老铁匠 / 阮铁匠` | 13 |
 | [Инь Чэнь](characters/yin-chen.md) | `殷沉 / 殷老哥 / 元婴老剑修` | 653 |
 | [Иньский бог Гу Тао](characters/yin-god.md) | `阴神 / 顾韬 / 阴神顾韬` | 56 |

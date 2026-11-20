@@ -1019,6 +1019,7 @@
         "char.pei-qian",
         "char.qi-jingchun",
         "char.scholarly-sage",
+        "char.song-changjing",
         "char.song-jixin",
         "char.wei-bo",
         "char.zhigui",
@@ -3127,6 +3128,7 @@
         "char.chen-pingan",
         "char.mountain-moving-ape",
         "char.old-man-yao",
+        "char.song-changjing",
         "char.zhigui",
         "concept.imperial-kilns",
         "cult.sword-cultivator",
@@ -3145,8 +3147,10 @@
         "char.liu-baqiao",
         "char.mountain-moving-ape",
         "char.old-man-yao",
+        "char.song-changjing",
         "char.tao-zi",
         "char.wei-jin",
+        "char.zhigui",
         "concept.imperial-kilns",
         "concept.snake-gall-stones",
         "fac.zhengyang-mountain",
@@ -4283,6 +4287,7 @@
         "char.master-ruan",
         "char.mountain-moving-ape",
         "char.scholarly-sage",
+        "char.song-changjing",
         "char.song-jixin",
         "char.zuo-you",
         "concept.ancestral-shade-leaves",
@@ -4456,7 +4461,7 @@
       "palladius": "Жуань Сю",
       "ru": "Жуань Сю",
       "ru_aliases": [],
-      "first_chapter": 40,
+      "first_chapter": 24,
       "gender": "female",
       "subtype": null,
       "parent": null,
@@ -4475,6 +4480,7 @@
         "char.master-ruan",
         "char.ning-yao",
         "fac.sects-compendium",
+        "loc.apricot-blossom-alley",
         "loc.lizhu-grotto-heaven",
         "loc.qilong-alley"
       ],
@@ -4637,14 +4643,20 @@
         "char.cao-ci",
         "char.cao-xi",
         "char.chen-pingan",
+        "char.liu-xianyang",
         "char.song-he",
         "char.song-jixin",
         "cult.martial-arts",
         "fac.great-li-empire",
-        "faction.imperial-court"
+        "faction.imperial-court",
+        "loc.fortune-street",
+        "loc.niping-alley"
       ],
       "referenced_by": [
+        "char.chen-pingan",
         "char.cui-chan",
+        "char.liu-xianyang",
+        "char.qi-jingchun",
         "char.song-he",
         "char.song-jixin",
         "char.wu-yuan",
@@ -5968,6 +5980,7 @@
       "path": "wiki/characters/zhigui.md",
       "links_to": [
         "char.chen-pingan",
+        "char.liu-xianyang",
         "char.old-man-yang",
         "char.song-jixin",
         "char.xie-shi",
@@ -9442,6 +9455,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.ruan-xiu",
         "loc.peach-leaf-alley",
         "loc.small-town"
       ]
@@ -9894,6 +9908,7 @@
       ],
       "referenced_by": [
         "char.liu-xianyang",
+        "char.song-changjing",
         "fac.clans-compendium",
         "loc.peach-leaf-alley",
         "loc.small-town",
@@ -10658,6 +10673,7 @@
         "char.chen-pingan.history",
         "char.gu-can",
         "char.gu-shi",
+        "char.song-changjing",
         "char.song-jixin",
         "char.zhigui",
         "concept.qiyun",
