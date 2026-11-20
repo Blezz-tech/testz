@@ -3,10 +3,10 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 267,
+  "total_entries": 268,
   "counts_by_type": {
     "artifact": 9,
-    "character": 141,
+    "character": 142,
     "concept": 12,
     "cultivation": 11,
     "faction": 34,
@@ -454,6 +454,7 @@
       "links_to": [
         "char.liu-baqiao",
         "char.liu-xianyang",
+        "char.ma-kuxuan",
         "char.madam-xu",
         "char.tao-zi",
         "fac.sects-compendium"
@@ -1726,6 +1727,7 @@
       "referenced_by": [
         "char.cai-jinjian",
         "char.cao-xi",
+        "char.chen-dui",
         "char.chen-mu",
         "char.chen-pingan.history",
         "char.chen-songfeng",
@@ -3951,6 +3953,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.chen-dui",
         "char.chen-pingan",
         "char.gu-can",
         "char.qi-jingchun",
@@ -4221,13 +4224,16 @@
         "char.cui-minghuang",
         "char.liu-xianyang",
         "char.mountain-moving-ape",
+        "char.song-changjing",
         "fac.sects-compendium"
       ],
       "referenced_by": [
+        "char.chen-dui",
         "char.chen-songfeng",
         "char.cui-chan",
         "char.cui-minghuang",
         "char.mountain-moving-ape",
+        "char.song-changjing",
         "char.tao-zi",
         "fac.wind-thunder-garden"
       ],
@@ -4531,10 +4537,15 @@
       ],
       "referenced_by": [
         "char.cao-ci",
+        "char.chen-pingan",
         "char.chen-pingan.fights",
         "char.chen-pingan.relationships",
         "char.ma-lanhua",
+        "char.mountain-moving-ape",
+        "char.ning-yao",
         "char.ning-yao.relationships",
+        "char.song-jixin",
+        "char.zhigui",
         "cult.militarians",
         "fac.sects-compendium",
         "loc.apricot-blossom-alley",
@@ -5345,6 +5356,7 @@
         "char.dong-huafu",
         "char.liu-zhimao",
         "char.lu-chen",
+        "char.ma-kuxuan",
         "char.master-ruan",
         "char.mountain-moving-ape",
         "char.nalan-yexing",
@@ -6157,6 +6169,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.chen-dui",
         "char.chen-pingan",
         "char.song-jixin",
         "char.wu-yuan",
@@ -7548,6 +7561,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.chen-dui",
         "char.chen-pingan",
         "char.liu-xianyang",
         "char.qi-jingchun",
@@ -7598,6 +7612,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.chen-pingan",
         "char.li-er",
         "char.li-liu",
         "char.yin-god",
@@ -8132,8 +8147,10 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Сун Цзисинь** — фамилия *Сун* неизменяема, имя *Цзисинь* склоняется (*Сун Цзисиня, Сун Цзисиню, Сун Цзисинем*).\n- **Этимология (требует сноски в Главе 1):** `集薪` буквально «собирать хворост» — прямая аллюзия на чэнъюй `卧薪尝胆` (*«спать на хворосте и вкушать желчь»*, то есть затаиться в унижении и копить силы ради возвышения или мести). В конце Главы 1 автор специально подчёркивает контраст между его благородно-книжным именем и простонародным именем [Чэнь Пинъаня](chen-pingan.md).\n- **Речь:** насмешливая, высокомерная, провокационная; любит сидеть на корточках на глинобитной ограде и смотреть на соседа сверху вниз.\n- **Обращения:** к [Чэнь Пинъаню](chen-pingan.md) — *«нищий»*, *«глиняный»*, по фамилии с пренебрежением; к [Чжигуй](zhigui.md) — повелительно, как к прислуге.",
       "links_to": [
+        "char.chen-dui",
         "char.chen-pingan",
         "char.liu-xianyang",
+        "char.ma-kuxuan",
         "char.song-changjing",
         "char.song-he",
         "char.zhigui",
@@ -8145,6 +8162,7 @@
       "referenced_by": [
         "art.shanxiao-pot",
         "char.cao-xi",
+        "char.chen-dui",
         "char.chen-pingan",
         "char.chen-pingan.history",
         "char.gao-xuan",
@@ -8194,7 +8212,9 @@
       "links_to": [
         "char.cao-ci",
         "char.cao-xi",
+        "char.chen-dui",
         "char.chen-pingan",
+        "char.liu-baqiao",
         "char.liu-xianyang",
         "char.song-he",
         "char.song-jixin",
@@ -8205,8 +8225,12 @@
         "loc.niping-alley"
       ],
       "referenced_by": [
+        "char.chen-dui",
         "char.chen-pingan",
+        "char.chen-songfeng",
         "char.cui-chan",
+        "char.cui-minghuang",
+        "char.liu-baqiao",
         "char.liu-xianyang",
         "char.qi-jingchun",
         "char.song-he",
@@ -9888,17 +9912,20 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Цуй Минхуан** — имя склоняется (*Цуй Минхуана, Цуй Минхуану*).\n- **Внимание:** не путать с [Цуй Чанем](cui-chan.md) и [Цуй Дуном](cui-dongshan.md) — совпадает только фамилия.",
       "links_to": [
+        "char.chen-dui",
         "char.chen-songfeng",
         "char.cui-chan",
         "char.cui-dongshan",
         "char.lin-shouyi",
         "char.liu-baqiao",
         "char.qi-jingchun",
+        "char.song-changjing",
         "cult.confucianism",
         "fac.mountain-cliff-academy",
         "loc.lizhu-grotto-heaven"
       ],
       "referenced_by": [
+        "char.chen-dui",
         "char.chen-songfeng",
         "char.liu-baqiao",
         "fac.lake-view-academy"
@@ -10240,6 +10267,7 @@
       "links_to": [
         "char.chen-pingan",
         "char.liu-xianyang",
+        "char.ma-kuxuan",
         "char.old-man-yang",
         "char.song-jixin",
         "char.xie-shi",
@@ -10774,6 +10802,53 @@
       "card": "wiki/artifacts/chuyi-and-shiwu.md"
     },
     {
+      "id": "char.chen-dui",
+      "type": "character",
+      "zh": "陈对",
+      "zh_aliases": [],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Chen Dui",
+      "palladius": "Чэнь Дуй",
+      "ru": "Чэнь Дуй",
+      "ru_aliases": [
+        "девушка из рода Чэнь"
+      ],
+      "first_chapter": 50,
+      "gender": "female",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "род-чэнь",
+        "уезд-драконьего-родника",
+        "чужачка",
+        "гордость"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Чэнь Дуй** — имя не склоняется (*с Чэнь Дуй, к Чэнь Дуй*). Иероглиф 对 значит «отвечать», «быть парой».\n- **Речь:** сухая, холодная, с вызовом; говорит короткими фразами, не унижается и не просит.\n- **Обращения:** к [Сун Чанцзину](song-changjing.md) — «князь»; к [Сун Цзисиню](song-jixin.md) — без обращения, с презрением.",
+      "links_to": [
+        "char.chen-pingan",
+        "char.chen-songfeng",
+        "char.cui-minghuang",
+        "char.liu-baqiao",
+        "char.song-changjing",
+        "char.song-jixin",
+        "concept.ancestral-shade-leaves",
+        "loc.dragon-spring-prefecture",
+        "loc.old-locust-tree",
+        "loc.small-town"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.chen-songfeng",
+        "char.cui-minghuang",
+        "char.song-changjing",
+        "char.song-jixin"
+      ],
+      "card": "wiki/characters/chen-dui.md"
+    },
+    {
       "id": "char.chen-lingjun",
       "type": "character",
       "zh": "陈灵均",
@@ -10902,6 +10977,7 @@
         "art.sword-nurturing-gourd",
         "char.aliang",
         "char.cai-jinjian",
+        "char.chen-dui",
         "char.chen-pingan.cultivation",
         "char.chen-pingan.fights",
         "char.chen-pingan.history",
@@ -10918,8 +10994,10 @@
         "char.li-huai",
         "char.lin-shouyi",
         "char.liu-xianyang",
+        "char.ma-kuxuan",
         "char.master-ruan",
         "char.ning-yao",
+        "char.old-man-yang",
         "char.old-man-yao",
         "char.pei-qian",
         "char.qi-jingchun",
@@ -10961,6 +11039,7 @@
         "char.cai-jinjian",
         "char.cao-ci",
         "char.cao-qinglang",
+        "char.chen-dui",
         "char.chen-gong",
         "char.chen-lingjun",
         "char.chen-mu",
@@ -11398,14 +11477,17 @@
         "столица",
         "род-чэнь-стены"
       ],
-      "translation_rule": "## Правила перевода\n\n- **Передача:** **Чэнь Сунфэн** — имя склоняется (*Чэнь Сунфэна, Чэнь Сунфэну*).\n\n## Правило для переводчика\n\nВ его репликах важна **учёная игра цитатами**: он говорит формулами из классиков. Если в китайском тексте цитата — в русском её нужно либо дать точным эквивалентом, либо пересказать с пометкой.",
+      "translation_rule": "## Правила перевода\n\n- **Передача:** **Чэнь Сунфэн** — имя склоняется (*Чэнь Сунфэна, Чэнь Сунфэну*).\n\n## Правило для переводчика\n\nВ его репликах важна **учёная игра цитатами**: он говорит формулами из классиков. Если в китайском тексте цитата — в русском её нужно либо дать точным эквивалентом, либо пересказать с пометкой.\n\n### Главы 50–54\n- Глава 50: вместе с [Чэнь Дуй](chen-dui.md) находит [Лю Бацяо](liu-baqiao.md); вернувшись от старой софоры с листьями предков, просит [Сун Чанцзина](song-changjing.md) пощадить девушку, потому что она не с Восточного материка Драгоценного Сосуда.",
       "links_to": [
+        "char.chen-dui",
         "char.cui-minghuang",
         "char.liu-baqiao",
+        "char.song-changjing",
         "cult.confucianism",
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.chen-dui",
         "char.cui-minghuang",
         "char.liu-baqiao"
       ],
