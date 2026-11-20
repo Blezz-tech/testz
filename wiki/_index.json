@@ -1,9 +1,9 @@
 {
   "schema_version": "2.0",
-  "total_entities": 267,
+  "total_entities": 268,
   "counts_by_type": {
     "artifact": 9,
-    "character": 141,
+    "character": 142,
     "concept": 12,
     "cultivation": 11,
     "faction": 34,
@@ -786,6 +786,51 @@
         "loc.peach-leaf-alley"
       ]
     },
+    "char.chen-dui": {
+      "id": "char.chen-dui",
+      "type": "character",
+      "zh": "陈对",
+      "zh_aliases": [],
+      "pinyin": "Chen Dui",
+      "palladius": "Чэнь Дуй",
+      "ru": "Чэнь Дуй",
+      "ru_aliases": [
+        "девушка из рода Чэнь"
+      ],
+      "first_chapter": 50,
+      "gender": "female",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "род-чэнь",
+        "уезд-драконьего-родника",
+        "чужачка",
+        "гордость"
+      ],
+      "path": "wiki/characters/chen-dui.md",
+      "links_to": [
+        "char.chen-pingan",
+        "char.chen-songfeng",
+        "char.cui-minghuang",
+        "char.liu-baqiao",
+        "char.song-changjing",
+        "char.song-jixin",
+        "concept.ancestral-shade-leaves",
+        "loc.dragon-spring-prefecture",
+        "loc.old-locust-tree",
+        "loc.small-town"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.chen-songfeng",
+        "char.cui-minghuang",
+        "char.song-changjing",
+        "char.song-jixin"
+      ]
+    },
     "char.chen-gong": {
       "id": "char.chen-gong",
       "type": "character",
@@ -998,6 +1043,7 @@
         "art.sword-nurturing-gourd",
         "char.aliang",
         "char.cai-jinjian",
+        "char.chen-dui",
         "char.chen-pingan.cultivation",
         "char.chen-pingan.fights",
         "char.chen-pingan.history",
@@ -1014,8 +1060,10 @@
         "char.li-huai",
         "char.lin-shouyi",
         "char.liu-xianyang",
+        "char.ma-kuxuan",
         "char.master-ruan",
         "char.ning-yao",
+        "char.old-man-yang",
         "char.old-man-yao",
         "char.pei-qian",
         "char.qi-jingchun",
@@ -1057,6 +1105,7 @@
         "char.cai-jinjian",
         "char.cao-ci",
         "char.cao-qinglang",
+        "char.chen-dui",
         "char.chen-gong",
         "char.chen-lingjun",
         "char.chen-mu",
@@ -1561,12 +1610,15 @@
       ],
       "path": "wiki/characters/chen-songfeng.md",
       "links_to": [
+        "char.chen-dui",
         "char.cui-minghuang",
         "char.liu-baqiao",
+        "char.song-changjing",
         "cult.confucianism",
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.chen-dui",
         "char.cui-minghuang",
         "char.liu-baqiao"
       ]
@@ -1750,17 +1802,20 @@
       ],
       "path": "wiki/characters/cui-minghuang.md",
       "links_to": [
+        "char.chen-dui",
         "char.chen-songfeng",
         "char.cui-chan",
         "char.cui-dongshan",
         "char.lin-shouyi",
         "char.liu-baqiao",
         "char.qi-jingchun",
+        "char.song-changjing",
         "cult.confucianism",
         "fac.mountain-cliff-academy",
         "loc.lizhu-grotto-heaven"
       ],
       "referenced_by": [
+        "char.chen-dui",
         "char.chen-songfeng",
         "char.liu-baqiao",
         "fac.lake-view-academy"
@@ -2994,13 +3049,16 @@
         "char.cui-minghuang",
         "char.liu-xianyang",
         "char.mountain-moving-ape",
+        "char.song-changjing",
         "fac.sects-compendium"
       ],
       "referenced_by": [
+        "char.chen-dui",
         "char.chen-songfeng",
         "char.cui-chan",
         "char.cui-minghuang",
         "char.mountain-moving-ape",
+        "char.song-changjing",
         "char.tao-zi",
         "fac.wind-thunder-garden"
       ]
@@ -3442,10 +3500,15 @@
       ],
       "referenced_by": [
         "char.cao-ci",
+        "char.chen-pingan",
         "char.chen-pingan.fights",
         "char.chen-pingan.relationships",
         "char.ma-lanhua",
+        "char.mountain-moving-ape",
+        "char.ning-yao",
         "char.ning-yao.relationships",
+        "char.song-jixin",
+        "char.zhigui",
         "cult.militarians",
         "fac.sects-compendium",
         "loc.apricot-blossom-alley",
@@ -3745,6 +3808,7 @@
       "links_to": [
         "char.liu-baqiao",
         "char.liu-xianyang",
+        "char.ma-kuxuan",
         "char.madam-xu",
         "char.tao-zi",
         "fac.sects-compendium"
@@ -3839,6 +3903,7 @@
         "char.dong-huafu",
         "char.liu-zhimao",
         "char.lu-chen",
+        "char.ma-kuxuan",
         "char.master-ruan",
         "char.mountain-moving-ape",
         "char.nalan-yexing",
@@ -4101,6 +4166,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.chen-pingan",
         "char.li-er",
         "char.li-liu",
         "char.yin-god",
@@ -4649,7 +4715,9 @@
       "links_to": [
         "char.cao-ci",
         "char.cao-xi",
+        "char.chen-dui",
         "char.chen-pingan",
+        "char.liu-baqiao",
         "char.liu-xianyang",
         "char.song-he",
         "char.song-jixin",
@@ -4660,8 +4728,12 @@
         "loc.niping-alley"
       ],
       "referenced_by": [
+        "char.chen-dui",
         "char.chen-pingan",
+        "char.chen-songfeng",
         "char.cui-chan",
+        "char.cui-minghuang",
+        "char.liu-baqiao",
         "char.liu-xianyang",
         "char.qi-jingchun",
         "char.song-he",
@@ -4747,8 +4819,10 @@
       ],
       "path": "wiki/characters/song-jixin.md",
       "links_to": [
+        "char.chen-dui",
         "char.chen-pingan",
         "char.liu-xianyang",
+        "char.ma-kuxuan",
         "char.song-changjing",
         "char.song-he",
         "char.zhigui",
@@ -4760,6 +4834,7 @@
       "referenced_by": [
         "art.shanxiao-pot",
         "char.cao-xi",
+        "char.chen-dui",
         "char.chen-pingan",
         "char.chen-pingan.history",
         "char.gao-xuan",
@@ -5989,6 +6064,7 @@
       "links_to": [
         "char.chen-pingan",
         "char.liu-xianyang",
+        "char.ma-kuxuan",
         "char.old-man-yang",
         "char.song-jixin",
         "char.xie-shi",
@@ -6465,6 +6541,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.chen-dui",
         "char.chen-pingan",
         "char.gu-can",
         "char.qi-jingchun",
@@ -9700,6 +9777,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.chen-dui",
         "char.chen-pingan",
         "char.song-jixin",
         "char.wu-yuan",
@@ -10830,6 +10908,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.chen-dui",
         "char.chen-pingan",
         "char.liu-xianyang",
         "char.qi-jingchun",
@@ -11195,6 +11274,7 @@
       "referenced_by": [
         "char.cai-jinjian",
         "char.cao-xi",
+        "char.chen-dui",
         "char.chen-mu",
         "char.chen-pingan.history",
         "char.chen-songfeng",
@@ -13305,6 +13385,9 @@
     ],
     "陈全": [
       "char.chen-gong"
+    ],
+    "陈对": [
+      "char.chen-dui"
     ],
     "陈氏": [
       "fac.chen-clan"
