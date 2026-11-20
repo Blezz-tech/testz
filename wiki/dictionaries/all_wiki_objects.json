@@ -456,6 +456,7 @@
         "char.liu-xianyang",
         "char.ma-kuxuan",
         "char.madam-xu",
+        "char.qi-jingchun",
         "char.tao-zi",
         "fac.sects-compendium"
       ],
@@ -4540,6 +4541,7 @@
         "char.chen-pingan",
         "char.chen-pingan.fights",
         "char.chen-pingan.relationships",
+        "char.cui-minghuang",
         "char.ma-lanhua",
         "char.mountain-moving-ape",
         "char.ning-yao",
@@ -5363,6 +5365,7 @@
         "char.ning-yao.cultivation",
         "char.ning-yao.history",
         "char.ning-yao.relationships",
+        "char.qi-jingchun",
         "cult.sword-cultivator",
         "fac.sects-compendium",
         "loc.daoxuan-mountain",
@@ -8153,6 +8156,7 @@
         "char.ma-kuxuan",
         "char.song-changjing",
         "char.song-he",
+        "char.tao-zi",
         "char.zhigui",
         "fac.great-li-empire",
         "loc.dragon-spring-prefecture",
@@ -8168,6 +8172,7 @@
         "char.gao-xuan",
         "char.qi-jingchun",
         "char.song-changjing",
+        "char.tao-zi",
         "char.zhao-yao",
         "char.zhigui",
         "concept.currency",
@@ -8432,15 +8437,18 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Тао Цзы** — имя не склоняется (*у Тао Цзы*).",
       "links_to": [
+        "char.chen-dui",
         "char.liu-baqiao",
         "char.liu-xianyang",
         "char.madam-xu",
         "char.mountain-moving-ape",
+        "char.song-jixin",
         "fac.sects-compendium"
       ],
       "referenced_by": [
         "char.madam-xu",
         "char.mountain-moving-ape",
+        "char.song-jixin",
         "fac.sects-compendium"
       ],
       "card": "wiki/characters/tao-zi.md"
@@ -9781,6 +9789,8 @@
         "char.ma-zhan",
         "char.mao-xiaodong",
         "char.master-ruan",
+        "char.mountain-moving-ape",
+        "char.ning-yao",
         "char.ning-yao.relationships",
         "char.scholarly-sage",
         "char.song-yuzhang",
@@ -9918,6 +9928,7 @@
         "char.cui-dongshan",
         "char.lin-shouyi",
         "char.liu-baqiao",
+        "char.ma-kuxuan",
         "char.qi-jingchun",
         "char.song-changjing",
         "cult.confucianism",
@@ -10844,7 +10855,8 @@
         "char.chen-songfeng",
         "char.cui-minghuang",
         "char.song-changjing",
-        "char.song-jixin"
+        "char.song-jixin",
+        "char.tao-zi"
       ],
       "card": "wiki/characters/chen-dui.md"
     },
@@ -11477,7 +11489,7 @@
         "столица",
         "род-чэнь-стены"
       ],
-      "translation_rule": "## Правила перевода\n\n- **Передача:** **Чэнь Сунфэн** — имя склоняется (*Чэнь Сунфэна, Чэнь Сунфэну*).\n\n## Правило для переводчика\n\nВ его репликах важна **учёная игра цитатами**: он говорит формулами из классиков. Если в китайском тексте цитата — в русском её нужно либо дать точным эквивалентом, либо пересказать с пометкой.\n\n### Главы 50–54\n- Глава 50: вместе с [Чэнь Дуй](chen-dui.md) находит [Лю Бацяо](liu-baqiao.md); вернувшись от старой софоры с листьями предков, просит [Сун Чанцзина](song-changjing.md) пощадить девушку, потому что она не с Восточного материка Драгоценного Сосуда.",
+      "translation_rule": "## Правила перевода\n\n- **Передача:** **Чэнь Сунфэн** — имя склоняется (*Чэнь Сунфэна, Чэнь Сунфэну*).\n\n## Правило для переводчика\n\nВ его репликах важна **учёная игра цитатами**: он говорит формулами из классиков. Если в китайском тексте цитата — в русском её нужно либо дать точным эквивалентом, либо пересказать с пометкой.\n\n### Главы 50–59\n- Глава 50: вместе с [Чэнь Дуй](chen-dui.md) находит [Лю Бацяо](liu-baqiao.md); вернувшись от старой софоры с листьями предков, просит [Сун Чанцзина](song-changjing.md) пощадить девушку, потому что она не с Восточного материка Драгоценного Сосуда.\n- Глава 57: перебирает в управе старые книги рода Чэнь и молча сносит холодные слова [Чэнь Дуй](chen-dui.md).",
       "links_to": [
         "char.chen-dui",
         "char.cui-minghuang",

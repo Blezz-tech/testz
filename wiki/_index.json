@@ -828,7 +828,8 @@
         "char.chen-songfeng",
         "char.cui-minghuang",
         "char.song-changjing",
-        "char.song-jixin"
+        "char.song-jixin",
+        "char.tao-zi"
       ]
     },
     "char.chen-gong": {
@@ -1808,6 +1809,7 @@
         "char.cui-dongshan",
         "char.lin-shouyi",
         "char.liu-baqiao",
+        "char.ma-kuxuan",
         "char.qi-jingchun",
         "char.song-changjing",
         "cult.confucianism",
@@ -3503,6 +3505,7 @@
         "char.chen-pingan",
         "char.chen-pingan.fights",
         "char.chen-pingan.relationships",
+        "char.cui-minghuang",
         "char.ma-lanhua",
         "char.mountain-moving-ape",
         "char.ning-yao",
@@ -3810,6 +3813,7 @@
         "char.liu-xianyang",
         "char.ma-kuxuan",
         "char.madam-xu",
+        "char.qi-jingchun",
         "char.tao-zi",
         "fac.sects-compendium"
       ],
@@ -3910,6 +3914,7 @@
         "char.ning-yao.cultivation",
         "char.ning-yao.history",
         "char.ning-yao.relationships",
+        "char.qi-jingchun",
         "cult.sword-cultivator",
         "fac.sects-compendium",
         "loc.daoxuan-mountain",
@@ -4391,6 +4396,8 @@
         "char.ma-zhan",
         "char.mao-xiaodong",
         "char.master-ruan",
+        "char.mountain-moving-ape",
+        "char.ning-yao",
         "char.ning-yao.relationships",
         "char.scholarly-sage",
         "char.song-yuzhang",
@@ -4825,6 +4832,7 @@
         "char.ma-kuxuan",
         "char.song-changjing",
         "char.song-he",
+        "char.tao-zi",
         "char.zhigui",
         "fac.great-li-empire",
         "loc.dragon-spring-prefecture",
@@ -4840,6 +4848,7 @@
         "char.gao-xuan",
         "char.qi-jingchun",
         "char.song-changjing",
+        "char.tao-zi",
         "char.zhao-yao",
         "char.zhigui",
         "concept.currency",
@@ -5068,15 +5077,18 @@
       ],
       "path": "wiki/characters/tao-zi.md",
       "links_to": [
+        "char.chen-dui",
         "char.liu-baqiao",
         "char.liu-xianyang",
         "char.madam-xu",
         "char.mountain-moving-ape",
+        "char.song-jixin",
         "fac.sects-compendium"
       ],
       "referenced_by": [
         "char.madam-xu",
         "char.mountain-moving-ape",
+        "char.song-jixin",
         "fac.sects-compendium"
       ]
     },
