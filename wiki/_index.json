@@ -1,9 +1,9 @@
 {
   "schema_version": "2.0",
-  "total_entities": 316,
+  "total_entities": 321,
   "counts_by_type": {
     "artifact": 18,
-    "character": 161,
+    "character": 166,
     "concept": 19,
     "cultivation": 12,
     "faction": 37,
@@ -1154,7 +1154,9 @@
       "zh_aliases": [
         "目盲道人",
         "老道人",
-        "牛鼻子老道"
+        "牛鼻子老道",
+        "徐莹震",
+        "玄谷子"
       ],
       "pinyin": "Mumang laodao",
       "palladius": "Ман лаодао",
@@ -3360,6 +3362,47 @@
         "loc.sword-qi-great-wall"
       ]
     },
+    "char.han-langzhong": {
+      "id": "char.han-langzhong",
+      "type": "character",
+      "zh": "韩郎中",
+      "zh_aliases": [
+        "老灯笼",
+        "青衫老人",
+        "礼部郎中"
+      ],
+      "pinyin": "Han Langzhong",
+      "palladius": "Хань ланчжун",
+      "ru": "Ланчжун Хань",
+      "ru_aliases": [
+        "Старый фонарь",
+        "старик в синем халате"
+      ],
+      "first_chapter": 124,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "ведомство-обрядов",
+        "чиновник",
+        "фонарь"
+      ],
+      "path": "wiki/characters/han-langzhong.md",
+      "links_to": [
+        "char.lady-chu",
+        "char.mohist-gatekeeper",
+        "char.xuhua-river-god",
+        "fac.great-li-empire"
+      ],
+      "referenced_by": [
+        "char.mohist-gatekeeper",
+        "char.xuhua-river-god"
+      ]
+    },
     "char.he-xiaoliang": {
       "id": "char.he-xiaoliang",
       "type": "character",
@@ -3583,6 +3626,7 @@
         "char.chen-pingan",
         "char.cui-chan",
         "char.wei-bo",
+        "char.xuhua-river-god",
         "char.yin-god",
         "char.zhigui",
         "concept.qiyun",
@@ -3593,7 +3637,11 @@
       "referenced_by": [
         "art.barrier-breaking-talisman",
         "char.blind-daoist",
+        "char.han-langzhong",
         "char.jiu-er",
+        "char.mohist-gatekeeper",
+        "char.wei-jin",
+        "char.xuhua-river-god",
         "concept.reading-seed",
         "cultivation.thunder-magic",
         "fac.mount-yaoling",
@@ -3658,6 +3706,7 @@
         "char.jiu-er",
         "char.li-baozhen",
         "char.li-huai",
+        "char.li-hun",
         "char.li-second-master",
         "char.li-xisheng",
         "char.lin-shouyi",
@@ -3712,6 +3761,7 @@
       "links_to": [
         "char.cao-xi",
         "char.li-baoping",
+        "char.li-hun",
         "char.li-xisheng",
         "fac.chen-clan",
         "fac.clans-compendium",
@@ -3720,6 +3770,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.li-hun",
         "char.li-xisheng",
         "fac.clans-compendium",
         "loc.fortune-street"
@@ -3842,6 +3893,42 @@
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
         "loc.fortune-street"
+      ]
+    },
+    "char.li-hun": {
+      "id": "char.li-hun",
+      "type": "character",
+      "zh": "李虹",
+      "zh_aliases": [],
+      "pinyin": "Li Hong",
+      "palladius": "Ли Хун",
+      "ru": "Ли Хун",
+      "ru_aliases": [],
+      "first_chapter": 127,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "фортуна-стрит",
+        "род-ли",
+        "глава-рода",
+        "расчёт"
+      ],
+      "path": "wiki/characters/li-hun.md",
+      "links_to": [
+        "char.li-baoping",
+        "char.li-baozhen",
+        "char.li-second-master",
+        "char.li-xisheng",
+        "fac.great-li-empire",
+        "loc.small-town"
+      ],
+      "referenced_by": [
+        "char.li-baozhen",
+        "char.li-xisheng"
       ]
     },
     "char.li-jin": {
@@ -3969,6 +4056,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.li-hun",
         "concept.mean-households"
       ]
     },
@@ -4035,6 +4123,7 @@
       "links_to": [
         "char.li-baoping",
         "char.li-baozhen",
+        "char.li-hun",
         "char.qi-jingchun",
         "fac.clans-compendium",
         "fac.great-li-empire",
@@ -4042,6 +4131,7 @@
       ],
       "referenced_by": [
         "char.li-baozhen",
+        "char.li-hun",
         "char.zhu-he",
         "fac.clans-compendium",
         "loc.fortune-street"
@@ -4390,6 +4480,47 @@
         "loc.luopo-mountain",
         "loc.mountains-near-town",
         "loc.old-locust-tree"
+      ]
+    },
+    "char.liu-yu": {
+      "id": "char.liu-yu",
+      "type": "character",
+      "zh": "刘狱",
+      "zh_aliases": [
+        "刘彧"
+      ],
+      "pinyin": "Liu Yu",
+      "palladius": "Лю Юй",
+      "ru": "Лю Юй",
+      "ru_aliases": [
+        "великолиский мастер Лю"
+      ],
+      "first_chapter": 119,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "воинский-храм",
+        "грубость",
+        "долг"
+      ],
+      "path": "wiki/characters/liu-yu.md",
+      "links_to": [
+        "char.mohist-gatekeeper",
+        "char.wei-bo",
+        "char.wei-jin",
+        "fac.sects-compendium",
+        "fac.zhenwu-mountain",
+        "loc.chundan-river",
+        "loc.mountains-near-town"
+      ],
+      "referenced_by": [
+        "char.wei-bo",
+        "char.yang-hua"
       ]
     },
     "char.liu-zhimao": {
@@ -5043,6 +5174,50 @@
       "referenced_by": [
         "char.yin-chen",
         "loc.sword-qi-great-wall"
+      ]
+    },
+    "char.mohist-gatekeeper": {
+      "id": "char.mohist-gatekeeper",
+      "type": "character",
+      "zh": "墨家游侠",
+      "zh_aliases": [
+        "年轻剑客",
+        "京城守门人"
+      ],
+      "pinyin": "Mojia youxia",
+      "palladius": "Моцзя юся",
+      "ru": "Мечник-моист",
+      "ru_aliases": [
+        "молодой мечник",
+        "страж столичных ворот"
+      ],
+      "first_chapter": 119,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "школа-мо",
+        "меч",
+        "страж"
+      ],
+      "path": "wiki/characters/mohist-gatekeeper.md",
+      "links_to": [
+        "char.han-langzhong",
+        "char.lady-chu",
+        "char.wei-jin",
+        "cult.hundred-schools",
+        "fac.great-li-empire"
+      ],
+      "referenced_by": [
+        "char.han-langzhong",
+        "char.liu-yu",
+        "char.wei-bo",
+        "char.wei-jin",
+        "char.xuhua-river-god"
       ]
     },
     "char.mountain-moving-ape": {
@@ -6794,6 +6969,8 @@
         "char.aliang",
         "char.black-snake-and-white-python",
         "char.chen-pingan",
+        "char.liu-yu",
+        "char.mohist-gatekeeper",
         "char.yang-hua",
         "char.zhu-he",
         "char.zhu-lu",
@@ -6815,6 +6992,7 @@
         "char.chen-pingan.history",
         "char.chen-pingan.relationships",
         "char.lady-chu",
+        "char.liu-yu",
         "char.ma-lanhua",
         "char.scarlet-censer-boy",
         "char.wei-jin",
@@ -6861,18 +7039,23 @@
       "links_to": [
         "char.chen-pingan",
         "char.he-xiaoliang",
+        "char.lady-chu",
         "char.liu-xianyang",
         "char.master-ruan",
+        "char.mohist-gatekeeper",
         "char.wei-bo",
         "char.wei-xian",
         "fac.sects-compendium",
-        "loc.mountains-near-town"
+        "loc.mountains-near-town",
+        "loc.sword-qi-great-wall"
       ],
       "referenced_by": [
         "art.sword-nurturing-gourd",
         "char.aliang",
         "char.he-xiaoliang",
+        "char.liu-yu",
         "char.master-ruan",
+        "char.mohist-gatekeeper",
         "cult.militarians",
         "cult.sword-cultivator",
         "fac.wind-snow-temple",
@@ -7212,6 +7395,48 @@
         "char.yao-zhen"
       ]
     },
+    "char.xuhua-river-god": {
+      "id": "char.xuhua-river-god",
+      "type": "character",
+      "zh": "绣花江水神",
+      "zh_aliases": [
+        "江水正神",
+        "江神"
+      ],
+      "pinyin": "Xiuhua jiang shen",
+      "palladius": "Сюхуа цзян шэнь",
+      "ru": "Водяной бог Вышитого Цветка",
+      "ru_aliases": [
+        "бог реки Вышитого Цветка",
+        "водяной бог"
+      ],
+      "first_chapter": 126,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "божество",
+        "река",
+        "великая-ли",
+        "служба"
+      ],
+      "path": "wiki/characters/xuhua-river-god.md",
+      "links_to": [
+        "char.han-langzhong",
+        "char.lady-chu",
+        "char.mohist-gatekeeper",
+        "concept.mountain-and-river-gods",
+        "fac.great-li-empire",
+        "loc.chundan-river"
+      ],
+      "referenced_by": [
+        "char.han-langzhong",
+        "char.lady-chu"
+      ]
+    },
     "char.yan-zhuo": {
       "id": "char.yan-zhuo",
       "type": "character",
@@ -7282,6 +7507,7 @@
         "art.talisman-sword",
         "char.chen-pingan",
         "char.great-li-empress",
+        "char.liu-yu",
         "char.ma-lanhua",
         "char.wei-bo",
         "concept.qiyun",
@@ -8837,6 +9063,7 @@
         "char.black-snake-and-white-python",
         "char.scarlet-censer-boy",
         "char.wei-bo",
+        "char.xuhua-river-god",
         "concept.mountain-opening-talismans",
         "idiom.ghost-wall",
         "loc.chundan-river"
@@ -9666,6 +9893,7 @@
         "char.cui-chan",
         "char.lu-tai",
         "char.luan-changye",
+        "char.mohist-gatekeeper",
         "char.zhong-kui",
         "concept.mountain-and-river-gods",
         "cult.confucianism",
@@ -10638,15 +10866,18 @@
         "char.eternal-spring-elder",
         "char.gao-xuan",
         "char.great-li-empress",
+        "char.han-langzhong",
         "char.lady-chu",
         "char.li-baoping",
         "char.li-baozhen",
+        "char.li-hun",
         "char.li-xisheng",
         "char.lin-junbi",
         "char.luan-changye",
         "char.ma-zhan",
         "char.mao-xiaodong",
         "char.master-ruan",
+        "char.mohist-gatekeeper",
         "char.qi-jingchun",
         "char.song-changjing",
         "char.song-he",
@@ -10656,6 +10887,7 @@
         "char.wei-bo",
         "char.wu-yuan",
         "char.xu-hunran",
+        "char.xuhua-river-god",
         "char.yang-hua",
         "char.ye-qing",
         "char.yin-god",
@@ -11230,6 +11462,7 @@
         "char.he-xiaoliang",
         "char.jiang-shangzhen",
         "char.liu-baqiao",
+        "char.liu-yu",
         "char.luan-changye",
         "char.master-ruan",
         "char.mountain-moving-ape",
@@ -11690,6 +11923,7 @@
       ],
       "referenced_by": [
         "art.hero-gall",
+        "char.liu-yu",
         "char.ma-kuxuan",
         "cult.militarians"
       ]
@@ -12438,7 +12672,9 @@
         "char.bai-jing",
         "char.lady-chu",
         "char.li-jin",
+        "char.liu-yu",
         "char.scarlet-censer-boy",
+        "char.xuhua-river-god",
         "loc.fushui-bay",
         "loc.post-station-pillow"
       ]
@@ -13644,6 +13880,7 @@
         "char.black-snake-and-white-python",
         "char.chen-pingan",
         "char.lady-chu",
+        "char.liu-yu",
         "char.master-ruan",
         "char.wei-bo",
         "char.wei-jin",
@@ -14356,6 +14593,7 @@
         "char.li-baozhen",
         "char.li-er",
         "char.li-huai",
+        "char.li-hun",
         "char.li-second-master",
         "char.li-xisheng",
         "char.liu-zhimao",
@@ -14555,6 +14793,7 @@
         "char.qi-tingji",
         "char.shao-yunyan",
         "char.sun-jiashu",
+        "char.wei-jin",
         "char.yan-zhuo",
         "char.yin-chen",
         "char.zuo-you",
@@ -14958,6 +15197,9 @@
     "五岳破障符": [
       "art.barrier-breaking-talisman"
     ],
+    "京城守门人": [
+      "char.mohist-gatekeeper"
+    ],
     "元婴老剑修": [
       "char.yin-chen"
     ],
@@ -15020,6 +15262,9 @@
     ],
     "礼部右侍郎": [
       "char.dong-hu"
+    ],
+    "绣花江水神": [
+      "char.xuhua-river-god"
     ],
     "药铺杨老头": [
       "char.old-man-yang"
@@ -15123,6 +15368,9 @@
     "土地老翁": [
       "char.wei-bo"
     ],
+    "墨家游侠": [
+      "char.mohist-gatekeeper"
+    ],
     "大泉王朝": [
       "fac.great-quan-empire"
     ],
@@ -15210,6 +15458,9 @@
     "平平安安": [
       "idiom.suisui-pingan"
     ],
+    "年轻剑客": [
+      "char.mohist-gatekeeper"
+    ],
     "年轻店主": [
       "char.li-jin"
     ],
@@ -15270,6 +15521,9 @@
     "武道气魄": [
       "cult.martial-arts"
     ],
+    "江水正神": [
+      "char.xuhua-river-god"
+    ],
     "泛黄古籍": [
       "art.cloud-ringing-book"
     ],
@@ -15329,6 +15583,9 @@
     ],
     "礼圣老爷": [
       "char.li-sheng"
+    ],
+    "礼部郎中": [
+      "char.han-langzhong"
     ],
     "祖荫槐叶": [
       "concept.ancestral-shade-leaves"
@@ -15437,6 +15694,9 @@
     ],
     "青衣小童": [
       "char.chen-lingjun"
+    ],
+    "青衫老人": [
+      "char.han-langzhong"
     ],
     "顾璨他娘": [
       "char.gu-shi"
@@ -15726,6 +15986,9 @@
     "徐浑然": [
       "char.xu-hunran"
     ],
+    "徐莹震": [
+      "char.blind-daoist"
+    ],
     "徐远霞": [
       "char.xu-yuanxia"
     ],
@@ -15873,6 +16136,9 @@
     "狐儿镇": [
       "loc.fox-town"
     ],
+    "玄谷子": [
+      "char.blind-daoist"
+    ],
     "玉圭宗": [
       "fac.jade-token-sect"
     ],
@@ -15992,6 +16258,9 @@
     ],
     "老槐树": [
       "loc.old-locust-tree"
+    ],
+    "老灯笼": [
+      "char.han-langzhong"
     ],
     "老畜生": [
       "char.mountain-moving-ape"
@@ -16212,6 +16481,9 @@
     "青神山": [
       "loc.bamboo-sea-grotto-heaven"
     ],
+    "韩郎中": [
+      "char.han-langzhong"
+    ],
     "顾小子": [
       "char.gu-can"
     ],
@@ -16340,6 +16612,12 @@
     ],
     "农家": [
       "cult.hundred-schools"
+    ],
+    "刘彧": [
+      "char.liu-yu"
+    ],
+    "刘狱": [
+      "char.liu-yu"
     ],
     "初一": [
       "art.chuyi-and-shiwu"
@@ -16635,6 +16913,9 @@
     "李槐": [
       "char.li-huai"
     ],
+    "李虹": [
+      "char.li-hun"
+    ],
     "李锦": [
       "char.li-jin"
     ],
@@ -16682,6 +16963,9 @@
     ],
     "水蛇": [
       "char.chen-lingjun"
+    ],
+    "江神": [
+      "char.xuhua-river-god"
     ],
     "河婆": [
       "char.river-hag"
