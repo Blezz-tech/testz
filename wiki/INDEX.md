@@ -5,9 +5,9 @@
 > Файл генерируется автоматически командой `python3 scripts/wiki_tool.py index`.
 > Не редактируйте его вручную: после правки карточек просто перегенерируйте указатель.
 
-**Всего статей: 332.**
+**Всего статей: 335.**
 
-## Персонажи (170)
+## Персонажи (171)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -67,6 +67,7 @@
 | [Лю Бацяо](characters/liu-baqiao.md) | `刘灞桥 / 灞桥` | 45 |
 | [Лю Лаочэн](characters/liu-laocheng.md) | `刘老成 / 蜂尾渡刘老成` | 416 |
 | [Лю Сяньян](characters/liu-xianyang.md) | `刘羡阳 / 羡阳` | 1 |
+| [Лю Цзяхуэй](characters/liu-jiahui.md) | `刘嘉卉 / [ / 刘 / 夫` | 138 |
 | [Лю Чжимао](characters/liu-zhimao.md) | `刘志茂 / 截江真君 / 刘真君 / 说书先生` | 17 |
 | [Лю Чичэн](characters/liu-chicheng.md) | `柳赤诚` | 226 |
 | [Лю Шилю](characters/liu-shiliu.md) | `刘十六` | 708 |
@@ -199,7 +200,7 @@
 | [Чистые мастера боевых искусств](cultivation/martial-arts.md) | `纯粹武夫 / 武夫 / 武道 / 一口真气` | 13 |
 | [Школа Военных (Бинцзя)](cultivation/militarians.md) | `兵家 / 兵家祖庭 / 兵家修士 / 杀力` | 11 |
 
-## Фракции, империи и секты (40)
+## Фракции, империи и секты (41)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -240,11 +241,12 @@
 | [Царство Цветных Одежд](factions/azure-phoenix-nation.md) | `彩衣国` | 214 |
 | [Царство Южного Ручья](factions/southern-stream-nation.md) | `南涧国` | 16 |
 | [Школа Бамбуковой Ветви](factions/bamboo-branch-school.md) | `竹枝派` | 1013 |
+| [Школа Духовной Грации](factions/lingyun-school.md) | `灵韵派` | 139 |
 | [Школа Золотых Врат](factions/golden-gate-school.md) | `金阙派` | 1016 |
 | [Школа Озёрных Гор](factions/lake-mountain-school.md) | `湖山派` | 308 |
 | [Школа Хуанлян](factions/yellow-millet-school.md) | `黄粱派` | 926 |
 
-## Миры, континенты и локации (58)
+## Миры, континенты и локации (59)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -294,6 +296,7 @@
 | [Префектура Румян](locations/blusher-prefecture.md) | `胭脂郡` | 220 |
 | [Проспект Фортуны](locations/fortune-street.md) | `福禄街 / 福鹿街` | 5 |
 | [Пятицветная Поднебесная](locations/five-colored-world.md) | `五彩天下` | 787 |
+| [Река Ханьши](locations/hanshi-river.md) | `寒食江` | 139 |
 | [Река Чундань](locations/chundan-river.md) | `冲澹江 / 绣花江 / 玉液江 / 馒头山` | 102 |
 | [Ручей Сокровищ](locations/baoxi-stream.md) | `宝溪` | 4 |
 | [Северный Цзюйлу](locations/northern-juilu-continent.md) | `北俱芦洲` | 189 |

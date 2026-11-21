@@ -1,14 +1,14 @@
 {
   "schema_version": "2.0",
-  "total_entities": 332,
+  "total_entities": 335,
   "counts_by_type": {
     "artifact": 20,
-    "character": 170,
+    "character": 171,
     "concept": 19,
     "cultivation": 12,
-    "faction": 40,
+    "faction": 41,
     "idiom": 11,
-    "location": 58,
+    "location": 59,
     "media": 2
   },
   "entities": {
@@ -4563,6 +4563,90 @@
         "char.zheng-juzhong",
         "loc.white-emperor-city"
       ]
+    },
+    "char.liu-jiahui": {
+      "id": "char.liu-jiahui",
+      "type": "character",
+      "zh": "刘嘉卉",
+      "zh_aliases": [
+        "[",
+        "刘",
+        "夫",
+        "人",
+        ",",
+        " ",
+        "嘉",
+        "卉",
+        "]"
+      ],
+      "pinyin": "Liu Jiahui",
+      "palladius": "Лю Цзяхуэй",
+      "ru": "Лю Цзяхуэй",
+      "ru_aliases": [
+        "[",
+        "г",
+        "о",
+        "с",
+        "п",
+        "о",
+        "ж",
+        "а",
+        " ",
+        "Л",
+        "ю",
+        ",",
+        " ",
+        "в",
+        "т",
+        "о",
+        "р",
+        "а",
+        "я",
+        " ",
+        "х",
+        "о",
+        "з",
+        "я",
+        "й",
+        "к",
+        "а",
+        ",",
+        " ",
+        "н",
+        "а",
+        "с",
+        "т",
+        "а",
+        "в",
+        "н",
+        "и",
+        "ц",
+        "а",
+        " ",
+        "Л",
+        "ю",
+        "]"
+      ],
+      "first_chapter": 138,
+      "gender": "female",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": false,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "хозяйка",
+        "постоялый-двор",
+        "жёлтый-двор",
+        "наставница"
+      ],
+      "path": "wiki/characters/liu-jiahui.md",
+      "links_to": [
+        "fac.lingyun-school",
+        "fac.yellow-court-nation",
+        "loc.hanshi-river"
+      ],
+      "referenced_by": []
     },
     "char.liu-laocheng": {
       "id": "char.liu-laocheng",
@@ -9406,7 +9490,8 @@
         "char.xuhua-river-god",
         "concept.mountain-opening-talismans",
         "idiom.ghost-wall",
-        "loc.chundan-river"
+        "loc.chundan-river",
+        "loc.hanshi-river"
       ]
     },
     "concept.mountain-opening-talismans": {
@@ -9652,6 +9737,7 @@
         "cult.realms-overview",
         "cult.three-teachings",
         "fac.great-li-empire",
+        "fac.sects-compendium",
         "fac.yellow-court-nation",
         "loc.lizhu-grotto-heaven",
         "loc.luopo-mountain",
@@ -11624,6 +11710,38 @@
         "fac.mountain-cliff-academy"
       ]
     },
+    "fac.lingyun-school": {
+      "id": "fac.lingyun-school",
+      "type": "faction",
+      "zh": "灵韵派",
+      "zh_aliases": [],
+      "pinyin": "Lingyun Pai",
+      "palladius": "Линъюнь пай",
+      "ru": "Школа Духовной Грации",
+      "ru_aliases": [],
+      "first_chapter": 139,
+      "gender": null,
+      "subtype": "sect",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "секта",
+        "жёлтый-двор",
+        "север"
+      ],
+      "path": "wiki/factions/lingyun-school.md",
+      "links_to": [
+        "fac.sects-compendium",
+        "fac.yellow-court-nation",
+        "loc.hanshi-river"
+      ],
+      "referenced_by": [
+        "char.liu-jiahui",
+        "loc.hanshi-river"
+      ]
+    },
     "fac.mount-yaoling": {
       "id": "fac.mount-yaoling",
       "type": "faction",
@@ -11915,12 +12033,15 @@
         "char.sui-jingcheng",
         "char.tao-zi",
         "char.yu-zhenyi",
+        "concept.qiyun",
         "cult.qi-refinement",
         "cult.sword-cultivator",
         "fac.clans-compendium",
+        "fac.yellow-court-nation",
         "faction.imperial-court",
         "loc.bamboo-scroll-lake",
         "loc.eastern-treasured-vial-continent",
+        "loc.hanshi-river",
         "loc.parasol-leaf-continent"
       ],
       "referenced_by": [
@@ -11954,6 +12075,7 @@
         "fac.golden-gate-school",
         "fac.great-li-empire",
         "fac.jade-token-sect",
+        "fac.lingyun-school",
         "fac.pima-sect",
         "fac.qionglin-sect",
         "fac.rain-dragon-sect",
@@ -12278,7 +12400,11 @@
         "loc.eastern-treasured-vial-continent"
       ],
       "referenced_by": [
+        "char.liu-jiahui",
         "fac.great-sui-nation",
+        "fac.lingyun-school",
+        "fac.sects-compendium",
+        "loc.hanshi-river",
         "loc.hengshan-mountain"
       ]
     },
@@ -13762,6 +13888,40 @@
         "char.song-zhengchun",
         "cult.qi-refinement",
         "loc.white-jade-capital"
+      ]
+    },
+    "loc.hanshi-river": {
+      "id": "loc.hanshi-river",
+      "type": "location",
+      "zh": "寒食江",
+      "zh_aliases": [],
+      "pinyin": "Hanshi Jiang",
+      "palladius": "Ханьши цзян",
+      "ru": "Река Ханьши",
+      "ru_aliases": [],
+      "first_chapter": 139,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "река",
+        "жёлтый-двор",
+        "север",
+        "водяное-божество"
+      ],
+      "path": "wiki/locations/hanshi-river.md",
+      "links_to": [
+        "concept.mountain-and-river-gods",
+        "fac.lingyun-school",
+        "fac.yellow-court-nation"
+      ],
+      "referenced_by": [
+        "char.liu-jiahui",
+        "fac.lingyun-school",
+        "fac.sects-compendium"
       ]
     },
     "loc.heavenly-world": {
@@ -16413,6 +16573,9 @@
     "刘十六": [
       "char.liu-shiliu"
     ],
+    "刘嘉卉": [
+      "char.liu-jiahui"
+    ],
     "刘志茂": [
       "char.liu-zhimao"
     ],
@@ -16535,6 +16698,9 @@
     ],
     "家生子": [
       "concept.house-born-servants"
+    ],
+    "寒食江": [
+      "loc.hanshi-river"
     ],
     "小剑仙": [
       "char.bai-shou"
@@ -16754,6 +16920,9 @@
     ],
     "湖山派": [
       "fac.lake-mountain-school"
+    ],
+    "灵韵派": [
+      "fac.lingyun-school"
     ],
     "牌坊楼": [
       "loc.twelve-legged-archway"
@@ -17978,6 +18147,30 @@
     ],
     "龙窑": [
       "concept.imperial-kilns"
+    ],
+    ",": [
+      "char.liu-jiahui"
+    ],
+    "[": [
+      "char.liu-jiahui"
+    ],
+    "]": [
+      "char.liu-jiahui"
+    ],
+    "人": [
+      "char.liu-jiahui"
+    ],
+    "刘": [
+      "char.liu-jiahui"
+    ],
+    "卉": [
+      "char.liu-jiahui"
+    ],
+    "嘉": [
+      "char.liu-jiahui"
+    ],
+    "夫": [
+      "char.liu-jiahui"
     ]
   }
 }
