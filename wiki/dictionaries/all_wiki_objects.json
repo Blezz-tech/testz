@@ -3,15 +3,15 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 332,
+  "total_entries": 335,
   "counts_by_type": {
     "artifact": 20,
-    "character": 170,
+    "character": 171,
     "concept": 19,
     "cultivation": 12,
-    "faction": 40,
+    "faction": 41,
     "idiom": 11,
-    "location": 58,
+    "location": 59,
     "media": 2
   },
   "entries": [
@@ -1091,7 +1091,8 @@
         "char.xuhua-river-god",
         "concept.mountain-opening-talismans",
         "idiom.ghost-wall",
-        "loc.chundan-river"
+        "loc.chundan-river",
+        "loc.hanshi-river"
       ],
       "card": "wiki/concepts/mountain-and-river-gods.md"
     },
@@ -4375,7 +4376,11 @@
         "loc.eastern-treasured-vial-continent"
       ],
       "referenced_by": [
+        "char.liu-jiahui",
         "fac.great-sui-nation",
+        "fac.lingyun-school",
+        "fac.sects-compendium",
+        "loc.hanshi-river",
         "loc.hengshan-mountain"
       ],
       "card": "wiki/factions/yellow-court-nation.md"
@@ -6695,6 +6700,92 @@
         "loc.old-locust-tree"
       ],
       "card": "wiki/characters/liu-xianyang.md"
+    },
+    {
+      "id": "char.liu-jiahui",
+      "type": "character",
+      "zh": "刘嘉卉",
+      "zh_aliases": [
+        "[",
+        "刘",
+        "夫",
+        "人",
+        ",",
+        " ",
+        "嘉",
+        "卉",
+        "]"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Liu Jiahui",
+      "palladius": "Лю Цзяхуэй",
+      "ru": "Лю Цзяхуэй",
+      "ru_aliases": [
+        "[",
+        "г",
+        "о",
+        "с",
+        "п",
+        "о",
+        "ж",
+        "а",
+        " ",
+        "Л",
+        "ю",
+        ",",
+        " ",
+        "в",
+        "т",
+        "о",
+        "р",
+        "а",
+        "я",
+        " ",
+        "х",
+        "о",
+        "з",
+        "я",
+        "й",
+        "к",
+        "а",
+        ",",
+        " ",
+        "н",
+        "а",
+        "с",
+        "т",
+        "а",
+        "в",
+        "н",
+        "и",
+        "ц",
+        "а",
+        " ",
+        "Л",
+        "ю",
+        "]"
+      ],
+      "first_chapter": 138,
+      "gender": "female",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": false,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "хозяйка",
+        "постоялый-двор",
+        "жёлтый-двор",
+        "наставница"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- 刘嘉卉 → **Лю Цзяхуэй**; в речи окончательно — «Цзяхуэй» (господин обращается: «行了，嘉卉» → «Хватит, Цзяхуэй»).\n- 刘夫人 → **госпожа Лю** (устоявшийся вариант в простонародье, см. `docs/TRANSLATION_WORKFLOW.md`).\n- 师父 / 师兄 → **наставник** (по словарю главы 138: «наставница Лю», «молодой наставник, наставница Лю»).\n- 修为 → **уровень совершенствования**; 真气 → **подлинный ци** («на уровне подлинного ци»).\n- 胭脂味 / 半胭脂 → **дух лакировки** (первоисточник: 半胭脂 = краска-пудра).\n- «Малые женские капризы» (гл. 139) — её же ирония над собой; передавать без смягчения.",
+      "links_to": [
+        "fac.lingyun-school",
+        "fac.yellow-court-nation",
+        "loc.hanshi-river"
+      ],
+      "referenced_by": [],
+      "card": "wiki/characters/liu-jiahui.md"
     },
     {
       "id": "char.liu-zhimao",
@@ -9374,6 +9465,42 @@
       "card": "wiki/concepts/river-of-time.md"
     },
     {
+      "id": "loc.hanshi-river",
+      "type": "location",
+      "zh": "寒食江",
+      "zh_aliases": [],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Hanshi Jiang",
+      "palladius": "Ханьши цзян",
+      "ru": "Река Ханьши",
+      "ru_aliases": [],
+      "first_chapter": 139,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "река",
+        "жёлтый-двор",
+        "север",
+        "водяное-божество"
+      ],
+      "translation_rule": "## Правила перевода\n\n- 寒食江 → **Река Ханьши**: транскрипция 寒食 = ханьши + родовое «река». Буквальный смысл (праздник холодной пищи, 寒食节) раскрывается при первом упоминании в тексте, в названии не использовать.\n- 不 переводить как «Река Холодной Пищи» — имя реки наследует календарный смысл.\n- 関連:寒食江水神 → «водяной бог Реки Ханьши»;大典祭祀 → «великое торжество обряда в храме водяного божества».",
+      "links_to": [
+        "concept.mountain-and-river-gods",
+        "fac.lingyun-school",
+        "fac.yellow-court-nation"
+      ],
+      "referenced_by": [
+        "char.liu-jiahui",
+        "fac.lingyun-school",
+        "fac.sects-compendium"
+      ],
+      "card": "wiki/locations/hanshi-river.md"
+    },
+    {
       "id": "loc.chundan-river",
       "type": "location",
       "zh": "冲澹江",
@@ -9679,12 +9806,15 @@
         "char.sui-jingcheng",
         "char.tao-zi",
         "char.yu-zhenyi",
+        "concept.qiyun",
         "cult.qi-refinement",
         "cult.sword-cultivator",
         "fac.clans-compendium",
+        "fac.yellow-court-nation",
         "faction.imperial-court",
         "loc.bamboo-scroll-lake",
         "loc.eastern-treasured-vial-continent",
+        "loc.hanshi-river",
         "loc.parasol-leaf-continent"
       ],
       "referenced_by": [
@@ -9718,6 +9848,7 @@
         "fac.golden-gate-school",
         "fac.great-li-empire",
         "fac.jade-token-sect",
+        "fac.lingyun-school",
         "fac.pima-sect",
         "fac.qionglin-sect",
         "fac.rain-dragon-sect",
@@ -11219,6 +11350,7 @@
         "cult.realms-overview",
         "cult.three-teachings",
         "fac.great-li-empire",
+        "fac.sects-compendium",
         "fac.yellow-court-nation",
         "loc.lizhu-grotto-heaven",
         "loc.luopo-mountain",
@@ -15860,6 +15992,40 @@
         "loc.golden-armor-continent"
       ],
       "card": "wiki/cultivation/militarians.md"
+    },
+    {
+      "id": "fac.lingyun-school",
+      "type": "faction",
+      "zh": "灵韵派",
+      "zh_aliases": [],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Lingyun Pai",
+      "palladius": "Линъюнь пай",
+      "ru": "Школа Духовной Грации",
+      "ru_aliases": [],
+      "first_chapter": 139,
+      "gender": null,
+      "subtype": "sect",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "секта",
+        "жёлтый-двор",
+        "север"
+      ],
+      "translation_rule": "## Правила перевода\n\n- 灵韵 → «духовная грация»;派 → **школа** (по правилу компендиума:派 = школа, 宗门 = секта). Полная передача — **Школа Духовной Грации**; коротко в тексте — «Школа» или «школа».\n- 不 переводить как «Линъюнь» без раскрытия: при первом появлении в главе 139 название переводится полностью.\n- 灵韵派修士 → «практик Школы» (ученик, практикующий — см. `docs/TRANSLATION_GLOSSARY.md`); старшее поколение — 派祖 → «прародитель школы», см. `wiki/factions/sects-compendium.md`.",
+      "links_to": [
+        "fac.sects-compendium",
+        "fac.yellow-court-nation",
+        "loc.hanshi-river"
+      ],
+      "referenced_by": [
+        "char.liu-jiahui",
+        "loc.hanshi-river"
+      ],
+      "card": "wiki/factions/lingyun-school.md"
     },
     {
       "id": "fac.golden-gate-school",
