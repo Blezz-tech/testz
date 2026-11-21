@@ -5,9 +5,9 @@
 > Файл генерируется автоматически командой `python3 scripts/wiki_tool.py index`.
 > Не редактируйте его вручную: после правки карточек просто перегенерируйте указатель.
 
-**Всего статей: 321.**
+**Всего статей: 332.**
 
-## Персонажи (166)
+## Персонажи (170)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -29,6 +29,7 @@
 | [Госпожа Великой Ли](characters/great-li-empress.md) | `大骊娘娘 / 娘娘 / 宋睦之母` | 89 |
 | [Госпожа Гу](characters/gu-shi.md) | `顾氏 / 顾璨的母亲 / 顾璨他娘` | 17 |
 | [Госпожа Сюй](characters/madam-xu.md) | `许夫人 / 清风城算计夫人` | 44 |
+| [Госпожа Цин](characters/qing-niangniang.md) | `青姑娘 / 青娘娘 / 青娘娘庙的鬼魅` | 134 |
 | [Госпожа Чу](characters/lady-chu.md) | `楚夫人 / 嫁衣女鬼` | 124 |
 | [Гу Цань](characters/gu-can.md) | `顾璨 / 小璨 / 顾小子` | 243 |
 | [Дин Ин](characters/ding-ying.md) | `丁婴 / 丁老魔` | 310 |
@@ -97,6 +98,7 @@
 | [Старик Яо](characters/old-man-yao.md) | `姚老头 / 老姚 / 姚师傅` | 1 |
 | [Старый Глухой](characters/old-deaf-sword-immortal.md) | `老聋儿` | 598 |
 | [Старый Слепец](characters/old-blind-man.md) | `老瞎子` | 123 |
+| [Су Цзя](characters/su-jia.md) | `苏稼 / 苏仙子 / 苏稼苏仙子` | 65 |
 | [Суй Цзинчэн](characters/sui-jingcheng.md) | `隋景澄 / 斗笠女子` | 520 |
 | [Суй Юбянь](characters/sui-youbian.md) | `隋右边 / 女子剑仙隋右边` | 315 |
 | [Сун Хэ](characters/song-he.md) | `宋和 / 大骊太子` | 117 |
@@ -114,6 +116,7 @@
 | [Фан Эр](characters/fan-er.md) | `范二 / 范二郎` | 256 |
 | [Фань Цзюньмао](characters/fan-junmao.md) | `范峻茂 / 范大小姐` | 257 |
 | [Фу Наньхуа](characters/fu-nanhua.md) | `苻南华 / 苻公子` | 9 |
+| [Фу Юй](characters/fu-yu.md) | `傅玉 / 傅大人 / 小傅` | 131 |
 | [Фэн Сюэтао](characters/feng-xuetao.md) | `冯雪涛 / 青秘` | 799 |
 | [Хуань Юнь](characters/huan-yun.md) | `桓云` | 542 |
 | [Хэ Сяолян](characters/he-xiaoliang.md) | `贺小凉 / 贺仙子 / 小凉` | 40 |
@@ -121,6 +124,7 @@
 | [Цао Гэнсинь](characters/cao-gengxin.md) | `曹耕心 / 曹茂` | 191 |
 | [Цао Си](characters/cao-xi.md) | `曹曦 / 曹曦娘娘 / 曹氏` | 24 |
 | [Цао Фу](characters/cao-fu.md) | `曹赋` | 520 |
+| [Цао Цзи](characters/cao-ji.md) | `曹霁 / 曹氏子弟 / 曹氏年轻俊彦` | 131 |
 | [Цао Цинлан](characters/cao-qinglang.md) | `曹晴朗 / 晴朗 / 曹小子` | 312 |
 | [Цао Цы](characters/cao-ci.md) | `曹慈 / 武夫曹慈` | 277 |
 | [Цзо Ю](characters/zuo-you.md) | `左右 / 左师兄` | 12 |
@@ -195,22 +199,25 @@
 | [Чистые мастера боевых искусств](cultivation/martial-arts.md) | `纯粹武夫 / 武夫 / 武道 / 一口真气` | 13 |
 | [Школа Военных (Бинцзя)](cultivation/militarians.md) | `兵家 / 兵家祖庭 / 兵家修士 / 杀力` | 11 |
 
-## Фракции, империи и секты (37)
+## Фракции, империи и секты (40)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
 | [Академия Горного Обрыва](factions/mountain-cliff-academy.md) | `山崖书院` | 13 |
 | [Академия Созерцания Озера](factions/lake-view-academy.md) | `观湖书院` | 41 |
 | [Беседка Бамбукового Листа](factions/bamboo-leaf-pavilion.md) | `竹叶亭 / 甲字高手 / 谍子` | 93 |
+| [Беседка Зелёного Бамбука](factions/green-bamboo-pavilion.md) | `绿竹亭 / 大骊绿竹亭 / 丙等死士` | 131 |
 | [Великая Ли](factions/great-li-empire.md) | `大骊王朝 / 大骊` | 13 |
 | [Великая Суй](factions/great-sui-nation.md) | `大隋 / 大隋王朝` | 132 |
 | [Великая Цюань](factions/great-quan-empire.md) | `大泉王朝 / 大泉` | 331 |
 | [Гора Истинного Солнца](factions/zhengyang-mountain.md) | `正阳山` | 7 |
 | [Гора Чжэньу](factions/zhenwu-mountain.md) | `真武山 / 真武` | 88 |
 | [Гора Яолин](factions/mount-yaoling.md) | `摇铃山 / 丰城楚家` | 94 |
+| [Гоцзыцзянь](factions/guozijian.md) | `国子监 / 国子监` | 131 |
 | [Жёлтый Двор](factions/yellow-court-nation.md) | `黄庭国` | 133 |
 | [Императорский двор (Нынешняя династия)](factions/imperial-court.md) | `朝廷 / 本朝 / 言官 / 清流` | 1 |
 | [Кланы и великие роды](factions/clans-compendium.md) | `世家 / 家族` | 5 |
+| [Палата астрономии](factions/astronomical-bureau.md) | `钦天监 / 钦天监衙门` | 118 |
 | [Род Чэнь](factions/chen-clan.md) | `陈氏 / 陈家族` | 1 |
 | [Сад Ветра и Грома](factions/wind-thunder-garden.md) | `风雷园` | 44 |
 | [Сводка великих сект](factions/sects-compendium.md) | `山上仙家 / 宗门 / 仙家` | 7 |
@@ -237,7 +244,7 @@
 | [Школа Озёрных Гор](factions/lake-mountain-school.md) | `湖山派` | 308 |
 | [Школа Хуанлян](factions/yellow-millet-school.md) | `黄粱派` | 926 |
 
-## Миры, континенты и локации (56)
+## Миры, континенты и локации (58)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -250,6 +257,7 @@
 | [Гора Драконьего Хребта](locations/longji-mountain.md) | `龙脊山 / 甲六山 / 斩龙台` | 75 |
 | [Гора Лопо](locations/luopo-mountain.md) | `落魄山 / 落落魄山` | 80 |
 | [Гора Пиюнь](locations/piyun-mountain.md) | `披云山 / 披云峰` | 66 |
+| [Гора Хэншань](locations/hengshan-mountain.md) | `横山 / 横山山巅 / 青娘娘庙` | 133 |
 | [Гора, Подпирающая Луну](locations/moon-supporting-mountain.md) | `托月山` | 614 |
 | [Город Белого Императора](locations/white-emperor-city.md) | `白帝城` | 152 |
 | [Город Вознесения](locations/ascension-city.md) | `飞升城` | 704 |
@@ -273,6 +281,7 @@
 | [Материк Тунгового Листа](locations/parasol-leaf-continent.md) | `桐叶洲` | 261 |
 | [Небеса за пределами Небес](locations/heavens-beyond.md) | `天外天` | 112 |
 | [Озеро Бамбуковых Свитков](locations/bamboo-scroll-lake.md) | `书简湖` | 17 |
+| [Округ Драконий Хвост](locations/dragon-tail-commandery.md) | `龙尾郡 / 龙尾郡陈氏 / 龙尾郡陈松风` | 45 |
 | [Остров Лазурного Ущелья](locations/qingxia-island.md) | `青峡岛` | 24 |
 | [Первобытная Пустошь](locations/savage-world.md) | `蛮荒天下 / 蛮荒` | 189 |
 | [Переулок Абрикосовых Цветов](locations/apricot-blossom-alley.md) | `杏花巷` | 2 |
@@ -322,7 +331,7 @@
 | [Судьбоносная удача и благовония веры](concepts/qiyun.md) | `气运 / 香火 / 山水神灵 / 金身` | 0 |
 | [Яшэн](concepts/yasheng.md) | `压胜` | 15 |
 
-## Артефакты и снаряжение (18)
+## Артефакты и снаряжение (20)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -330,9 +339,11 @@
 | [«Книга пурпурного дыхания»](artifacts/purple-qi-book.md) | `紫气书 / 仙家秘籍 / 武学秘籍` | 104 |
 | [«Небесная Истина»](artifacts/heavenly-truths-swords.md) | `天真 / 宁姚的剑` | 600 |
 | [«Рассекающая воду круча»](artifacts/shuduan-cliff.md) | `断水大崖 / 蠹鱼 / 书铺孤本` | 106 |
+| [«Свиток, осеняющий благостью духов и чудищ»](artifacts/zebei-scroll.md) | `泽被精怪图 / 《泽被精怪图》` | 133 |
 | [Белая чаша](artifacts/white-bowl.md) | `白碗 / 大白碗` | 18 |
 | [Горлянка для взращивания меча](artifacts/sword-nurturing-gourd.md) | `养剑葫 / 葫芦` | 57 |
 | [Двенадцать летающих мечей Столицы Белого Нефрита](artifacts/twelve-flying-swords.md) | `十二柄飞剑 / 白玉京飞剑 / 镇国重器` | 113 |
+| [Дудка «рыб и насекомых»](artifacts/yuchong-flute.md) | `鱼虫笛 / 竹笛 / 卢氏王朝的宫中秘藏` | 133 |
 | [Зелёная нефритовая шпилька и печати](artifacts/jade-hairpin-and-seals.md) | `碧玉簪 / 簪子 / 印章` | 24 |
 | [Колокольчик, что отпугивает нечисть](artifacts/zhen-yao-bell.md) | `震妖铃 / 铜铃 / 红色铃铛 / 篆文铜铃` | 93 |
 | [Меч «Талисман»](artifacts/talisman-sword.md) | `符箓 / 京城符剑 / 符箓剑` | 117 |

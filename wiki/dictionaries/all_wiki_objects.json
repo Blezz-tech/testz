@@ -3,15 +3,15 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 321,
+  "total_entries": 332,
   "counts_by_type": {
-    "artifact": 18,
-    "character": 166,
+    "artifact": 20,
+    "character": 170,
     "concept": 19,
     "cultivation": 12,
-    "faction": 37,
+    "faction": 40,
     "idiom": 11,
-    "location": 56,
+    "location": 58,
     "media": 2
   },
   "entries": [
@@ -288,6 +288,47 @@
       "card": "wiki/artifacts/shuduan-cliff.md"
     },
     {
+      "id": "art.zebei-scroll",
+      "type": "artifact",
+      "zh": "泽被精怪图",
+      "zh_aliases": [
+        "《泽被精怪图》"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Zebei jingguai tu",
+      "palladius": "Цзэбэй цзингуай ту",
+      "ru": "«Свиток, осеняющий благостью духов и чудищ»",
+      "ru_aliases": [
+        "«Свиток, осеняющий благостью»",
+        "свиток духов и чудищ"
+      ],
+      "first_chapter": 133,
+      "gender": null,
+      "subtype": "scroll",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "артефакт",
+        "свиток",
+        "духи",
+        "странствия",
+        "дар"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **Передача:** **«Свиток, осеняющий благостью духов и чудищ»**; в тексте можно короче — *«Свиток духов и чудищ»*.\n- **Название в кавычках-ёлочках и с `《》` в китайском варианте** — как все книги в проекте.\n- **Сноска:** при первом появлении — да, с пояснением, что в свитке «сами собой зарождаются» духи-семена.",
+      "links_to": [
+        "art.yuchong-flute",
+        "char.chen-pingan",
+        "char.cui-dongshan"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.cui-dongshan"
+      ],
+      "card": "wiki/artifacts/zebei-scroll.md"
+    },
+    {
       "id": "char.aliang",
       "type": "character",
       "zh": "阿良",
@@ -461,6 +502,7 @@
         "cult.confucianism",
         "fac.great-li-empire",
         "fac.great-sui-nation",
+        "fac.guozijian",
         "fac.lake-view-academy",
         "loc.bamboo-scroll-lake",
         "loc.efuguan-pass",
@@ -878,9 +920,51 @@
         "char.cui-chan",
         "char.great-li-empress",
         "char.ye-qing",
-        "fac.great-li-empire"
+        "fac.great-li-empire",
+        "fac.green-bamboo-pavilion"
       ],
       "card": "wiki/factions/bamboo-leaf-pavilion.md"
+    },
+    {
+      "id": "fac.green-bamboo-pavilion",
+      "type": "faction",
+      "zh": "绿竹亭",
+      "zh_aliases": [
+        "大骊绿竹亭",
+        "丙等死士"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Lüzhuting",
+      "palladius": "Люйчжу тин",
+      "ru": "Беседка Зелёного Бамбука",
+      "ru_aliases": [
+        "Беседка Зелёного бамбука"
+      ],
+      "first_chapter": 131,
+      "gender": null,
+      "subtype": "agency",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "тайная-служба",
+        "смертники",
+        "досье"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **Передача:** **Беседка Зелёного Бамбука**. Коротко — **Беседка**.\n- **⚠️ Не путать** с [Беседкой Бамбукового Листа](bamboo-leaf-pavilion.md) (`竹叶亭`) — это другая служба, и по-русски у них должны быть разные имена, иначе читатель их сольёт.\n- **Разряды:** `甲等 / 乙等 / 丙等` — **первый, второй, третий разряд** (досье, смертники). `丙等死士` — **смертник третьего разряда**.",
+      "links_to": [
+        "char.cui-chan",
+        "char.yu-lu",
+        "fac.bamboo-leaf-pavilion",
+        "fac.great-li-empire",
+        "faction.imperial-court"
+      ],
+      "referenced_by": [
+        "char.yu-lu"
+      ],
+      "card": "wiki/factions/green-bamboo-pavilion.md"
     },
     {
       "id": "loc.lotus-root-blessed-land",
@@ -1097,11 +1181,14 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Ван Ифу** — имя склоняется (*Ван Ифу, Ван Ифу*; в проекте **не склоняется**); в устах госпожи — *«генерал Ван»*.\n- **Речь:** короткая, глухая, без подобострастия. Он говорит «подчинённый», но не унижается — и именно это бесит окружающих.\n- **Обращения:** к [госпоже Великой Ли](great-li-empress.md) — на «вы», сдержанно; к покойному [Сун Юйчжану](song-yuzhang.md) — как к живому, вслух, над телом.",
       "links_to": [
+        "char.cui-chan",
         "char.great-li-empress",
         "char.song-changjing",
         "char.song-yuzhang",
+        "char.xie-lingyue",
         "char.xu-hunran",
         "char.yang-hua",
+        "char.yu-lu",
         "cult.martial-arts",
         "cult.qi-refinement",
         "fac.great-li-empire",
@@ -1111,8 +1198,10 @@
       "referenced_by": [
         "char.great-li-empress",
         "char.song-yuzhang",
+        "char.xie-lingyue",
         "char.xu-hunran",
         "char.ye-qing",
+        "char.yu-lu",
         "fac.bamboo-leaf-pavilion",
         "fac.great-li-empire"
       ],
@@ -1189,11 +1278,13 @@
         "char.aliang",
         "char.bai-jing",
         "char.cao-gengxin",
+        "char.cao-ji",
         "char.cao-xi",
         "char.chen-pingan",
         "char.cui-chan",
         "char.dong-hu",
         "char.eternal-spring-elder",
+        "char.fu-yu",
         "char.gao-xuan",
         "char.great-li-empress",
         "char.han-langzhong",
@@ -1234,18 +1325,23 @@
         "cult.hundred-schools",
         "cult.militarians",
         "cult.qi-refinement",
+        "fac.astronomical-bureau",
         "fac.bamboo-leaf-pavilion",
         "fac.great-sui-nation",
+        "fac.green-bamboo-pavilion",
+        "fac.guozijian",
         "fac.mount-yaoling",
         "fac.mountain-cliff-academy",
         "fac.northern-jin-nation",
         "fac.zhenwu-mountain",
         "loc.bamboo-scroll-lake",
         "loc.dragon-spring-prefecture",
+        "loc.dragon-tail-commandery",
         "loc.eastern-treasured-vial-continent",
         "loc.efuguan-pass",
         "loc.fortune-street",
         "loc.great-li-capital",
+        "loc.hengshan-mountain",
         "loc.lizhu-grotto-heaven",
         "loc.luopo-mountain",
         "loc.red-candle-town",
@@ -1392,7 +1488,6 @@
         "char.li-baoping",
         "char.mao-xiaodong",
         "char.song-zhengchun",
-        "char.xie-lingyue",
         "cult.militarians",
         "fac.great-li-empire",
         "fac.mountain-cliff-academy",
@@ -1560,6 +1655,7 @@
         "loc.bamboo-scroll-lake",
         "loc.blusher-prefecture",
         "loc.dragon-spring-prefecture",
+        "loc.dragon-tail-commandery",
         "loc.majestic-world",
         "loc.middle-earth-continent",
         "loc.old-dragon-city",
@@ -2026,6 +2122,7 @@
       "referenced_by": [
         "art.osmanthus-island-ferry",
         "char.chen-pingan",
+        "char.liu-baqiao",
         "char.ning-yao",
         "char.old-man-yang",
         "fac.fuji-sect",
@@ -2146,6 +2243,7 @@
       "referenced_by": [
         "char.liu-baqiao",
         "char.qi-jingchun",
+        "char.su-jia",
         "fac.bamboo-branch-school",
         "fac.wind-thunder-garden",
         "loc.piyun-mountain"
@@ -2277,6 +2375,7 @@
       "referenced_by": [
         "char.chen-pingan",
         "char.cui-chan",
+        "char.cui-dongshan",
         "char.cui-minghuang",
         "char.master-ruan",
         "char.old-man-yang",
@@ -2288,6 +2387,56 @@
         "loc.mountains-near-town"
       ],
       "card": "wiki/locations/piyun-mountain.md"
+    },
+    {
+      "id": "loc.hengshan-mountain",
+      "type": "location",
+      "zh": "横山",
+      "zh_aliases": [
+        "横山山巅",
+        "青娘娘庙"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Hengshan",
+      "palladius": "Хэншань",
+      "ru": "Гора Хэншань",
+      "ru_aliases": [
+        "Хэншань",
+        "гора Хэншань"
+      ],
+      "first_chapter": 133,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "гора",
+        "храм",
+        "призрак",
+        "хуантин",
+        "ночлег"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **Принцип:** транскрипция + родовое слово — **Гора Хэншань**; `横` здесь «поперечный, лежащий поперёк», и в тексте это обыгрывается: дорога идёт через хребет.\n- **Не путать** с южным святым пиком Хэншань из нашего мира: здесь это вымышленная вершина, и совпадение имён случайно.\n- **Предлоги:** *на горе Хэншань*, *на вершине Хэншани*, *на склоне*.\n- **Сноска:** не нужна; всё, что читателю важно, объясняет [Цуй Дуншань](../characters/cui-dongshan.md) в главе 133.",
+      "links_to": [
+        "char.chen-pingan",
+        "char.cui-dongshan",
+        "char.lin-shouyi",
+        "char.qing-niangniang",
+        "char.yin-god",
+        "fac.great-li-empire",
+        "fac.yellow-court-nation"
+      ],
+      "referenced_by": [
+        "char.chen-pingan",
+        "char.cui-dongshan",
+        "char.lin-shouyi",
+        "char.old-man-yao",
+        "char.qing-niangniang",
+        "char.xie-lingyue"
+      ],
+      "card": "wiki/locations/hengshan-mountain.md"
     },
     {
       "id": "fac.zhenwu-mountain",
@@ -2852,6 +3001,7 @@
         "char.lady-chu",
         "char.liu-yu",
         "char.master-ruan",
+        "char.qing-niangniang",
         "char.wei-bo",
         "char.wei-jin",
         "char.wu-yuan",
@@ -3062,6 +3212,52 @@
       "card": "wiki/characters/madam-xu.md"
     },
     {
+      "id": "char.qing-niangniang",
+      "type": "character",
+      "zh": "青姑娘",
+      "zh_aliases": [
+        "青娘娘",
+        "青娘娘庙的鬼魅"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Qing Niangniang",
+      "palladius": "Цин Няннян",
+      "ru": "Госпожа Цин",
+      "ru_aliases": [
+        "Госпожа Цин",
+        "призрак из храма Госпожи Цин",
+        "женщина-призрак"
+      ],
+      "first_chapter": 134,
+      "gender": "female",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "призрак",
+        "го",
+        "хэншань",
+        "храм",
+        "игрок"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Госпожа Цин** — `娘娘` здесь не «императрица», а вежливое обращение к женскому божеству; в русском — *Госпожа Цин*, без склонения второй части.\n- **⚠️ Сноска:** при первом появлении нужна сноска о том, кто она: дочь сановника прежней династии, что погиб за державу; она перерезала себе горло у старой туи, и душа прилепилась к дереву.\n- **Речь:** тихая, ровная, с достоинством; она не пугает и не мстит — она устала от людей.\n- **Обращения:** к [Линь Шоуи](lin-shouyi.md) — учтиво, как к достойному противнику за доской.",
+      "links_to": [
+        "char.chen-pingan",
+        "char.lin-shouyi",
+        "char.yin-god",
+        "concept.imperial-kilns",
+        "loc.hengshan-mountain",
+        "loc.mountains-near-town"
+      ],
+      "referenced_by": [
+        "char.lin-shouyi",
+        "loc.hengshan-mountain"
+      ],
+      "card": "wiki/characters/qing-niangniang.md"
+    },
+    {
       "id": "char.lady-chu",
       "type": "character",
       "zh": "楚夫人",
@@ -3116,6 +3312,48 @@
         "idiom.ghost-wall"
       ],
       "card": "wiki/characters/lady-chu.md"
+    },
+    {
+      "id": "fac.guozijian",
+      "type": "faction",
+      "zh": "国子监",
+      "zh_aliases": [
+        "国子监"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Guozijian",
+      "palladius": "Гоцзыцзянь",
+      "ru": "Гоцзыцзянь",
+      "ru_aliases": [
+        "Гоцзыцзянь",
+        "Столичная академия"
+      ],
+      "first_chapter": 131,
+      "gender": null,
+      "subtype": "academy",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "академия",
+        "конфуцианство",
+        "чиновники",
+        "учёность"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **Передача:** **Гоцзыцзянь** — транслитерация, имя собственное; не «Училище сынов государства», хотя буквально это оно.\n- **Род:** слово среднего рода и не склоняется (*в Гоцзыцзяне, при Гоцзыцзяне*).\n- **Сноска:** при первом появлении — да; читателю нужно знать, что это столичная академия, а не ведомство.",
+      "links_to": [
+        "char.cui-chan",
+        "fac.astronomical-bureau",
+        "fac.great-li-empire",
+        "fac.mountain-cliff-academy",
+        "faction.imperial-court"
+      ],
+      "referenced_by": [
+        "fac.astronomical-bureau"
+      ],
+      "card": "wiki/factions/guozijian.md"
     },
     {
       "id": "cultivation.thunder-magic",
@@ -3287,6 +3525,7 @@
         "faction.imperial-court",
         "idiom.jingzhe-dragon-raises-head",
         "loc.dragon-spring-prefecture",
+        "loc.dragon-tail-commandery",
         "loc.eastern-treasured-vial-continent",
         "loc.luopo-mountain",
         "loc.majestic-world",
@@ -3723,6 +3962,51 @@
       "card": "wiki/characters/du-mao.md"
     },
     {
+      "id": "art.yuchong-flute",
+      "type": "artifact",
+      "zh": "鱼虫笛",
+      "zh_aliases": [
+        "竹笛",
+        "卢氏王朝的宫中秘藏"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Yuchong di",
+      "palladius": "Юйчун ди",
+      "ru": "Дудка «рыб и насекомых»",
+      "ru_aliases": [
+        "бамбуковая дудочка",
+        "дудка «рыб и насекомых»"
+      ],
+      "first_chapter": 133,
+      "gender": null,
+      "subtype": "instrument",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "артефакт",
+        "музыка",
+        "падение-лу",
+        "договор",
+        "плата"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **Передача:** **дудка «рыб и насекомых»** — по резьбе; в тексте допустимо просто *дудочка*. Не «флейта Юйчун».\n- **Важно:** это не боевое сокровище и не меч. Ценность её — в красоте и в том, что она была **договорным знаком**: по ней видно, какая школа первой пошла на союз с основателем державы Лу.",
+      "links_to": [
+        "char.chen-pingan",
+        "char.cui-dongshan",
+        "char.xie-lingyue",
+        "fac.northern-jin-nation"
+      ],
+      "referenced_by": [
+        "art.zebei-scroll",
+        "char.chen-pingan",
+        "char.cui-dongshan",
+        "char.xie-lingyue"
+      ],
+      "card": "wiki/artifacts/yuchong-flute.md"
+    },
+    {
       "id": "char.dong-bude",
       "type": "character",
       "zh": "董不得",
@@ -4091,7 +4375,8 @@
         "loc.eastern-treasured-vial-continent"
       ],
       "referenced_by": [
-        "fac.great-sui-nation"
+        "fac.great-sui-nation",
+        "loc.hengshan-mountain"
       ],
       "card": "wiki/factions/yellow-court-nation.md"
     },
@@ -4650,10 +4935,13 @@
         "char.yao-zhen",
         "concept.imperial-kilns",
         "concept.seasonal-hunts",
+        "fac.astronomical-bureau",
         "fac.bamboo-leaf-pavilion",
         "fac.clans-compendium",
         "fac.great-li-empire",
         "fac.great-quan-empire",
+        "fac.green-bamboo-pavilion",
+        "fac.guozijian",
         "fac.sects-compendium",
         "fac.true-realm-sect",
         "loc.blusher-prefecture",
@@ -4733,7 +5021,11 @@
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** имя — **Гу Тао**; титул — **иньский бог** (`阴神`). В тексте, где он ещё безымянен, — *«иньский бог»*, *«тот, кто шёл за ним невидимо»*.\n- **Речь:** сдержанная, ровная, немногословная; он подчинённый и не позволяет себе лишнего.",
       "links_to": [
         "char.chen-pingan",
+        "char.cui-dongshan",
+        "char.li-er",
+        "char.lin-shouyi",
         "char.old-man-yang",
+        "char.song-changjing",
         "char.wei-bo",
         "concept.qiyun",
         "fac.great-li-empire",
@@ -4745,8 +5037,12 @@
         "char.bai-jing",
         "char.chen-pingan",
         "char.lady-chu",
+        "char.li-baoping",
+        "char.li-er",
+        "char.qing-niangniang",
         "concept.qiyun",
-        "idiom.ghost-wall"
+        "idiom.ghost-wall",
+        "loc.hengshan-mountain"
       ],
       "card": "wiki/characters/yin-god.md"
     },
@@ -4842,15 +5138,18 @@
       ],
       "referenced_by": [
         "char.cao-gengxin",
+        "char.cao-ji",
         "char.chen-gong",
         "char.chen-mu",
         "char.chen-pingan",
         "char.great-li-empress",
         "char.liu-xianyang",
         "char.old-man-yao",
+        "char.qing-niangniang",
         "char.song-yuzhang",
         "char.wu-yuan",
         "concept.natal-porcelain",
+        "fac.astronomical-bureau",
         "faction.imperial-court",
         "idiom.clay-bodhisattva-crossing-river",
         "loc.baoxi-stream",
@@ -5003,6 +5302,7 @@
       "referenced_by": [
         "art.osmanthus-island-ferry",
         "art.zhen-yao-bell",
+        "char.cao-ji",
         "char.fu-nanhua",
         "char.li-baozhen",
         "char.li-xisheng",
@@ -5363,6 +5663,7 @@
         "char.qi-jingchun",
         "char.shi-chunjia",
         "char.song-changjing",
+        "char.yin-god",
         "char.zhu-he",
         "char.zhu-lu",
         "concept.snake-gall-stones",
@@ -5729,6 +6030,7 @@
         "char.lin-shouyi",
         "char.old-man-yang",
         "char.song-changjing",
+        "char.yin-god",
         "char.zheng-dafeng",
         "cult.martial-arts",
         "loc.eastern-treasured-vial-continent",
@@ -5743,6 +6045,7 @@
         "char.ma-kuxuan",
         "char.old-man-yang",
         "char.song-changjing",
+        "char.yin-god",
         "char.zheng-dafeng",
         "cult.martial-arts",
         "cult.realms-overview",
@@ -5841,17 +6144,23 @@
       "links_to": [
         "art.cloud-ringing-book",
         "char.aliang",
+        "char.blind-daoist",
         "char.chen-pingan",
+        "char.cui-dongshan",
         "char.cui-minghuang",
         "char.dong-shuijing",
         "char.li-baoping",
         "char.li-huai",
         "char.ma-zhan",
+        "char.old-man-yang",
         "char.qi-jingchun",
+        "char.qing-niangniang",
         "char.shi-chunjia",
+        "char.xie-lingyue",
         "cult.qi-refinement",
         "fac.mountain-cliff-academy",
-        "loc.apricot-blossom-alley"
+        "loc.apricot-blossom-alley",
+        "loc.hengshan-mountain"
       ],
       "referenced_by": [
         "art.barrier-breaking-talisman",
@@ -5873,13 +6182,17 @@
         "char.li-huai",
         "char.ma-zhan",
         "char.qi-jingchun",
+        "char.qing-niangniang",
         "char.shi-chunjia",
+        "char.xie-lingyue",
+        "char.yin-god",
         "char.zhu-lu",
         "concept.reading-seed",
         "fac.great-sui-nation",
         "fac.mountain-cliff-academy",
         "idiom.ghost-wall",
         "loc.fushui-bay",
+        "loc.hengshan-mountain",
         "loc.post-station-pillow"
       ],
       "card": "wiki/characters/lin-shouyi.md"
@@ -6250,8 +6563,12 @@
         "char.mountain-moving-ape",
         "char.ning-yao",
         "char.song-changjing",
+        "char.su-jia",
+        "char.yang-hua",
         "fac.sects-compendium",
-        "fac.zhengyang-mountain"
+        "fac.zhengyang-mountain",
+        "loc.daoxuan-mountain",
+        "loc.dragon-spring-prefecture"
       ],
       "referenced_by": [
         "char.chen-dui",
@@ -6262,8 +6579,10 @@
         "char.mountain-moving-ape",
         "char.ning-yao",
         "char.song-changjing",
+        "char.su-jia",
         "char.tao-zi",
-        "fac.wind-thunder-garden"
+        "fac.wind-thunder-garden",
+        "loc.dragon-tail-commandery"
       ],
       "card": "wiki/characters/liu-baqiao.md"
     },
@@ -7878,6 +8197,50 @@
       "card": "wiki/locations/bamboo-scroll-lake.md"
     },
     {
+      "id": "loc.dragon-tail-commandery",
+      "type": "location",
+      "zh": "龙尾郡",
+      "zh_aliases": [
+        "龙尾郡陈氏",
+        "龙尾郡陈松风"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Longwei Jun",
+      "palladius": "Лунвэй цзюнь",
+      "ru": "Округ Драконий Хвост",
+      "ru_aliases": [
+        "Драконий Хвост",
+        "округ Лунвэй"
+      ],
+      "first_chapter": 45,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "округ",
+        "род-чэнь",
+        "宝瓶洲",
+        "школа"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **Передача:** `龙尾郡` — **округ Драконий Хвост**; `郡` — округ, не уезд. Короткая форма — *Драконий Хвост*.\n- **⚠️ Не путать** с [уездом Драконьего Родника](dragon-spring-prefecture.md) (`龙泉县`) — это разные места, и в главах 131–134 они встречаются рядом.\n- **Историческая правка:** в главах 45–86 этот округ назывался в переводе «уездом Драконьего Родника» (а в главе 118 — «уездом Лунвэй»); в главах 131–134 название приведено к единому виду — **округ Драконий Хвост**, старые главы выправлены.\n- **Родовое имя:** `龙尾郡陈氏` — **род Чэнь из округа Драконий Хвост**; не «чэньский клан Драконьего Хвоста».",
+      "links_to": [
+        "char.chen-dui",
+        "char.chen-songfeng",
+        "char.liu-baqiao",
+        "fac.chen-clan",
+        "fac.great-li-empire",
+        "fac.wind-thunder-garden",
+        "loc.dragon-spring-prefecture",
+        "loc.eastern-treasured-vial-continent",
+        "loc.lizhu-grotto-heaven"
+      ],
+      "referenced_by": [],
+      "card": "wiki/locations/dragon-tail-commandery.md"
+    },
+    {
       "id": "loc.qingxia-island",
       "type": "location",
       "zh": "青峡岛",
@@ -7908,6 +8271,48 @@
       ],
       "referenced_by": [],
       "card": "wiki/locations/qingxia-island.md"
+    },
+    {
+      "id": "fac.astronomical-bureau",
+      "type": "faction",
+      "zh": "钦天监",
+      "zh_aliases": [
+        "钦天监衙门"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Qintianjian",
+      "palladius": "Циньтяньцзянь",
+      "ru": "Палата астрономии",
+      "ru_aliases": [
+        "Палата астрономических наблюдений",
+        "Циньтяньцзянь"
+      ],
+      "first_chapter": 118,
+      "gender": null,
+      "subtype": "agency",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "ведомство",
+        "фэншуй",
+        "геомантия",
+        "обряды"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **Передача:** **Палата астрономии**; полная форма, встречающаяся в главе 118, — **Палата астрономических наблюдений**. Держать оба варианта как взаимозаменяемые, но в новой главе — короткую форму.\n- **Транслитерация:** в справочных перечислениях ведомств допустим и **Циньтяньцзянь**.\n- **Не путать** с [Гоцзыцзянем](guozijian.md): там учат книжников, здесь считают небо, составляют календарь и выбирают места для храмов.",
+      "links_to": [
+        "char.cui-chan",
+        "concept.imperial-kilns",
+        "fac.great-li-empire",
+        "fac.guozijian",
+        "faction.imperial-court"
+      ],
+      "referenced_by": [
+        "fac.guozijian"
+      ],
+      "card": "wiki/factions/astronomical-bureau.md"
     },
     {
       "id": "char.pang-yuanji",
@@ -8620,9 +9025,12 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.cao-ji",
         "char.chen-dui",
         "char.chen-pingan",
         "char.chen-songfeng",
+        "char.fu-yu",
+        "char.liu-baqiao",
         "char.song-jixin",
         "char.wu-yuan",
         "concept.house-born-servants",
@@ -8630,6 +9038,7 @@
         "fac.dragon-spring-sword-sect",
         "fac.great-li-empire",
         "loc.blusher-prefecture",
+        "loc.dragon-tail-commandery",
         "loc.longji-mountain",
         "loc.luopo-mountain",
         "loc.piyun-mountain"
@@ -8752,6 +9161,7 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.fu-yu",
         "char.liu-xianyang",
         "char.song-changjing",
         "concept.three-mountains-nine-lords",
@@ -9106,6 +9516,7 @@
         "char.chen-gong",
         "char.li-baozhen",
         "fac.clans-compendium",
+        "loc.dragon-tail-commandery",
         "loc.fortune-street",
         "loc.southern-posha-continent"
       ],
@@ -9178,7 +9589,9 @@
         "loc.eastern-treasured-vial-continent"
       ],
       "referenced_by": [
-        "fac.zhengyang-mountain"
+        "char.su-jia",
+        "fac.zhengyang-mountain",
+        "loc.dragon-tail-commandery"
       ],
       "card": "wiki/factions/wind-thunder-garden.md"
     },
@@ -9489,16 +9902,26 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача имени:** **Се Линъюэ**. Фамилия `谢` = **Се** (Палладий), никогда не «Ксе».\n- **⚠️ Ловушка с прозвищем:** [Цуй Чань](cui-chan.md) в Главе 131 в шутку нарекает её **谢谢** — то есть буквально *«спасибо»*. Это издевательство: имя девушки из уничтоженного рода он превращает в слово благодарности. В русском **обязательно** сохранять прозвище и **давать сноску**: *«Се-Се — по-китайски „спасибо“; Цуй Чань выбрал ей имя, которое звучит как благодарность»*.\n- **Как передавать:** в речи других персонажей — **Се-Се** (с дефисом, чтобы читатель видел имя, а не междометие), в авторской речи при первом упоминании — **Се Линъюэ**, дальше — по контексту.\n- **Речь:** резкая, колкая, с постоянной язвительностью; она не жалуется, а нападает. Грубость — её способ не сломаться.",
       "links_to": [
+        "art.yuchong-flute",
         "char.chen-pingan",
         "char.cui-chan",
+        "char.cui-dongshan",
         "char.li-huai",
+        "char.lin-shouyi",
+        "char.wang-yifu",
         "char.yu-lu",
         "cult.realms-overview",
-        "fac.great-sui-nation",
-        "fac.northern-jin-nation"
+        "fac.northern-jin-nation",
+        "loc.hengshan-mountain"
       ],
       "referenced_by": [
+        "art.yuchong-flute",
+        "char.chen-pingan",
         "char.chen-pingan.relationships",
+        "char.cui-dongshan",
+        "char.lin-shouyi",
+        "char.old-man-yao",
+        "char.wang-yifu",
         "char.xie-shi",
         "char.yu-lu",
         "fac.clans-compendium",
@@ -9579,6 +10002,7 @@
         "loc.parasol-leaf-continent"
       ],
       "referenced_by": [
+        "art.yuchong-flute",
         "char.xie-lingyue",
         "char.yu-lu"
       ],
@@ -10177,6 +10601,7 @@
       "referenced_by": [
         "char.jiu-er",
         "char.lady-chu",
+        "char.lin-shouyi",
         "cultivation.thunder-magic"
       ],
       "card": "wiki/characters/blind-daoist.md"
@@ -10331,9 +10756,11 @@
         "art.jade-hairpin-and-seals",
         "char.chen-pingan",
         "char.cui-chan",
+        "char.cui-dongshan",
         "char.cui-minghuang",
         "char.li-er",
         "char.li-liu",
+        "char.lin-shouyi",
         "char.ma-kuxuan",
         "char.ma-lanhua",
         "char.master-ruan",
@@ -10385,8 +10812,10 @@
       "links_to": [
         "char.chen-pingan",
         "char.liu-xianyang",
+        "char.xie-lingyue",
         "concept.imperial-kilns",
         "concept.natal-porcelain",
+        "loc.hengshan-mountain",
         "loc.small-town"
       ],
       "referenced_by": [
@@ -10677,6 +11106,47 @@
         "loc.white-jade-capital"
       ],
       "card": "wiki/locations/great-li-capital.md"
+    },
+    {
+      "id": "char.su-jia",
+      "type": "character",
+      "zh": "苏稼",
+      "zh_aliases": [
+        "苏仙子",
+        "苏稼苏仙子"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Su Jia",
+      "palladius": "Су Цзя",
+      "ru": "Су Цзя",
+      "ru_aliases": [
+        "Су Цзя",
+        "бессмертная дева Су",
+        "Су-сяньцзы"
+      ],
+      "first_chapter": 65,
+      "gender": "female",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": false,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "正阳山",
+        "гора-истинного-солнца",
+        "несбывшаяся-любовь"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Су Цзя** — не склоняется.\n- **Этимология:** `稼` — «хлеб в колосе», «налившееся зерно»; имя простое, деревенское, и это нарочитый контраст с титулом «бессмертная дева».\n- **Титул:** `苏仙子` — **бессмертная дева Су**; `仙子` в устах влюблённого — не чин, а вздох.\n- **Речь:** в главе 133 она только в чужих словах; собственной речи пока нет.",
+      "links_to": [
+        "char.chen-songfeng",
+        "char.liu-baqiao",
+        "fac.wind-thunder-garden",
+        "fac.zhengyang-mountain"
+      ],
+      "referenced_by": [
+        "char.liu-baqiao"
+      ],
+      "card": "wiki/characters/su-jia.md"
     },
     {
       "id": "concept.qiyun",
@@ -11039,6 +11509,7 @@
         "char.xu-yuanxia",
         "char.yao-zhen",
         "char.ye-qing",
+        "char.yin-god",
         "char.zheng-dafeng",
         "char.zhigui",
         "concept.imperial-kilns",
@@ -11708,6 +12179,7 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **У Юань** — фамилия *У* и имя *Юань* не склоняются (*с У Юанем, к У Юаню*).\n- **Этимология:** `鸢` — «коршун»; имя книжное, «ястреб-бумажный змей», намёк на чиновника, что взлетает на чужой нити.\n- **Титулы:** `督造官` — **надзиратель за печными делами**; `县令` — **уездный начальник**; жители городка зовут его просто «господин У» или «наш уездный».\n- **Речь:** простая, с шутками и грубоватой поговоркой; с подчинёнными — на «ты», с вышестоящими — почтительно, но без робости.",
       "links_to": [
+        "char.cao-ji",
         "char.chen-pingan",
         "char.cui-chan",
         "char.cui-minghuang",
@@ -11721,10 +12193,12 @@
         "loc.small-town"
       ],
       "referenced_by": [
+        "char.cao-ji",
         "char.chen-pingan",
         "char.cui-chan",
         "char.cui-minghuang",
         "char.dong-hu",
+        "char.fu-yu",
         "char.master-ruan",
         "char.ruan-xiu",
         "char.song-yuzhang",
@@ -11890,6 +12364,7 @@
         "art.shanxiao-pot",
         "char.cai-jinjian",
         "char.chen-pingan",
+        "char.fu-yu",
         "char.great-li-empress",
         "char.old-man-yang",
         "char.sun-jiashu",
@@ -11899,6 +12374,48 @@
         "loc.old-dragon-city"
       ],
       "card": "wiki/characters/fu-nanhua.md"
+    },
+    {
+      "id": "char.fu-yu",
+      "type": "character",
+      "zh": "傅玉",
+      "zh_aliases": [
+        "傅大人",
+        "小傅"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Fu Yu",
+      "palladius": "Фу Юй",
+      "ru": "Фу Юй",
+      "ru_aliases": [
+        "Фу Юй",
+        "писарь Фу"
+      ],
+      "first_chapter": 131,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": false,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "чиновник",
+        "писарь",
+        "род-фу",
+        "друг"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Фу Юй** — не склоняется (*с Фу Юем* → в проекте: *с Фу Юй*).\n- **Обращения:** к [У Юаню](wu-yuan.md) — *«господин У»*, *«господин начальник уезда»*; в сердцах, когда тот зарвётся, — просто *«У Юань!»*. У Юань зовёт его по имени, без чинов.\n- **Речь:** живая, чуть книжная, с самоиронией; он умеет и подольститься, и сказать в лицо неприятную правду. Краснеет за род, но не отрекается от него.\n- **Не путать** с [Фу Наньхуа](fu-nanhua.md) из Старого Драконьего Города: другая фамилия-омоним `苻` и другой человек.",
+      "links_to": [
+        "char.cui-chan",
+        "char.fu-nanhua",
+        "char.wu-yuan",
+        "fac.great-li-empire",
+        "loc.dragon-spring-prefecture",
+        "loc.fortune-street"
+      ],
+      "referenced_by": [],
+      "card": "wiki/characters/fu-yu.md"
     },
     {
       "id": "loc.fuyao-continent",
@@ -12292,6 +12809,50 @@
         "char.sui-jingcheng"
       ],
       "card": "wiki/characters/cao-fu.md"
+    },
+    {
+      "id": "char.cao-ji",
+      "type": "character",
+      "zh": "曹霁",
+      "zh_aliases": [
+        "曹氏子弟",
+        "曹氏年轻俊彦"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Cao Ji",
+      "palladius": "Цао Цзи",
+      "ru": "Цао Цзи",
+      "ru_aliases": [
+        "Цао Цзи",
+        "молодой Цао"
+      ],
+      "first_chapter": 131,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": false,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "великая-ли",
+        "род-цао",
+        "печи",
+        "чиновник",
+        "соперник"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Цао Цзи** — фамилия *Цао* и имя *Цзи* не склоняются (*с Цао Цзи, к Цао Цзи*).\n- **Титул:** `督造官` — **надзиратель за печными работами**, тот же чин, что прежде носил [У Юань](wu-yuan.md).\n- **Речь:** в главе 131 он только упоминается; собственной речи у него ещё нет. При первом появлении на сцене держать тон ровный, несуетливый — так о нём отзываются: «происхождение куда лучше, способности весьма незаурядны».",
+      "links_to": [
+        "char.cui-chan",
+        "char.wu-yuan",
+        "concept.imperial-kilns",
+        "fac.clans-compendium",
+        "fac.great-li-empire",
+        "loc.dragon-spring-prefecture"
+      ],
+      "referenced_by": [
+        "char.wu-yuan"
+      ],
+      "card": "wiki/characters/cao-ji.md"
     },
     {
       "id": "char.cao-qinglang",
@@ -12865,6 +13426,7 @@
         "char.chen-pingan.items",
         "char.chen-pingan.relationships",
         "char.cui-chan",
+        "char.cui-dongshan",
         "char.cui-minghuang",
         "char.fu-nanhua",
         "char.great-li-empress",
@@ -12968,21 +13530,35 @@
       ],
       "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **Цуй Дуншань** — фамилия *Цуй* склоняется, имя *Дуншань* склоняется по мягкому типу (*Цуй Дуншаня, Цуй Дуншаню*).\n- **Этимология:** `东山` — «Восточная гора»; имя выбрано как простое, «незнатное», чтобы отрезать себя от прежней личности.\n- **Речь:** театральная, капризная, с внезапными вспышками детской обиды; он обожает лесть и громко жалуется, когда что-то идёт не по его.\n- **Обращения:** к [Чэнь Пинъаню](chen-pingan.md) — *«учитель»* на «вы» с подчёркнутой почтительностью (иногда издевательской); к [Пэй Цянь](pei-qian.md) — *«сестрица»*, с подначками.",
       "links_to": [
+        "art.yuchong-flute",
+        "art.zebei-scroll",
         "char.chen-pingan",
         "char.cui-chan",
+        "char.cui-minghuang",
+        "char.old-man-yang",
         "char.pei-qian",
+        "char.qi-jingchun",
+        "char.xie-lingyue",
+        "loc.hengshan-mountain",
         "loc.lizhu-grotto-heaven",
-        "loc.luopo-mountain"
+        "loc.luopo-mountain",
+        "loc.piyun-mountain"
       ],
       "referenced_by": [
+        "art.yuchong-flute",
+        "art.zebei-scroll",
         "char.chen-pingan",
         "char.chen-pingan.relationships",
         "char.cui-chan",
         "char.cui-cheng",
         "char.cui-minghuang",
+        "char.lin-shouyi",
         "char.pei-qian",
         "char.shao-yunyan",
-        "fac.green-duckweed-sword-sect"
+        "char.xie-lingyue",
+        "char.yin-god",
+        "fac.green-duckweed-sword-sect",
+        "loc.hengshan-mountain"
       ],
       "card": "wiki/characters/cui-dongshan.md"
     },
@@ -13036,6 +13612,7 @@
         "char.chen-dui",
         "char.chen-songfeng",
         "char.cui-chan",
+        "char.cui-dongshan",
         "char.li-baoping",
         "char.lin-shouyi",
         "char.liu-baqiao",
@@ -13103,11 +13680,13 @@
       "referenced_by": [
         "art.jade-hairpin-and-seals",
         "char.aliang",
+        "char.cao-ji",
         "char.cao-xi",
         "char.chen-pingan",
         "char.cui-cheng",
         "char.cui-dongshan",
         "char.cui-minghuang",
+        "char.fu-yu",
         "char.great-li-empress",
         "char.lady-chu",
         "char.liu-laocheng",
@@ -13118,14 +13697,18 @@
         "char.song-he",
         "char.song-zhengchun",
         "char.sword-spirit",
+        "char.wang-yifu",
         "char.wu-yuan",
         "char.xie-lingyue",
         "char.yu-lu",
         "char.zuo-you",
         "cult.confucianism",
         "cult.hundred-schools",
+        "fac.astronomical-bureau",
         "fac.bamboo-leaf-pavilion",
         "fac.great-li-empire",
+        "fac.green-bamboo-pavilion",
+        "fac.guozijian",
         "fac.lake-view-academy",
         "fac.mountain-cliff-academy",
         "fac.northern-jin-nation"
@@ -14179,7 +14762,8 @@
         "char.ruan-xiu",
         "char.song-changjing",
         "char.song-jixin",
-        "char.tao-zi"
+        "char.tao-zi",
+        "loc.dragon-tail-commandery"
       ],
       "card": "wiki/characters/chen-dui.md"
     },
@@ -14310,6 +14894,8 @@
         "art.chuyi-and-shiwu",
         "art.jade-hairpin-and-seals",
         "art.sword-nurturing-gourd",
+        "art.yuchong-flute",
+        "art.zebei-scroll",
         "art.zhen-yao-bell",
         "char.aliang",
         "char.cai-jinjian",
@@ -14350,6 +14936,7 @@
         "char.sword-spirit",
         "char.wei-bo",
         "char.wu-yuan",
+        "char.xie-lingyue",
         "char.yin-god",
         "char.zheng-dafeng",
         "char.zhigui",
@@ -14370,6 +14957,7 @@
         "loc.bamboo-scroll-lake",
         "loc.daoxuan-mountain",
         "loc.dragon-spring-prefecture",
+        "loc.hengshan-mountain",
         "loc.lizhu-grotto-heaven",
         "loc.lotus-root-blessed-land",
         "loc.luopo-mountain",
@@ -14387,6 +14975,8 @@
         "art.jade-hairpin-and-seals",
         "art.shuduan-cliff",
         "art.sword-nurturing-gourd",
+        "art.yuchong-flute",
+        "art.zebei-scroll",
         "art.zhen-yao-bell",
         "char.aliang",
         "char.bai-jing",
@@ -14458,6 +15048,7 @@
         "char.qi-jingchun",
         "char.qi-jinglong",
         "char.qi-shou",
+        "char.qing-niangniang",
         "char.river-hag",
         "char.ruan-xiu",
         "char.scholarly-sage",
@@ -14530,6 +15121,7 @@
         "loc.daoxuan-mountain",
         "loc.eastern-treasured-vial-continent",
         "loc.efuguan-pass",
+        "loc.hengshan-mountain",
         "loc.lizhu-grotto-heaven",
         "loc.luopo-mountain",
         "loc.mountains-near-town",
@@ -14851,7 +15443,7 @@
         "столица",
         "род-чэнь-стены"
       ],
-      "translation_rule": "## Правила перевода\n\n- **Передача:** **Чэнь Сунфэн** — имя склоняется (*Чэнь Сунфэна, Чэнь Сунфэну*).\n\n## Правило для переводчика\n\nВ его репликах важна **учёная игра цитатами**: он говорит формулами из классиков. Если в китайском тексте цитата — в русском её нужно либо дать точным эквивалентом, либо пересказать с пометкой.\n\n### Главы 50–59\n- Глава 50: вместе с [Чэнь Дуй](chen-dui.md) находит [Лю Бацяо](liu-baqiao.md); вернувшись от старой софоры с листьями предков, просит [Сун Чанцзина](song-changjing.md) пощадить девушку, потому что она не с Восточного материка Драгоценного Сосуда.\n- Глава 57: перебирает в управе старые книги рода Чэнь и молча сносит холодные слова [Чэнь Дуй](chen-dui.md).\n\n### Главы 60–64\n- Глава 64: [Жуань Сю](ruan-xiu.md) представляет его старшим внуком от законной жены рода Чэнь [уезда Драконьего Родника](../locations/dragon-spring-prefecture.md) и дальней роднёй Чэнь Пинъаня: ветви разошлись несколько сотен лет назад.\n\n### Главы 65–69\n- Глава 65: с трудом идёт по горной дороге, падает в ручей; [Чэнь Дуй](chen-dui.md) отправляет его назад, и Лю Бацяо уходит с ним.\n- Глава 67: возвращается с [Лю Бацяо](liu-baqiao.md); решает, что род Чэнь уезда Драконьего Родника должен поддержать Великую Ли; объясняет, почему существование Чэнь Пинъаня ставит род в неловкое положение, и краснеет, когда Лю Бацяо называет это бессилием.",
+      "translation_rule": "## Правила перевода\n\n- **Передача:** **Чэнь Сунфэн** — имя склоняется (*Чэнь Сунфэна, Чэнь Сунфэну*).\n\n## Правило для переводчика\n\nВ его репликах важна **учёная игра цитатами**: он говорит формулами из классиков. Если в китайском тексте цитата — в русском её нужно либо дать точным эквивалентом, либо пересказать с пометкой.\n\n### Главы 50–59\n- Глава 50: вместе с [Чэнь Дуй](chen-dui.md) находит [Лю Бацяо](liu-baqiao.md); вернувшись от старой софоры с листьями предков, просит [Сун Чанцзина](song-changjing.md) пощадить девушку, потому что она не с Восточного материка Драгоценного Сосуда.\n- Глава 57: перебирает в управе старые книги рода Чэнь и молча сносит холодные слова [Чэнь Дуй](chen-dui.md).\n\n### Главы 60–64\n- Глава 64: [Жуань Сю](ruan-xiu.md) представляет его старшим внуком от законной жены рода Чэнь [уезда Драконьего Родника](../locations/dragon-spring-prefecture.md) и дальней роднёй Чэнь Пинъаня: ветви разошлись несколько сотен лет назад.\n\n### Главы 65–69\n- Глава 65: с трудом идёт по горной дороге, падает в ручей; [Чэнь Дуй](chen-dui.md) отправляет его назад, и Лю Бацяо уходит с ним.\n- Глава 67: возвращается с [Лю Бацяо](liu-baqiao.md); решает, что род Чэнь уезда Драконьего Родника должен поддержать Великую Ли; объясняет, почему существование Чэнь Пинъаня ставит род в неловкое положение, и краснеет, когда Лю Бацяо называет это бессилием.\n\n### Главы 130–134\n- Глава 133: ведёт урок в новой школе рода Чэнь в [уезде Драконьего Родника](../locations/dragon-spring-prefecture.md) — бесплатное обучение для всех детей уезда, трое нанятых наставников. [Лю Бацяо](liu-baqiao.md) застаёт его за занятием с малышами и дразнит: «наставник Чэнь».",
       "links_to": [
         "char.chen-dui",
         "char.chen-pingan",
@@ -14868,7 +15460,9 @@
         "char.chen-pingan",
         "char.cui-minghuang",
         "char.liu-baqiao",
-        "char.ruan-xiu"
+        "char.ruan-xiu",
+        "char.su-jia",
+        "loc.dragon-tail-commandery"
       ],
       "card": "wiki/characters/chen-songfeng.md"
     },
@@ -15440,13 +16034,17 @@
       "links_to": [
         "char.chen-pingan",
         "char.cui-chan",
+        "char.wang-yifu",
         "char.xie-lingyue",
         "fac.great-li-empire",
+        "fac.green-bamboo-pavilion",
         "fac.northern-jin-nation"
       ],
       "referenced_by": [
         "char.chen-pingan.relationships",
+        "char.wang-yifu",
         "char.xie-lingyue",
+        "fac.green-bamboo-pavilion",
         "fac.northern-jin-nation"
       ],
       "card": "wiki/characters/yu-lu.md"
@@ -15609,6 +16207,7 @@
       "referenced_by": [
         "art.talisman-sword",
         "char.great-li-empress",
+        "char.liu-baqiao",
         "char.wang-yifu",
         "char.wei-bo",
         "char.xu-hunran",
