@@ -3,13 +3,13 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 335,
+  "total_entries": 340,
   "counts_by_type": {
     "artifact": 20,
-    "character": 171,
+    "character": 174,
     "concept": 19,
     "cultivation": 12,
-    "faction": 41,
+    "faction": 43,
     "idiom": 11,
     "location": 59,
     "media": 2
@@ -962,6 +962,8 @@
         "faction.imperial-court"
       ],
       "referenced_by": [
+        "char.sui-bin",
+        "char.tang-jiang",
         "char.yu-lu"
       ],
       "card": "wiki/factions/green-bamboo-pavilion.md"
@@ -1869,6 +1871,44 @@
       "card": "wiki/characters/wei-bo.md"
     },
     {
+      "id": "char.wei-li",
+      "type": "character",
+      "zh": "魏礼",
+      "zh_aliases": [
+        "魏郡守",
+        "魏姓郡守"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Wei Li",
+      "palladius": "Вэй Ли",
+      "ru": "Вэй Ли",
+      "ru_aliases": [
+        "управитель Вэй",
+        "魏郡守"
+      ],
+      "first_chapter": 139,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": false,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "управитель",
+        "жёлтый-двор",
+        "чиновник"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- 魏郡守 / 魏姓郡守 → **управитель Вэй**; полное имя 魏礼 → **Вэй Ли** (открывается в гл. 144).\n- 郡守 → **управитель** (устоявшееся: «управитель округа»).\n- В официальном обращении подчинённых — «господин управитель».\n- 秀才 / 书生意气 → «бакалавр» / «книжный пыл» (устоявшиеся передачи).",
+      "links_to": [
+        "char.liu-jiahui",
+        "fac.sects-compendium",
+        "fac.yellow-court-nation",
+        "loc.hanshi-river"
+      ],
+      "referenced_by": [],
+      "card": "wiki/characters/wei-li.md"
+    },
+    {
       "id": "char.wei-xian",
       "type": "character",
       "zh": "魏羡",
@@ -2435,6 +2475,7 @@
         "char.lin-shouyi",
         "char.old-man-yao",
         "char.qing-niangniang",
+        "char.sui-bin",
         "char.xie-lingyue"
       ],
       "card": "wiki/locations/hengshan-mountain.md"
@@ -3254,6 +3295,7 @@
       ],
       "referenced_by": [
         "char.lin-shouyi",
+        "char.sui-bin",
         "loc.hengshan-mountain"
       ],
       "card": "wiki/characters/qing-niangniang.md"
@@ -3726,6 +3768,43 @@
       ],
       "referenced_by": [],
       "card": "wiki/artifacts/twelve-flying-swords.md"
+    },
+    {
+      "id": "fac.ziyang-manor",
+      "type": "faction",
+      "zh": "紫阳府",
+      "zh_aliases": [],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Ziyang Fu",
+      "palladius": "Цзыян фу",
+      "ru": "Двор Пурпурного Солнца",
+      "ru_aliases": [
+        "Пурпурное Солнце"
+      ],
+      "first_chapter": 143,
+      "gender": null,
+      "subtype": "sect",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "секта",
+        "жёлтый-двор",
+        "север"
+      ],
+      "translation_rule": "## Правила перевода\n\n- 紫阳府 → **Двор Пурпурного Солнца** (紫阳 = «пурпурное солнце», 府 = «двор»); коротко в тексте — «Двор» не использовать, при первом упоминании — полное имя.\n- 不 переводить как «Зиянфу» и не смешивать с 长春宫 (Дворец Вечной Весны).\n- 修士紫阳府 → «практик Двора Пурпурного Солнца»; в составе имени: «практик Лю Цзяхуэй из Двора Пурпурного Солнца».",
+      "links_to": [
+        "char.liu-jiahui",
+        "fac.lingyun-school",
+        "fac.sects-compendium",
+        "fac.yellow-court-nation"
+      ],
+      "referenced_by": [
+        "char.liu-jiahui",
+        "fac.fulong-temple"
+      ],
+      "card": "wiki/factions/ziyang-manor.md"
     },
     {
       "id": "concept.currency",
@@ -4377,9 +4456,13 @@
       ],
       "referenced_by": [
         "char.liu-jiahui",
+        "char.tang-jiang",
+        "char.wei-li",
+        "fac.fulong-temple",
         "fac.great-sui-nation",
         "fac.lingyun-school",
         "fac.sects-compendium",
+        "fac.ziyang-manor",
         "loc.hanshi-river",
         "loc.hengshan-mountain"
       ],
@@ -6706,64 +6789,17 @@
       "type": "character",
       "zh": "刘嘉卉",
       "zh_aliases": [
-        "[",
-        "刘",
-        "夫",
-        "人",
-        ",",
-        " ",
-        "嘉",
-        "卉",
-        "]"
+        "刘夫人",
+        "嘉卉"
       ],
       "unindexed_zh_aliases": [],
       "pinyin": "Liu Jiahui",
       "palladius": "Лю Цзяхуэй",
       "ru": "Лю Цзяхуэй",
       "ru_aliases": [
-        "[",
-        "г",
-        "о",
-        "с",
-        "п",
-        "о",
-        "ж",
-        "а",
-        " ",
-        "Л",
-        "ю",
-        ",",
-        " ",
-        "в",
-        "т",
-        "о",
-        "р",
-        "а",
-        "я",
-        " ",
-        "х",
-        "о",
-        "з",
-        "я",
-        "й",
-        "к",
-        "а",
-        ",",
-        " ",
-        "н",
-        "а",
-        "с",
-        "т",
-        "а",
-        "в",
-        "н",
-        "и",
-        "ц",
-        "а",
-        " ",
-        "Л",
-        "ю",
-        "]"
+        "госпожа Лю",
+        "вторая хозяйка",
+        "наставница Лю"
       ],
       "first_chapter": 138,
       "gender": "female",
@@ -6782,9 +6818,14 @@
       "links_to": [
         "fac.lingyun-school",
         "fac.yellow-court-nation",
+        "fac.ziyang-manor",
         "loc.hanshi-river"
       ],
-      "referenced_by": [],
+      "referenced_by": [
+        "char.wei-li",
+        "fac.sects-compendium",
+        "fac.ziyang-manor"
+      ],
       "card": "wiki/characters/liu-jiahui.md"
     },
     {
@@ -9495,6 +9536,10 @@
       ],
       "referenced_by": [
         "char.liu-jiahui",
+        "char.sui-bin",
+        "char.tang-jiang",
+        "char.wei-li",
+        "fac.fulong-temple",
         "fac.lingyun-school",
         "fac.sects-compendium"
       ],
@@ -9798,6 +9843,7 @@
         "char.he-xiaoliang",
         "char.jiang-shangzhen",
         "char.li-er",
+        "char.liu-jiahui",
         "char.lu-baixiang",
         "char.ma-kuxuan",
         "char.master-ruan",
@@ -9836,6 +9882,7 @@
         "char.sui-jingcheng",
         "char.tao-zi",
         "char.wei-jin",
+        "char.wei-li",
         "char.yu-zhenyi",
         "char.zhao-luan",
         "concept.cloud-root-stone",
@@ -9845,6 +9892,7 @@
         "cult.three-teachings",
         "fac.bamboo-leaf-pavilion",
         "fac.fuji-sect",
+        "fac.fulong-temple",
         "fac.golden-gate-school",
         "fac.great-li-empire",
         "fac.jade-token-sect",
@@ -9858,6 +9906,7 @@
         "fac.wind-snow-temple",
         "fac.zhengyang-mountain",
         "fac.zhenwu-mountain",
+        "fac.ziyang-manor",
         "loc.bamboo-scroll-lake",
         "loc.dragon-spring-prefecture",
         "loc.lizhu-grotto-heaven",
@@ -11362,6 +11411,44 @@
       "card": "wiki/concepts/qiyun.md"
     },
     {
+      "id": "char.sui-bin",
+      "type": "character",
+      "zh": "隋彬",
+      "zh_aliases": [
+        "河伯文士",
+        "儒衫军师"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Sui Bin",
+      "palladius": "Суй Бинь",
+      "ru": "Суй Бинь",
+      "ru_aliases": [
+        "речной владыка Суй Бинь"
+      ],
+      "first_chapter": 141,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": false,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "советник",
+        "призрак",
+        "жёлтый-двор",
+        "река"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- 隋彬 → **Суй Бинь**; титул 河伯 → **речной владыка** (устоявшийся контраст: 河婆 → «речная хозяйка», 河神 → «бог реки»).\n- В речи к нему: во дворце — «господин советник», от дочери — «папа» (爹 → «папа»).\n- 儒衫文士 / 军师 → «учитель в робе» / «советник»; главный военный советник дворца (首席军师).\n- 魂 / 阴魂 / 残余魂魄 → **дух**; 真身 → **истинное обличье**.",
+      "links_to": [
+        "char.qing-niangniang",
+        "fac.green-bamboo-pavilion",
+        "loc.hanshi-river",
+        "loc.hengshan-mountain"
+      ],
+      "referenced_by": [],
+      "card": "wiki/characters/sui-bin.md"
+    },
+    {
       "id": "char.sui-jingcheng",
       "type": "character",
       "zh": "隋景澄",
@@ -12006,6 +12093,45 @@
         "idiom.ghost-wall"
       ],
       "card": "wiki/artifacts/barrier-breaking-talisman.md"
+    },
+    {
+      "id": "char.tang-jiang",
+      "type": "character",
+      "zh": "唐疆",
+      "zh_aliases": [
+        "黄老道人",
+        "文豪"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Tang Jiang",
+      "palladius": "Тан Цзян",
+      "ru": "Тан Цзян",
+      "ru_aliases": [
+        "старец-даос Хуан",
+        "великолипкий литератор"
+      ],
+      "first_chapter": 141,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": false,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "разведчик",
+        "литератор",
+        "жёлтый-двор",
+        "великая-ли"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- 唐疆 → **Тан Цзян**; 黄老道人 → **старец-даос Хуан** (псевдоним, не фамилия).\n- 绿竹亭丙等死士 → **смертник третьего разряда Беседки Зелёного Бамбука**; 绿竹亭 → Беседка Зелёного Бамбука (устоявшееся, гл. 131).\n- 文豪 → «литератор» / «великолипкий литератор»; 言官 → «цензор» (шестьдесят... шестого разряда).\n- В обращении к наставнику державы — «эта милость» / «государственный наставник»; сам про себя — по имени.",
+      "links_to": [
+        "char.cui-chan",
+        "fac.green-bamboo-pavilion",
+        "fac.yellow-court-nation",
+        "loc.hanshi-river"
+      ],
+      "referenced_by": [],
+      "card": "wiki/characters/tang-jiang.md"
     },
     {
       "id": "char.tao-zi",
@@ -12693,6 +12819,41 @@
         "loc.longji-mountain"
       ],
       "card": "wiki/factions/wind-snow-temple.md"
+    },
+    {
+      "id": "fac.fulong-temple",
+      "type": "faction",
+      "zh": "伏龙观",
+      "zh_aliases": [],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Fulong Guan",
+      "palladius": "Фулун гуань",
+      "ru": "Храм Усмиряющего Дракона",
+      "ru_aliases": [
+        "Фулун"
+      ],
+      "first_chapter": 142,
+      "gender": null,
+      "subtype": "sect",
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "секта",
+        "даосизм",
+        "жёлтый-двор",
+        "меченосцы"
+      ],
+      "translation_rule": "## Правила перевода\n\n- 伏龙观 → **Храм Усмиряющего Дракона**; 观 = «храм», 宫 = «дворец» — смена суффикса и есть сюжетный вопрос (升宫 = «получить право называться Дворцом»).\n- 不 переводить как «Обсерватория» (观 ≠ созерцание в этом имени).\n- 掌门真人 → «настоятель»; 闭关弟子 → «ученик на затворе» / «затворник-ученик».\n- 丹鼎派外丹一脉 → «ветвь внешних пилюль алхимической школы Даньдин» (устоявшееся: школа Даньдин, внешние пилюли).",
+      "links_to": [
+        "fac.sects-compendium",
+        "fac.yellow-court-nation",
+        "fac.ziyang-manor",
+        "loc.hanshi-river"
+      ],
+      "referenced_by": [],
+      "card": "wiki/factions/fulong-temple.md"
     },
     {
       "id": "char.huan-yun",
@@ -13829,6 +13990,7 @@
         "char.song-he",
         "char.song-zhengchun",
         "char.sword-spirit",
+        "char.tang-jiang",
         "char.wang-yifu",
         "char.wu-yuan",
         "char.xie-lingyue",
@@ -16023,6 +16185,7 @@
       ],
       "referenced_by": [
         "char.liu-jiahui",
+        "fac.ziyang-manor",
         "loc.hanshi-river"
       ],
       "card": "wiki/factions/lingyun-school.md"
