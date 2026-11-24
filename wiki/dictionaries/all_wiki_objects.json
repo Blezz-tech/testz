@@ -3,11 +3,11 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 340,
+  "total_entries": 344,
   "counts_by_type": {
     "artifact": 20,
-    "character": 174,
-    "concept": 19,
+    "character": 177,
+    "concept": 20,
     "cultivation": 12,
     "faction": 43,
     "idiom": 11,
@@ -1749,6 +1749,44 @@
       "card": "wiki/characters/li-second-master.md"
     },
     {
+      "id": "char.second-sage",
+      "type": "character",
+      "zh": "亚圣",
+      "zh_aliases": [],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Ya Sheng",
+      "palladius": "Я Шэн",
+      "ru": "Второй Святой",
+      "ru_aliases": [],
+      "first_chapter": 58,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [
+        "`亚圣` встречается редко (единицы вхождений): 58, 147, 149 и поздние главы. В 58 это «один из южных святых конфуцианства», оставивший в городке знак-оберег.",
+        "Не путать с `压胜` (Яшэн, оберег) — пиньинь совпадает, карточка концепта другая."
+      ],
+      "tags": [
+        "конфуцианство",
+        "святые",
+        "храм-культуры",
+        "мэнцзы"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **`亚圣` → Второй Святой** — титул, не имя; в тексте на «втором святом», «учение Второго Святого».\n- Канонические для него формулы: **`民为贵，君为轻，社稷次之`** — «народ дороже всех, государь ничтожен, жретвище (держава) ниже»; **`人性本善`** — «природа человека изначально добра».\n- Противопоставлен [Святому Словесности](scholarly-sage.md): тот учит `人性本恶` («природа человека зла») и `天地君亲师` — их «спор о третьем и четвёртом» (`三四之争`) потрясает всё Конфуцианство.",
+      "links_to": [
+        "char.cui-chan",
+        "char.li-sheng",
+        "char.qi-jingchun",
+        "char.scholarly-sage",
+        "char.zhisheng-xianshi",
+        "cult.confucianism"
+      ],
+      "referenced_by": [],
+      "card": "wiki/characters/second-sage.md"
+    },
+    {
       "id": "char.zhisheng-xianshi",
       "type": "character",
       "zh": "至圣先师",
@@ -1781,7 +1819,8 @@
         "cult.three-teachings"
       ],
       "referenced_by": [
-        "char.li-sheng"
+        "char.li-sheng",
+        "char.second-sage"
       ],
       "card": "wiki/characters/zhisheng-xianshi.md"
     },
@@ -2419,6 +2458,7 @@
         "char.cui-dongshan",
         "char.cui-minghuang",
         "char.master-ruan",
+        "char.old-flood-dragon",
         "char.old-man-yang",
         "char.ruan-xiu",
         "fac.great-li-empire",
@@ -3439,7 +3479,8 @@
         "loc.eastern-treasured-vial-continent"
       ],
       "referenced_by": [
-        "char.blind-daoist"
+        "char.blind-daoist",
+        "concept.thunder-department-seal-mirror"
       ],
       "card": "wiki/cultivation/thunder-magic.md"
     },
@@ -4300,6 +4341,7 @@
       ],
       "referenced_by": [
         "char.chen-pingan",
+        "char.golden-clad-girl",
         "idiom.one-sword-credo"
       ],
       "card": "wiki/characters/sword-spirit.md"
@@ -4456,6 +4498,7 @@
       ],
       "referenced_by": [
         "char.liu-jiahui",
+        "char.old-flood-dragon",
         "char.tang-jiang",
         "char.wei-li",
         "fac.fulong-temple",
@@ -4848,6 +4891,86 @@
       ],
       "referenced_by": [],
       "card": "wiki/concepts/dharma-ending-land.md"
+    },
+    {
+      "id": "concept.thunder-department-seal-mirror",
+      "type": "concept",
+      "zh": "雷部司印镜",
+      "zh_aliases": [
+        "古镜",
+        "这柄雷部司印镜"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Lei Bu Si Yin Jing",
+      "palladius": "Лэй Бу Сы Инь Цзин",
+      "ru": "Зеркало-печать Управления Громов",
+      "ru_aliases": [
+        "зеркало-печать",
+        "древнее зеркало"
+      ],
+      "first_chapter": 146,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "артефакт",
+        "гром",
+        "зеркало",
+        "цуй-чань",
+        "оберег"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **`雷部司印镜` → зеркало-печать Управления Громов** (при втором упоминании — «зеркало-печать»).\n- `雷部` — Управление (ветвь) грома в небесной иерархии; `天君` того же отдела в 135 — «Небесный владыка громового отдела» — единая система.\n- Не путать с `天下迎春`-печатью и с простыми «зеркалами».",
+      "links_to": [
+        "char.chen-pingan",
+        "char.cui-chan",
+        "cult.three-teachings",
+        "cultivation.thunder-magic"
+      ],
+      "referenced_by": [],
+      "card": "wiki/concepts/thunder-department-seal-mirror.md"
+    },
+    {
+      "id": "char.golden-clad-girl",
+      "type": "character",
+      "zh": "金衣女童",
+      "zh_aliases": [
+        "金衣童女"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Jin Yi Nü Tong",
+      "palladius": "Цзинь И Нюй Тун",
+      "ru": "Золотая девочка",
+      "ru_aliases": [
+        "девочка в золотой одежде"
+      ],
+      "first_chapter": 149,
+      "gender": "female",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [
+        "`金衣女童` — крошечная (в палец) девочка в золотой одежде; в 158/164 появляется снова, контекст — древний меч-спутник.",
+        "В 149 её путают с летящим мечом: она прячется под софоровый меч и в него же ныряет."
+      ],
+      "tags": [
+        "дух-меча",
+        "меч-софора",
+        "безымянный",
+        "дебют-149"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Передача:** **золотая девочка** / «крошечная девочка в золотом»; не давать имени, пока сюжет его не назовёт.\n- **Речь:** пока не говорит; выражается жестами, мимикой, слезами.\n- Дразнить её — «девочка в золотой одежде», в шутку — «золотое дитя»; избегать «фейри» и «нимфы».",
+      "links_to": [
+        "char.chen-pingan",
+        "char.cui-chan",
+        "char.ma-kuxuan",
+        "char.sword-spirit"
+      ],
+      "referenced_by": [],
+      "card": "wiki/characters/golden-clad-girl.md"
     },
     {
       "id": "cult.realms-overview",
@@ -5599,8 +5722,10 @@
         "char.liu-shiliu",
         "char.ma-zhan",
         "char.mao-xiaodong",
+        "char.old-flood-dragon",
         "char.qi-jingchun",
         "char.scholarly-sage",
+        "char.second-sage",
         "char.zhao-yao",
         "char.zhisheng-xianshi",
         "char.zhong-kui",
@@ -7074,6 +7199,7 @@
         "char.chen-pingan.fights",
         "char.chen-pingan.relationships",
         "char.cui-minghuang",
+        "char.golden-clad-girl",
         "char.ma-lanhua",
         "char.mountain-moving-ape",
         "char.ning-yao",
@@ -9536,6 +9662,7 @@
       ],
       "referenced_by": [
         "char.liu-jiahui",
+        "char.old-flood-dragon",
         "char.sui-bin",
         "char.tang-jiang",
         "char.wei-li",
@@ -9948,6 +10075,7 @@
         "cult.confucianism"
       ],
       "referenced_by": [
+        "char.second-sage",
         "char.zhisheng-xianshi"
       ],
       "card": "wiki/characters/li-sheng.md"
@@ -10002,6 +10130,7 @@
         "char.liu-shiliu",
         "char.mao-xiaodong",
         "char.qi-jingchun",
+        "char.second-sage",
         "char.zhisheng-xianshi",
         "char.zuo-you",
         "cult.confucianism",
@@ -11134,6 +11263,50 @@
         "char.old-deaf-sword-immortal"
       ],
       "card": "wiki/characters/old-blind-man.md"
+    },
+    {
+      "id": "char.old-flood-dragon",
+      "type": "character",
+      "zh": "老蛟",
+      "zh_aliases": [
+        "古稀老人",
+        "黄庭国前户部侍郎"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Lao Jiao",
+      "palladius": "Лао Цзяо",
+      "ru": "Старый цзяо",
+      "ru_aliases": [
+        "старый дракон",
+        "старик в семьдесят лет"
+      ],
+      "first_chapter": 145,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [
+        "`老蛟` — безымянный старый водяной дракон; в тексте его маска — «старик лет семидесяти, бывший помощник министра податей Жёлтого Двора».",
+        "В 142 `老蛟砚` — грубый шлифованный камень с крошечным драконом: это ДРУГОЙ объект, карточка не эта."
+      ],
+      "tags": [
+        "драконы",
+        "жо",
+        "хуантинго",
+        "небеса-вне-небес",
+        "мудрец"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **`老蛟` → старый цзяо** (в скобках при первом появлении — «водяной дракон»); в спокойном повествовании — «старый цзяо», «дракон цзяо».\n- **Речь:** степенная, усталая, с долей раскаяния — на возвышении он осознаёт: «драконы и цзяо несли Дао вместо Неба, а пали от честолюбия сами».\n- На публике — всегда маска старика-книжника; раскрывается лишь «под протекцией» великолиского двора.",
+      "links_to": [
+        "char.cui-minghuang",
+        "cult.confucianism",
+        "fac.yellow-court-nation",
+        "loc.hanshi-river",
+        "loc.piyun-mountain"
+      ],
+      "referenced_by": [],
+      "card": "wiki/characters/old-flood-dragon.md"
     },
     {
       "id": "cult.hundred-schools",
@@ -12277,6 +12450,7 @@
         "char.zhisheng-xianshi",
         "concept.qiyun",
         "concept.reading-seed",
+        "concept.thunder-department-seal-mirror",
         "concept.yasheng",
         "cult.buddhism",
         "cult.confucianism",
@@ -13737,6 +13911,7 @@
         "char.ning-yao.relationships",
         "char.old-man-yang",
         "char.scholarly-sage",
+        "char.second-sage",
         "char.shi-chunjia",
         "char.song-yuzhang",
         "char.zhao-yao",
@@ -13910,6 +14085,7 @@
         "char.lin-shouyi",
         "char.liu-baqiao",
         "char.ma-zhan",
+        "char.old-flood-dragon",
         "char.wu-yuan",
         "fac.great-sui-nation",
         "fac.lake-view-academy",
@@ -13980,6 +14156,7 @@
         "char.cui-dongshan",
         "char.cui-minghuang",
         "char.fu-yu",
+        "char.golden-clad-girl",
         "char.great-li-empress",
         "char.lady-chu",
         "char.liu-laocheng",
@@ -13987,6 +14164,7 @@
         "char.old-man-yang",
         "char.qi-jingchun",
         "char.scholarly-sage",
+        "char.second-sage",
         "char.song-he",
         "char.song-zhengchun",
         "char.sword-spirit",
@@ -13996,6 +14174,7 @@
         "char.xie-lingyue",
         "char.yu-lu",
         "char.zuo-you",
+        "concept.thunder-department-seal-mirror",
         "cult.confucianism",
         "cult.hundred-schools",
         "fac.astronomical-bureau",
@@ -15305,6 +15484,7 @@
         "char.fan-junmao",
         "char.fu-nanhua",
         "char.gao-xuan",
+        "char.golden-clad-girl",
         "char.great-li-empress",
         "char.gu-can",
         "char.gu-shi",
@@ -15389,6 +15569,7 @@
         "concept.qiyun",
         "concept.reading-seed",
         "concept.snake-gall-stones",
+        "concept.thunder-department-seal-mirror",
         "cult.confucianism",
         "cult.daoism",
         "cult.martial-arts",
