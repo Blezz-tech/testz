@@ -5,9 +5,9 @@
 > Файл генерируется автоматически командой `python3 scripts/wiki_tool.py index`.
 > Не редактируйте его вручную: после правки карточек просто перегенерируйте указатель.
 
-**Всего статей: 335.**
+**Всего статей: 340.**
 
-## Персонажи (171)
+## Персонажи (174)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -22,6 +22,7 @@
 | [Второй господин рода Ли](characters/li-second-master.md) | `李家二公子 / 二公子 / 李家二公子` | 105 |
 | [Высший Святой — Первый Учитель](characters/zhisheng-xianshi.md) | `至圣先师` | 11 |
 | [Вэй Бо](characters/wei-bo.md) | `魏檗 / 魏山神 / 老魏 / 棋墩山土地` | 98 |
+| [Вэй Ли](characters/wei-li.md) | `魏礼 / 魏郡守 / 魏姓郡守` | 139 |
 | [Вэй Сянь](characters/wei-xian.md) | `魏羡 / 南苑国开国皇帝` | 315 |
 | [Вэй Цзинь](characters/wei-jin.md) | `魏晋 / 剑仙魏晋` | 88 |
 | [Гао Сюань](characters/gao-xuan.md) | `高煊 / 高公子` | 159 |
@@ -67,7 +68,7 @@
 | [Лю Бацяо](characters/liu-baqiao.md) | `刘灞桥 / 灞桥` | 45 |
 | [Лю Лаочэн](characters/liu-laocheng.md) | `刘老成 / 蜂尾渡刘老成` | 416 |
 | [Лю Сяньян](characters/liu-xianyang.md) | `刘羡阳 / 羡阳` | 1 |
-| [Лю Цзяхуэй](characters/liu-jiahui.md) | `刘嘉卉 / [ / 刘 / 夫` | 138 |
+| [Лю Цзяхуэй](characters/liu-jiahui.md) | `刘嘉卉 / 刘夫人 / 嘉卉` | 138 |
 | [Лю Чжимао](characters/liu-zhimao.md) | `刘志茂 / 截江真君 / 刘真君 / 说书先生` | 17 |
 | [Лю Чичэн](characters/liu-chicheng.md) | `柳赤诚` | 226 |
 | [Лю Шилю](characters/liu-shiliu.md) | `刘十六` | 708 |
@@ -100,6 +101,7 @@
 | [Старый Глухой](characters/old-deaf-sword-immortal.md) | `老聋儿` | 598 |
 | [Старый Слепец](characters/old-blind-man.md) | `老瞎子` | 123 |
 | [Су Цзя](characters/su-jia.md) | `苏稼 / 苏仙子 / 苏稼苏仙子` | 65 |
+| [Суй Бинь](characters/sui-bin.md) | `隋彬 / 河伯文士 / 儒衫军师` | 141 |
 | [Суй Цзинчэн](characters/sui-jingcheng.md) | `隋景澄 / 斗笠女子` | 520 |
 | [Суй Юбянь](characters/sui-youbian.md) | `隋右边 / 女子剑仙隋右边` | 315 |
 | [Сун Хэ](characters/song-he.md) | `宋和 / 大骊太子` | 117 |
@@ -111,6 +113,7 @@
 | [Сунь Цзяшу](characters/sun-jiashu.md) | `孙嘉树 / 孙公子` | 251 |
 | [Сюй Хуньжань](characters/xu-hunran.md) | `徐浑然 / 大骊第一剑师` | 89 |
 | [Сюй Юанься](characters/xu-yuanxia.md) | `徐远霞 / 徐大侠` | 216 |
+| [Тан Цзян](characters/tang-jiang.md) | `唐疆 / 黄老道人 / 文豪` | 141 |
 | [Тао Цзы](characters/tao-zi.md) | `陶紫 / 紫衣` | 48 |
 | [У Шуанцзян](characters/wu-shuangjiang.md) | `吴霜降` | 682 |
 | [У Юань](characters/wu-yuan.md) | `吴鸢 / 小吴大人 / 督造官` | 75 |
@@ -200,7 +203,7 @@
 | [Чистые мастера боевых искусств](cultivation/martial-arts.md) | `纯粹武夫 / 武夫 / 武道 / 一口真气` | 13 |
 | [Школа Военных (Бинцзя)](cultivation/militarians.md) | `兵家 / 兵家祖庭 / 兵家修士 / 杀力` | 11 |
 
-## Фракции, империи и секты (41)
+## Фракции, империи и секты (43)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -215,6 +218,7 @@
 | [Гора Чжэньу](factions/zhenwu-mountain.md) | `真武山 / 真武` | 88 |
 | [Гора Яолин](factions/mount-yaoling.md) | `摇铃山 / 丰城楚家` | 94 |
 | [Гоцзыцзянь](factions/guozijian.md) | `国子监 / 国子监` | 131 |
+| [Двор Пурпурного Солнца](factions/ziyang-manor.md) | `紫阳府` | 143 |
 | [Жёлтый Двор](factions/yellow-court-nation.md) | `黄庭国` | 133 |
 | [Императорский двор (Нынешняя династия)](factions/imperial-court.md) | `朝廷 / 本朝 / 言官 / 清流` | 1 |
 | [Кланы и великие роды](factions/clans-compendium.md) | `世家 / 家族` | 5 |
@@ -237,6 +241,7 @@
 | [Секта Фуцзи](factions/fuji-sect.md) | `扶乩宗` | 282 |
 | [Секта Юйгуй](factions/jade-token-sect.md) | `玉圭宗` | 262 |
 | [Храм Ветра и Снега](factions/wind-snow-temple.md) | `风雪庙` | 75 |
+| [Храм Усмиряющего Дракона](factions/fulong-temple.md) | `伏龙观` | 142 |
 | [Царство Наньюань](factions/southern-garden-nation.md) | `南苑国` | 305 |
 | [Царство Цветных Одежд](factions/azure-phoenix-nation.md) | `彩衣国` | 214 |
 | [Царство Южного Ручья](factions/southern-stream-nation.md) | `南涧国` | 16 |
