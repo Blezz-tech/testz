@@ -5,9 +5,9 @@
 > Файл генерируется автоматически командой `python3 scripts/wiki_tool.py index`.
 > Не редактируйте его вручную: после правки карточек просто перегенерируйте указатель.
 
-**Всего статей: 340.**
+**Всего статей: 344.**
 
-## Персонажи (174)
+## Персонажи (177)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -20,6 +20,7 @@
 | [Ван Ифу](characters/wang-yifu.md) | `王毅甫 / 卢氏王朝头号猛将 / 上柱国` | 89 |
 | [Водяной бог Вышитого Цветка](characters/xuhua-river-god.md) | `绣花江水神 / 江水正神 / 江神` | 126 |
 | [Второй господин рода Ли](characters/li-second-master.md) | `李家二公子 / 二公子 / 李家二公子` | 105 |
+| [Второй Святой](characters/second-sage.md) | `亚圣` | 58 |
 | [Высший Святой — Первый Учитель](characters/zhisheng-xianshi.md) | `至圣先师` | 11 |
 | [Вэй Бо](characters/wei-bo.md) | `魏檗 / 魏山神 / 老魏 / 棋墩山土地` | 98 |
 | [Вэй Ли](characters/wei-li.md) | `魏礼 / 魏郡守 / 魏姓郡守` | 139 |
@@ -45,6 +46,7 @@
 | [Е Юнь-юнь](characters/ye-yunyun.md) | `叶芸芸 / 黄衣芸` | 754 |
 | [Жуань Сю](characters/ruan-xiu.md) | `阮秀 / 阮姑娘 / 秀秀` | 24 |
 | [Жуань Цюн](characters/master-ruan.md) | `阮邛 / 阮师傅 / 姓阮的外乡老铁匠 / 阮铁匠` | 13 |
+| [Золотая девочка](characters/golden-clad-girl.md) | `金衣女童 / 金衣童女` | 149 |
 | [Инь Чэнь](characters/yin-chen.md) | `殷沉 / 殷老哥 / 元婴老剑修` | 653 |
 | [Иньский бог Гу Тао](characters/yin-god.md) | `阴神 / 顾韬 / 阴神顾韬` | 56 |
 | [Истинный человек Огненный Дракон](characters/fire-dragon-zhiren.md) | `火龙真人` | 219 |
@@ -100,6 +102,7 @@
 | [Старик Яо](characters/old-man-yao.md) | `姚老头 / 老姚 / 姚师傅` | 1 |
 | [Старый Глухой](characters/old-deaf-sword-immortal.md) | `老聋儿` | 598 |
 | [Старый Слепец](characters/old-blind-man.md) | `老瞎子` | 123 |
+| [Старый цзяо](characters/old-flood-dragon.md) | `老蛟 / 古稀老人 / 黄庭国前户部侍郎` | 145 |
 | [Су Цзя](characters/su-jia.md) | `苏稼 / 苏仙子 / 苏稼苏仙子` | 65 |
 | [Суй Бинь](characters/sui-bin.md) | `隋彬 / 河伯文士 / 儒衫军师` | 141 |
 | [Суй Цзинчэн](characters/sui-jingcheng.md) | `隋景澄 / 斗笠女子` | 520 |
@@ -315,7 +318,7 @@
 | [Фуяо](locations/fuyao-continent.md) | `扶摇洲` | 259 |
 | [Южный Посо](locations/southern-posha-continent.md) | `南婆娑洲` | 184 |
 
-## Концепты и устройство мира (19)
+## Концепты и устройство мира (20)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -325,6 +328,7 @@
 | [Денежная система и монеты бессмертных](concepts/currency.md) | `神仙钱 / 谷雨钱 / 小暑钱 / 雪花钱` | 12 |
 | [Заклятия вскрытия гор](concepts/mountain-opening-talismans.md) | `开山篇 / 撮壤成山诀 / 撵土造山 / 太山符` | 97 |
 | [Земля конца Дхармы](concepts/dharma-ending-land.md) | `末法之地 / 末法` | 17 |
+| [Зеркало-печать Управления Громов](concepts/thunder-department-seal-mirror.md) | `雷部司印镜 / 古镜 / 这柄雷部司印镜` | 146 |
 | [Казённые гончарные печи](concepts/imperial-kilns.md) | `官窑 / 奉诏监烧献陵祭器 / 督造大人 / 监造大人` | 1 |
 | [Камни «змеиной желчи»](concepts/snake-gall-stones.md) | `蛇胆石 / 溪中石子 / 石子` | 28 |
 | [Камни облачного корня](concepts/cloud-root-stone.md) | `云根石 / 云根` | 9 |
