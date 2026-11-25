@@ -5,9 +5,9 @@
 > Файл генерируется автоматически командой `python3 scripts/wiki_tool.py index`.
 > Не редактируйте его вручную: после правки карточек просто перегенерируйте указатель.
 
-**Всего статей: 347.**
+**Всего статей: 351.**
 
-## Персонажи (179)
+## Персонажи (181)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -57,6 +57,7 @@
 | [Ли Баочжэнь](characters/li-baozhen.md) | `李宝箴 / 宝箴` | 127 |
 | [Ли Лю](characters/li-liu.md) | `李柳 / 柳儿` | 73 |
 | [Ли Сишэн](characters/li-xisheng.md) | `李希圣 / 希圣` | 127 |
+| [Ли Чанъин](characters/li-changying.md) | `李长英` | 165 |
 | [Ли Хуай](characters/li-huai.md) | `李槐 / 槐儿` | 67 |
 | [Ли Хун](characters/li-hun.md) | `李虹` | 127 |
 | [Ли Цзинь](characters/li-jin.md) | `李锦 / 年轻店主 / 年轻公子哥 / 书铺主人` | 106 |
@@ -130,6 +131,7 @@
 | [Хуань Юнь](characters/huan-yun.md) | `桓云` | 542 |
 | [Хэ Сяолян](characters/he-xiaoliang.md) | `贺小凉 / 贺仙子 / 小凉` | 40 |
 | [Цай Цзиньцзянь](characters/cai-jinjian.md) | `蔡金简 / 蔡仙子 / 金简` | 9 |
+| [Цай Цзиншэнь](characters/cai-jingshen.md) | `蔡京神` | 167 |
 | [Цао Гэнсинь](characters/cao-gengxin.md) | `曹耕心 / 曹茂` | 191 |
 | [Цао Си](characters/cao-xi.md) | `曹曦 / 曹曦娘娘 / 曹氏` | 24 |
 | [Цао Фу](characters/cao-fu.md) | `曹赋` | 520 |
