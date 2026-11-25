@@ -3,15 +3,15 @@
   "language": "ru",
   "description": "Канонический переводной словарь всех карточек, включённых в wiki/_index.json. Полный контекст, хронология и спойлерные границы см. в карточке по пути из поля card.",
   "source_index": "wiki/_index.json",
-  "total_entries": 344,
+  "total_entries": 347,
   "counts_by_type": {
-    "artifact": 20,
-    "character": 177,
+    "artifact": 21,
+    "character": 178,
     "concept": 20,
     "cultivation": 12,
     "faction": 43,
     "idiom": 11,
-    "location": 59,
+    "location": 60,
     "media": 2
   },
   "entries": [
@@ -1039,6 +1039,55 @@
       "card": "wiki/locations/lotus-root-blessed-land.md"
     },
     {
+      "id": "char.sui-mountain-god",
+      "type": "character",
+      "zh": "穗山山神",
+      "zh_aliases": [
+        "穗山正神",
+        "穗山大神",
+        "金甲神人",
+        "金甲男人",
+        "金甲神人"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Sui Shan Shan Shen",
+      "palladius": "Суйшань шаньшэнь",
+      "ru": "Бог Суйшаня",
+      "ru_aliases": [
+        "истинный бог Суйшаня",
+        "золотой доспешник",
+        "мужчина в золотых доспехах"
+      ],
+      "first_chapter": 151,
+      "gender": "male",
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": true,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "божество",
+        "гора",
+        "пять-пиков",
+        "срединный-материк",
+        "старый-сюцай"
+      ],
+      "translation_rule": "## Правила перевода и речи\n\n- **Основная передача:** **Бог Суйшаня**; титул `穗山正神` — **истинный бог Суйшаня**. Склоняется: *Бога Суйшаня, Богу Суйшаня*.\n- **Не путать** с мелкими `山神` («горный бог») и `土地` («дух земли»): он — из высшего ряда, `五岳正神`.\n- **Внешность:** золотые доспехи, исписанные бесчисленными талисманами (древние знаки пахнут пустыней и древностью, свежие — святостью); лицо скрыто подшлемником, голос глухой и тяжёлый.\n- **Речь:** рубленая, бранливая: «закрой рот!», «чёрта с два!», «помойка!»; в гневе называет всё «своим» (*«моя гора»*, *«я-то»*). В вежливости — сухой официоз. Прямой, не любит вывертов.\n- **Обращения:** к старому сюцаю — на «ты», с раздражением и старой привычкой; к Чэнь Пинъаню — без обращения, осмотр.",
+      "links_to": [
+        "char.chen-pingan",
+        "char.scholarly-sage",
+        "concept.mountain-and-river-gods",
+        "cult.confucianism",
+        "cult.daoism",
+        "loc.heavenly-world",
+        "loc.sui-mountain"
+      ],
+      "referenced_by": [
+        "loc.sui-mountain"
+      ],
+      "card": "wiki/characters/sui-mountain-god.md"
+    },
+    {
       "id": "concept.mountain-and-river-gods",
       "type": "concept",
       "zh": "山水神祇",
@@ -1089,12 +1138,14 @@
         "art.barrier-breaking-talisman",
         "char.black-snake-and-white-python",
         "char.scarlet-censer-boy",
+        "char.sui-mountain-god",
         "char.wei-bo",
         "char.xuhua-river-god",
         "concept.mountain-opening-talismans",
         "idiom.ghost-wall",
         "loc.chundan-river",
-        "loc.hanshi-river"
+        "loc.hanshi-river",
+        "loc.sui-mountain"
       ],
       "card": "wiki/concepts/mountain-and-river-gods.md"
     },
@@ -1820,7 +1871,8 @@
       ],
       "referenced_by": [
         "char.li-sheng",
-        "char.second-sage"
+        "char.second-sage",
+        "loc.sui-mountain"
       ],
       "card": "wiki/characters/zhisheng-xianshi.md"
     },
@@ -2465,9 +2517,60 @@
         "fac.lake-view-academy",
         "loc.lizhu-grotto-heaven",
         "loc.luopo-mountain",
-        "loc.mountains-near-town"
+        "loc.mountains-near-town",
+        "loc.sui-mountain"
       ],
       "card": "wiki/locations/piyun-mountain.md"
+    },
+    {
+      "id": "loc.sui-mountain",
+      "type": "location",
+      "zh": "穗山",
+      "zh_aliases": [
+        "穗山之巅",
+        "东岳"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Sui Shan",
+      "palladius": "Суйшань",
+      "ru": "Гора Суйшань",
+      "ru_aliases": [
+        "Суйшань",
+        "гора Суйшань"
+      ],
+      "first_chapter": 151,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "гора",
+        "пять-пиков",
+        "божество",
+        "срединный-материк",
+        "меч-приписка"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **Принцип:** транскрипция + родовое слово — **Гора Суйшань**; `穗` — «колос», гору не переводить.\n- **Предлоги:** *на горе Суйшань, с вершины Суйшаня, к Суйшаню*.\n- **Не путать** с [Горой Пиюнь](piyun-mountain.md) и прочими горами близ городка — это материковая святыня.\n- **Сноска:** нужна при первом появлении (глава 151): объяснить, что это восточный из пяти великих пиков Срединного материка.",
+      "links_to": [
+        "char.chen-pingan",
+        "char.li-sheng",
+        "char.scholarly-sage",
+        "char.sui-mountain-god",
+        "char.zhisheng-xianshi",
+        "char.zuo-you",
+        "concept.mountain-and-river-gods",
+        "cult.daoism",
+        "cult.militarians",
+        "cult.sword-cultivator",
+        "loc.middle-earth-continent",
+        "loc.piyun-mountain"
+      ],
+      "referenced_by": [
+        "char.sui-mountain-god"
+      ],
+      "card": "wiki/locations/sui-mountain.md"
     },
     {
       "id": "loc.hengshan-mountain",
@@ -3581,6 +3684,7 @@
       ],
       "referenced_by": [
         "art.chen-pingans-swords",
+        "art.fangcun-storage",
         "art.jade-hairpin-and-seals",
         "char.cai-jinjian",
         "char.chen-pingan",
@@ -3743,6 +3847,7 @@
         "char.lu-chen",
         "char.lu-yan",
         "char.old-blind-man",
+        "char.sui-mountain-god",
         "char.yu-xuan",
         "char.zhang-shanfeng",
         "char.zhao-luan",
@@ -3764,6 +3869,7 @@
         "loc.dragon-tiger-mountain",
         "loc.heavenly-world",
         "loc.majestic-world",
+        "loc.sui-mountain",
         "loc.white-jade-capital"
       ],
       "card": "wiki/cultivation/daoism.md"
@@ -5726,6 +5832,7 @@
         "char.qi-jingchun",
         "char.scholarly-sage",
         "char.second-sage",
+        "char.sui-mountain-god",
         "char.zhao-yao",
         "char.zhisheng-xianshi",
         "char.zhong-kui",
@@ -5784,6 +5891,7 @@
       "referenced_by": [
         "char.lin-jiangxian",
         "char.lu-chen",
+        "char.sui-mountain-god",
         "char.wu-shuangjiang",
         "char.zhong-kui",
         "cult.daoism",
@@ -7736,6 +7844,7 @@
         "loc.ascension-city",
         "loc.longji-mountain",
         "loc.northern-juilu-continent",
+        "loc.sui-mountain",
         "loc.sword-qi-great-wall"
       ],
       "card": "wiki/cultivation/sword-cultivator.md"
@@ -9487,6 +9596,7 @@
       ],
       "referenced_by": [
         "art.barrier-breaking-talisman",
+        "art.fangcun-storage",
         "char.cai-jinjian",
         "char.chen-pingan.cultivation",
         "char.cui-chan",
@@ -9628,7 +9738,9 @@
         "loc.heavens-beyond",
         "loc.majestic-world"
       ],
-      "referenced_by": [],
+      "referenced_by": [
+        "art.fangcun-storage"
+      ],
       "card": "wiki/concepts/river-of-time.md"
     },
     {
@@ -10076,7 +10188,8 @@
       ],
       "referenced_by": [
         "char.second-sage",
-        "char.zhisheng-xianshi"
+        "char.zhisheng-xianshi",
+        "loc.sui-mountain"
       ],
       "card": "wiki/characters/li-sheng.md"
     },
@@ -10131,12 +10244,14 @@
         "char.mao-xiaodong",
         "char.qi-jingchun",
         "char.second-sage",
+        "char.sui-mountain-god",
         "char.zhisheng-xianshi",
         "char.zuo-you",
         "cult.confucianism",
         "idiom.hengqu-four-sentences",
         "idiom.yan-sheng-yu-kuan",
-        "loc.middle-earth-continent"
+        "loc.middle-earth-continent",
+        "loc.sui-mountain"
       ],
       "card": "wiki/characters/scholarly-sage.md"
     },
@@ -10961,6 +11076,7 @@
         "loc.eastern-treasured-vial-continent",
         "loc.fuyao-continent",
         "loc.majestic-world",
+        "loc.sui-mountain",
         "loc.white-emperor-city"
       ],
       "card": "wiki/locations/middle-earth-continent.md"
@@ -13579,6 +13695,7 @@
         "cult.confucianism",
         "cult.realms-overview",
         "cult.sword-cultivator",
+        "loc.sui-mountain",
         "loc.sword-qi-great-wall"
       ],
       "card": "wiki/characters/zuo-you.md"
@@ -14147,6 +14264,7 @@
         "loc.savage-world"
       ],
       "referenced_by": [
+        "art.fangcun-storage",
         "art.jade-hairpin-and-seals",
         "char.aliang",
         "char.cao-ji",
@@ -15444,6 +15562,7 @@
       "referenced_by": [
         "art.chen-pingans-swords",
         "art.chuyi-and-shiwu",
+        "art.fangcun-storage",
         "art.heavenly-truths-swords",
         "art.jade-hairpin-and-seals",
         "art.shuduan-cliff",
@@ -15533,6 +15652,7 @@
         "char.song-yushao",
         "char.song-yuzhang",
         "char.sui-jingcheng",
+        "char.sui-mountain-god",
         "char.sun-jiashu",
         "char.sword-spirit",
         "char.wei-bo",
@@ -15608,6 +15728,7 @@
         "loc.qilong-alley",
         "loc.red-candle-town",
         "loc.small-town",
+        "loc.sui-mountain",
         "loc.sword-qi-great-wall",
         "media.novel"
       ],
@@ -16239,6 +16360,47 @@
       "card": "wiki/characters/shi-chunjia.md"
     },
     {
+      "id": "art.fangcun-storage",
+      "type": "artifact",
+      "zh": "方寸物",
+      "zh_aliases": [
+        "方寸宝物",
+        "方寸物里头",
+        "那个方寸物"
+      ],
+      "unindexed_zh_aliases": [],
+      "pinyin": "Fangcun Wu",
+      "palladius": "Фанцунь у",
+      "ru": "Шкатулка-тайник",
+      "ru_aliases": [
+        "тайник",
+        "шкатулка"
+      ],
+      "first_chapter": 152,
+      "gender": null,
+      "subtype": null,
+      "parent": null,
+      "needs_endnote": null,
+      "scan_skip": false,
+      "scan_hints": [],
+      "tags": [
+        "хранение",
+        "пространство",
+        "предмет",
+        "практики-ци"
+      ],
+      "translation_rule": "## Правила перевода\n\n- **Канон:** **шкатулка-тайник**; во втором и последующих упоминаниях — просто **тайник**.\n- **Не тянуть** одноразовый вариант главы 134 — «драгоценная безделушка „цунь\"» (там пояснительная ремарка, а не имя предмета).\n- **Не путать** с `洞天` (грот-небеса), `袖里`-приёмами и простыми сумками: тайник — именно *предмет-вместилище*.\n- **Сноска** при первом появлении (глава 152): объяснить устройство и требования к пределу.",
+      "links_to": [
+        "char.chen-pingan",
+        "char.cui-chan",
+        "con.river-of-time",
+        "cult.qi-refinement",
+        "loc.lizhu-grotto-heaven"
+      ],
+      "referenced_by": [],
+      "card": "wiki/artifacts/fangcun-storage.md"
+    },
+    {
       "id": "fac.bamboo-branch-school",
       "type": "faction",
       "zh": "竹枝派",
@@ -16332,7 +16494,8 @@
         "fac.great-li-empire",
         "fac.zhenwu-mountain",
         "loc.efuguan-pass",
-        "loc.golden-armor-continent"
+        "loc.golden-armor-continent",
+        "loc.sui-mountain"
       ],
       "card": "wiki/cultivation/militarians.md"
     },
