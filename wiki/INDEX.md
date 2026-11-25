@@ -7,7 +7,7 @@
 
 **Всего статей: 347.**
 
-## Персонажи (178)
+## Персонажи (179)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -38,6 +38,7 @@
 | [Дин Ин](characters/ding-ying.md) | `丁婴 / 丁老魔` | 310 |
 | [Ду Мао](characters/du-mao.md) | `杜懋 / 杜懋老祖` | 367 |
 | [Дун Буде](characters/dong-bude.md) | `董不得` | 575 |
+| [Дун Цзин](characters/dong-jing.md) | `董静` | 162 |
 | [Дун Ху](characters/dong-hu.md) | `董湖 / 董侍郎 / 礼部右侍郎` | 83 |
 | [Дун Хуафу](characters/dong-huafu.md) | `董画符 / 董炭 / 炭儿` | 575 |
 | [Дун Шуйцзин](characters/dong-shuijing.md) | `董水井 / 水井` | 72 |
@@ -255,7 +256,7 @@
 | [Школа Озёрных Гор](factions/lake-mountain-school.md) | `湖山派` | 308 |
 | [Школа Хуанлян](factions/yellow-millet-school.md) | `黄粱派` | 926 |
 
-## Миры, континенты и локации (60)
+## Миры, континенты и локации (61)
 
 | Статья | Китайский | Глава |
 | :--- | :--- | :---: |
@@ -266,6 +267,7 @@
 | [Гора Даосюань](locations/daoxuan-mountain.md) | `倒悬山` | 16 |
 | [Гора Дракона и Тигра](locations/dragon-tiger-mountain.md) | `龙虎山` | 96 |
 | [Гора Драконьего Хребта](locations/longji-mountain.md) | `龙脊山 / 甲六山 / 斩龙台` | 75 |
+| [Гора Железного Дерева](locations/tieshu-mountain.md) | `铁树山 / 铁花山门` | 162 |
 | [Гора Лопо](locations/luopo-mountain.md) | `落魄山 / 落落魄山` | 80 |
 | [Гора Пиюнь](locations/piyun-mountain.md) | `披云山 / 披云峰` | 66 |
 | [Гора Суйшань](locations/sui-mountain.md) | `穗山 / 穗山之巅 / 东岳` | 151 |
